@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x80d2c6ebd5c88c6ab9c037dbcd871bef32ddb699",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x52bb8f775c3078ff2b99a0cd8099015576220b3f0474375a1de6730b813f9348",
+  "CONTRACT_ADDRESS": "0xeb3ca8c3258e484933c4320abb37d6c287983f75",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x9d89e52119e600491425ad8f5d87fad30b7c5ec94c785618b5895637ad62ca18",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",

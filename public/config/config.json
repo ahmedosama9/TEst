@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x457ad9Cb7c9b31721bD0baFC18656422f1ebb4df",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x457ad9Cb7c9b31721bD0baFC18656422f1ebb4df",
+  "CONTRACT_ADDRESS": "0x5DA330071136be68B4F6DD35Ec2E8Ba3D4a8b71F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x5DA330071136be68B4F6DD35Ec2E8Ba3D4a8b71F",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Eth",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.15,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mekatester",
   "SHOW_BACKGROUND": true
 }

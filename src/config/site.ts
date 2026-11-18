@@ -40,15 +40,19 @@ export const site = {
     documentsApproved: false,
   },
 
-  /** Service area, shown on the site and used in structured data (areaServed). */
+  /**
+   * Service area. Münster is the base; North Rhine-Westphalia (NRW) is the market.
+   * Remote services (strategy, management, community) are offered throughout NRW.
+   * On-site shoots are offered within `onSiteRadiusKm` driving distance of the base city,
+   * always subject to individual arrangement — the site never promises visits everywhere in NRW.
+   * Texts that mention the area are in messages/<locale> and use {city} and {km}.
+   */
   serviceArea: {
     baseCity: "Münster",
-    region: "Nordrhein-Westfalen",
+    state: "Nordrhein-Westfalen",
+    stateShort: "NRW",
     country: "DE",
-    /** On-site shoots: places covered by default. Edit freely. */
-    onSiteAreas: ["Münster", "Münsterland"],
-    /** Remote services (strategy, management, community) are offered here. */
-    remote: "Deutschland",
+    onSiteRadiusKm: 150,
   },
 
   /** Official profiles (sameAs in structured data). Add only real, owned profiles. */

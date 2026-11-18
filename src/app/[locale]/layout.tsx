@@ -41,9 +41,6 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
         {cfg.script === "arabic" ? (
           <link rel="preload" href="/fonts/noto-sans-arabic.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
         ) : null}
-        <noscript>
-          <style>{`[data-reveal]{opacity:1!important;transform:none!important}`}</style>
-        </noscript>
       </head>
       <body className="flex min-h-dvh flex-col">{children}</body>
     </html>

@@ -1,7 +1,7 @@
-import Image from "next/image";
+import { getImageProps } from "next/image";
 import { Camera, Check, Clapperboard, Images, Layers, MapPin, Target, TrendingUp, Users, Zap } from "lucide-react";
 import { PostCard } from "@/components/blog/post-card";
-import { ContactForm } from "@/components/forms/contact-form";
+import { LazyContactForm } from "@/components/forms/lazy-contact-form";
 import { IndustryCards, PackageCards, PortfolioGrid, ProcessSteps, ServiceCards } from "@/components/sections/cards";
 import { ArrowLink, CheckList, FaqList } from "@/components/sections/shared";
 import { JsonLd } from "@/components/seo/json-ld";
@@ -9,12 +9,12 @@ import { ButtonLink } from "@/components/ui/button";
 import { Reveal } from "@/components/ui/reveal";
 import { Eyebrow, Section, SectionHeading } from "@/components/ui/section";
 import { site } from "@/config/site";
-import { localeConfig, type Locale } from "@/i18n/config";
+import type { Locale } from "@/i18n/config";
 import type { Messages } from "@/i18n/messages";
 import { getPosts, toSummary } from "@/lib/blog";
 import { href } from "@/lib/routes";
 import { organizationJsonLd, websiteJsonLd } from "@/lib/seo";
-import { fmt, joinList } from "@/lib/utils";
+import { fmt } from "@/lib/utils";
 
 const onsiteIcons = [MapPin, Clapperboard, Images, Users];
 const valueIcons = [Zap, Layers, TrendingUp, Target];
@@ -26,7 +26,7 @@ function HeroTitle({ lines, highlight }: { lines: readonly string[]; highlight: 
       {lines.map((line, n) => {
         const i = highlight ? line.indexOf(highlight) : -1;
         return (
-          <span key={n} className="block">
+          <span key={n} className="lg:block">
             {i < 0 ? (
               line
             ) : (
@@ -46,8 +46,17 @@ function HeroTitle({ lines, highlight }: { lines: readonly string[]; highlight: 
 export function HomePage({ locale, messages }: { locale: Locale; messages: Messages }) {
   const h = messages.home;
   const c = messages.common;
-  const areas = joinList(site.serviceArea.onSiteAreas, localeConfig[locale].intlLocale);
+  const area = { city: site.serviceArea.baseCity, km: site.serviceArea.onSiteRadiusKm };
   const posts = getPosts(locale).slice(0, 3).map(toSummary);
+  // Art direction: square illustration for phones/tablets, wide artwork for desktop.
+  const mobileImg = getImageProps({ src: "/brand/hero-mobile.jpg", alt: "", width: 1536, height: 1536, sizes: "(min-width: 640px) 544px, 100vw" }).props;
+  const desktopImg = getImageProps({ src: "/brand/hero.png", alt: "", width: 1672, height: 941, quality: 85, sizes: "(min-width: 1280px) 1310px, 1195px" }).props;
+  const { srcSet: mobileSrcSet, sizes: mobileSizes, alt: _alt, loading: _loading, fetchPriority: _fp, decoding: _dec, className: _cn, style: _style, ...mobileRest } = mobileImg;
+  void [_alt, _loading, _fp, _dec, _cn, _style];
+  const art = {
+    mobile: { srcSet: mobileSrcSet, sizes: mobileSizes, rest: mobileRest },
+    desktop: { srcSet: desktopImg.srcSet, sizes: desktopImg.sizes },
+  };
   const g = messages.pages.faq.groups;
   const faq = [g[0].items[0], g[0].items[2], g[1].items[1], g[2].items[0], g[3].items[1]];
 
@@ -57,48 +66,56 @@ export function HomePage({ locale, messages }: { locale: Locale; messages: Messa
 
       {/* 1. Hero */}
       <section className="on-dark relative isolate overflow-hidden bg-[#000a22] text-soft">
+        {/* Only the artwork that matches the viewport is fetched early (and it is the LCP element). */}
+        <link rel="preload" as="image" media="(max-width: 1023.98px)" imageSrcSet={art.mobile.srcSet} imageSizes={art.mobile.sizes} fetchPriority="high" />
+        <link rel="preload" as="image" media="(min-width: 1024px)" imageSrcSet={art.desktop.srcSet} imageSizes={art.desktop.sizes} fetchPriority="high" />
         <div className="relative lg:h-[42rem] xl:h-[46rem]">
-          {/* Text sits on the empty left side of the artwork in every language (the artwork is never mirrored). */}
-          <div className="container-page relative z-10 flex h-full items-center pt-14 pb-2 sm:pt-20 lg:py-0">
+          {/* Text sits on the empty left side of the wide artwork in every language (artwork is never mirrored). */}
+          <div className="container-page relative z-10 flex h-full items-center pt-7 sm:pt-12 lg:py-0">
             <div className="animate-rise w-full max-w-xl lg:mr-auto lg:ml-0 lg:max-w-[27rem] xl:max-w-[40rem]">
-              <Eyebrow dark>{h.hero.eyebrow}</Eyebrow>
-              <h1 className="text-[2.1rem] text-white min-[400px]:text-[2.4rem] sm:text-6xl lg:text-[2.85rem] xl:text-[4rem]">
+              <p className="mb-2 font-display text-[0.6875rem] font-bold tracking-[0.1em] text-balance text-aqua uppercase min-[400px]:text-xs sm:mb-3 sm:text-sm sm:tracking-[0.14em]">{h.hero.eyebrow}</p>
+              <h1 className="text-[clamp(1.9rem,8.4vw,3.5rem)] text-white lg:text-[2.85rem] xl:text-[4rem]">
                 <HeroTitle lines={h.hero.titleLines} highlight={h.hero.titleHighlight} />
               </h1>
-              <p className="mt-6 max-w-md text-lg text-white/90 sm:text-xl">{h.hero.subtitle}</p>
-              <div className="mt-8 flex flex-wrap gap-3">
-                <ButtonLink href={href("contact", locale)} size="lg">
+              <p className="mt-4 max-w-md text-base text-white/90 sm:mt-6 sm:text-xl">{h.hero.subtitle}</p>
+              <div className="mt-6 grid gap-3 sm:mt-8 sm:flex sm:flex-wrap">
+                <ButtonLink href={href("contact", locale)} size="lg" className="w-full sm:w-auto">
                   {h.hero.ctaPrimary}
                   <span className="rtl-flip" aria-hidden="true">→</span>
                 </ButtonLink>
-                <ButtonLink href={href("services", locale)} size="lg" variant="outlineDark">{h.hero.ctaSecondary}</ButtonLink>
+                <ButtonLink href={href("services", locale)} size="lg" variant="outlineDark" className="w-full sm:w-auto">{h.hero.ctaSecondary}</ButtonLink>
               </div>
             </div>
           </div>
-          {/* Approved hero artwork (public/brand/hero.png). Desktop: anchored right at full height.
-              Mobile: shown below the text, positioned so the phone stays fully visible. */}
-          <div className="hero-art relative mt-4 h-[22rem] w-full sm:h-[30rem] lg:absolute lg:inset-y-0 lg:right-0 lg:left-auto lg:mt-0 lg:aspect-[1672/941] lg:h-full lg:w-auto">
-            <Image
-              src="/brand/hero.png"
-              alt={h.hero.imageAlt}
-              fill
-              fetchPriority="high"
-              loading="eager"
-              quality={85}
-              sizes="(min-width: 1280px) 1310px, (min-width: 1024px) 1195px, (min-width: 640px) 855px, 600px"
-              className="object-cover object-[92%_50%] lg:object-right"
-            />
+          {/* Approved artwork. Below 1024px: the square mobile illustration at its natural aspect ratio,
+              uncropped. From 1024px: the wide artwork anchored right at full height. One <picture>,
+              so each device downloads exactly one of the two files. */}
+          <div className="hero-art relative mx-auto mt-3 aspect-square w-full max-w-[34rem] lg:absolute lg:inset-y-0 lg:right-0 lg:left-auto lg:mx-0 lg:mt-0 lg:aspect-[1672/941] lg:h-full lg:w-auto lg:max-w-none">
+            <picture>
+              <source media="(min-width: 1024px)" srcSet={art.desktop.srcSet} sizes={art.desktop.sizes} width={1672} height={941} />
+              {/* <img> props come from next/image getImageProps (art direction) */}
+              <img
+                {...art.mobile.rest}
+                alt={h.hero.imageAlt}
+                sizes={art.mobile.sizes}
+                srcSet={art.mobile.srcSet}
+                fetchPriority="high"
+                loading="eager"
+                decoding="async"
+                className="absolute inset-0 size-full object-contain lg:object-cover lg:object-right"
+              />
+            </picture>
           </div>
         </div>
         {/* Brand attributes from the identity sheet */}
-        <div className="relative z-10 border-t border-white/10 bg-navy">
-          <ul className="container-page grid grid-cols-2 gap-y-6 py-6 sm:grid-cols-4 sm:divide-x sm:divide-white/15 rtl:sm:divide-x-reverse">
+        <div className="relative z-10 border-white/10 lg:border-t lg:bg-navy">
+          <ul className="container-page grid grid-cols-2 gap-x-3 gap-y-4 pt-1 pb-7 sm:grid-cols-4 sm:py-6 lg:divide-x lg:divide-white/15 rtl:lg:divide-x-reverse">
             {h.hero.values.map((v, i) => {
               const Icon = valueIcons[i % valueIcons.length];
               return (
-                <li key={v} className="flex flex-col items-center gap-2 px-3 text-center">
-                  <Icon className="size-7 text-aqua" strokeWidth={1.75} aria-hidden="true" />
-                  <span className="font-display text-base font-bold text-white sm:text-lg">{v}</span>
+                <li key={v} className="flex flex-col items-center gap-1.5 rounded-xl bg-white/5 px-2 py-3 text-center sm:gap-2 sm:bg-transparent sm:px-3 sm:py-0">
+                  <Icon className="size-6 shrink-0 text-aqua sm:size-7" strokeWidth={1.75} aria-hidden="true" />
+                  <span className="max-w-full font-display text-[0.8125rem] leading-tight font-bold text-white min-[360px]:text-sm sm:text-lg">{v}</span>
                 </li>
               );
             })}
@@ -146,7 +163,7 @@ export function HomePage({ locale, messages }: { locale: Locale; messages: Messa
             <div className="mt-6"><CheckList items={h.onsite.points} dark /></div>
             <div className="mt-8 rounded-2xl border border-white/10 bg-white/5 p-5">
               <h3 className="flex items-center gap-2 text-base text-white"><MapPin className="size-4.5 text-aqua" aria-hidden="true" />{h.onsite.areaTitle}</h3>
-              <p className="mt-2 text-[0.95rem]">{fmt(h.onsite.areaText, { areas, remote: site.serviceArea.remote })}</p>
+              <p className="mt-2 text-[0.95rem]">{fmt(h.onsite.areaText, area)}</p>
             </div>
           </div>
           <Reveal>
@@ -247,7 +264,7 @@ export function HomePage({ locale, messages }: { locale: Locale; messages: Messa
           <div className="on-light rounded-3xl bg-white p-6 text-body shadow-2xl sm:p-9">
             <h3 className="text-2xl">{c.form.title}</h3>
             <p className="mt-2 mb-6">{c.form.intro}</p>
-            <ContactForm t={c.form} locale={locale} privacyHref={href("privacy", locale)} fallbackEmail={site.contact.email} />
+            <LazyContactForm t={c.form} locale={locale} privacyHref={href("privacy", locale)} fallbackEmail={site.contact.email} fallbackHref={href("contact", locale)} fallbackLabel={c.cta.contactUs} />
           </div>
         </div>
       </Section>

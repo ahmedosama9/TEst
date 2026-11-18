@@ -18,8 +18,9 @@
   --color-body: #3d4763;
   --color-soft: #b8c2de; /* body text on navy */
 
-  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
-  --font-display: var(--font-montserrat), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  /* The "SMK … Ext" families only cover the glyphs ğ Ğ İ ş Ş (declared further down). */
+  --font-sans: "SMK Inter Ext", var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: "SMK Montserrat Ext", var(--font-montserrat), "SMK Inter Ext", var(--font-inter), ui-sans-serif, system-ui, sans-serif;
 
   --shadow-card: 0 1px 2px rgb(11 16 38 / 0.04), 0 12px 32px -12px rgb(11 16 38 / 0.12);
   --shadow-glow: 0 0 0 1px rgb(0 212 179 / 0.25), 0 24px 60px -20px rgb(0 212 179 / 0.45);
@@ -37,20 +38,47 @@
   }
 }
 
-/* Arabic: self-hosted variable font (one file, preloaded on Arabic pages only, see layout.tsx).
+/* Turkish/Kurdish supplement: five glyphs per font (≈3 kB each) instead of the ≈230 kB
+   "latin-ext" files. Built by scripts/derive-font-supplement.py. */
+@font-face {
+  font-family: "SMK Inter Ext";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/fonts/inter-tr-ku.woff2") format("woff2");
+  unicode-range: U+011E-011F, U+0130, U+015E-015F;
+}
+@font-face {
+  font-family: "SMK Montserrat Ext";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/fonts/montserrat-tr-ku.woff2") format("woff2");
+  unicode-range: U+011E-011F, U+0130, U+015E-015F;
+}
+@font-face {
+  font-family: "SMK Montserrat Ext";
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/fonts/montserrat-italic-tr-ku.woff2") format("woff2");
+  unicode-range: U+011E-011F, U+0130, U+015E-015F;
+}
+/* Arabic: self-hosted variable font (one file, preloaded on Arabic pages only, see layout.tsx),
+   subset to the Arabic block and weights 400–700 by scripts/derive-font-supplement.py (≈37 kB).
    unicode-range keeps Latin fragments (brand, e-mail, package names) in Inter/Montserrat. */
 @font-face {
   font-family: "Noto Sans Arabic";
   font-style: normal;
-  font-weight: 100 900;
+  font-weight: 400 700;
   /* The file is preloaded, so it is ready for first paint; "optional" avoids a late re-layout. */
   font-display: optional;
   src: url("/fonts/noto-sans-arabic.woff2") format("woff2");
-  unicode-range: U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0897-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC,U+102E0-102FB,U+10E60-10E7E,U+10EC2-10EC4,U+10EFC-10EFF,U+1EE00-1EE03,U+1EE05-1EE1F,U+1EE21-1EE22,U+1EE24,U+1EE27,U+1EE29-1EE32,U+1EE34-1EE37,U+1EE39,U+1EE3B,U+1EE42,U+1EE47,U+1EE49,U+1EE4B,U+1EE4D-1EE4F,U+1EE51-1EE52,U+1EE54,U+1EE57,U+1EE59,U+1EE5B,U+1EE5D,U+1EE5F,U+1EE61-1EE62,U+1EE64,U+1EE67-1EE6A,U+1EE6C-1EE72,U+1EE74-1EE77,U+1EE79-1EE7C,U+1EE7E,U+1EE80-1EE89,U+1EE8B-1EE9B,U+1EEA1-1EEA3,U+1EEA5-1EEA9,U+1EEAB-1EEBB,U+1EEF0-1EEF1;
+  unicode-range: U+0600-06FF, U+200C-200F, U+2010-2011;
 }
 /* No letter-spacing in Arabic script; the larger line height is set in the base layer. */
 :lang(ar) {
-  --font-sans: "Noto Sans Arabic", var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Noto Sans Arabic", "SMK Inter Ext", var(--font-inter), ui-sans-serif, system-ui, sans-serif;
   --font-display: "Noto Sans Arabic", var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
   letter-spacing: 0 !important;
 }
@@ -85,6 +113,7 @@
   }
   .on-dark :focus-visible, .on-dark:focus-visible { outline-color: var(--color-aqua); }
   .on-dark .on-light :focus-visible { outline-color: var(--color-violet); }
+  a, button, summary, label { touch-action: manipulation; }
   ::selection { background: var(--color-aqua); color: var(--color-navy); }
   /* Latin fragments (brand, e-mail, URLs) inside RTL text keep their own direction. */
   [dir="rtl"] .ltr-isolate { direction: ltr; unicode-bidi: isolate; }
@@ -108,11 +137,30 @@
     radial-gradient(60rem 30rem at 85% -10%, rgb(0 212 179 / 0.22), transparent 60%),
     radial-gradient(40rem 26rem at 0% 110%, rgb(123 97 255 / 0.2), transparent 60%);
 }
-/* Hero artwork: fade its outer edges into the section colour (top edge on mobile, left edge on desktop). */
+/* Hero artwork: fade its outer edges into the section colour so it never reads as a card.
+   Phones: soft top and bottom edge (the phone itself stays fully opaque). Tablets: also the sides.
+   Desktop: only the left edge of the wide artwork. */
 @utility hero-art {
-  mask-image: linear-gradient(to bottom, transparent 0, #000 22%);
+  mask-image: linear-gradient(to bottom, transparent 0, #000 7%, #000 96.5%, transparent 100%);
+  @media (width >= 40rem) {
+    mask-image:
+      linear-gradient(to bottom, transparent 0, #000 7%, #000 96.5%, transparent 100%),
+      linear-gradient(to right, transparent 0, #000 12%, #000 88%, transparent 100%);
+    mask-composite: intersect;
+  }
   @media (width >= 64rem) {
     mask-image: linear-gradient(to right, transparent 0, #000 14%);
+    mask-composite: add;
+  }
+}
+/* Scroll-reveal without JavaScript (progressive enhancement). */
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) {
+    .reveal {
+      animation: rise linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 40%;
+    }
   }
 }
 /* Directional icons (arrows, chevrons) flip in RTL. */

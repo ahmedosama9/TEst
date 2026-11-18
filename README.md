@@ -4,7 +4,7 @@ Multilingual agency website with blog for **Social Media Komplett** (Münster), 
 `https://socialmediakomplett.de`.
 
 - **Stack:** Next.js 16 (App Router, Turbopack), React 19, TypeScript (strict), Tailwind CSS 4,
-  next-intl, Motion, React Hook Form + Zod, MDX, Lucide.
+  next-intl, React Hook Form + Zod, MDX, Lucide. (Motion was removed: reveals are CSS-only now.)
 - **Languages:** German (default), English, Arabic (RTL), Kurdish Kurmanji, Turkish — every page
   is a statically generated, individually indexable URL under `/de`, `/en`, `/ar`, `/ku`, `/tr`.
 - **No database, no CMS, no tracking.** Content lives in JSON and MDX files in this repository.
@@ -27,6 +27,7 @@ npm run dev                  # http://localhost:3000 → redirects to /de
 | `npm run check:i18n` | All languages have the same message structure as German; blog coverage table |
 | `npm run audit:site` | Crawls a running build: status, canonicals, reciprocal hreflang, JSON-LD, links, 404 |
 | `npm run audit:browser` | Real-browser checks: RTL, overflow at 3 viewports × 5 languages, switcher, blog, forms |
+| `npm run audit:hero` | Homepage hero in 5 languages × 8 widths: artwork, spacing, overlap, downloads |
 
 `audit:site` needs a build made with `NEXT_PUBLIC_ALLOW_INDEXING=true` that is running on port 3000.
 `audit:browser` and `scripts/generate-brand-assets.mjs` need Playwright
@@ -47,7 +48,10 @@ src/lib/seo.ts                           Metadata + JSON-LD builders
 src/app/[locale]/[[...path]]/page.tsx    The one route that renders every page
 src/components/pages/*                   Page templates
 public/brand/source/logo-original.png    Approved logo (master, never edited)
-public/brand/hero.png                    Approved homepage hero artwork
+public/brand/hero.png                    Approved hero artwork, desktop (≥ 1024 px)
+public/brand/hero-mobile.jpg             Approved hero artwork, phones and tablets
+public/fonts                             Self-hosted font subsets (scripts/derive-font-supplement.py)
+.claude/skills                           Design/performance review skills (Anthropic frontend-design, Vercel)
 public/brand/*, src/app/icon.png         Variants derived by scripts/derive-brand-variants.py
 public/og                                Social sharing images (scripts/generate-brand-assets.mjs)
 docs/brand/brand-reference.jpg           The brand sheet the design follows
@@ -71,7 +75,7 @@ and there is no browser-language sniffing.
 | I want to… | Edit |
 | --- | --- |
 | Set address, owner, VAT ID, e-mail, phone, social profiles | `src/config/site.ts` (+ env vars for e-mail/phone) |
-| Change the service area | `src/config/site.ts` → `serviceArea` |
+| Change the service area | `src/config/site.ts` → `serviceArea` (base city, on-site radius in km); wording in `messages/<locale>` |
 | Publish prices and package contents | `src/config/packages.ts` |
 | Change any text | `messages/<locale>/*.json` |
 | Add or edit an article | `content/blog/…` — see `docs/CONTENT_WORKFLOW.md` |
@@ -105,15 +109,32 @@ and there is no browser-language sniffing.
 | TypeScript strict, ESLint | no errors |
 | Unit tests | 12 / 12 passed |
 | Static pages generated | 217 (195 indexable URLs in the sitemap, 39 per language) |
-| Site audit | passed: canonicals, reciprocal hreflang, unique titles/descriptions, JSON-LD, 210 internal links, 404, redirects |
+| Site audit | passed: canonicals, reciprocal hreflang, unique titles/descriptions, JSON-LD, internal links, 404, redirects |
 | Browser audit | passed: 135 page renders (3 viewports × 5 languages) without overflow or console errors; RTL, switcher, blog, forms |
+| Hero audit | passed: 5 languages × 8 widths (320–1440 px); one artwork download per device, no crop, no overlap |
 | axe (WCAG 2.2 AA rules) | 0 violations on 18 pages × 2 viewports |
-| Lighthouse mobile — home (de / tr / ar) | Performance 89 / 80 / 82 (simulated slow-4G LCP 3.6–4.9 s; observed LCP ≈ 0.2 s locally), Accessibility 100, Best Practices 100, SEO 100 |
-| Lighthouse mobile — article | Performance 97–100, LCP 0.9 s, CLS 0 |
-| Lighthouse desktop — home | Performance 98–99, LCP ≈ 1.0 s |
 
-The mobile home score dropped from 95–100 when the hero artwork became the largest element on
-screen: the image itself is small (≈ 19 kB AVIF on phones), but under simulated throttling it
-shares bandwidth with fonts and scripts. Lighthouse numbers are lab values from a local server and vary between runs; measure again on the
-live domain. Automated accessibility tools find only part of all issues — a manual screen-reader
-pass (VoiceOver/NVDA, including Arabic) is still recommended.
+Lighthouse, home page (several runs each):
+
+| Language | Mobile, simulated throttling (default) | Mobile, applied throttling | Desktop |
+| --- | --- | --- | --- |
+| German | 92–93 | 97 (LCP 1.9 s) | 100 |
+| English | 91–93 | – | – |
+| Turkish | 91–95 | – | – |
+| Kurdish | 92 | – | – |
+| Arabic | 88–89 | 93 (LCP 2.0 s) | 100 |
+
+Accessibility, Best Practices and SEO are 100. CLS is 0 everywhere.
+
+How to read the mobile numbers: the largest element on phones is the hero artwork (≈ 25 kB AVIF).
+Lighthouse's default "simulated" mode estimates LCP from a model that also counts the JavaScript
+arriving at the same time, and reports 3.2–3.6 s. With throttling actually applied to the
+connection and CPU, the measured LCP is 1.9–2.0 s. Both are lab values from a local server —
+measure again on the live domain (PageSpeed Insights) and watch real-user Core Web Vitals.
+
+What keeps the home page light: the hero artwork is art-directed with `<picture>` (phones never
+download the desktop file and vice versa) and preloaded per breakpoint; scroll reveals are CSS-only;
+the enquiry form (React Hook Form + Zod) loads when the visitor scrolls towards it; Turkish and
+Kurdish use a 9 kB glyph supplement instead of 230 kB of "latin-ext" fonts; Arabic uses a 37 kB
+subset of Noto Sans Arabic. Automated accessibility tools find only part of all issues — a manual
+screen-reader pass (VoiceOver/NVDA, including Arabic) is still recommended.

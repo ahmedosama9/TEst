@@ -58,6 +58,12 @@ export function buildMetadata(input: BuildMetadataInput): Metadata {
 
 /* ---------- JSON-LD builders (only verified facts from src/config/site.ts) ---------- */
 
+/** Münster as the base, North Rhine-Westphalia as the market (no offices are claimed anywhere else). */
+const areaServed = [
+  { "@type": "City", name: site.serviceArea.baseCity },
+  { "@type": "AdministrativeArea", name: site.serviceArea.state },
+];
+
 const ORG_ID = `${site.url}/#organization`;
 const WEBSITE_ID = `${site.url}/#website`;
 
@@ -89,10 +95,7 @@ export function organizationJsonLd(locale: Locale, description: string) {
           },
         }
       : {}),
-    areaServed: [
-      ...site.serviceArea.onSiteAreas.map((name) => ({ "@type": "Place", name })),
-      { "@type": "Country", name: "Germany" },
-    ],
+    areaServed,
     knowsAbout: ["Social Media Management", "Content Creation", "Reels", "Video Production", "Social Media Strategy", "Community Management"],
     ...(socialProfiles.length ? { sameAs: socialProfiles } : {}),
   };
@@ -131,10 +134,7 @@ export function serviceJsonLd(input: { locale: Locale; name: string; description
     url: abs(input.path),
     inLanguage: localeConfig[input.locale].htmlLang,
     provider: { "@id": ORG_ID },
-    areaServed: [
-      ...site.serviceArea.onSiteAreas.map((name) => ({ "@type": "Place", name })),
-      { "@type": "Country", name: "Germany" },
-    ],
+    areaServed,
   };
 }
 

@@ -17,6 +17,7 @@ export function Logo({ className, tone = "light", eager = false }: { className?:
     <Image
       src={tone === "light" ? "/brand/logo-on-dark.png" : "/brand/logo.png"}
       alt="Social Media Komplett"
+      translate="no"
       width={LOGO.width}
       height={LOGO.height}
       sizes="(min-width: 640px) 190px, 160px"

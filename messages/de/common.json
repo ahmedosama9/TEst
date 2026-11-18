@@ -1,6 +1,6 @@
 {
   "meta": {
-    "siteDescription": "Social Media Komplett ist eine Social-Media-Agentur aus Münster: Content-Erstellung, Reels-Produktion vor Ort und laufende Betreuung deiner Kanäle – alles aus einer Hand."
+    "siteDescription": "Professionelle Social-Media-Betreuung für Unternehmen in Münster, NRW und Umgebung – inklusive Content-Erstellung, Reels und Videoproduktion vor Ort."
   },
   "nav": {
     "home": "Startseite",
@@ -68,13 +68,13 @@
     "missingDetail": "Angabe folgt"
   },
   "footer": {
-    "description": "Social-Media-Agentur aus Münster für Content-Erstellung, Reels-Produktion und laufende Kanalbetreuung.",
+    "description": "Social-Media-Agentur für Münster & NRW: Content-Erstellung, Reels-Produktion und laufende Kanalbetreuung.",
     "servicesTitle": "Leistungen",
     "industriesTitle": "Branchen",
     "companyTitle": "Agentur",
     "legalTitle": "Rechtliches",
     "contactTitle": "Kontakt",
-    "areaText": "Vor-Ort-Produktion in {areas} · Betreuung in ganz {remote}",
+    "areaText": "Betreuung in ganz NRW · Vor-Ort-Produktion bis rund {km} km um {city}, nach Absprache",
     "rights": "Alle Rechte vorbehalten.",
     "imprint": "Impressum",
     "privacy": "Datenschutz",

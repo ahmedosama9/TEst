@@ -60,11 +60,11 @@
   "about": {
     "meta": {
       "title": "About Us: Social Media Agency Based in Münster",
-      "description": "Social Media Komplett is a social media agency based in Münster for local businesses. Find out what we stand for, how we work and where we operate."
+      "description": "Social Media Komplett is a social media agency based in Münster for businesses across NRW. Find out what we stand for, how we work and where we operate."
     },
     "eyebrow": "About us",
     "title": "Social Media Komplett: the agency for local businesses",
-    "intro": "Social Media Komplett is a social media agency based in Münster. We create content, produce Reels and manage the channels of businesses that win customers over in person – in restaurants and cafés, salons, studios and local retail.",
+    "intro": "Social Media Komplett is a social media agency based in Münster, serving businesses in Münster and across North Rhine-Westphalia (NRW). We create content, produce Reels and manage the channels of businesses that win customers over in person – in restaurants and cafés, salons, studios and local retail.",
     "storyTitle": "Why we exist",
     "story": [
       "Many good businesses are barely visible online. Not because they have nothing to show, but because there is no time in day-to-day life: for ideas, for filming, for editing and for publishing regularly.",
@@ -106,7 +106,7 @@
       },
       "area": {
         "label": "Service area",
-        "value": "On-site production in {areas}; channel management throughout {remote}"
+        "value": "Management for businesses throughout NRW; on-site production within roughly {km} km of {city}, by arrangement"
       },
       "platforms": {
         "label": "Platforms",
@@ -363,7 +363,7 @@
           },
           {
             "q": "Do you come to my business to shoot?",
-            "a": "Yes. Photos and videos are created right on your premises. We currently offer on-site shoots in Münster and the Münsterland; other locations are possible by arrangement."
+            "a": "Yes. Photos and videos are created right on your premises. We offer on-site shoots around Münster and in large parts of NRW, depending on the driving distance and individual arrangement."
           },
           {
             "q": "How much time do I need to set aside myself?",
@@ -418,7 +418,7 @@
   "contact": {
     "meta": {
       "title": "Contact: Request a Free Initial Consultation",
-      "description": "Get in touch with Social Media Komplett in Münster and request your free, no-obligation initial consultation on social media management."
+      "description": "Get in touch with Social Media Komplett, your social media agency for Münster & NRW, and request your free, no-obligation initial consultation."
     },
     "eyebrow": "Contact",
     "title": "Request a free initial consultation",
@@ -442,7 +442,7 @@
     "emailLabel": "Email",
     "phoneLabel": "Phone",
     "areaLabel": "Service area",
-    "areaText": "On-site shoots in {areas}, channel management throughout {remote}."
+    "areaText": "Management throughout NRW. On-site shoots within roughly {km} km of {city}, by arrangement."
   },
   "blog": {
     "meta": {

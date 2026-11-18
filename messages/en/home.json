@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Social Media Agency Münster – Content, Reels & Management",
-    "description": "Social Media Komplett in Münster creates professional content, produces Reels on site and manages your social media channels. Book a free initial consultation."
+    "title": "Social Media Agency Münster & NRW – Content, Reels & Management",
+    "description": "Social Media Komplett serves businesses in Münster and across NRW: content creation, on-site Reels production and social media management. Get in touch."
   },
   "hero": {
-    "eyebrow": "Social media agency based in Münster",
+    "eyebrow": "Social media agency for Münster & NRW",
     "titleLines": [
       "Your partner for",
       "successful",
@@ -66,7 +66,7 @@
       "Editing, subtitles and cover images included"
     ],
     "areaTitle": "Service area",
-    "areaText": "We currently offer on-site shoots in {areas}. Shoots outside this area are possible by arrangement. Strategy, planning and channel management work regardless of location, throughout {remote}.",
+    "areaText": "We offer on-site shoots within roughly {km} km driving distance of {city}, depending on the distance and individual arrangement. Strategy, planning and ongoing management work regardless of location for businesses throughout NRW.",
     "visualAlt": "Illustration: shooting schedule for an on-site shoot with several takes",
     "visual": {
       "title": "Shoot day",

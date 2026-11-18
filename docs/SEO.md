@@ -62,9 +62,13 @@ Google index — there is no separate opt-in, and `nosnippet`/`max-snippet` limi
 
 ## Local SEO
 
-- Münster and the service area are stated in titles/descriptions where natural, on home, about,
-  process, contact, footer and in `areaServed`.
-- No city landing pages and no office claims. The service area comes from `site.serviceArea`.
+- Positioning: **Münster is the base, North Rhine-Westphalia (NRW) is the market.** Titles and
+  descriptions of the home page, the services, industries, about and contact pages name both where
+  it reads naturally; `areaServed` in the structured data is Münster (City) + Nordrhein-Westfalen.
+- Remote services are described as available throughout NRW. On-site shoots are described as
+  available within roughly `serviceArea.onSiteRadiusKm` (150) km driving distance of Münster and
+  always "by arrangement" — the site never promises visits to every place in NRW.
+- No city landing pages and no office claims outside Münster.
 - To do by the owner (cannot be done in code): create and verify a Google Business Profile as a
   service-area business with the same name, phone and URL; keep name/address/phone identical everywhere.
 

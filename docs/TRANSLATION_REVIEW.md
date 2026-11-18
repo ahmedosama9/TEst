@@ -37,7 +37,10 @@ needed; after launch a change needs a redirect.
 - [ ] Legal pages: translation is for convenience; German is binding. Re-check after the German legal texts are final
 - [ ] The four brand attributes under the hero (`home.hero.values`: Schnell, Komplett, Wachstumsstark, Messbar) and the
       hero copy: three headline lines (`home.hero.titleLines`; `titleHighlight` must be an exact part of one line),
-      `subtitle`, `ctaPrimary`, `ctaSecondary`, `imageAlt`. The Arabic headline was shortened to fit three lines
+      `subtitle`, `ctaPrimary`, `ctaSecondary`, `imageAlt`
+- [ ] Regional positioning (Münster & NRW): hero label, home/about/contact/service descriptions, footer and the
+      service-area sentences with `{city}` and `{km}`. NRW is written as "NRW", spelled out once per language
+      (North Rhine-Westphalia / Kuzey Ren-Vestfalya / شمال الراين-وستفاليا / Nordrhein-Westfalen)
 - [ ] The inline error-page strings in `src/app/[locale]/error.tsx` and the taglines in `scripts/generate-brand-assets.mjs` (share images)
 
 ## English (`en`, British English)

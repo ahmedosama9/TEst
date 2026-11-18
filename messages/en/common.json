@@ -1,6 +1,6 @@
 {
   "meta": {
-    "siteDescription": "Social Media Komplett is a social media agency based in Münster: content creation, on-site Reels production and ongoing management of your channels – all from a single source."
+    "siteDescription": "Professional social media management for businesses in Münster, NRW and the surrounding area – including content creation, Reels and on-site video production."
   },
   "nav": {
     "home": "Home",
@@ -68,13 +68,13 @@
     "missingDetail": "Details to follow"
   },
   "footer": {
-    "description": "Social media agency based in Münster for content creation, Reels production and ongoing channel management.",
+    "description": "Social media agency for Münster & NRW: content creation, Reels production and ongoing channel management.",
     "servicesTitle": "Services",
     "industriesTitle": "Industries",
     "companyTitle": "Agency",
     "legalTitle": "Legal",
     "contactTitle": "Contact",
-    "areaText": "On-site production in {areas} · Channel management throughout {remote}",
+    "areaText": "Management throughout NRW · On-site production up to roughly {km} km from {city}, by arrangement",
     "rights": "All rights reserved.",
     "imprint": "Legal Notice",
     "privacy": "Privacy Policy",

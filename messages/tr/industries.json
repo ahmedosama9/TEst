@@ -2,7 +2,7 @@
   "overview": {
     "meta": {
       "title": "Sektörler: Gastronomi, Salon ve Fitness için Sosyal Medya",
-      "description": "Social Media Komplett yerel işletmelere hizmet verir: Münster ve çevresinde gastronomi, güzellik ve kuaför salonları, fitness stüdyoları ve diğer işletmeler."
+      "description": "Social Media Komplett, Münster ve NRW'deki yerel işletmelere hizmet verir: gastronomi, güzellik ve kuaför salonları, fitness stüdyoları ve diğer işletmeler."
     },
     "eyebrow": "Sektörler",
     "title": "Yerel işletmeler için sosyal medya",
@@ -29,9 +29,18 @@
       "title": "Restoranlar, kafeler ve barlar için sosyal medya",
       "intro": "Misafirler nerede yemek yiyeceklerine çoğu zaman ellerinde telefonla karar verir. Güncel görsellere, mutfaktan Reels içeriklerine ve çalışma saatleri ile rezervasyona dair net bilgilere sahip bakımlı bir profil, bu kararı vermelerine yardımcı olur.",
       "challenges": [
-        { "title": "İşletmede zaman yok", "text": "Alışveriş, servis ve personel planlaması arasında düzenli paylaşıma neredeyse hiç yer kalmaz." },
-        { "title": "Yemek fotoğrafta çabucak sönük görünür", "text": "Bir yemeğin iştah açıp açmayacağını ışık, açı ve hareket belirler." },
-        { "title": "Güncel bilgiler gözden kaçar", "text": "Öğle menüsü, etkinlikler ve değişen çalışma saatleri misafirlere zamanında ulaşmaz." }
+        {
+          "title": "İşletmede zaman yok",
+          "text": "Alışveriş, servis ve personel planlaması arasında düzenli paylaşıma neredeyse hiç yer kalmaz."
+        },
+        {
+          "title": "Yemek fotoğrafta çabucak sönük görünür",
+          "text": "Bir yemeğin iştah açıp açmayacağını ışık, açı ve hareket belirler."
+        },
+        {
+          "title": "Güncel bilgiler gözden kaçar",
+          "text": "Öğle menüsü, etkinlikler ve değişen çalışma saatleri misafirlere zamanında ulaşmaz."
+        }
       ],
       "ideas": [
         "İmza yemeğin hazırlanışını gösteren kısa bir Reel",
@@ -42,13 +51,28 @@
         "Dolu bir akşamda salondaki hava"
       ],
       "approach": [
-        { "title": "İş devam ederken çekim günleri", "text": "Mutfak ve servis çalışmaya devam edebilecek biçimde video ve fotoğraf çekiyoruz." },
-        { "title": "Planlanabilir güncellik", "text": "Hiçbir şey unutulmasın diye haftalık menü, etkinlikler ve bayramlar için sabit formatlar." },
-        { "title": "Misafirler için kısa yol", "text": "Profil, bağlantılar ve öne çıkanlar doğrudan rezervasyona, menüye ve yol tarifine götürür." }
+        {
+          "title": "İş devam ederken çekim günleri",
+          "text": "Mutfak ve servis çalışmaya devam edebilecek biçimde video ve fotoğraf çekiyoruz."
+        },
+        {
+          "title": "Planlanabilir güncellik",
+          "text": "Hiçbir şey unutulmasın diye haftalık menü, etkinlikler ve bayramlar için sabit formatlar."
+        },
+        {
+          "title": "Misafirler için kısa yol",
+          "text": "Profil, bağlantılar ve öne çıkanlar doğrudan rezervasyona, menüye ve yol tarifine götürür."
+        }
       ],
       "faq": [
-        { "q": "Restoranlar Instagram'ı nasıl verimli kullanabilir?", "a": "Düzenli ve iştah açıcı içeriklerle: mutfaktan kısa videolar, iyi çekilmiş yemek fotoğrafları, güncel teklifler ve rezervasyonu, menüyü ve çalışma saatlerini hemen bulunur kılan bir profil. Her gün paylaşım yapmaktan daha önemli olan, güvenilir bir ritimdir." },
-        { "q": "Çekim işletmenin işleyişini aksatır mı?", "a": "Zamanı ve akışı önceden birlikte belirliyor, tercihen daha sakin saatlerde çekim yapıyoruz. Misafirler yalnızca onay verirlerse çekilir." }
+        {
+          "q": "Restoranlar Instagram'ı nasıl verimli kullanabilir?",
+          "a": "Düzenli ve iştah açıcı içeriklerle: mutfaktan kısa videolar, iyi çekilmiş yemek fotoğrafları, güncel teklifler ve rezervasyonu, menüyü ve çalışma saatlerini hemen bulunur kılan bir profil. Her gün paylaşım yapmaktan daha önemli olan, güvenilir bir ritimdir."
+        },
+        {
+          "q": "Çekim işletmenin işleyişini aksatır mı?",
+          "a": "Zamanı ve akışı önceden birlikte belirliyor, tercihen daha sakin saatlerde çekim yapıyoruz. Misafirler yalnızca onay verirlerse çekilir."
+        }
       ],
       "relatedPost": "instagram-marketing-restaurants"
     },
@@ -62,9 +86,18 @@
       "title": "Kuaförler ve güzellik salonları için sosyal medya",
       "intro": "Güzellik sektöründe sosyal medya vitrindir. Yeni müşteriler randevu almadan önce nasıl çalıştığınızı görmek ister. İşinizin gerçekte olduğu kadar iyi görünmesini sağlıyoruz.",
       "challenges": [
-        { "title": "Randevu defteri dolu, içeriğe zaman yok", "text": "İki randevu arasında iyi bir fotoğrafa nadiren zaman kalır – bir Reel'e ise hiç kalmaz." },
-        { "title": "Sonuçlar hak ettiği gibi görünmüyor", "text": "Kötü ışık ve dağınık arka planlar, mükemmel bir işi bile sıradan gösterir." },
-        { "title": "Tutarsız profil", "text": "Bazen bir fotoğraf, bazen bir kampanya, bazen haftalarca hiçbir şey – sayfa gelişigüzel görünür." }
+        {
+          "title": "Randevu defteri dolu, içeriğe zaman yok",
+          "text": "İki randevu arasında iyi bir fotoğrafa nadiren zaman kalır – bir Reel'e ise hiç kalmaz."
+        },
+        {
+          "title": "Sonuçlar hak ettiği gibi görünmüyor",
+          "text": "Kötü ışık ve dağınık arka planlar, mükemmel bir işi bile sıradan gösterir."
+        },
+        {
+          "title": "Tutarsız profil",
+          "text": "Bazen bir fotoğraf, bazen bir kampanya, bazen haftalarca hiçbir şey – sayfa gelişigüzel görünür."
+        }
       ],
       "ideas": [
         "Öncesi-sonrası sonuçları (müşterinin onayıyla)",
@@ -75,13 +108,28 @@
         "Story'de boş randevular ve kampanyalar"
       ],
       "approach": [
-        { "title": "Salonda sabit bir içerik köşesi", "text": "Sizinle birlikte, sonuçların hızlıca fotoğraflanabileceği iyi ışıklı bir köşe hazırlıyoruz." },
-        { "title": "Modellerle veya düzenli müşterilerle çekim günleri", "text": "Tek randevuda birkaç haftalık Reels ve fotoğraf üretilir." },
-        { "title": "Randevuya giden yol", "text": "Rezervasyon bağlantısı, fiyat bilgileri ve hizmetler profilde hemen bulunur." }
+        {
+          "title": "Salonda sabit bir içerik köşesi",
+          "text": "Sizinle birlikte, sonuçların hızlıca fotoğraflanabileceği iyi ışıklı bir köşe hazırlıyoruz."
+        },
+        {
+          "title": "Modellerle veya düzenli müşterilerle çekim günleri",
+          "text": "Tek randevuda birkaç haftalık Reels ve fotoğraf üretilir."
+        },
+        {
+          "title": "Randevuya giden yol",
+          "text": "Rezervasyon bağlantısı, fiyat bilgileri ve hizmetler profilde hemen bulunur."
+        }
       ],
       "faq": [
-        { "q": "Müşteriler izin alınmadan gösterilebilir mi?", "a": "Yalnızca açık rızalarıyla. Çekimden önce onay almanız için basit bir akışla size destek oluyoruz ve onay olmadan hiçbir şey yayınlamıyoruz." },
-        { "q": "Bir salon için özellikle hangi içerikler uygundur?", "a": "Gözle görülür sonuçlar, işe dair kısa kesitler ve ekipten yüzler. Bakım ipuçları ve güncel bilgilerle tamamlandığında uzmanlığı gösteren ve randevu almaya davet eden bir profil ortaya çıkar." }
+        {
+          "q": "Müşteriler izin alınmadan gösterilebilir mi?",
+          "a": "Yalnızca açık rızalarıyla. Çekimden önce onay almanız için basit bir akışla size destek oluyoruz ve onay olmadan hiçbir şey yayınlamıyoruz."
+        },
+        {
+          "q": "Bir salon için özellikle hangi içerikler uygundur?",
+          "a": "Gözle görülür sonuçlar, işe dair kısa kesitler ve ekipten yüzler. Bakım ipuçları ve güncel bilgilerle tamamlandığında uzmanlığı gösteren ve randevu almaya davet eden bir profil ortaya çıkar."
+        }
       ],
       "relatedPost": "content-ideas-salons"
     },
@@ -95,9 +143,18 @@
       "title": "Fitness stüdyoları ve kurs sağlayıcıları için sosyal medya",
       "intro": "Stüdyo arayan biri orada nasıl hissedeceğini bilmek ister: Burada kimler antrenman yapıyor? Antrenörler nasıl? Ben buraya uyar mıyım? Sosyal medya bu soruları, kişi deneme antrenmanına gelmeden önce yanıtlayabilir.",
       "challenges": [
-        { "title": "Birbirinin aynısı içerikler", "text": "Motivasyon sözleri ve stok görseller, stüdyonuzu özel kılan şeyi göstermez." },
-        { "title": "Yeni başlayanlar için yüksek eşik", "text": "İlgilenenlerin birçoğu yalnızca formda insanlar gördüğü için cesaret edemez." },
-        { "title": "Ön hazırlıksız kampanyalar", "text": "Kurs başlangıçları ve teklifler çok geç ya da yalnızca bir kez duyurulur." }
+        {
+          "title": "Birbirinin aynısı içerikler",
+          "text": "Motivasyon sözleri ve stok görseller, stüdyonuzu özel kılan şeyi göstermez."
+        },
+        {
+          "title": "Yeni başlayanlar için yüksek eşik",
+          "text": "İlgilenenlerin birçoğu yalnızca formda insanlar gördüğü için cesaret edemez."
+        },
+        {
+          "title": "Ön hazırlıksız kampanyalar",
+          "text": "Kurs başlangıçları ve teklifler çok geç ya da yalnızca bir kez duyurulur."
+        }
       ],
       "ideas": [
         "Reel olarak stüdyo turu",
@@ -108,29 +165,53 @@
         "Kurs başlangıçlarının ve kampanyaların önceden duyurulması"
       ],
       "approach": [
-        { "title": "Stok görsel yerine gerçek insanlar", "text": "Sizin stüdyonuzda çekim yapıyoruz – ekibinizle ve buna istekli üyelerle." },
-        { "title": "Seri hâlinde bilgi", "text": "Haftanın egzersizi gibi tekrarlayan formatlar profilinizi faydalı ve planlanabilir kılar." },
-        { "title": "Planlı kampanyalar", "text": "Kurs başlangıçları ve teklifler zamanında ve birkaç gönderiye yayılarak duyurulur." }
+        {
+          "title": "Stok görsel yerine gerçek insanlar",
+          "text": "Sizin stüdyonuzda çekim yapıyoruz – ekibinizle ve buna istekli üyelerle."
+        },
+        {
+          "title": "Seri hâlinde bilgi",
+          "text": "Haftanın egzersizi gibi tekrarlayan formatlar profilinizi faydalı ve planlanabilir kılar."
+        },
+        {
+          "title": "Planlı kampanyalar",
+          "text": "Kurs başlangıçları ve teklifler zamanında ve birkaç gönderiye yayılarak duyurulur."
+        }
       ],
       "faq": [
-        { "q": "Üyeler antrenman sırasında çekilebilir mi?", "a": "Yalnızca rızalarıyla. Bu nedenle özellikle onay vermiş kişilerle veya stüdyonun bu iş için ayrıldığı saatlerde çekim yapıyoruz." },
-        { "q": "Bir fitness stüdyosuna hangi platform uyar?", "a": "Çoğu stüdyo için en önemli kanal Instagram'dır; çünkü Reels ve Stories atmosferi iyi yansıtır. Buna ek olarak TikTok veya Facebook'un anlamlı olup olmadığı hedef kitlenize bağlıdır – bunu strateji aşamasında netleştiriyoruz." }
+        {
+          "q": "Üyeler antrenman sırasında çekilebilir mi?",
+          "a": "Yalnızca rızalarıyla. Bu nedenle özellikle onay vermiş kişilerle veya stüdyonun bu iş için ayrıldığı saatlerde çekim yapıyoruz."
+        },
+        {
+          "q": "Bir fitness stüdyosuna hangi platform uyar?",
+          "a": "Çoğu stüdyo için en önemli kanal Instagram'dır; çünkü Reels ve Stories atmosferi iyi yansıtır. Buna ek olarak TikTok veya Facebook'un anlamlı olup olmadığı hedef kitlenize bağlıdır – bunu strateji aşamasında netleştiriyoruz."
+        }
       ],
       "relatedPost": "social-media-strategy-small-business"
     },
     "local-businesses": {
       "meta": {
         "title": "Yerel İşletmeler, Perakende ve Zanaat için Sosyal Medya",
-        "description": "Münster ve çevresindeki yerel işletmeler için sosyal medya yönetimi: perakende, zanaat, muayenehane ve hizmet sağlayıcıları yerinde içerikle görünür kılmak."
+        "description": "Münster ve NRW'deki yerel işletmeler için sosyal medya pazarlaması: perakende, zanaat, muayenehane ve hizmet sağlayıcıları yerinde içerikle görünür kılmak."
       },
       "name": "Yerel işletmeler",
       "short": "Perakende, zanaat, muayenehaneler ve hizmet sağlayıcılar: kendi bölgenizde görünür olmak.",
       "title": "Yerel işletmeler için sosyal medya",
       "intro": "Yerel işletmelerin tüm Almanya'ya değil, çevrelerindeki insanlara ulaşması gerekir. Sosyal medya orada gündemde kalmaya yardımcı olur: yüzlerle, işletmeden kesitlerle ve mahalle için önem taşıyan bilgilerle.",
       "challenges": [
-        { "title": "“Ne paylaşacağız ki?”", "text": "Pek çok işletme, gündelik işleyişinin dışarıdan bakanlar için ne kadar ilgi çekici olduğunu hafife alır." },
-        { "title": "Yanlış yerde erişim", "text": "Müşteri yerinde kazanılacaksa başka şehirlerden gelen ilginin pek faydası olmaz." },
-        { "title": "Nitelikli eleman bulmak", "text": "Adaylar da başvurmadan önce sosyal medya profillerine bakar." }
+        {
+          "title": "“Ne paylaşacağız ki?”",
+          "text": "Pek çok işletme, gündelik işleyişinin dışarıdan bakanlar için ne kadar ilgi çekici olduğunu hafife alır."
+        },
+        {
+          "title": "Yanlış yerde erişim",
+          "text": "Müşteri yerinde kazanılacaksa başka şehirlerden gelen ilginin pek faydası olmaz."
+        },
+        {
+          "title": "Nitelikli eleman bulmak",
+          "text": "Adaylar da başvurmadan önce sosyal medya profillerine bakar."
+        }
       ],
       "ideas": [
         "Atölyeden, dükkândan veya muayenehaneden kesitler",
@@ -141,13 +222,28 @@
         "İş ilanları ve çalışma hayatından kesitler"
       ],
       "approach": [
-        { "title": "Konu bulmak", "text": "Bir atölye çalışmasında işletmenizde anlatmaya değer ne varsa topluyoruz – çoğu zaman sanıldığından fazlası çıkar." },
-        { "title": "Yerele odaklanmak", "text": "Konum bilgileri, bölgesel bağlantılar ve uygun hashtag'ler içeriklerin bölgede bulunmasını sağlar." },
-        { "title": "Düzenli olarak görünür olmak", "text": "Yoğun haftalarda da sürdürülebilen gerçekçi bir ritim." }
+        {
+          "title": "Konu bulmak",
+          "text": "Bir atölye çalışmasında işletmenizde anlatmaya değer ne varsa topluyoruz – çoğu zaman sanıldığından fazlası çıkar."
+        },
+        {
+          "title": "Yerele odaklanmak",
+          "text": "Konum bilgileri, bölgesel bağlantılar ve uygun hashtag'ler içeriklerin bölgede bulunmasını sağlar."
+        },
+        {
+          "title": "Düzenli olarak görünür olmak",
+          "text": "Yoğun haftalarda da sürdürülebilen gerçekçi bir ritim."
+        }
       ],
       "faq": [
-        { "q": "Küçük bir yerel işletme için sosyal medyaya değer mi?", "a": "Müşterileriniz orada vakit geçiriyorsa ve düzenli olarak işletmenizden kesitler sunabiliyorsanız değer. Sosyal medya iyi işin yerini tutmaz, ama onu görünür kılar – yeni müşteriler için olduğu kadar olası çalışanlar için de." },
-        { "q": "Hangi yerlerde yerinde hizmet veriyorsunuz?", "a": "Çekim randevularını şu anda Münster ve Münsterland'da sunuyoruz. Başka yerler görüşmeye bağlı olarak mümkündür; strateji ve kanal yönetimi ise yerinde randevu olmadan da Almanya genelinde yürütülür." }
+        {
+          "q": "Küçük bir yerel işletme için sosyal medyaya değer mi?",
+          "a": "Müşterileriniz orada vakit geçiriyorsa ve düzenli olarak işletmenizden kesitler sunabiliyorsanız değer. Sosyal medya iyi işin yerini tutmaz, ama onu görünür kılar – yeni müşteriler için olduğu kadar olası çalışanlar için de."
+        },
+        {
+          "q": "Hangi yerlerde yerinde hizmet veriyorsunuz?",
+          "a": "Çekim randevularını Münster çevresinde ve NRW'nin büyük bölümünde, sürüş mesafesine ve görüşmeye bağlı olarak sunuyoruz. Strateji ve düzenli kanal yönetimi ise yerinde randevu olmadan da tüm NRW'deki işletmeler için yürütülür."
+        }
       ],
       "relatedPost": "social-media-marketing-small-business"
     }

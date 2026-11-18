@@ -36,7 +36,7 @@ export function MobileMenu({
         ref={ref}
         aria-label={labels.nav}
         onClick={(e) => e.target === ref.current && close()}
-        className="on-dark m-0 ms-auto h-dvh max-h-none w-full max-w-sm overflow-y-auto bg-navy p-0 text-white backdrop:bg-navy/70 backdrop:backdrop-blur-sm open:flex open:flex-col"
+        className="on-dark m-0 ms-auto h-dvh max-h-none w-full max-w-sm overflow-y-auto overscroll-contain bg-navy p-0 text-white backdrop:bg-navy/70 backdrop:backdrop-blur-sm open:flex open:flex-col"
       >
         <div className="flex items-center justify-end p-4">
           <button type="button" aria-label={labels.close} onClick={close} className="grid size-11 place-items-center rounded-full border border-white/20">

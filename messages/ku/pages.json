@@ -13,22 +13,58 @@
     "industryLabel": "Sektor",
     "goalLabel": "Guncav e ji bo",
     "items": [
-      { "title": "Reel-a metbexê: xwarinek çêdibe", "industry": "Gastronomî", "format": "Reel", "goal": "Mirovan birçî bike û bigihîje mêvanên nû yên li derdorê", "description": "Ji tevgera yekem heta teyfika amade di çend saniyeyan de – bi binnivîs û wêneyê bergê bi şêwaza restoranê." },
-      { "title": "Karûsela berî û piştî", "industry": "Bedewî û salon", "format": "Karûsel", "goal": "Encaman nîşan bide û baweriyê ava bike", "description": "Çend wêneyên guherînekê di ronahiyeke yekgirtî de, bi ravekirineke kurt a lênêrînê." },
-      { "title": "Gera di studyoyê de", "industry": "Studyoyên fitnessê", "format": "Reel", "goal": "Dudiliyê kêm bike û mirovan vexwîne perwerdeya ceribandinê", "description": "Gereke kurt di qada werzişê, odeya qursan û resepsiyonê de – ji çavê endamekî nû." },
-      { "title": "Danasîna tîmê", "industry": "Karsaziyên herêmî", "format": "Rêzewêne", "goal": "Nêzîk xuya bike û bang li xebatkarên pispor bike", "description": "Portre bi gotinên kurt: kî li vir dixebite û çi vî karî taybet dike?" },
-      { "title": "Menûya hefteyê wek rêze-Story", "industry": "Gastronomî", "format": "Story", "goal": "Mêvanên herdemî bi agahiyên nû agahdar bike", "description": "Şablonek ku dikare dubare bê bikaranîn û her hefte di çend deqeyan de tê nûkirin." },
-      { "title": "Sê pirs, sê bersiv", "industry": "Karsaziyên herêmî", "format": "Reel", "goal": "Pisporiyê nîşan bide û rê li ber daxwazan veke", "description": "Bersivên kurt ji bo pirsên ku li dikanê an bi telefonê her tim tên pirsîn." }
+      {
+        "title": "Reel-a metbexê: xwarinek çêdibe",
+        "industry": "Gastronomî",
+        "format": "Reel",
+        "goal": "Mirovan birçî bike û bigihîje mêvanên nû yên li derdorê",
+        "description": "Ji tevgera yekem heta teyfika amade di çend saniyeyan de – bi binnivîs û wêneyê bergê bi şêwaza restoranê."
+      },
+      {
+        "title": "Karûsela berî û piştî",
+        "industry": "Bedewî û salon",
+        "format": "Karûsel",
+        "goal": "Encaman nîşan bide û baweriyê ava bike",
+        "description": "Çend wêneyên guherînekê di ronahiyeke yekgirtî de, bi ravekirineke kurt a lênêrînê."
+      },
+      {
+        "title": "Gera di studyoyê de",
+        "industry": "Studyoyên fitnessê",
+        "format": "Reel",
+        "goal": "Dudiliyê kêm bike û mirovan vexwîne perwerdeya ceribandinê",
+        "description": "Gereke kurt di qada werzişê, odeya qursan û resepsiyonê de – ji çavê endamekî nû."
+      },
+      {
+        "title": "Danasîna tîmê",
+        "industry": "Karsaziyên herêmî",
+        "format": "Rêzewêne",
+        "goal": "Nêzîk xuya bike û bang li xebatkarên pispor bike",
+        "description": "Portre bi gotinên kurt: kî li vir dixebite û çi vî karî taybet dike?"
+      },
+      {
+        "title": "Menûya hefteyê wek rêze-Story",
+        "industry": "Gastronomî",
+        "format": "Story",
+        "goal": "Mêvanên herdemî bi agahiyên nû agahdar bike",
+        "description": "Şablonek ku dikare dubare bê bikaranîn û her hefte di çend deqeyan de tê nûkirin."
+      },
+      {
+        "title": "Sê pirs, sê bersiv",
+        "industry": "Karsaziyên herêmî",
+        "format": "Reel",
+        "goal": "Pisporiyê nîşan bide û rê li ber daxwazan veke",
+        "description": "Bersivên kurt ji bo pirsên ku li dikanê an bi telefonê her tim tên pirsîn."
+      }
     ]
   },
   "about": {
     "meta": {
       "title": "Derbarê me: ajansa medyaya civakî ji Münsterê",
-      "description": "Social Media Komplett ajanseke medyaya civakî ye ji Münsterê ji bo karsaziyên herêmî. Bizanin ka em çi diparêzin, çawa dixebitin û li ku çalak in."
+      "description": "Social Media Komplett ajanseke medyaya civakî ye ji Münsterê ji bo karsaziyên li seranserê NRW. Bizanin ka em çi diparêzin, çawa dixebitin û li ku çalak in."
     },
     "eyebrow": "Derbarê me",
     "title": "Social Media Komplett: ajansa ji bo karsaziyên li cih",
-    "intro": "Social Media Komplett ajanseke medyaya civakî ye ji Münsterê. Em naverokê çêdikin, Reels dikişînin û li kanalên wan karsaziyan dinêrin ku li cihê xwe bawerî didin – di gastronomî, salon, studyo û bazirganiya herêmî de.",
+    "intro": "Social Media Komplett ajanseke medyaya civakî ye ji Münsterê, ji bo karsaziyên li Münsterê û li seranserê Nordrhein-Westfalen (NRW). Em naverokê çêdikin, Reels dikişînin û li kanalên wan karsaziyan dinêrin ku li cihê xwe bawerî didin – di gastronomî, salon, studyo û bazirganiya herêmî de.",
     "storyTitle": "Çima em hene",
     "story": [
       "Gelek karsaziyên baş li ser înternetê hema nayên dîtin. Ne ji ber ku tiştekî wan ê nîşandanê tune ye, lê ji ber ku di jiyana rojane de dem kêm e: ji bo fikiran, ji bo kişandinê, ji bo montajê û ji bo weşandina birêkûpêk.",
@@ -37,18 +73,45 @@
     ],
     "valuesTitle": "Em çi diparêzin",
     "values": [
-      { "title": "Rastgoyî", "text": "Em soza hejmarên şopîneran û soza dahatê nadin. Em soza karekî paqij, rêveçûnên zelal û nirxandineke vekirî didin." },
-      { "title": "Nêzîkbûn", "text": "Em karsaziya we li cih nas dikin. Tenê bi vî awayî naveroka ku li we tê çêdibe." },
-      { "title": "Pêbawerî", "text": "Demên lihevkirî, pejirandinên sabît, raporên birêkûpêk – hûn dizanin ka çi kengî diqewime." },
-      { "title": "Têgihîştin", "text": "Em rave dikin ka em çi dikin û çima. Bêyî têgehên teknîkî yên ku kes ne hewcedarê wan e." }
+      {
+        "title": "Rastgoyî",
+        "text": "Em soza hejmarên şopîneran û soza dahatê nadin. Em soza karekî paqij, rêveçûnên zelal û nirxandineke vekirî didin."
+      },
+      {
+        "title": "Nêzîkbûn",
+        "text": "Em karsaziya we li cih nas dikin. Tenê bi vî awayî naveroka ku li we tê çêdibe."
+      },
+      {
+        "title": "Pêbawerî",
+        "text": "Demên lihevkirî, pejirandinên sabît, raporên birêkûpêk – hûn dizanin ka çi kengî diqewime."
+      },
+      {
+        "title": "Têgihîştin",
+        "text": "Em rave dikin ka em çi dikin û çima. Bêyî têgehên teknîkî yên ku kes ne hewcedarê wan e."
+      }
     ],
     "factsTitle": "Bi kurtî",
     "facts": {
-      "what": { "label": "Em çi dikin", "value": "Rêveberiya medyaya civakî, çêkirina naverokê, Reels û çêkirina vîdyoyan, stratejî û Community Management" },
-      "who": { "label": "Ji bo kê", "value": "Karsaziyên herêmî, bi taybetî gastronomî, bedewî û salon, studyoyên fitnessê, dikan û pêşkêşkarên xizmetan" },
-      "base": { "label": "Cih", "value": "Münster, Nordrhein-Westfalen" },
-      "area": { "label": "Herêma xebatê", "value": "Kişandina li cih li {areas}; lênêrîn li seranserê {remote}" },
-      "platforms": { "label": "Platform", "value": "Instagram, Facebook û TikTok" }
+      "what": {
+        "label": "Em çi dikin",
+        "value": "Rêveberiya medyaya civakî, çêkirina naverokê, Reels û çêkirina vîdyoyan, stratejî û Community Management"
+      },
+      "who": {
+        "label": "Ji bo kê",
+        "value": "Karsaziyên herêmî, bi taybetî gastronomî, bedewî û salon, studyoyên fitnessê, dikan û pêşkêşkarên xizmetan"
+      },
+      "base": {
+        "label": "Cih",
+        "value": "Münster, Nordrhein-Westfalen"
+      },
+      "area": {
+        "label": "Herêma xebatê",
+        "value": "Lênêrîn ji bo karsaziyên li seranserê NRW; kişandina li cih di nav dora {km} km li derdora {city} de, li gorî lihevkirinê"
+      },
+      "platforms": {
+        "label": "Platform",
+        "value": "Instagram, Facebook û TikTok"
+      }
     },
     "teamTitle": "Kî li pişt Social Media Komplett e",
     "languagesTitle": "Ziman",
@@ -64,17 +127,66 @@
     "intro": "Pêvajoyeke zelal dema we diparêze û piştrast dike ku tiştek nîvco nemîne. Em wiha dixebitin – ji hevdîtina yekem heta nirxandina mehane.",
     "stepLabel": "Gav {n}",
     "steps": [
-      { "title": "Hevdîtina yekem a bêpere", "text": "Em karsaziya we nas dikin û zelal dikin ka hûn ji medyaya civakî çi hêvî dikin.", "details": ["Rewşa niha ya kanalên we", "Armanc û koma armanc", "Çarçoveya guncav û gavên din"] },
-      { "title": "Stratejî û plan", "text": "Em kanal, mijar, format û rîtmê diyar dikin û her tiştî di planeke weşanê de kom dikin.", "details": ["Hilbijartina kanalan û pozîsyonkirin", "Formatên dubare", "Plana weşanê ji bo pejirandinê"] },
-      { "title": "Çêkirina naverokê li cih", "text": "Em tên cihê karê we û wêne û vîdyoyan çêdikin – bi hev re di rojên kişandinê yên diyarkirî de.", "details": ["Amadekarî bi lîsteya fikiran", "Kişandina Reels û wêneyan", "Montaj, binnivîs, grafîk û nivîs"] },
-      { "title": "Pejirandin û weşandin", "text": "Hûn hemû naverokê pêşî dibînin. Piştî pejirandina we em wê li gorî planê diweşînin.", "details": ["Pejirandineke hêsan û zelal", "Weşandina plankirî", "Community Management li gorî pakêtê"] },
-      { "title": "Nirxandin û baştirkirin", "text": "Em bi rêkûpêk dinirxînin ka çi bi kêr tê û mijar û formatan li gorî wê diguherînin.", "details": ["Raporeke têgihîştî", "Pêşniyarên berbiçav", "Plankirina meha din"] }
+      {
+        "title": "Hevdîtina yekem a bêpere",
+        "text": "Em karsaziya we nas dikin û zelal dikin ka hûn ji medyaya civakî çi hêvî dikin.",
+        "details": [
+          "Rewşa niha ya kanalên we",
+          "Armanc û koma armanc",
+          "Çarçoveya guncav û gavên din"
+        ]
+      },
+      {
+        "title": "Stratejî û plan",
+        "text": "Em kanal, mijar, format û rîtmê diyar dikin û her tiştî di planeke weşanê de kom dikin.",
+        "details": [
+          "Hilbijartina kanalan û pozîsyonkirin",
+          "Formatên dubare",
+          "Plana weşanê ji bo pejirandinê"
+        ]
+      },
+      {
+        "title": "Çêkirina naverokê li cih",
+        "text": "Em tên cihê karê we û wêne û vîdyoyan çêdikin – bi hev re di rojên kişandinê yên diyarkirî de.",
+        "details": [
+          "Amadekarî bi lîsteya fikiran",
+          "Kişandina Reels û wêneyan",
+          "Montaj, binnivîs, grafîk û nivîs"
+        ]
+      },
+      {
+        "title": "Pejirandin û weşandin",
+        "text": "Hûn hemû naverokê pêşî dibînin. Piştî pejirandina we em wê li gorî planê diweşînin.",
+        "details": [
+          "Pejirandineke hêsan û zelal",
+          "Weşandina plankirî",
+          "Community Management li gorî pakêtê"
+        ]
+      },
+      {
+        "title": "Nirxandin û baştirkirin",
+        "text": "Em bi rêkûpêk dinirxînin ka çi bi kêr tê û mijar û formatan li gorî wê diguherînin.",
+        "details": [
+          "Raporeke têgihîştî",
+          "Pêşniyarên berbiçav",
+          "Plankirina meha din"
+        ]
+      }
     ],
     "onsiteTitle": "Rojeke kişandinê li cih çawa derbas dibe?",
     "onsite": [
-      { "title": "Berî randevûyê", "text": "Hûn lîsteyeke fikiran û planeke rêveçûnê distînin. Em zelal dikin ka kî û çi dikare bê nîşandan." },
-      { "title": "Di roja kişandinê de", "text": "Em teknîkê bi xwe re tînin û lîsteyê gav bi gav pêk tînin – bi qasî ku pêkan e bêyî ku karê we bidin sekinandin." },
-      { "title": "Piştî randevûyê", "text": "Em montaj dikin, sêwiran dikin û nivîsan dinivîsin. Hûn naveroka amade ji bo pejirandinê distînin." }
+      {
+        "title": "Berî randevûyê",
+        "text": "Hûn lîsteyeke fikiran û planeke rêveçûnê distînin. Em zelal dikin ka kî û çi dikare bê nîşandan."
+      },
+      {
+        "title": "Di roja kişandinê de",
+        "text": "Em teknîkê bi xwe re tînin û lîsteyê gav bi gav pêk tînin – bi qasî ku pêkan e bêyî ku karê we bidin sekinandin."
+      },
+      {
+        "title": "Piştî randevûyê",
+        "text": "Em montaj dikin, sêwiran dikin û nivîsan dinivîsin. Hûn naveroka amade ji bo pejirandinê distînin."
+      }
     ],
     "yourPartTitle": "Em ji we çi hewce dikin",
     "yourPart": [
@@ -97,19 +209,39 @@
         "name": "Starter",
         "tagline": "Ji bo destpêkeke pêbawer",
         "audience": "Ji bo karsaziyên ku dixwazin kanalekê bi rêkûpêk û profesyonel bi kar bînin.",
-        "features": ["Lênêrîna kanalekê", "Plana weşanê ji bo pejirandinê", "Şandî bi wêne, grafîk û nivîsan", "Plankirin û weşandin", "Kurterapora birêkûpêk"]
+        "features": [
+          "Lênêrîna kanalekê",
+          "Plana weşanê ji bo pejirandinê",
+          "Şandî bi wêne, grafîk û nivîsan",
+          "Plankirin û weşandin",
+          "Kurterapora birêkûpêk"
+        ]
       },
       "business": {
         "name": "Business",
         "tagline": "Ji bo mezinbûna ku tê dîtin",
         "audience": "Ji bo karsaziyên ku dixwazin bi Reels bigihîjin mişteriyên nû û bi awayekî pêbawer bersiva daxwazan bidin.",
-        "features": ["Her tiştê Starter", "Çêkirina birêkûpêk a Reels", "Rojên kişandinê li cih", "Atolyeya stratejiyê di destpêkê de", "Community Management", "Rapora mehane ya berfireh"]
+        "features": [
+          "Her tiştê Starter",
+          "Çêkirina birêkûpêk a Reels",
+          "Rojên kişandinê li cih",
+          "Atolyeya stratejiyê di destpêkê de",
+          "Community Management",
+          "Rapora mehane ya berfireh"
+        ]
       },
       "komplett": {
         "name": "Komplett",
         "tagline": "Lênêrîna ji her alî ve",
         "audience": "Ji bo karsaziyên ku dixwazin medyaya civakî bi temamî bispêrin me û li ser çend kanalan hebin.",
-        "features": ["Her tiştê Business", "Çend kanal", "Çarçoveyeke firehtir a Reels û şandiyan", "Stories û naveroka rojane", "Hevdîtinên birêkûpêk ên lihevkirinê", "Pêşîniya pêkanîna mijarên lezgîn"]
+        "features": [
+          "Her tiştê Business",
+          "Çend kanal",
+          "Çarçoveyeke firehtir a Reels û şandiyan",
+          "Stories û naveroka rojane",
+          "Hevdîtinên birêkûpêk ên lihevkirinê",
+          "Pêşîniya pêkanîna mijarên lezgîn"
+        ]
       }
     },
     "compareTitle": "Berawirdkirina pakêtan",
@@ -127,18 +259,44 @@
     },
     "termsTitle": "Şert",
     "terms": {
-      "term": { "label": "Dema peymanê", "value": "Dema herî kêm {months} meh", "fallback": "Dema peymanê û dema betalkirinê li gorî lihevkirinê – her du jî bi awayekî zelal di pêşniyarê de ne." },
-      "travel": { "label": "Rêwîtî", "value": "Rêwîtiyên heta {km} km ji {city} tê de ne.", "fallback": "Em rêwîtiyên di nav herêma xebata xwe de di pêşniyarê de diyar dikin; rêyên dûrtir li gorî lihevkirinê." },
-      "billing": { "label": "Hesabkirin", "value": "Mehane bi bihayê sabît ê lihevkirî. Budceyên reklamê ji bo îlanên bipere ne tê de ne û rasterast ji platformê re tên dayîn." },
-      "rights": { "label": "Mafên bikaranînê", "value": "Em bikaranîna naveroka çêkirî ji bo kanalên we di pêşniyarê de diyar dikin." }
+      "term": {
+        "label": "Dema peymanê",
+        "value": "Dema herî kêm {months} meh",
+        "fallback": "Dema peymanê û dema betalkirinê li gorî lihevkirinê – her du jî bi awayekî zelal di pêşniyarê de ne."
+      },
+      "travel": {
+        "label": "Rêwîtî",
+        "value": "Rêwîtiyên heta {km} km ji {city} tê de ne.",
+        "fallback": "Em rêwîtiyên di nav herêma xebata xwe de di pêşniyarê de diyar dikin; rêyên dûrtir li gorî lihevkirinê."
+      },
+      "billing": {
+        "label": "Hesabkirin",
+        "value": "Mehane bi bihayê sabît ê lihevkirî. Budceyên reklamê ji bo îlanên bipere ne tê de ne û rasterast ji platformê re tên dayîn."
+      },
+      "rights": {
+        "label": "Mafên bikaranînê",
+        "value": "Em bikaranîna naveroka çêkirî ji bo kanalên we di pêşniyarê de diyar dikin."
+      }
     },
     "addonsTitle": "Xizmetên zêde",
     "addonsIntro": "Her pakêt dikare bê firehkirin. Biha li ser daxwazê.",
     "addons": {
-      "extraReels": { "title": "Reels-ên zêde", "text": "Bêtir vîdyoyên kurt ji bo kampanya, çalakî an mijarên demsalî." },
-      "extraShoot": { "title": "Rojeke kişandinê ya zêde", "text": "Randevûyeke din li cih, mînak ji bo vekirineke nû." },
-      "adsManagement": { "title": "Lênêrîna îlanên bipere", "text": "Sazkirin û lênêrîna kampanyayan li ser Instagram û Facebook." },
-      "photoShoot": { "title": "Kişandina wêneyan", "text": "Kişandineke taybet ji bo malper, menû an wêneyên tîmê." }
+      "extraReels": {
+        "title": "Reels-ên zêde",
+        "text": "Bêtir vîdyoyên kurt ji bo kampanya, çalakî an mijarên demsalî."
+      },
+      "extraShoot": {
+        "title": "Rojeke kişandinê ya zêde",
+        "text": "Randevûyeke din li cih, mînak ji bo vekirineke nû."
+      },
+      "adsManagement": {
+        "title": "Lênêrîna îlanên bipere",
+        "text": "Sazkirin û lênêrîna kampanyayan li ser Instagram û Facebook."
+      },
+      "photoShoot": {
+        "title": "Kişandina wêneyan",
+        "text": "Kişandineke taybet ji bo malper, menû an wêneyên tîmê."
+      }
     },
     "explainerTitle": "Bihayê rêveberiya medyaya civakî li Almanyayê çi ye?",
     "explainer": [
@@ -148,10 +306,22 @@
     ],
     "explainerLink": "Rêbera berfireh: bihayê lênêrîna medyaya civakî çi ye?",
     "faq": [
-      { "q": "Çima li vir biha tune ne?", "a": "Ji ber ku ked ji karsaziyekê heta karsaziyeke din pir cuda ye. Li şûna bihayekî ku di dawiyê de li we nayê, hûn piştî hevdîtina yekem pêşniyareke berbiçav bi bihayekî mehane yê sabît distînin." },
-      { "q": "Ez dikarim paşê pakêtê biguherînim?", "a": "Belê. Heke pêdiviya we biguhere, em çarçoveyê di zûtirîn dema pêkan de diguherînin. Hûrgilî di pêşniyarê de ne." },
-      { "q": "Ma îlanên reklamê di pakêtê de ne?", "a": "Na. Pakêt naveroka organîk û lênêrînê digirin nav xwe. Îlanên bipere dikarin wek xizmeteke zêde bên xwestin; hûn budceya reklamê rasterast didin platformê." },
-      { "q": "Hûn garantiya encaman didin?", "a": "Na, û em pêşniyar dikin ku hûn li hemberî her kesê ku vê dike baldar bin. Gihîştin û daxwaz bi gelek faktoran ve girêdayî ne ku kes bi temamî nikare wan kontrol bike. Em garantiya çarçoveya xizmetê ya lihevkirî, karekî paqij û nirxandineke rastgo didin." }
+      {
+        "q": "Çima li vir biha tune ne?",
+        "a": "Ji ber ku ked ji karsaziyekê heta karsaziyeke din pir cuda ye. Li şûna bihayekî ku di dawiyê de li we nayê, hûn piştî hevdîtina yekem pêşniyareke berbiçav bi bihayekî mehane yê sabît distînin."
+      },
+      {
+        "q": "Ez dikarim paşê pakêtê biguherînim?",
+        "a": "Belê. Heke pêdiviya we biguhere, em çarçoveyê di zûtirîn dema pêkan de diguherînin. Hûrgilî di pêşniyarê de ne."
+      },
+      {
+        "q": "Ma îlanên reklamê di pakêtê de ne?",
+        "a": "Na. Pakêt naveroka organîk û lênêrînê digirin nav xwe. Îlanên bipere dikarin wek xizmeteke zêde bên xwestin; hûn budceya reklamê rasterast didin platformê."
+      },
+      {
+        "q": "Hûn garantiya encaman didin?",
+        "a": "Na, û em pêşniyar dikin ku hûn li hemberî her kesê ku vê dike baldar bin. Gihîştin û daxwaz bi gelek faktoran ve girêdayî ne ku kes bi temamî nikare wan kontrol bike. Em garantiya çarçoveya xizmetê ya lihevkirî, karekî paqij û nirxandineke rastgo didin."
+      }
     ]
   },
   "faq": {
@@ -166,36 +336,81 @@
       {
         "title": "Bingeh",
         "items": [
-          { "q": "Rêveberiya medyaya civakî çi ye?", "a": "Rêveberiya medyaya civakî (Social Media Management) hemû karên dubare yên li dora kanalên medyaya civakî yên karsaziyekê digire nav xwe: plankirina mijaran, çêkirina naverokê, weşandina şandiyan, bersivdana şîrove û peyaman û nirxandina encaman." },
-          { "q": "Ajanseke medyaya civakî çi dike?", "a": "Ew van karan bi temamî an bi qismî ji bo karsaziyekê digire ser xwe. Li cem Social Media Komplett stratejî, çêkirina naverokê, çêkirina Reels li cih, weşandin, Community Management û nirxandin beşek ji vê ne." },
-          { "q": "Ma hêja ye ku medyaya civakî bê spartin kesên din?", "a": "Hêja ye, heke di karsaziyê de dem an zanîn ji bo naveroka birêkûpêk û baş çêkirî kêm be. Kî hez dike bi xwe parve bike, dikare li şûna wê beşên yekane wek rojeke kişandinê an stratejiyek bixwaze." },
-          { "q": "Hûn ji bo kîjan karsaziyan dixebitin?", "a": "Berî her tiştî ji bo karsaziyên herêmî: gastronomî, kuafor û salonên bedewiyê, studyoyên fitnessê, dikan, pîşekar û pêşkêşkarên xizmetan." }
+          {
+            "q": "Rêveberiya medyaya civakî çi ye?",
+            "a": "Rêveberiya medyaya civakî (Social Media Management) hemû karên dubare yên li dora kanalên medyaya civakî yên karsaziyekê digire nav xwe: plankirina mijaran, çêkirina naverokê, weşandina şandiyan, bersivdana şîrove û peyaman û nirxandina encaman."
+          },
+          {
+            "q": "Ajanseke medyaya civakî çi dike?",
+            "a": "Ew van karan bi temamî an bi qismî ji bo karsaziyekê digire ser xwe. Li cem Social Media Komplett stratejî, çêkirina naverokê, çêkirina Reels li cih, weşandin, Community Management û nirxandin beşek ji vê ne."
+          },
+          {
+            "q": "Ma hêja ye ku medyaya civakî bê spartin kesên din?",
+            "a": "Hêja ye, heke di karsaziyê de dem an zanîn ji bo naveroka birêkûpêk û baş çêkirî kêm be. Kî hez dike bi xwe parve bike, dikare li şûna wê beşên yekane wek rojeke kişandinê an stratejiyek bixwaze."
+          },
+          {
+            "q": "Hûn ji bo kîjan karsaziyan dixebitin?",
+            "a": "Berî her tiştî ji bo karsaziyên herêmî: gastronomî, kuafor û salonên bedewiyê, studyoyên fitnessê, dikan, pîşekar û pêşkêşkarên xizmetan."
+          }
         ]
       },
       {
         "title": "Hevkarî",
         "items": [
-          { "q": "Hevkarî çawa dimeşe?", "a": "Di pênc gavan de: hevdîtina yekem a bêpere, stratejî û plana weşanê, çêkirina naverokê li cih, pejirandin û weşandin, nirxandina birêkûpêk." },
-          { "q": "Hûn ji bo kişandinê tên cihê karê min?", "a": "Belê. Wêne û vîdyo rasterast li cem we çêdibin. Em niha randevûyên li cih li Münsterê û li Münsterlandê pêşkêş dikin; cihên din li gorî lihevkirinê pêkan in." },
-          { "q": "Divê ez bi xwe çiqas dem veqetînim?", "a": "Ji berê gelek kêmtir: dem ji bo rojên kişandinê, ji bo pejirandina naverokê û ji bo lihevkirinên kurt. Her tiştê din em digirin ser xwe." },
-          { "q": "Ez şandiyan berî weşandinê dibînim?", "a": "Belê. Hûn naverokê pêşî ji bo pejirandinê distînin. Bêyî erêkirina we tiştek nayê weşandin." },
-          { "q": "Hûn bi kîjan zimanan dixebitin?", "a": "Em şêwirmendî û lênêrînê niha bi almanî pêşkêş dikin. Heke hûn hewcedarê naverok an hevdîtinan bi zimanekî din bin, bi me re têkilî daynin – em ê bi eşkereyî ji we re bibêjin ka çi pêkan e." }
+          {
+            "q": "Hevkarî çawa dimeşe?",
+            "a": "Di pênc gavan de: hevdîtina yekem a bêpere, stratejî û plana weşanê, çêkirina naverokê li cih, pejirandin û weşandin, nirxandina birêkûpêk."
+          },
+          {
+            "q": "Hûn ji bo kişandinê tên cihê karê min?",
+            "a": "Belê. Wêne û vîdyo rasterast li cem we çêdibin. Em randevûyên li cih li derdora Münsterê û li beşeke mezin a NRW pêşkêş dikin – li gorî rêya ajotinê û lihevkirina taybet."
+          },
+          {
+            "q": "Divê ez bi xwe çiqas dem veqetînim?",
+            "a": "Ji berê gelek kêmtir: dem ji bo rojên kişandinê, ji bo pejirandina naverokê û ji bo lihevkirinên kurt. Her tiştê din em digirin ser xwe."
+          },
+          {
+            "q": "Ez şandiyan berî weşandinê dibînim?",
+            "a": "Belê. Hûn naverokê pêşî ji bo pejirandinê distînin. Bêyî erêkirina we tiştek nayê weşandin."
+          },
+          {
+            "q": "Hûn bi kîjan zimanan dixebitin?",
+            "a": "Em şêwirmendî û lênêrînê niha bi almanî pêşkêş dikin. Heke hûn hewcedarê naverok an hevdîtinan bi zimanekî din bin, bi me re têkilî daynin – em ê bi eşkereyî ji we re bibêjin ka çi pêkan e."
+          }
         ]
       },
       {
         "title": "Lêçûn û peyman",
         "items": [
-          { "q": "Bihayê rêveberiya medyaya civakî li Almanyayê çi ye?", "a": "Ev bi çarçoveyê ve girêdayî ye: hejmara kanalan, şandî û Reels di mehekê de, rojên kişandinê li cih, Community Management û dema peymanê. Bi gelemperî bihayên mehane yên sabît hene. Hûn bihayên me piştî hevdîtineke yekem a bêpere wek pêşniyareke nivîskî distînin." },
-          { "q": "Demeke herî kêm a peymanê heye?", "a": "Dema peymanê û dema betalkirinê bi awayekî zelal di pêşniyarê de ne. Medyaya civakî hewcedarê birêkûpêkiyê ye di nav çend mehan de da ku bandorê nîşan bide – em vê yekê di pêşniyara xwe de li ber çavan digirin." },
-          { "q": "Hesab û naverok yên kê ne?", "a": "Hesab her dem yên we dimînin. Em mafên bikaranîna naveroka çêkirî di pêşniyarê de diyar dikin." }
+          {
+            "q": "Bihayê rêveberiya medyaya civakî li Almanyayê çi ye?",
+            "a": "Ev bi çarçoveyê ve girêdayî ye: hejmara kanalan, şandî û Reels di mehekê de, rojên kişandinê li cih, Community Management û dema peymanê. Bi gelemperî bihayên mehane yên sabît hene. Hûn bihayên me piştî hevdîtineke yekem a bêpere wek pêşniyareke nivîskî distînin."
+          },
+          {
+            "q": "Demeke herî kêm a peymanê heye?",
+            "a": "Dema peymanê û dema betalkirinê bi awayekî zelal di pêşniyarê de ne. Medyaya civakî hewcedarê birêkûpêkiyê ye di nav çend mehan de da ku bandorê nîşan bide – em vê yekê di pêşniyara xwe de li ber çavan digirin."
+          },
+          {
+            "q": "Hesab û naverok yên kê ne?",
+            "a": "Hesab her dem yên we dimînin. Em mafên bikaranîna naveroka çêkirî di pêşniyarê de diyar dikin."
+          }
         ]
       },
       {
         "title": "Encam",
         "items": [
-          { "q": "Ez ê çiqas zû encaman bibînim?", "a": "Profîleke lênêrandî û yekgirtî zû tê dîtin. Gihîştin, community û daxwaz bi gelemperî di nav çend mehan de pêş dikevin. Pêşbîniyeke cidî bi hejmaran ne pêkan e." },
-          { "q": "Hûn garantiya bêtir şopîner an dahatê didin?", "a": "Na. Kes nikare bi awayekî cidî garantiya vê bide. Em garantiya çarçoveya xizmetê ya lihevkirî û nirxandineke rastgo ya tiştê ku hatiye bidestxistin didin." },
-          { "q": "Serkeftin çawa tê pîvandin?", "a": "Bi hejmarên sereke yên ku li armanca we tên – mînak gihîştin, şandiyên tomarkirî û parvekirî, serdanên profîlê, klîkên li ser lînkan û daxwazên ku tên. Ji bo vê hûn raporeke birêkûpêk distînin." }
+          {
+            "q": "Ez ê çiqas zû encaman bibînim?",
+            "a": "Profîleke lênêrandî û yekgirtî zû tê dîtin. Gihîştin, community û daxwaz bi gelemperî di nav çend mehan de pêş dikevin. Pêşbîniyeke cidî bi hejmaran ne pêkan e."
+          },
+          {
+            "q": "Hûn garantiya bêtir şopîner an dahatê didin?",
+            "a": "Na. Kes nikare bi awayekî cidî garantiya vê bide. Em garantiya çarçoveya xizmetê ya lihevkirî û nirxandineke rastgo ya tiştê ku hatiye bidestxistin didin."
+          },
+          {
+            "q": "Serkeftin çawa tê pîvandin?",
+            "a": "Bi hejmarên sereke yên ku li armanca we tên – mînak gihîştin, şandiyên tomarkirî û parvekirî, serdanên profîlê, klîkên li ser lînkan û daxwazên ku tên. Ji bo vê hûn raporeke birêkûpêk distînin."
+          }
         ]
       }
     ]
@@ -203,22 +418,31 @@
   "contact": {
     "meta": {
       "title": "Têkilî: hevdîtina yekem a bêpere bixwazin",
-      "description": "Bi Social Media Komplett li Münsterê re têkilî daynin û hevdîtina xwe ya yekem a bêpere û bêyî mecbûriyet ji bo lênêrîna medyaya civakî bixwazin."
+      "description": "Bi Social Media Komplett re, ajansa we ya medyaya civakî ji bo Münster û NRW, têkilî daynin û hevdîtina xwe ya yekem a bêpere û bêyî mecbûriyet bixwazin."
     },
     "eyebrow": "Têkilî",
     "title": "Hevdîtina yekem a bêpere bixwazin",
     "intro": "Bi kurtî ji me re behsa karsaziya xwe bikin. Em ê bi xwe li we vegerin û ji bo hevdîtina yekem randevûyekê diyar bikin.",
     "nextTitle": "Paşê wiha didome",
     "next": [
-      { "title": "Hûn ji me re dinivîsin", "text": "Çend rêz li ser karsaziya we û armancên we bes in." },
-      { "title": "Em li we vedigerin", "text": "Em randevûyekê diyar dikin – bi telefonê, bi vîdyoyê an li cem we, li cih." },
-      { "title": "Hûn pêşniyarekê distînin", "text": "Piştî hevdîtinê hûn pêşniyareke berbiçav û bêyî mecbûriyet distînin." }
+      {
+        "title": "Hûn ji me re dinivîsin",
+        "text": "Çend rêz li ser karsaziya we û armancên we bes in."
+      },
+      {
+        "title": "Em li we vedigerin",
+        "text": "Em randevûyekê diyar dikin – bi telefonê, bi vîdyoyê an li cem we, li cih."
+      },
+      {
+        "title": "Hûn pêşniyarekê distînin",
+        "text": "Piştî hevdîtinê hûn pêşniyareke berbiçav û bêyî mecbûriyet distînin."
+      }
     ],
     "directTitle": "Têkiliya rasterast",
     "emailLabel": "E-name",
     "phoneLabel": "Telefon",
     "areaLabel": "Herêma xebatê",
-    "areaText": "Randevûyên li cih li {areas}, lênêrîn li seranserê {remote}."
+    "areaText": "Lênêrîn li seranserê NRW. Randevûyên li cih di nav dora {km} km li derdora {city} de, li gorî lihevkirinê."
   },
   "blog": {
     "meta": {
@@ -241,7 +465,13 @@
     "noResults": "Ji bo lêgerîna we ti gotar nehat dîtin.",
     "emptyCategory": "Di vê kategoriyê de hê ti gotar nehatiye weşandin.",
     "pageTitleSuffix": "Rûpel {n}",
-    "pagination": { "label": "Navîgasyona rûpelan", "prev": "Rûpela berê", "next": "Rûpela din", "page": "Rûpel {n}", "current": "Rûpel {n} ji {total}" },
+    "pagination": {
+      "label": "Navîgasyona rûpelan",
+      "prev": "Rûpela berê",
+      "next": "Rûpela din",
+      "page": "Rûpel {n}",
+      "current": "Rûpel {n} ji {total}"
+    },
     "category": {
       "eyebrow": "Kategorî",
       "metaTitle": "{name}: gotar û rênîşan",
@@ -283,18 +513,54 @@
       "metaDescription": "Hemû gotarên rêberê yên {name} li ser marketînga medyaya civakî, naverok û Reels ji bo karsaziyên herêmî."
     },
     "categories": {
-      "social-media-marketing": { "name": "Marketînga medyaya civakî", "description": "Bingeh, lêçûn û nirxandin: marketînga medyaya civakî dikare ji bo karsaziyên biçûk çi bike." },
-      "instagram-marketing": { "name": "Marketînga Instagramê", "description": "Format, rîtm û avakirina profîlê ji bo karsaziyên li ser Instagramê." },
-      "facebook-marketing": { "name": "Marketînga Facebookê", "description": "Karsazî çawa dikarin Facebookê ji bo xuyabûna herêmî bi awayekî watedar bi kar bînin." },
-      "tiktok-marketing": { "name": "Marketînga TikTokê", "description": "Derfet, ked û nirxandina TikTokê ji bo karsaziyan." },
-      "reels-video-marketing": { "name": "Reels û marketînga vîdyoyê", "description": "Plankirin, kişandin û weşandina vîdyoyên kurt." },
-      "content-creation": { "name": "Çêkirina naverokê", "description": "Fikir, wêne, grafîk û nivîsên ku li marqeya we tên." },
-      "restaurant-marketing": { "name": "Marketîng ji bo restoranan", "description": "Medyaya civakî ji bo restoran, qehwexane û baran." },
-      "salon-marketing": { "name": "Marketîng ji bo salonan", "description": "Medyaya civakî ji bo kuafor, barbershop û salonên bedewiyê." },
-      "local-business-marketing": { "name": "Marketînga herêmî", "description": "Xuyabûn ji bo karsaziyan li herêma wan bi xwe." },
-      "social-media-strategy": { "name": "Stratejiya medyaya civakî", "description": "Armanc, komên armanc, kanal û hejmarên sereke." },
-      "ai-tools-marketing": { "name": "Amûrên AI di marketîngê de", "description": "Amûrên zîrekiya çêkirî (AI) di karê rojane yê medyaya civakî de li ku alîkar in – û li ku ne." },
-      "tips-guides": { "name": "Şîret û rênîşan", "description": "Şîretên pratîk ên kurt û rênîşanên gav bi gav." }
+      "social-media-marketing": {
+        "name": "Marketînga medyaya civakî",
+        "description": "Bingeh, lêçûn û nirxandin: marketînga medyaya civakî dikare ji bo karsaziyên biçûk çi bike."
+      },
+      "instagram-marketing": {
+        "name": "Marketînga Instagramê",
+        "description": "Format, rîtm û avakirina profîlê ji bo karsaziyên li ser Instagramê."
+      },
+      "facebook-marketing": {
+        "name": "Marketînga Facebookê",
+        "description": "Karsazî çawa dikarin Facebookê ji bo xuyabûna herêmî bi awayekî watedar bi kar bînin."
+      },
+      "tiktok-marketing": {
+        "name": "Marketînga TikTokê",
+        "description": "Derfet, ked û nirxandina TikTokê ji bo karsaziyan."
+      },
+      "reels-video-marketing": {
+        "name": "Reels û marketînga vîdyoyê",
+        "description": "Plankirin, kişandin û weşandina vîdyoyên kurt."
+      },
+      "content-creation": {
+        "name": "Çêkirina naverokê",
+        "description": "Fikir, wêne, grafîk û nivîsên ku li marqeya we tên."
+      },
+      "restaurant-marketing": {
+        "name": "Marketîng ji bo restoranan",
+        "description": "Medyaya civakî ji bo restoran, qehwexane û baran."
+      },
+      "salon-marketing": {
+        "name": "Marketîng ji bo salonan",
+        "description": "Medyaya civakî ji bo kuafor, barbershop û salonên bedewiyê."
+      },
+      "local-business-marketing": {
+        "name": "Marketînga herêmî",
+        "description": "Xuyabûn ji bo karsaziyan li herêma wan bi xwe."
+      },
+      "social-media-strategy": {
+        "name": "Stratejiya medyaya civakî",
+        "description": "Armanc, komên armanc, kanal û hejmarên sereke."
+      },
+      "ai-tools-marketing": {
+        "name": "Amûrên AI di marketîngê de",
+        "description": "Amûrên zîrekiya çêkirî (AI) di karê rojane yê medyaya civakî de li ku alîkar in – û li ku ne."
+      },
+      "tips-guides": {
+        "name": "Şîret û rênîşan",
+        "description": "Şîretên pratîk ên kurt û rênîşanên gav bi gav."
+      }
     }
   }
 }

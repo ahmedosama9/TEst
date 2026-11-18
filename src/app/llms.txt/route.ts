@@ -19,7 +19,7 @@ export async function GET() {
     "",
     `> ${m.common.meta.siteDescription}`,
     "",
-    `Standort: ${site.serviceArea.baseCity}, ${site.serviceArea.region}. Vor-Ort-Produktion: ${site.serviceArea.onSiteAreas.join(", ")}. Betreuung: ${site.serviceArea.remote}.`,
+    `Standort: ${site.serviceArea.baseCity}, ${site.serviceArea.state}. Betreuung für Unternehmen in ganz ${site.serviceArea.stateShort}. Vor-Ort-Produktion im Umkreis von rund ${site.serviceArea.onSiteRadiusKm} km Fahrstrecke um ${site.serviceArea.baseCity}, nach individueller Absprache (keine Zusage für jeden Ort in ${site.serviceArea.stateShort}).`,
     `Sprachversionen: ${locales.map((l) => `${localeConfig[l].nativeName} (${u(href("home", l))})`).join(", ")}. Maßgeblich ist die deutsche Fassung.`,
     "Preise: auf Anfrage (keine veröffentlichten Preise). Portfolio-Motive sind Demonstrationsbeispiele, keine Kundenprojekte.",
     "",

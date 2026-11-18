@@ -13,22 +13,58 @@
     "industryLabel": "Sektör",
     "goalLabel": "Şunun için uygun",
     "items": [
-      { "title": "Mutfak Reel'i: bir yemek hazırlanıyor", "industry": "Gastronomi", "format": "Reel", "goal": "İştah açmak ve çevredeki yeni misafirlere ulaşmak", "description": "İlk hamleden hazır tabağa birkaç saniyede – restoranın tarzında altyazı ve kapak görseliyle." },
-      { "title": "Öncesi-sonrası kaydırmalı gönderisi", "industry": "Güzellik & Salonlar", "format": "Kaydırmalı gönderi", "goal": "Sonuçları göstermek ve güven oluşturmak", "description": "Bir değişimin aynı ışıkta çekilmiş birkaç karesi; uygulamaya dair kısa bir açıklamayla tamamlanır." },
-      { "title": "Stüdyo turu", "industry": "Fitness stüdyoları", "format": "Reel", "goal": "Çekingenliği azaltmak ve deneme antrenmanına davet etmek", "description": "Antrenman alanı, kurs salonu ve resepsiyonda kısa bir gezinti – yeni bir üyenin gözünden." },
-      { "title": "Ekip tanıtımı", "industry": "Yerel işletmeler", "format": "Fotoğraf serisi", "goal": "Samimi görünmek ve nitelikli elemanlara hitap etmek", "description": "Kısa alıntılarla portreler: Burada kimler çalışıyor ve işi özel kılan ne?" },
-      { "title": "Story serisi olarak haftalık menü", "industry": "Gastronomi", "format": "Story", "goal": "Müdavimleri güncel bilgilendirmek", "description": "Her hafta birkaç dakikada güncellenen, yeniden kullanılabilir bir şablon." },
-      { "title": "Üç soru, üç yanıt", "industry": "Yerel işletmeler", "format": "Reel", "goal": "Uzmanlığı göstermek ve taleplere zemin hazırlamak", "description": "Dükkânda veya telefonda tekrar tekrar sorulan sorulara kısa yanıtlar." }
+      {
+        "title": "Mutfak Reel'i: bir yemek hazırlanıyor",
+        "industry": "Gastronomi",
+        "format": "Reel",
+        "goal": "İştah açmak ve çevredeki yeni misafirlere ulaşmak",
+        "description": "İlk hamleden hazır tabağa birkaç saniyede – restoranın tarzında altyazı ve kapak görseliyle."
+      },
+      {
+        "title": "Öncesi-sonrası kaydırmalı gönderisi",
+        "industry": "Güzellik & Salonlar",
+        "format": "Kaydırmalı gönderi",
+        "goal": "Sonuçları göstermek ve güven oluşturmak",
+        "description": "Bir değişimin aynı ışıkta çekilmiş birkaç karesi; uygulamaya dair kısa bir açıklamayla tamamlanır."
+      },
+      {
+        "title": "Stüdyo turu",
+        "industry": "Fitness stüdyoları",
+        "format": "Reel",
+        "goal": "Çekingenliği azaltmak ve deneme antrenmanına davet etmek",
+        "description": "Antrenman alanı, kurs salonu ve resepsiyonda kısa bir gezinti – yeni bir üyenin gözünden."
+      },
+      {
+        "title": "Ekip tanıtımı",
+        "industry": "Yerel işletmeler",
+        "format": "Fotoğraf serisi",
+        "goal": "Samimi görünmek ve nitelikli elemanlara hitap etmek",
+        "description": "Kısa alıntılarla portreler: Burada kimler çalışıyor ve işi özel kılan ne?"
+      },
+      {
+        "title": "Story serisi olarak haftalık menü",
+        "industry": "Gastronomi",
+        "format": "Story",
+        "goal": "Müdavimleri güncel bilgilendirmek",
+        "description": "Her hafta birkaç dakikada güncellenen, yeniden kullanılabilir bir şablon."
+      },
+      {
+        "title": "Üç soru, üç yanıt",
+        "industry": "Yerel işletmeler",
+        "format": "Reel",
+        "goal": "Uzmanlığı göstermek ve taleplere zemin hazırlamak",
+        "description": "Dükkânda veya telefonda tekrar tekrar sorulan sorulara kısa yanıtlar."
+      }
     ]
   },
   "about": {
     "meta": {
       "title": "Hakkımızda: Münster Merkezli Sosyal Medya Ajansı",
-      "description": "Social Media Komplett, yerel işletmeler için Münster merkezli bir sosyal medya ajansıdır. Değerlerimizi, nasıl çalıştığımızı ve hizmet bölgemizi öğrenin."
+      "description": "Social Media Komplett, tüm NRW'deki işletmeler için Münster merkezli bir sosyal medya ajansıdır. Değerlerimizi, nasıl çalıştığımızı ve hizmet bölgemizi öğrenin."
     },
     "eyebrow": "Hakkımızda",
     "title": "Social Media Komplett: yerel işletmelerin ajansı",
-    "intro": "Social Media Komplett, Münster merkezli bir sosyal medya ajansıdır. Müşterisini yerinde kazanan işletmeler için içerik üretiyor, Reels çekiyor ve kanallarını yönetiyoruz – gastronomide, salonlarda, stüdyolarda ve yerel perakendede.",
+    "intro": "Social Media Komplett, Münster merkezli bir sosyal medya ajansıdır; Münster'deki ve tüm Kuzey Ren-Vestfalya'daki (NRW) işletmelere hizmet verir. Müşterisini yerinde kazanan işletmeler için içerik üretiyor, Reels çekiyor ve kanallarını yönetiyoruz – gastronomide, salonlarda, stüdyolarda ve yerel perakendede.",
     "storyTitle": "Neden varız?",
     "story": [
       "Pek çok iyi işletme internette neredeyse görünmüyor. Gösterecek bir şeyleri olmadığı için değil, günlük yoğunlukta zaman kalmadığı için: fikirlere, çekime, kurguya ve düzenli yayına.",
@@ -37,18 +73,45 @@
     ],
     "valuesTitle": "Neyi savunuyoruz?",
     "values": [
-      { "title": "Dürüstlük", "text": "Takipçi sayısı veya ciro vaat etmiyoruz. Titiz iş, net süreçler ve açık bir değerlendirme vaat ediyoruz." },
-      { "title": "Yakınlık", "text": "İşletmenizi yerinde tanıyoruz. Size uyan içerikler ancak böyle ortaya çıkar." },
-      { "title": "Güvenilirlik", "text": "Kararlaştırılmış tarihler, belirli onay adımları, düzenli raporlar – neyin ne zaman olacağını bilirsiniz." },
-      { "title": "Anlaşılırlık", "text": "Ne yaptığımızı ve neden yaptığımızı açıklıyoruz. Kimsenin ihtiyaç duymadığı teknik terimler olmadan." }
+      {
+        "title": "Dürüstlük",
+        "text": "Takipçi sayısı veya ciro vaat etmiyoruz. Titiz iş, net süreçler ve açık bir değerlendirme vaat ediyoruz."
+      },
+      {
+        "title": "Yakınlık",
+        "text": "İşletmenizi yerinde tanıyoruz. Size uyan içerikler ancak böyle ortaya çıkar."
+      },
+      {
+        "title": "Güvenilirlik",
+        "text": "Kararlaştırılmış tarihler, belirli onay adımları, düzenli raporlar – neyin ne zaman olacağını bilirsiniz."
+      },
+      {
+        "title": "Anlaşılırlık",
+        "text": "Ne yaptığımızı ve neden yaptığımızı açıklıyoruz. Kimsenin ihtiyaç duymadığı teknik terimler olmadan."
+      }
     ],
     "factsTitle": "Bir bakışta",
     "facts": {
-      "what": { "label": "Ne yapıyoruz", "value": "Sosyal medya yönetimi, içerik üretimi, Reels & video prodüksiyonu, strateji ve topluluk yönetimi" },
-      "who": { "label": "Kimler için", "value": "Yerel işletmeler; özellikle gastronomi, güzellik ve kuaför salonları, fitness stüdyoları, perakende ve hizmet sağlayıcılar" },
-      "base": { "label": "Merkez", "value": "Münster, Nordrhein-Westfalen (Kuzey Ren-Vestfalya)" },
-      "area": { "label": "Hizmet bölgesi", "value": "Yerinde çekim: {areas}; kanal yönetimi: tüm {remote}" },
-      "platforms": { "label": "Platformlar", "value": "Instagram, Facebook ve TikTok" }
+      "what": {
+        "label": "Ne yapıyoruz",
+        "value": "Sosyal medya yönetimi, içerik üretimi, Reels & video prodüksiyonu, strateji ve topluluk yönetimi"
+      },
+      "who": {
+        "label": "Kimler için",
+        "value": "Yerel işletmeler; özellikle gastronomi, güzellik ve kuaför salonları, fitness stüdyoları, perakende ve hizmet sağlayıcılar"
+      },
+      "base": {
+        "label": "Merkez",
+        "value": "Münster, Nordrhein-Westfalen (Kuzey Ren-Vestfalya)"
+      },
+      "area": {
+        "label": "Hizmet bölgesi",
+        "value": "Tüm NRW'deki işletmeler için kanal yönetimi; yerinde çekim: {city} çevresinde yaklaşık {km} km içinde, görüşmeye bağlı"
+      },
+      "platforms": {
+        "label": "Platformlar",
+        "value": "Instagram, Facebook ve TikTok"
+      }
     },
     "teamTitle": "Social Media Komplett'in arkasında kimler var?",
     "languagesTitle": "Diller",
@@ -64,17 +127,66 @@
     "intro": "Net bir süreç size zaman kazandırır ve hiçbir işin yarım kalmamasını sağlar. İlk görüşmeden aylık değerlendirmeye kadar böyle çalışıyoruz.",
     "stepLabel": "{n}. adım",
     "steps": [
-      { "title": "Ücretsiz ön görüşme", "text": "İşletmenizi tanıyor ve sosyal medyadan ne beklediğinizi netleştiriyoruz.", "details": ["Kanallarınızın mevcut durumu", "Hedefler ve hedef kitle", "Uygun kapsam ve sonraki adımlar"] },
-      { "title": "Strateji ve plan", "text": "Kanalları, konuları, formatları ve ritmi belirliyor, hepsini bir içerik takviminde topluyoruz.", "details": ["Kanal seçimi ve konumlandırma", "Tekrarlayan formatlar", "Onayınıza sunulan içerik takvimi"] },
-      { "title": "Yerinde içerik üretimi", "text": "İşletmenize geliyor, fotoğraf ve videoları belirli çekim günlerinde toplu olarak üretiyoruz.", "details": ["Fikir listesiyle hazırlık", "Reels ve fotoğraf çekimi", "Kurgu, altyazı, grafik ve metinler"] },
-      { "title": "Onay ve yayınlama", "text": "Tüm içerikleri önceden görürsünüz. Onayınızın ardından plana uygun olarak yayınlıyoruz.", "details": ["Derli toplu onay süreci", "Planlı yayınlama", "Pakete göre topluluk yönetimi"] },
-      { "title": "Değerlendirme ve iyileştirme", "text": "Neyin işe yaradığını düzenli olarak değerlendiriyor, konuları ve formatları uyarlıyoruz.", "details": ["Anlaşılır rapor", "Somut öneriler", "Bir sonraki ayın planlaması"] }
+      {
+        "title": "Ücretsiz ön görüşme",
+        "text": "İşletmenizi tanıyor ve sosyal medyadan ne beklediğinizi netleştiriyoruz.",
+        "details": [
+          "Kanallarınızın mevcut durumu",
+          "Hedefler ve hedef kitle",
+          "Uygun kapsam ve sonraki adımlar"
+        ]
+      },
+      {
+        "title": "Strateji ve plan",
+        "text": "Kanalları, konuları, formatları ve ritmi belirliyor, hepsini bir içerik takviminde topluyoruz.",
+        "details": [
+          "Kanal seçimi ve konumlandırma",
+          "Tekrarlayan formatlar",
+          "Onayınıza sunulan içerik takvimi"
+        ]
+      },
+      {
+        "title": "Yerinde içerik üretimi",
+        "text": "İşletmenize geliyor, fotoğraf ve videoları belirli çekim günlerinde toplu olarak üretiyoruz.",
+        "details": [
+          "Fikir listesiyle hazırlık",
+          "Reels ve fotoğraf çekimi",
+          "Kurgu, altyazı, grafik ve metinler"
+        ]
+      },
+      {
+        "title": "Onay ve yayınlama",
+        "text": "Tüm içerikleri önceden görürsünüz. Onayınızın ardından plana uygun olarak yayınlıyoruz.",
+        "details": [
+          "Derli toplu onay süreci",
+          "Planlı yayınlama",
+          "Pakete göre topluluk yönetimi"
+        ]
+      },
+      {
+        "title": "Değerlendirme ve iyileştirme",
+        "text": "Neyin işe yaradığını düzenli olarak değerlendiriyor, konuları ve formatları uyarlıyoruz.",
+        "details": [
+          "Anlaşılır rapor",
+          "Somut öneriler",
+          "Bir sonraki ayın planlaması"
+        ]
+      }
     ],
     "onsiteTitle": "Yerinde çekim günü nasıl geçer?",
     "onsite": [
-      { "title": "Randevudan önce", "text": "Bir fikir listesi ve akış planı alırsınız. Kimin ve neyin gösterilebileceğini netleştiririz." },
-      { "title": "Çekim gününde", "text": "Ekipmanı biz getirir ve listeyi sırayla tamamlarız – mümkün olduğunca işletmenizi aksatmadan." },
-      { "title": "Randevudan sonra", "text": "Kurguyu, tasarımı ve metinleri hazırlarız. Hazır içerikleri onayınız için alırsınız." }
+      {
+        "title": "Randevudan önce",
+        "text": "Bir fikir listesi ve akış planı alırsınız. Kimin ve neyin gösterilebileceğini netleştiririz."
+      },
+      {
+        "title": "Çekim gününde",
+        "text": "Ekipmanı biz getirir ve listeyi sırayla tamamlarız – mümkün olduğunca işletmenizi aksatmadan."
+      },
+      {
+        "title": "Randevudan sonra",
+        "text": "Kurguyu, tasarımı ve metinleri hazırlarız. Hazır içerikleri onayınız için alırsınız."
+      }
     ],
     "yourPartTitle": "Sizden neye ihtiyacımız var?",
     "yourPart": [
@@ -97,19 +209,39 @@
         "name": "Starter",
         "tagline": "Güvenilir bir başlangıç için",
         "audience": "Tek bir kanalı düzenli ve profesyonel biçimde yürütmek isteyen işletmeler için.",
-        "features": ["Bir kanalın yönetimi", "Onayınıza sunulan içerik takvimi", "Fotoğraf, grafik ve metin içeren gönderiler", "Planlama ve yayınlama", "Düzenli kısa rapor"]
+        "features": [
+          "Bir kanalın yönetimi",
+          "Onayınıza sunulan içerik takvimi",
+          "Fotoğraf, grafik ve metin içeren gönderiler",
+          "Planlama ve yayınlama",
+          "Düzenli kısa rapor"
+        ]
       },
       "business": {
         "name": "Business",
         "tagline": "Görünür bir büyüme için",
         "audience": "Reels ile yeni müşterilere ulaşmak ve talepleri güvenilir biçimde yanıtlamak isteyen işletmeler için.",
-        "features": ["Starter'daki her şey", "Düzenli Reels prodüksiyonu", "Yerinde çekim günleri", "Başlangıçta strateji atölyesi", "Topluluk yönetimi", "Ayrıntılı aylık rapor"]
+        "features": [
+          "Starter'daki her şey",
+          "Düzenli Reels prodüksiyonu",
+          "Yerinde çekim günleri",
+          "Başlangıçta strateji atölyesi",
+          "Topluluk yönetimi",
+          "Ayrıntılı aylık rapor"
+        ]
       },
       "komplett": {
         "name": "Komplett",
         "tagline": "Her yönüyle eksiksiz yönetim",
         "audience": "Sosyal medyayı tümüyle devretmek ve birden fazla kanalda yer almak isteyen işletmeler için.",
-        "features": ["Business'taki her şey", "Birden fazla kanal", "Genişletilmiş Reels ve gönderi kapsamı", "Stories ve güncel içerikler", "Düzenli değerlendirme görüşmeleri", "Kısa vadeli konuların öncelikli uygulanması"]
+        "features": [
+          "Business'taki her şey",
+          "Birden fazla kanal",
+          "Genişletilmiş Reels ve gönderi kapsamı",
+          "Stories ve güncel içerikler",
+          "Düzenli değerlendirme görüşmeleri",
+          "Kısa vadeli konuların öncelikli uygulanması"
+        ]
       }
     },
     "compareTitle": "Paket karşılaştırması",
@@ -127,18 +259,44 @@
     },
     "termsTitle": "Koşullar",
     "terms": {
-      "term": { "label": "Sözleşme süresi", "value": "Asgari süre {months} ay", "fallback": "Süre ve fesih ihbar süresi anlaşmaya bağlıdır – ikisi de teklifte şeffaf biçimde yer alır." },
-      "travel": { "label": "Yol", "value": "{city} çıkışlı {km} km'ye kadar yol masrafları dahildir.", "fallback": "Hizmet bölgemiz içindeki yol masraflarını teklifte düzenliyoruz; daha uzun mesafeler görüşmeye bağlıdır." },
-      "billing": { "label": "Faturalandırma", "value": "Kararlaştırılan sabit fiyat üzerinden aylık. Ücretli reklamlar için reklam bütçeleri dahil değildir ve doğrudan platforma ödenir." },
-      "rights": { "label": "Kullanım hakları", "value": "Üretilen içeriklerin kendi kanallarınızda kullanımını teklifte düzenliyoruz." }
+      "term": {
+        "label": "Sözleşme süresi",
+        "value": "Asgari süre {months} ay",
+        "fallback": "Süre ve fesih ihbar süresi anlaşmaya bağlıdır – ikisi de teklifte şeffaf biçimde yer alır."
+      },
+      "travel": {
+        "label": "Yol",
+        "value": "{city} çıkışlı {km} km'ye kadar yol masrafları dahildir.",
+        "fallback": "Hizmet bölgemiz içindeki yol masraflarını teklifte düzenliyoruz; daha uzun mesafeler görüşmeye bağlıdır."
+      },
+      "billing": {
+        "label": "Faturalandırma",
+        "value": "Kararlaştırılan sabit fiyat üzerinden aylık. Ücretli reklamlar için reklam bütçeleri dahil değildir ve doğrudan platforma ödenir."
+      },
+      "rights": {
+        "label": "Kullanım hakları",
+        "value": "Üretilen içeriklerin kendi kanallarınızda kullanımını teklifte düzenliyoruz."
+      }
     },
     "addonsTitle": "Ek hizmetler",
     "addonsIntro": "Her paket genişletilebilir. Fiyatlar talep üzerine.",
     "addons": {
-      "extraReels": { "title": "Ek Reels", "text": "Kampanyalar, etkinlikler veya sezonluk konular için daha fazla kısa video." },
-      "extraShoot": { "title": "Ek çekim günü", "text": "Yerinde bir randevu daha; örneğin yeni bir açılış için." },
-      "adsManagement": { "title": "Ücretli reklam yönetimi", "text": "Instagram ve Facebook'ta kampanyaların kurulumu ve takibi." },
-      "photoShoot": { "title": "Fotoğraf çekimi", "text": "Web sitesi, menü veya ekip fotoğrafları için ayrı bir çekim." }
+      "extraReels": {
+        "title": "Ek Reels",
+        "text": "Kampanyalar, etkinlikler veya sezonluk konular için daha fazla kısa video."
+      },
+      "extraShoot": {
+        "title": "Ek çekim günü",
+        "text": "Yerinde bir randevu daha; örneğin yeni bir açılış için."
+      },
+      "adsManagement": {
+        "title": "Ücretli reklam yönetimi",
+        "text": "Instagram ve Facebook'ta kampanyaların kurulumu ve takibi."
+      },
+      "photoShoot": {
+        "title": "Fotoğraf çekimi",
+        "text": "Web sitesi, menü veya ekip fotoğrafları için ayrı bir çekim."
+      }
     },
     "explainerTitle": "Almanya'da sosyal medya yönetimi ne kadar tutar?",
     "explainer": [
@@ -148,10 +306,22 @@
     ],
     "explainerLink": "Ayrıntılı blog yazısı: Sosyal medya yönetimi ne kadar tutar?",
     "faq": [
-      { "q": "Burada neden fiyat yok?", "a": "Çünkü iş yükü işletmeden işletmeye çok farklıdır. Sonunda uymayacak bir fiyat yerine, ön görüşmenin ardından sabit aylık fiyat içeren somut bir teklif alırsınız." },
-      { "q": "Paketi sonradan değiştirebilir miyim?", "a": "Evet. İhtiyacınız değişirse kapsamı mümkün olan en yakın tarihte uyarlıyoruz. Ayrıntılar teklifte yer alır." },
-      { "q": "Reklamlar pakete dahil mi?", "a": "Hayır. Paketler organik içerikleri ve kanal yönetimini kapsar. Ücretli reklamlar ek hizmet olarak alınabilir; reklam bütçesini doğrudan platforma ödersiniz." },
-      { "q": "Sonuç garantisi veriyor musunuz?", "a": "Hayır; bunu yapan herkese karşı da temkinli olmanızı öneririz. Erişim ve talepler, kimsenin tümüyle kontrol edemediği pek çok etkene bağlıdır. Biz kararlaştırılan hizmet kapsamını, titiz işi ve dürüst bir değerlendirmeyi garanti ediyoruz." }
+      {
+        "q": "Burada neden fiyat yok?",
+        "a": "Çünkü iş yükü işletmeden işletmeye çok farklıdır. Sonunda uymayacak bir fiyat yerine, ön görüşmenin ardından sabit aylık fiyat içeren somut bir teklif alırsınız."
+      },
+      {
+        "q": "Paketi sonradan değiştirebilir miyim?",
+        "a": "Evet. İhtiyacınız değişirse kapsamı mümkün olan en yakın tarihte uyarlıyoruz. Ayrıntılar teklifte yer alır."
+      },
+      {
+        "q": "Reklamlar pakete dahil mi?",
+        "a": "Hayır. Paketler organik içerikleri ve kanal yönetimini kapsar. Ücretli reklamlar ek hizmet olarak alınabilir; reklam bütçesini doğrudan platforma ödersiniz."
+      },
+      {
+        "q": "Sonuç garantisi veriyor musunuz?",
+        "a": "Hayır; bunu yapan herkese karşı da temkinli olmanızı öneririz. Erişim ve talepler, kimsenin tümüyle kontrol edemediği pek çok etkene bağlıdır. Biz kararlaştırılan hizmet kapsamını, titiz işi ve dürüst bir değerlendirmeyi garanti ediyoruz."
+      }
     ]
   },
   "faq": {
@@ -166,36 +336,81 @@
       {
         "title": "Temel bilgiler",
         "items": [
-          { "q": "Sosyal medya yönetimi nedir?", "a": "Sosyal medya yönetimi, bir işletmenin sosyal medya kanallarıyla ilgili tekrarlayan tüm işleri kapsar: konuları planlamak, içerik üretmek, gönderileri yayınlamak, yorum ve mesajlara yanıt vermek ve sonuçları değerlendirmek." },
-          { "q": "Sosyal medya ajansı ne yapar?", "a": "Bu işleri bir işletme adına tümüyle veya kısmen üstlenir. Social Media Komplett'te buna strateji, içerik üretimi, yerinde Reels çekimi, yayınlama, topluluk yönetimi ve değerlendirme dahildir." },
-          { "q": "Sosyal medyayı dışarıya vermek mantıklı mı?", "a": "İşletmede düzenli ve iyi hazırlanmış içerikler için zaman veya bilgi birikimi eksikse mantıklıdır. Paylaşımları kendisi yapmayı sevenler bunun yerine çekim günü veya strateji gibi tekil hizmetleri alabilir." },
-          { "q": "Hangi işletmeler için çalışıyorsunuz?", "a": "Öncelikle yerel işletmeler için: gastronomi, kuaför ve güzellik salonları, fitness stüdyoları, perakende, zanaat ve hizmet sağlayıcılar." }
+          {
+            "q": "Sosyal medya yönetimi nedir?",
+            "a": "Sosyal medya yönetimi, bir işletmenin sosyal medya kanallarıyla ilgili tekrarlayan tüm işleri kapsar: konuları planlamak, içerik üretmek, gönderileri yayınlamak, yorum ve mesajlara yanıt vermek ve sonuçları değerlendirmek."
+          },
+          {
+            "q": "Sosyal medya ajansı ne yapar?",
+            "a": "Bu işleri bir işletme adına tümüyle veya kısmen üstlenir. Social Media Komplett'te buna strateji, içerik üretimi, yerinde Reels çekimi, yayınlama, topluluk yönetimi ve değerlendirme dahildir."
+          },
+          {
+            "q": "Sosyal medyayı dışarıya vermek mantıklı mı?",
+            "a": "İşletmede düzenli ve iyi hazırlanmış içerikler için zaman veya bilgi birikimi eksikse mantıklıdır. Paylaşımları kendisi yapmayı sevenler bunun yerine çekim günü veya strateji gibi tekil hizmetleri alabilir."
+          },
+          {
+            "q": "Hangi işletmeler için çalışıyorsunuz?",
+            "a": "Öncelikle yerel işletmeler için: gastronomi, kuaför ve güzellik salonları, fitness stüdyoları, perakende, zanaat ve hizmet sağlayıcılar."
+          }
         ]
       },
       {
         "title": "İş birliği",
         "items": [
-          { "q": "İş birliği nasıl ilerliyor?", "a": "Beş adımda: ücretsiz ön görüşme, strateji ve içerik takvimi, yerinde içerik üretimi, onay ve yayınlama, düzenli değerlendirme." },
-          { "q": "Çekimler için işletmeme geliyor musunuz?", "a": "Evet. Fotoğraf ve videolar doğrudan sizin mekânınızda çekilir. Yerinde çekimleri şu anda Münster ve Münsterland'da sunuyoruz; başka yerler görüşmeye bağlı olarak mümkündür." },
-          { "q": "Kendim ne kadar zaman ayırmalıyım?", "a": "Şimdiye kadar olduğundan belirgin biçimde daha az: çekim günleri, içeriklerin onayı ve kısa görüşmeler için zaman. Geri kalan her şeyi biz üstleniyoruz." },
-          { "q": "Gönderileri yayına girmeden önce görüyor muyum?", "a": "Evet. İçerikleri onayınız için önceden alırsınız. Onayınız olmadan hiçbir şey yayınlanmaz." },
-          { "q": "Hangi dillerde çalışıyorsunuz?", "a": "Danışmanlık ve hizmeti şu anda Almanca olarak veriyoruz. Başka bir dilde içeriğe veya görüşmeye ihtiyacınız varsa bize bildirin – neyin mümkün olduğunu size açıkça söyleriz." }
+          {
+            "q": "İş birliği nasıl ilerliyor?",
+            "a": "Beş adımda: ücretsiz ön görüşme, strateji ve içerik takvimi, yerinde içerik üretimi, onay ve yayınlama, düzenli değerlendirme."
+          },
+          {
+            "q": "Çekimler için işletmeme geliyor musunuz?",
+            "a": "Evet. Fotoğraf ve videolar doğrudan sizin mekânınızda çekilir. Yerinde çekimleri Münster çevresinde ve NRW'nin büyük bölümünde, sürüş mesafesine ve bireysel görüşmeye bağlı olarak sunuyoruz."
+          },
+          {
+            "q": "Kendim ne kadar zaman ayırmalıyım?",
+            "a": "Şimdiye kadar olduğundan belirgin biçimde daha az: çekim günleri, içeriklerin onayı ve kısa görüşmeler için zaman. Geri kalan her şeyi biz üstleniyoruz."
+          },
+          {
+            "q": "Gönderileri yayına girmeden önce görüyor muyum?",
+            "a": "Evet. İçerikleri onayınız için önceden alırsınız. Onayınız olmadan hiçbir şey yayınlanmaz."
+          },
+          {
+            "q": "Hangi dillerde çalışıyorsunuz?",
+            "a": "Danışmanlık ve hizmeti şu anda Almanca olarak veriyoruz. Başka bir dilde içeriğe veya görüşmeye ihtiyacınız varsa bize bildirin – neyin mümkün olduğunu size açıkça söyleriz."
+          }
         ]
       },
       {
         "title": "Maliyet ve sözleşme",
         "items": [
-          { "q": "Almanya'da sosyal medya yönetimi ne kadar tutar?", "a": "Bu, kapsama bağlıdır: kanal sayısı, aylık gönderi ve Reels sayısı, yerinde çekim günleri, topluluk yönetimi ve sözleşme süresi. Yaygın olan aylık sabit ücretlerdir. Fiyatlarımızı ücretsiz ön görüşmenin ardından yazılı teklif olarak alırsınız." },
-          { "q": "Asgari bir sözleşme süresi var mı?", "a": "Süre ve fesih ihbar süresi teklifte şeffaf biçimde yer alır. Sosyal medyanın etki göstermesi için birkaç ay boyunca düzenlilik gerekir – önerimizde bunu dikkate alıyoruz." },
-          { "q": "Hesaplar ve içerikler kime ait?", "a": "Hesaplar her zaman sizin kalır. Üretilen içeriklerin kullanım haklarını teklifte düzenliyoruz." }
+          {
+            "q": "Almanya'da sosyal medya yönetimi ne kadar tutar?",
+            "a": "Bu, kapsama bağlıdır: kanal sayısı, aylık gönderi ve Reels sayısı, yerinde çekim günleri, topluluk yönetimi ve sözleşme süresi. Yaygın olan aylık sabit ücretlerdir. Fiyatlarımızı ücretsiz ön görüşmenin ardından yazılı teklif olarak alırsınız."
+          },
+          {
+            "q": "Asgari bir sözleşme süresi var mı?",
+            "a": "Süre ve fesih ihbar süresi teklifte şeffaf biçimde yer alır. Sosyal medyanın etki göstermesi için birkaç ay boyunca düzenlilik gerekir – önerimizde bunu dikkate alıyoruz."
+          },
+          {
+            "q": "Hesaplar ve içerikler kime ait?",
+            "a": "Hesaplar her zaman sizin kalır. Üretilen içeriklerin kullanım haklarını teklifte düzenliyoruz."
+          }
         ]
       },
       {
         "title": "Sonuçlar",
         "items": [
-          { "q": "Sonuçları ne kadar çabuk görürüm?", "a": "Bakımlı, bütünlüklü bir profil kısa sürede fark edilir. Erişim, topluluk ve talepler ise genellikle birkaç ay içinde gelişir. Rakamlarla ciddi bir öngörüde bulunmak mümkün değildir." },
-          { "q": "Daha fazla takipçi veya ciro garanti ediyor musunuz?", "a": "Hayır. Bunu kimse dürüstçe garanti edemez. Biz kararlaştırılan hizmet kapsamını ve elde edilenlerin dürüst bir değerlendirmesini garanti ediyoruz." },
-          { "q": "Başarı nasıl ölçülüyor?", "a": "Hedefinize uygun göstergelerle – örneğin erişim, kaydedilen ve paylaşılan gönderiler, profil ziyaretleri, bağlantı tıklamaları ve gelen talepler. Bununla ilgili düzenli bir rapor alırsınız." }
+          {
+            "q": "Sonuçları ne kadar çabuk görürüm?",
+            "a": "Bakımlı, bütünlüklü bir profil kısa sürede fark edilir. Erişim, topluluk ve talepler ise genellikle birkaç ay içinde gelişir. Rakamlarla ciddi bir öngörüde bulunmak mümkün değildir."
+          },
+          {
+            "q": "Daha fazla takipçi veya ciro garanti ediyor musunuz?",
+            "a": "Hayır. Bunu kimse dürüstçe garanti edemez. Biz kararlaştırılan hizmet kapsamını ve elde edilenlerin dürüst bir değerlendirmesini garanti ediyoruz."
+          },
+          {
+            "q": "Başarı nasıl ölçülüyor?",
+            "a": "Hedefinize uygun göstergelerle – örneğin erişim, kaydedilen ve paylaşılan gönderiler, profil ziyaretleri, bağlantı tıklamaları ve gelen talepler. Bununla ilgili düzenli bir rapor alırsınız."
+          }
         ]
       }
     ]
@@ -203,22 +418,31 @@
   "contact": {
     "meta": {
       "title": "İletişim: Ücretsiz Ön Görüşme Talep Edin",
-      "description": "Münster'deki Social Media Komplett ile iletişime geçin ve sosyal medya yönetimi için ücretsiz, bağlayıcı olmayan ön görüşmenizi talep edin."
+      "description": "Münster ve NRW için sosyal medya ajansınız Social Media Komplett ile iletişime geçin; ücretsiz ve bağlayıcı olmayan ön görüşmenizi talep edin."
     },
     "eyebrow": "İletişim",
     "title": "Ücretsiz ön görüşme talep edin",
     "intro": "İşletmenizden kısaca bahsedin. Size kişisel olarak dönüş yapar ve ön görüşme için bir randevu belirleriz.",
     "nextTitle": "Sonrasında neler olur?",
     "next": [
-      { "title": "Bize yazarsınız", "text": "İşletmeniz ve hedefleriniz hakkında birkaç satır yeterlidir." },
-      { "title": "Size dönüş yaparız", "text": "Bir randevu belirleriz – telefonla, görüntülü görüşmeyle veya sizin mekânınızda." },
-      { "title": "Bir öneri alırsınız", "text": "Görüşmenin ardından somut ve bağlayıcı olmayan bir teklif alırsınız." }
+      {
+        "title": "Bize yazarsınız",
+        "text": "İşletmeniz ve hedefleriniz hakkında birkaç satır yeterlidir."
+      },
+      {
+        "title": "Size dönüş yaparız",
+        "text": "Bir randevu belirleriz – telefonla, görüntülü görüşmeyle veya sizin mekânınızda."
+      },
+      {
+        "title": "Bir öneri alırsınız",
+        "text": "Görüşmenin ardından somut ve bağlayıcı olmayan bir teklif alırsınız."
+      }
     ],
     "directTitle": "Doğrudan iletişim",
     "emailLabel": "E-posta",
     "phoneLabel": "Telefon",
     "areaLabel": "Hizmet bölgesi",
-    "areaText": "Yerinde çekim: {areas}; kanal yönetimi: tüm {remote}."
+    "areaText": "Kanal yönetimi: tüm NRW. Yerinde çekim: {city} çevresinde yaklaşık {km} km içinde, görüşmeye bağlı."
   },
   "blog": {
     "meta": {
@@ -241,7 +465,13 @@
     "noResults": "Aramanızla eşleşen yazı bulunamadı.",
     "emptyCategory": "Bu kategoride henüz yazı yayınlanmadı.",
     "pageTitleSuffix": "Sayfa {n}",
-    "pagination": { "label": "Sayfalar arası gezinme", "prev": "Önceki sayfa", "next": "Sonraki sayfa", "page": "Sayfa {n}", "current": "Sayfa {n} / {total}" },
+    "pagination": {
+      "label": "Sayfalar arası gezinme",
+      "prev": "Önceki sayfa",
+      "next": "Sonraki sayfa",
+      "page": "Sayfa {n}",
+      "current": "Sayfa {n} / {total}"
+    },
     "category": {
       "eyebrow": "Kategori",
       "metaTitle": "{name}: Yazılar ve Rehberler",
@@ -283,18 +513,54 @@
       "metaDescription": "{name} imzalı, yerel işletmeler için sosyal medya pazarlaması, içerik ve Reels konulu tüm blog yazıları."
     },
     "categories": {
-      "social-media-marketing": { "name": "Sosyal Medya Pazarlaması", "description": "Temel bilgiler, maliyetler ve değerlendirme: sosyal medya pazarlamasının küçük işletmelere neler kazandırabileceği." },
-      "instagram-marketing": { "name": "Instagram Pazarlaması", "description": "Instagram'daki işletmeler için formatlar, ritim ve profil kurulumu." },
-      "facebook-marketing": { "name": "Facebook Pazarlaması", "description": "İşletmeler Facebook'u yerel görünürlük için nasıl verimli kullanır?" },
-      "tiktok-marketing": { "name": "TikTok Pazarlaması", "description": "İşletmeler için TikTok: fırsatlar, emek ve değerlendirme." },
-      "reels-video-marketing": { "name": "Reels & Video Pazarlaması", "description": "Kısa videoları planlamak, çekmek ve yayınlamak." },
-      "content-creation": { "name": "İçerik Üretimi", "description": "Markanıza uyan fikirler, fotoğraflar, grafikler ve metinler." },
-      "restaurant-marketing": { "name": "Restoranlar için Pazarlama", "description": "Restoranlar, kafeler ve barlar için sosyal medya." },
-      "salon-marketing": { "name": "Salonlar için Pazarlama", "description": "Kuaförler, berberler ve güzellik salonları için sosyal medya." },
-      "local-business-marketing": { "name": "Yerel Pazarlama", "description": "İşletmeler için kendi bölgelerinde görünürlük." },
-      "social-media-strategy": { "name": "Sosyal Medya Stratejisi", "description": "Hedefler, hedef kitleler, kanallar ve göstergeler." },
-      "ai-tools-marketing": { "name": "Pazarlamada Yapay Zekâ Araçları", "description": "Yapay zekâ araçları sosyal medya işlerinde nerede yardımcı olur – nerede olmaz?" },
-      "tips-guides": { "name": "İpuçları & Rehberler", "description": "Derli toplu pratik ipuçları ve adım adım rehberler." }
+      "social-media-marketing": {
+        "name": "Sosyal Medya Pazarlaması",
+        "description": "Temel bilgiler, maliyetler ve değerlendirme: sosyal medya pazarlamasının küçük işletmelere neler kazandırabileceği."
+      },
+      "instagram-marketing": {
+        "name": "Instagram Pazarlaması",
+        "description": "Instagram'daki işletmeler için formatlar, ritim ve profil kurulumu."
+      },
+      "facebook-marketing": {
+        "name": "Facebook Pazarlaması",
+        "description": "İşletmeler Facebook'u yerel görünürlük için nasıl verimli kullanır?"
+      },
+      "tiktok-marketing": {
+        "name": "TikTok Pazarlaması",
+        "description": "İşletmeler için TikTok: fırsatlar, emek ve değerlendirme."
+      },
+      "reels-video-marketing": {
+        "name": "Reels & Video Pazarlaması",
+        "description": "Kısa videoları planlamak, çekmek ve yayınlamak."
+      },
+      "content-creation": {
+        "name": "İçerik Üretimi",
+        "description": "Markanıza uyan fikirler, fotoğraflar, grafikler ve metinler."
+      },
+      "restaurant-marketing": {
+        "name": "Restoranlar için Pazarlama",
+        "description": "Restoranlar, kafeler ve barlar için sosyal medya."
+      },
+      "salon-marketing": {
+        "name": "Salonlar için Pazarlama",
+        "description": "Kuaförler, berberler ve güzellik salonları için sosyal medya."
+      },
+      "local-business-marketing": {
+        "name": "Yerel Pazarlama",
+        "description": "İşletmeler için kendi bölgelerinde görünürlük."
+      },
+      "social-media-strategy": {
+        "name": "Sosyal Medya Stratejisi",
+        "description": "Hedefler, hedef kitleler, kanallar ve göstergeler."
+      },
+      "ai-tools-marketing": {
+        "name": "Pazarlamada Yapay Zekâ Araçları",
+        "description": "Yapay zekâ araçları sosyal medya işlerinde nerede yardımcı olur – nerede olmaz?"
+      },
+      "tips-guides": {
+        "name": "İpuçları & Rehberler",
+        "description": "Derli toplu pratik ipuçları ve adım adım rehberler."
+      }
     }
   }
 }

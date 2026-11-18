@@ -20,6 +20,9 @@ and are **not** done.
       header/footer. `logo-on-dark.png` is a pixel copy with only the wordmark and divider recoloured
       to white. Replace it with the designer's official dark-background version if one exists
 
+- [ ] **Service area**: confirm the 150 km on-site radius around Münster (`serviceArea.onSiteRadiusKm`)
+      and the wording "Betreuung in ganz NRW"
+
 ## Before indexing other languages
 
 - [ ] Native-speaker review of EN / AR / KU / TR (`docs/TRANSLATION_REVIEW.md`), or set

@@ -117,7 +117,7 @@ export function ContactForm({ t, locale, privacyHref, fallbackEmail }: { t: Form
         <div>
           <label htmlFor={id("email")} className={label}>{t.email} *</label>
           {/* E-mail and phone are always typed left-to-right, also on RTL pages. */}
-          <input id={id("email")} type="email" inputMode="email" autoComplete="email" dir="ltr" required className={cn(fieldClass, "text-start")} {...aria("email")} {...register("email")} />
+          <input id={id("email")} type="email" inputMode="email" autoComplete="email" spellCheck={false} dir="ltr" required className={cn(fieldClass, "text-start")} {...aria("email")} {...register("email")} />
           {err("email")}
         </div>
         <div>

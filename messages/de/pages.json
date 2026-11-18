@@ -60,11 +60,11 @@
   "about": {
     "meta": {
       "title": "Über uns: Social-Media-Agentur aus Münster",
-      "description": "Social Media Komplett ist eine Social-Media-Agentur aus Münster für lokale Unternehmen. Erfahre, wofür wir stehen, wie wir arbeiten und wo wir tätig sind."
+      "description": "Social Media Komplett ist eine Social-Media-Agentur aus Münster für Unternehmen in ganz NRW. Erfahre, wofür wir stehen, wie wir arbeiten und wo wir tätig sind."
     },
     "eyebrow": "Über uns",
     "title": "Social Media Komplett: die Agentur für Unternehmen vor Ort",
-    "intro": "Social Media Komplett ist eine Social-Media-Agentur aus Münster. Wir erstellen Content, produzieren Reels und betreuen die Kanäle von Unternehmen, die vor Ort überzeugen – in der Gastronomie, in Salons, in Studios und im lokalen Handel.",
+    "intro": "Social Media Komplett ist eine Social-Media-Agentur aus Münster für Unternehmen in Münster und ganz Nordrhein-Westfalen (NRW). Wir erstellen Content, produzieren Reels und betreuen die Kanäle von Unternehmen, die vor Ort überzeugen – in der Gastronomie, in Salons, in Studios und im lokalen Handel.",
     "storyTitle": "Warum es uns gibt",
     "story": [
       "Viele gute Betriebe sind online kaum sichtbar. Nicht, weil sie nichts zu zeigen hätten, sondern weil im Alltag die Zeit fehlt: für Ideen, für den Dreh, für den Schnitt und für die regelmäßige Veröffentlichung.",
@@ -106,7 +106,7 @@
       },
       "area": {
         "label": "Einsatzgebiet",
-        "value": "Vor-Ort-Produktion in {areas}; Betreuung in ganz {remote}"
+        "value": "Betreuung für Unternehmen in ganz NRW; Vor-Ort-Produktion im Umkreis von rund {km} km um {city}, nach Absprache"
       },
       "platforms": {
         "label": "Plattformen",
@@ -363,7 +363,7 @@
           },
           {
             "q": "Kommt ihr für Aufnahmen zu mir in den Betrieb?",
-            "a": "Ja. Fotos und Videos entstehen direkt bei dir. Vor-Ort-Termine bieten wir aktuell in Münster und im Münsterland an; weitere Orte sind nach Absprache möglich."
+            "a": "Ja. Fotos und Videos entstehen direkt bei dir. Vor-Ort-Termine bieten wir rund um Münster und in weiten Teilen von NRW an – abhängig von Fahrstrecke und individueller Absprache."
           },
           {
             "q": "Wie viel Zeit muss ich selbst einplanen?",
@@ -418,7 +418,7 @@
   "contact": {
     "meta": {
       "title": "Kontakt: Kostenloses Erstgespräch anfragen",
-      "description": "Nimm Kontakt zu Social Media Komplett in Münster auf und frage dein kostenloses, unverbindliches Erstgespräch zur Social-Media-Betreuung an."
+      "description": "Nimm Kontakt zu Social Media Komplett auf, deiner Social-Media-Agentur für Münster & NRW, und frage dein kostenloses, unverbindliches Erstgespräch an."
     },
     "eyebrow": "Kontakt",
     "title": "Kostenloses Erstgespräch anfragen",
@@ -442,7 +442,7 @@
     "emailLabel": "E-Mail",
     "phoneLabel": "Telefon",
     "areaLabel": "Einsatzgebiet",
-    "areaText": "Vor-Ort-Termine in {areas}, Betreuung in ganz {remote}."
+    "areaText": "Betreuung in ganz NRW. Vor-Ort-Termine im Umkreis von rund {km} km um {city}, nach Absprache."
   },
   "blog": {
     "meta": {

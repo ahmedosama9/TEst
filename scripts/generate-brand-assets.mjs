@@ -11,7 +11,7 @@ const base = process.argv[2] ?? "http://localhost:3000";
 const og = {
   de: { dir: "ltr", title: "Dein Partner für erfolgreiches Social Media.", sub: "Content-Erstellung · Reels-Produktion · Betreuung" },
   en: { dir: "ltr", title: "Your partner for successful social media.", sub: "Content creation · Reels production · Management" },
-  ar: { dir: "rtl", title: "شريككم للنجاح على وسائل التواصل الاجتماعي.", sub: "صناعة المحتوى · إنتاج الريلز · إدارة الحسابات" },
+  ar: { dir: "rtl", title: "شريككم لحضور ناجح على وسائل التواصل الاجتماعي.", sub: "صناعة المحتوى · إنتاج الريلز · إدارة الحسابات" },
   ku: { dir: "ltr", title: "Hevkarê we ji bo medyaya civakî ya serkeftî.", sub: "Çêkirina naverokê · Hilberîna Reels · Rêveberî" },
   tr: { dir: "ltr", title: "Başarılı sosyal medya için iş ortağınız.", sub: "İçerik üretimi · Reels prodüksiyonu · Yönetim" },
 };

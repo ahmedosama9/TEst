@@ -1,6 +1,6 @@
 {
   "meta": {
-    "siteDescription": "Social Media Komplett ajanseke medyaya civakî ye ji Münsterê: çêkirina naverokê, çêkirina Reels li cihê karê we û lênêrîna berdewam a kanalên we – hemû ji yek destî."
+    "siteDescription": "Lênêrîna profesyonel a medyaya civakî ji bo karsaziyên li Münsterê, NRW û derdorê – tevî çêkirina naverokê, Reels û kişandina vîdyoyan li cih."
   },
   "nav": {
     "home": "Destpêk",
@@ -68,13 +68,13 @@
     "missingDetail": "Agahî dê bê zêdekirin"
   },
   "footer": {
-    "description": "Ajansa medyaya civakî ji Münsterê ji bo çêkirina naverokê, çêkirina Reels û lênêrîna berdewam a kanalan.",
+    "description": "Ajansa medyaya civakî ji bo Münster û NRW: çêkirina naverokê, çêkirina Reels û lênêrîna berdewam a kanalan.",
     "servicesTitle": "Xizmet",
     "industriesTitle": "Sektor",
     "companyTitle": "Ajans",
     "legalTitle": "Agahiyên hiqûqî",
     "contactTitle": "Têkilî",
-    "areaText": "Kişandina li cih li {areas} · Lênêrîn li seranserê {remote}",
+    "areaText": "Lênêrîn li seranserê NRW · Kişandina li cih heta dora {km} km li derdora {city}, li gorî lihevkirinê",
     "rights": "Hemû maf parastî ne.",
     "imprint": "Impressum (agahiyên qanûnî)",
     "privacy": "Parastina daneyan",

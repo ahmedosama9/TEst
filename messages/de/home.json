@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Social Media Agentur Münster – Content, Reels & Betreuung",
-    "description": "Social Media Komplett aus Münster erstellt Content, produziert Reels vor Ort und betreut deine Social-Media-Kanäle. Jetzt kostenloses Erstgespräch anfragen."
+    "title": "Social Media Agentur Münster & NRW – Content, Reels & Betreuung",
+    "description": "Social Media Komplett betreut Unternehmen in Münster und ganz NRW: Content-Erstellung, Reels-Produktion vor Ort und Social Media Management. Jetzt anfragen."
   },
   "hero": {
-    "eyebrow": "Social-Media-Agentur aus Münster",
+    "eyebrow": "Social-Media-Agentur für Münster & NRW",
     "titleLines": [
       "Dein Partner für",
       "erfolgreiches",
@@ -66,7 +66,7 @@
       "Schnitt, Untertitel und Titelbilder inklusive"
     ],
     "areaTitle": "Einsatzgebiet",
-    "areaText": "Vor-Ort-Termine bieten wir aktuell in {areas} an. Termine außerhalb dieses Gebiets sind nach Absprache möglich. Strategie, Planung und Betreuung funktionieren ortsunabhängig in ganz {remote}.",
+    "areaText": "Vor-Ort-Termine bieten wir im Umkreis von rund {km} km Fahrstrecke um {city} an – abhängig von Entfernung und individueller Absprache. Strategie, Planung und laufende Betreuung funktionieren ortsunabhängig für Unternehmen in ganz NRW.",
     "visualAlt": "Illustration: Drehplan für einen Vor-Ort-Termin mit mehreren Aufnahmen",
     "visual": {
       "title": "Drehtag",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "siteDescription": "Social Media Komplett, Münster merkezli bir sosyal medya ajansıdır: içerik üretimi, yerinde Reels çekimi ve kanallarınızın düzenli yönetimi – hepsi tek elden."
+    "siteDescription": "Münster, NRW ve çevresindeki işletmeler için profesyonel sosyal medya yönetimi – içerik üretimi, Reels ve yerinde video prodüksiyonu dahil."
   },
   "nav": {
     "home": "Ana Sayfa",
@@ -68,13 +68,13 @@
     "missingDetail": "Bilgi eklenecek"
   },
   "footer": {
-    "description": "İçerik üretimi, Reels çekimi ve düzenli kanal yönetimi için Münster merkezli sosyal medya ajansı.",
+    "description": "Münster ve NRW için sosyal medya ajansı: içerik üretimi, Reels çekimi ve düzenli kanal yönetimi.",
     "servicesTitle": "Hizmetler",
     "industriesTitle": "Sektörler",
     "companyTitle": "Ajans",
     "legalTitle": "Yasal",
     "contactTitle": "İletişim",
-    "areaText": "Yerinde çekim: {areas} · Kanal yönetimi: tüm {remote}",
+    "areaText": "Kanal yönetimi: tüm NRW · Yerinde çekim: {city} çevresinde yaklaşık {km} km'ye kadar, görüşmeye bağlı",
     "rights": "Tüm hakları saklıdır.",
     "imprint": "Künye",
     "privacy": "Gizlilik",

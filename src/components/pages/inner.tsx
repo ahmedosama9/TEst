@@ -1,6 +1,6 @@
 import { Mail, MapPin, Phone } from "lucide-react";
 import Link from "next/link";
-import { ContactForm } from "@/components/forms/contact-form";
+import { ContactFormLoader } from "@/components/forms/contact-form-loader";
 import {
   IconBadge,
   IndustryCards,
@@ -19,17 +19,17 @@ import { ButtonLink } from "@/components/ui/button";
 import { Card, Section, SectionHeading } from "@/components/ui/section";
 import { commercialTerms } from "@/config/packages";
 import { site } from "@/config/site";
-import { localeConfig, type Locale } from "@/i18n/config";
+import type { Locale } from "@/i18n/config";
 import type { Messages } from "@/i18n/messages";
 import { getPostById } from "@/lib/blog";
 import { blogPaths, href, industryIds, type IndustryId, type ServiceId } from "@/lib/routes";
 import { faqJsonLd, organizationJsonLd, serviceJsonLd, type Crumb } from "@/lib/seo";
-import { fmt, joinList } from "@/lib/utils";
+import { fmt } from "@/lib/utils";
 
 type P = { locale: Locale; messages: Messages };
 
 const home = (p: P): Crumb => ({ name: p.messages.common.nav.home, path: href("home", p.locale) });
-const areasOf = (locale: Locale) => joinList(site.serviceArea.onSiteAreas, localeConfig[locale].intlLocale);
+const area = { city: site.serviceArea.baseCity, km: site.serviceArea.onSiteRadiusKm };
 
 /* ------------------------------ Services ------------------------------ */
 
@@ -295,7 +295,7 @@ export function PortfolioPage({ locale, messages }: P) {
 export function AboutPage({ locale, messages }: P) {
   const a = messages.pages.about;
   const c = messages.common;
-  const facts = [a.facts.what, a.facts.who, a.facts.base, { ...a.facts.area, value: fmt(a.facts.area.value, { areas: areasOf(locale), remote: site.serviceArea.remote }) }, a.facts.platforms];
+  const facts = [a.facts.what, a.facts.who, a.facts.base, { ...a.facts.area, value: fmt(a.facts.area.value, area) }, a.facts.platforms];
   return (
     <>
       <JsonLd data={organizationJsonLd(locale, c.meta.siteDescription)} />
@@ -366,7 +366,7 @@ export function ProcessPage({ locale, messages }: P) {
                 <li key={s.title}><Card><h3 className="text-lg">{s.title}</h3><p className="mt-2 text-[0.95rem]">{s.text}</p></Card></li>
               ))}
             </ol>
-            <p className="mt-6 flex items-start gap-2"><MapPin className="mt-1 size-4.5 shrink-0 text-teal-ink" aria-hidden="true" />{fmt(messages.home.onsite.areaText, { areas: areasOf(locale), remote: site.serviceArea.remote })}</p>
+            <p className="mt-6 flex items-start gap-2"><MapPin className="mt-1 size-4.5 shrink-0 text-teal-ink" aria-hidden="true" />{fmt(messages.home.onsite.areaText, area)}</p>
           </div>
           <Card className="self-start bg-mist shadow-none">
             <h2 className="text-xl">{p.yourPartTitle}</h2>
@@ -476,7 +476,7 @@ export function ContactPage({ locale, messages }: P) {
           <Card className="sm:p-9">
             <h2 className="text-2xl">{c.form.title}</h2>
             <p className="mt-2 mb-6">{c.form.intro}</p>
-            <ContactForm t={c.form} locale={locale} privacyHref={href("privacy", locale)} fallbackEmail={site.contact.email} />
+            <ContactFormLoader t={c.form} locale={locale} privacyHref={href("privacy", locale)} fallbackEmail={site.contact.email} />
           </Card>
           <div className="space-y-6 self-start">
             <Card>
@@ -499,7 +499,7 @@ export function ContactPage({ locale, messages }: P) {
                 {site.contact.phone ? (
                   <li className="flex items-center gap-3"><Phone className="size-4.5 shrink-0 text-teal-ink" aria-hidden="true" /><span className="sr-only">{p.phoneLabel}: </span><a href={`tel:${site.contact.phone}`} dir="ltr" className="ltr-isolate font-medium text-ink underline underline-offset-4">{site.contact.phone}</a></li>
                 ) : null}
-                <li className="flex items-start gap-3"><MapPin className="mt-1 size-4.5 shrink-0 text-teal-ink" aria-hidden="true" /><span><span className="sr-only">{p.areaLabel}: </span>{fmt(p.areaText, { areas: areasOf(locale), remote: site.serviceArea.remote })}</span></li>
+                <li className="flex items-start gap-3"><MapPin className="mt-1 size-4.5 shrink-0 text-teal-ink" aria-hidden="true" /><span><span className="sr-only">{p.areaLabel}: </span>{fmt(p.areaText, area)}</span></li>
               </ul>
               {!site.confirmedServiceLanguages.includes(locale) ? <p className="mt-4 border-t border-line pt-4 text-sm">{c.notices.serviceLanguage}</p> : null}
             </Card>

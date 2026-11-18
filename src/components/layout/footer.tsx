@@ -4,7 +4,7 @@ import { site } from "@/config/site";
 import { localeConfig, type Locale } from "@/i18n/config";
 import type { Messages } from "@/i18n/messages";
 import { href, industryIds, serviceIds, type StaticPageId } from "@/lib/routes";
-import { fmt, joinList } from "@/lib/utils";
+import { fmt } from "@/lib/utils";
 
 function FooterColumn({ title, links }: { title: string; links: { href: string; label: string }[] }) {
   return (
@@ -27,7 +27,7 @@ export function Footer({ locale, messages }: { locale: Locale; messages: Message
   const c = messages.common;
   const cfg = localeConfig[locale];
   const link = (id: StaticPageId, label: string) => ({ href: href(id, locale), label });
-  const areas = joinList(site.serviceArea.onSiteAreas, cfg.intlLocale);
+  const area = { city: site.serviceArea.baseCity, km: site.serviceArea.onSiteRadiusKm };
   const social = Object.entries(site.social).filter((e): e is [string, string] => !!e[1]);
 
   return (
@@ -39,7 +39,7 @@ export function Footer({ locale, messages }: { locale: Locale; messages: Message
           <p className="ltr-isolate mt-4 font-display text-sm font-bold text-aqua" lang="de" dir="ltr">
             {site.tagline}
           </p>
-          <p className="mt-4 max-w-xs text-sm">{fmt(c.footer.areaText, { areas, remote: site.serviceArea.remote })}</p>
+          <p className="mt-4 max-w-xs text-sm">{fmt(c.footer.areaText, area)}</p>
           {site.contact.email ? (
             <p className="mt-3 text-sm">
               <a href={`mailto:${site.contact.email}`} className="ltr-isolate text-white underline-offset-4 hover:underline" dir="ltr">

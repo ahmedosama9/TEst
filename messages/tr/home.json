@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Münster Sosyal Medya Ajansı – İçerik, Reels ve Yönetim",
-    "description": "Münster merkezli Social Media Komplett profesyonel içerik üretir, yerinde Reels çeker ve sosyal medya kanallarınızı yönetir. Ücretsiz ön görüşme talep edin."
+    "title": "Sosyal Medya Ajansı Münster ve NRW – İçerik, Reels, Yönetim",
+    "description": "Social Media Komplett, Münster ve tüm NRW'deki işletmelere hizmet verir: içerik üretimi, yerinde Reels çekimi ve sosyal medya yönetimi. Hemen iletişime geçin."
   },
   "hero": {
-    "eyebrow": "Münster merkezli sosyal medya ajansı",
+    "eyebrow": "Münster ve NRW için sosyal medya ajansı",
     "titleLines": [
       "Başarılı",
       "sosyal medya için",
@@ -66,7 +66,7 @@
       "Kurgu, altyazı ve kapak görselleri dahil"
     ],
     "areaTitle": "Hizmet bölgesi",
-    "areaText": "Yerinde çekimleri şu anda {areas} bölgesinde sunuyoruz. Bu bölgenin dışındaki randevular görüşmeye bağlı olarak mümkündür. Strateji, planlama ve kanal yönetimi ise konumdan bağımsız olarak tüm {remote} genelinde yürütülür.",
+    "areaText": "Yerinde çekimleri {city} çevresinde yaklaşık {km} km'lik sürüş mesafesi içinde, uzaklığa ve bireysel görüşmeye bağlı olarak sunuyoruz. Strateji, planlama ve düzenli kanal yönetimi ise konumdan bağımsız olarak tüm NRW'deki işletmeler için yürütülür.",
     "visualAlt": "İllüstrasyon: birden fazla çekim içeren bir yerinde çekim günü planı",
     "visual": {
       "title": "Çekim günü",

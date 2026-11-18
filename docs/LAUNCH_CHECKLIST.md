@@ -12,9 +12,13 @@ and are **not** done.
 - [ ] **Owner approval of the German copy** — in particular everything that describes how the agency
       works: approval before publishing, regular reports, on-site shoots, account access, package
       contents, answers in the FAQs, and first-person statements in the articles ("Fragen, die wir häufig hören")
-- [ ] **Logo files**: the logo in `src/components/ui/logo.tsx` and `public/brand/*` was redrawn as
-      SVG from the brand sheet (`docs/brand/brand-reference.jpg`). If you have the original vector
-      logo from your designer, replace these files with it so the mark is exact
+- [ ] **Logo source file**: the site uses the supplied PNG (`public/brand/source/logo-original.png`).
+      It has slightly rough edges and stray pixels from background removal, visible when enlarged.
+      A vector (SVG) or clean high-resolution export from the designer would be sharper — drop it in
+      and rerun `python3 scripts/derive-brand-variants.py`
+- [ ] **White-wordmark variant**: the supplied logo has a navy wordmark, which is unreadable on the navy
+      header/footer. `logo-on-dark.png` is a pixel copy with only the wordmark and divider recoloured
+      to white. Replace it with the designer's official dark-background version if one exists
 
 ## Before indexing other languages
 

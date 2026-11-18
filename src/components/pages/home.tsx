@@ -1,9 +1,8 @@
+import Image from "next/image";
 import { Camera, Check, Clapperboard, Images, Layers, MapPin, Target, TrendingUp, Users, Zap } from "lucide-react";
 import { PostCard } from "@/components/blog/post-card";
 import { ContactForm } from "@/components/forms/contact-form";
 import { IndustryCards, PackageCards, PortfolioGrid, ProcessSteps, ServiceCards } from "@/components/sections/cards";
-import { BrandWaves } from "@/components/sections/brand-waves";
-import { PhoneMockup } from "@/components/sections/phone-mockup";
 import { ArrowLink, CheckList, FaqList } from "@/components/sections/shared";
 import { JsonLd } from "@/components/seo/json-ld";
 import { ButtonLink } from "@/components/ui/button";
@@ -20,15 +19,26 @@ import { fmt, joinList } from "@/lib/utils";
 const onsiteIcons = [MapPin, Clapperboard, Images, Users];
 const valueIcons = [Zap, Layers, TrendingUp, Target];
 
-/** Hero headline with the brand-coloured highlight ("… Social Media."). */
-function HeroTitle({ title, highlight }: { title: string; highlight: string }) {
-  const i = highlight ? title.indexOf(highlight) : -1;
-  if (i < 0) return <>{title}</>;
+/** Hero headline on three lines; the brand-coloured part is marked per language in the messages. */
+function HeroTitle({ lines, highlight }: { lines: readonly string[]; highlight: string }) {
   return (
     <>
-      {title.slice(0, i)}
-      <span className="text-gradient box-decoration-clone pe-[0.08em]">{highlight}</span>
-      {title.slice(i + highlight.length)}
+      {lines.map((line, n) => {
+        const i = highlight ? line.indexOf(highlight) : -1;
+        return (
+          <span key={n} className="block">
+            {i < 0 ? (
+              line
+            ) : (
+              <>
+                {line.slice(0, i)}
+                <span className="text-gradient box-decoration-clone pe-[0.08em]">{highlight}</span>
+                {line.slice(i + highlight.length)}
+              </>
+            )}{" "}
+          </span>
+        );
+      })}
     </>
   );
 }
@@ -46,41 +56,48 @@ export function HomePage({ locale, messages }: { locale: Locale; messages: Messa
       <JsonLd data={[organizationJsonLd(locale, c.meta.siteDescription), websiteJsonLd(locale, c.meta.siteDescription)]} />
 
       {/* 1. Hero */}
-      <section className="on-dark hero-backdrop relative overflow-hidden text-soft">
-        <BrandWaves idPrefix="hero" />
-        <div className="container-page relative grid items-center gap-10 pt-16 pb-10 sm:pt-24 lg:grid-cols-[1.1fr_0.9fr]">
-          <div className="animate-rise">
-            <Eyebrow dark>{h.hero.eyebrow}</Eyebrow>
-            <h1 className="text-4xl text-white sm:text-5xl lg:text-6xl">
-              <HeroTitle title={h.hero.title} highlight={h.hero.titleHighlight} />
-            </h1>
-            <p className="mt-6 max-w-xl text-lg text-white/85 sm:text-xl">{h.hero.subtitle}</p>
-            <div className="mt-8 flex flex-wrap gap-3">
-              <ButtonLink href={href("contact", locale)} size="lg">
-                {c.cta.primary}
-                <span className="rtl-flip" aria-hidden="true">→</span>
-              </ButtonLink>
-              <ButtonLink href={href("services", locale)} size="lg" variant="outlineDark">{c.cta.secondary}</ButtonLink>
+      <section className="on-dark relative isolate overflow-hidden bg-[#000a22] text-soft">
+        <div className="relative lg:h-[42rem] xl:h-[46rem]">
+          {/* Text sits on the empty left side of the artwork in every language (the artwork is never mirrored). */}
+          <div className="container-page relative z-10 flex h-full items-center pt-14 pb-2 sm:pt-20 lg:py-0">
+            <div className="animate-rise w-full max-w-xl lg:mr-auto lg:ml-0 lg:max-w-[27rem] xl:max-w-[40rem]">
+              <Eyebrow dark>{h.hero.eyebrow}</Eyebrow>
+              <h1 className="text-[2.1rem] text-white min-[400px]:text-[2.4rem] sm:text-6xl lg:text-[2.85rem] xl:text-[4rem]">
+                <HeroTitle lines={h.hero.titleLines} highlight={h.hero.titleHighlight} />
+              </h1>
+              <p className="mt-6 max-w-md text-lg text-white/90 sm:text-xl">{h.hero.subtitle}</p>
+              <div className="mt-8 flex flex-wrap gap-3">
+                <ButtonLink href={href("contact", locale)} size="lg">
+                  {h.hero.ctaPrimary}
+                  <span className="rtl-flip" aria-hidden="true">→</span>
+                </ButtonLink>
+                <ButtonLink href={href("services", locale)} size="lg" variant="outlineDark">{h.hero.ctaSecondary}</ButtonLink>
+              </div>
             </div>
-            <ul className="mt-9 flex flex-wrap gap-x-6 gap-y-2 text-sm font-medium text-white">
-              {h.hero.points.map((p) => (
-                <li key={p} className="flex items-center gap-2">
-                  <Check className="size-4 text-aqua" strokeWidth={3} aria-hidden="true" />
-                  {p}
-                </li>
-              ))}
-            </ul>
           </div>
-          <PhoneMockup t={h.hero.mockup} />
+          {/* Approved hero artwork (public/brand/hero.png). Desktop: anchored right at full height.
+              Mobile: shown below the text, positioned so the phone stays fully visible. */}
+          <div className="hero-art relative mt-4 h-[22rem] w-full sm:h-[30rem] lg:absolute lg:inset-y-0 lg:right-0 lg:left-auto lg:mt-0 lg:aspect-[1672/941] lg:h-full lg:w-auto">
+            <Image
+              src="/brand/hero.png"
+              alt={h.hero.imageAlt}
+              fill
+              fetchPriority="high"
+              loading="eager"
+              quality={85}
+              sizes="(min-width: 1280px) 1310px, (min-width: 1024px) 1195px, (min-width: 640px) 855px, 600px"
+              className="object-cover object-[92%_50%] lg:object-right"
+            />
+          </div>
         </div>
         {/* Brand attributes from the identity sheet */}
-        <div className="container-page relative pb-12 sm:pb-16">
-          <ul className="grid grid-cols-2 gap-y-6 rounded-2xl border border-white/10 bg-navy/60 px-4 py-6 backdrop-blur sm:grid-cols-4 sm:divide-x sm:divide-white/15 rtl:sm:divide-x-reverse">
+        <div className="relative z-10 border-t border-white/10 bg-navy">
+          <ul className="container-page grid grid-cols-2 gap-y-6 py-6 sm:grid-cols-4 sm:divide-x sm:divide-white/15 rtl:sm:divide-x-reverse">
             {h.hero.values.map((v, i) => {
               const Icon = valueIcons[i % valueIcons.length];
               return (
                 <li key={v} className="flex flex-col items-center gap-2 px-3 text-center">
-                  <Icon className="size-8 text-aqua" strokeWidth={1.75} aria-hidden="true" />
+                  <Icon className="size-7 text-aqua" strokeWidth={1.75} aria-hidden="true" />
                   <span className="font-display text-base font-bold text-white sm:text-lg">{v}</span>
                 </li>
               );

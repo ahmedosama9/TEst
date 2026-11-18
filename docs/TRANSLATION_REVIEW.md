@@ -36,7 +36,8 @@ needed; after launch a change needs a redirect.
 - [ ] Page titles and meta descriptions (search snippets)
 - [ ] Legal pages: translation is for convenience; German is binding. Re-check after the German legal texts are final
 - [ ] The four brand attributes under the hero (`home.hero.values`: Schnell, Komplett, Wachstumsstark, Messbar) and the
-      highlighted part of the headline (`home.hero.titleHighlight` must be an exact substring of `home.hero.title`)
+      hero copy: three headline lines (`home.hero.titleLines`; `titleHighlight` must be an exact part of one line),
+      `subtitle`, `ctaPrimary`, `ctaSecondary`, `imageAlt`. The Arabic headline was shortened to fit three lines
 - [ ] The inline error-page strings in `src/app/[locale]/error.tsx` and the taglines in `scripts/generate-brand-assets.mjs` (share images)
 
 ## English (`en`, British English)

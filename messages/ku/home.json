@@ -5,33 +5,22 @@
   },
   "hero": {
     "eyebrow": "Ajansa medyaya civakî ji Münsterê",
-    "title": "Hevkarê we ji bo medyaya civakî ya serkeftî.",
-    "titleHighlight": "medyaya civakî",
-    "subtitle": "Em naveroka profesyonel çêdikin, Reels dikişînin û lênêrîna kanalên we yên medyaya civakî digirin ser xwe – da ku hûn bikaribin bala xwe bidin karsaziya xwe.",
-    "points": [
-      "Çêkirina naverokê",
-      "Çêkirina Reels li cih",
-      "Lênêrîna berdewam"
+    "titleLines": [
+      "Hevkarê we ji bo",
+      "medyaya civakî",
+      "ya serkeftî."
     ],
+    "titleHighlight": "medyaya civakî",
+    "subtitle": "Stratejî, naverok, lênêrîn û mezinbûn – hemû ji yek destî.",
+    "ctaPrimary": "Niha dest pê bikin",
+    "ctaSecondary": "Zêdetir bizanin",
+    "imageAlt": "Telefona jîr bi îkonên medyaya civakî, grafîka mezinbûnê ya ronî û pêlên fîrozeyî",
     "values": [
       "Bilez",
       "Temam",
       "Bi armanca mezinbûnê",
       "Tê pîvandin"
-    ],
-    "mockup": {
-      "alt": "Wênesazî: telefoneke biaqil bi feed-eke mînak, pêşdîtina Reel-ekê û plana weşanê",
-      "profile": "karsaziya.we",
-      "reelLabel": "Reel",
-      "planTitle": "Plana weşanê",
-      "planItems": [
-        "Duş · Reel",
-        "Çarş · Karûsel",
-        "Înî · Story"
-      ],
-      "statusPlanned": "Plankirî",
-      "statusApproved": "Pejirandî"
-    }
+    ]
   },
   "trust": {
     "eyebrow": "Çima Social Media Komplett",

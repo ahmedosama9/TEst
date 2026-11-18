@@ -108,6 +108,13 @@
     radial-gradient(60rem 30rem at 85% -10%, rgb(0 212 179 / 0.22), transparent 60%),
     radial-gradient(40rem 26rem at 0% 110%, rgb(123 97 255 / 0.2), transparent 60%);
 }
+/* Hero artwork: fade its outer edges into the section colour (top edge on mobile, left edge on desktop). */
+@utility hero-art {
+  mask-image: linear-gradient(to bottom, transparent 0, #000 22%);
+  @media (width >= 64rem) {
+    mask-image: linear-gradient(to right, transparent 0, #000 14%);
+  }
+}
 /* Directional icons (arrows, chevrons) flip in RTL. */
 @utility rtl-flip {
   [dir="rtl"] & { transform: scaleX(-1); }

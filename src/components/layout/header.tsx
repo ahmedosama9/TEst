@@ -54,7 +54,7 @@ export function Header({ locale, messages, alternates, section }: { locale: Loca
       </a>
       <div className="container-page flex h-18 items-center justify-between gap-4">
         <Link href={href("home", locale)} aria-label={t.homeLinkLabel} className="shrink-0 rounded-lg">
-          <Logo idPrefix="hdr" />
+          <Logo eager />
         </Link>
         <nav aria-label={t.mainLabel} className="hidden lg:block">
           <ul className="flex items-center gap-1">

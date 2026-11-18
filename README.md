@@ -46,7 +46,10 @@ src/lib/pages.ts                         URL resolver, alternates, metadata look
 src/lib/seo.ts                           Metadata + JSON-LD builders
 src/app/[locale]/[[...path]]/page.tsx    The one route that renders every page
 src/components/pages/*                   Page templates
-public/brand, public/og                  Logo files and social sharing images
+public/brand/source/logo-original.png    Approved logo (master, never edited)
+public/brand/hero.png                    Approved homepage hero artwork
+public/brand/*, src/app/icon.png         Variants derived by scripts/derive-brand-variants.py
+public/og                                Social sharing images (scripts/generate-brand-assets.mjs)
 docs/brand/brand-reference.jpg           The brand sheet the design follows
 docs/                                    Deployment, content, translation, SEO and legal guides
 ```
@@ -101,14 +104,16 @@ and there is no browser-language sniffing.
 | --- | --- |
 | TypeScript strict, ESLint | no errors |
 | Unit tests | 12 / 12 passed |
-| Static pages generated | 216 (195 indexable URLs in the sitemap, 39 per language) |
+| Static pages generated | 217 (195 indexable URLs in the sitemap, 39 per language) |
 | Site audit | passed: canonicals, reciprocal hreflang, unique titles/descriptions, JSON-LD, 210 internal links, 404, redirects |
 | Browser audit | passed: 135 page renders (3 viewports × 5 languages) without overflow or console errors; RTL, switcher, blog, forms |
 | axe (WCAG 2.2 AA rules) | 0 violations on 18 pages × 2 viewports |
-| Lighthouse mobile — home (de / ar) | Performance 100 / 95, Accessibility 100, Best Practices 100, SEO 100 |
+| Lighthouse mobile — home (de / tr / ar) | Performance 89 / 80 / 82 (simulated slow-4G LCP 3.6–4.9 s; observed LCP ≈ 0.2 s locally), Accessibility 100, Best Practices 100, SEO 100 |
 | Lighthouse mobile — article | Performance 97–100, LCP 0.9 s, CLS 0 |
-| Lighthouse desktop | Performance 99–100 |
+| Lighthouse desktop — home | Performance 98–99, LCP ≈ 1.0 s |
 
-Lighthouse numbers are lab values from a local server and vary between runs; measure again on the
+The mobile home score dropped from 95–100 when the hero artwork became the largest element on
+screen: the image itself is small (≈ 19 kB AVIF on phones), but under simulated throttling it
+shares bandwidth with fonts and scripts. Lighthouse numbers are lab values from a local server and vary between runs; measure again on the
 live domain. Automated accessibility tools find only part of all issues — a manual screen-reader
 pass (VoiceOver/NVDA, including Arabic) is still recommended.

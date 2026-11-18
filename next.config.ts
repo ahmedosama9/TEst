@@ -18,6 +18,7 @@ const securityHeaders = [
 const nextConfig: NextConfig = {
   poweredByHeader: false,
   reactStrictMode: true,
+  images: { formats: ["image/avif", "image/webp"], qualities: [75, 85] },
   // Blog content is read from disk; make sure it ships with on-demand (404/ISR) renders too.
   outputFileTracingIncludes: { "/[locale]/[[...path]]": ["./content/**/*"] },
   turbopack: {

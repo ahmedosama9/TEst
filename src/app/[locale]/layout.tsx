@@ -5,9 +5,11 @@ import { defaultLocale, isLocale, localeConfig, locales } from "@/i18n/config";
 import { site } from "@/config/site";
 import "../globals.css";
 
-const inter = Inter({ subsets: ["latin", "latin-ext"], variable: "--font-inter", display: "swap" });
+// `subsets` only controls what is PRELOADED. The latin-ext files (Turkish, Kurdish, German
+// special characters beyond Latin-1) are still declared and load on demand via unicode-range.
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
 const montserrat = Montserrat({
-  subsets: ["latin", "latin-ext"],
+  subsets: ["latin"],
   // Variable font; the italic cut is the brand style for the logo and headlines.
   style: ["normal", "italic"],
   variable: "--font-montserrat",
@@ -16,7 +18,6 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   applicationName: site.name,
-  icons: { icon: [{ url: "/icon.svg", type: "image/svg+xml" }], apple: "/brand/apple-touch-icon.png" },
   formatDetection: { telephone: false },
 };
 

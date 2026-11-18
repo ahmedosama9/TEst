@@ -34,7 +34,7 @@ export function Footer({ locale, messages }: { locale: Locale; messages: Message
     <footer className="on-dark bg-navy text-soft">
       <div className="container-page grid gap-10 py-14 sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
         <div>
-          <Logo idPrefix="ftr" />
+          <Logo className="h-12 sm:h-14" />
           <p className="mt-4 max-w-xs text-sm">{c.footer.description}</p>
           <p className="ltr-isolate mt-4 font-display text-sm font-bold text-aqua" lang="de" dir="ltr">
             {site.tagline}

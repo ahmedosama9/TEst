@@ -5,33 +5,22 @@
   },
   "hero": {
     "eyebrow": "Social media agency based in Münster",
-    "title": "Your partner for successful social media.",
-    "titleHighlight": "social media.",
-    "subtitle": "We create professional content, produce Reels and take care of managing your social media channels – so you can concentrate on your business.",
-    "points": [
-      "Content creation",
-      "On-site Reels production",
-      "Ongoing management"
+    "titleLines": [
+      "Your partner for",
+      "successful",
+      "social media."
     ],
+    "titleHighlight": "social media.",
+    "subtitle": "Strategy, content, management and growth – all from a single source.",
+    "ctaPrimary": "Get started now",
+    "ctaSecondary": "Learn more",
+    "imageAlt": "Smartphone with floating social media icons, a glowing growth chart and turquoise waves",
     "values": [
       "Fast",
       "Complete",
       "Growth-focused",
       "Measurable"
-    ],
-    "mockup": {
-      "alt": "Illustration: smartphone showing a sample feed, a Reel preview and a content calendar",
-      "profile": "your.business",
-      "reelLabel": "Reel",
-      "planTitle": "Content calendar",
-      "planItems": [
-        "Mon · Reel",
-        "Wed · Carousel",
-        "Fri · Story"
-      ],
-      "statusPlanned": "Scheduled",
-      "statusApproved": "Approved"
-    }
+    ]
   },
   "trust": {
     "eyebrow": "Why Social Media Komplett",

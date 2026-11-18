@@ -5,33 +5,22 @@
   },
   "hero": {
     "eyebrow": "Münster merkezli sosyal medya ajansı",
-    "title": "Başarılı sosyal medya için iş ortağınız.",
-    "titleHighlight": "sosyal medya",
-    "subtitle": "Profesyonel içerik üretiyor, Reels çekiyor ve sosyal medya kanallarınızın yönetimini üstleniyoruz – siz de işletmenize odaklanabiliyorsunuz.",
-    "points": [
-      "İçerik üretimi",
-      "Yerinde Reels çekimi",
-      "Düzenli kanal yönetimi"
+    "titleLines": [
+      "Başarılı",
+      "sosyal medya için",
+      "iş ortağınız."
     ],
+    "titleHighlight": "sosyal medya",
+    "subtitle": "Strateji, içerik, yönetim ve büyüme – hepsi tek elden.",
+    "ctaPrimary": "Hemen başlayın",
+    "ctaSecondary": "Daha fazla bilgi",
+    "imageAlt": "Sosyal medya simgeleri, parlayan büyüme grafiği ve turkuaz dalgalarla akıllı telefon",
     "values": [
       "Hızlı",
       "Eksiksiz",
       "Büyüme odaklı",
       "Ölçülebilir"
-    ],
-    "mockup": {
-      "alt": "İllüstrasyon: örnek akış, Reel önizlemesi ve içerik takvimi gösteren akıllı telefon",
-      "profile": "isletmeniz",
-      "reelLabel": "Reel",
-      "planTitle": "İçerik takvimi",
-      "planItems": [
-        "Pzt · Reel",
-        "Çar · Kaydırmalı gönderi",
-        "Cum · Story"
-      ],
-      "statusPlanned": "Planlandı",
-      "statusApproved": "Onaylandı"
-    }
+    ]
   },
   "trust": {
     "eyebrow": "Neden Social Media Komplett",

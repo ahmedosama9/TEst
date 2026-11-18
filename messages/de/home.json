@@ -5,33 +5,22 @@
   },
   "hero": {
     "eyebrow": "Social-Media-Agentur aus Münster",
-    "title": "Dein Partner für erfolgreiches Social Media.",
-    "titleHighlight": "Social Media.",
-    "subtitle": "Wir erstellen professionellen Content, produzieren Reels und übernehmen die Betreuung deiner Social-Media-Kanäle – damit du dich auf dein Unternehmen konzentrieren kannst.",
-    "points": [
-      "Content-Erstellung",
-      "Reels-Produktion vor Ort",
-      "Laufende Betreuung"
+    "titleLines": [
+      "Dein Partner für",
+      "erfolgreiches",
+      "Social Media."
     ],
+    "titleHighlight": "Social Media.",
+    "subtitle": "Strategie, Content, Betreuung und Wachstum – alles aus einer Hand.",
+    "ctaPrimary": "Jetzt durchstarten",
+    "ctaSecondary": "Mehr erfahren",
+    "imageAlt": "Smartphone mit schwebenden Social-Media-Symbolen, leuchtendem Wachstumsdiagramm und türkisfarbenen Wellen",
     "values": [
       "Schnell",
       "Komplett",
       "Wachstumsstark",
       "Messbar"
-    ],
-    "mockup": {
-      "alt": "Illustration: Smartphone mit Beispiel-Feed, Reel-Vorschau und Redaktionsplan",
-      "profile": "dein.unternehmen",
-      "reelLabel": "Reel",
-      "planTitle": "Redaktionsplan",
-      "planItems": [
-        "Mo · Reel",
-        "Mi · Karussell",
-        "Fr · Story"
-      ],
-      "statusPlanned": "Geplant",
-      "statusApproved": "Freigegeben"
-    }
+    ]
   },
   "trust": {
     "eyebrow": "Warum Social Media Komplett",

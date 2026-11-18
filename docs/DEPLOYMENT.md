@@ -1,7 +1,68 @@
-# Deployment guide (Vercel + Namecheap)
+# Deployment guide (Hostinger or Vercel, domain at Namecheap)
 
 Nothing in this guide has been executed. Do not change DNS or promote to production before the
 launch checklist is complete.
+
+## Option A — Hostinger (chosen host)
+
+Written from Hostinger's documentation, not from a test deployment: nothing was deployed to
+Hostinger from this project. Menu names may differ slightly in hPanel.
+
+### A1. Check the plan
+
+The site needs a running Node.js server (contact form, image optimisation). Hostinger offers this as
+**"Node.js Web App"** on its **Business and Cloud** web hosting plans, or on a **VPS**. Plain shared
+plans without Node.js support cannot run it — a static upload via File Manager/FTP will not work.
+
+### A2. Create the app from GitHub
+
+1. hPanel → **Websites → Add website → Node.js Web App**.
+2. Choose **Import from GitHub**, authorise Hostinger, select the repository `ahmedosama9/TEst` and the
+   branch `ccr-24767bd8-okjxxv` (or merge that branch into `main` first and select `main`).
+3. Hostinger detects **Next.js**. Build settings: install `npm install`, build `npm run build`,
+   start `npm start`, Node.js **22** (20 or newer is required).
+4. Add the **environment variables before the first build** (values starting with `NEXT_PUBLIC_`
+   are compiled into the pages; change them later → redeploy):
+
+   | Variable | Value |
+   | --- | --- |
+   | `NEXT_PUBLIC_SITE_URL` | `https://socialmediakomplett.de` |
+   | `NEXT_PUBLIC_ALLOW_INDEXING` | `false` while testing, `true` when the site may be indexed |
+   | `NEXT_PUBLIC_CONTACT_EMAIL`, `NEXT_PUBLIC_CONTACT_PHONE` | your public contact details |
+   | `RESEND_API_KEY`, `CONTACT_TO_EMAIL`, `CONTACT_FROM_EMAIL` | see section 2 (contact form e-mail) |
+
+   **Important difference to Vercel:** on Hostinger the site is only indexable when
+   `NEXT_PUBLIC_ALLOW_INDEXING=true` is set. Without it every page is `noindex` and `robots.txt`
+   disallows everything — which is what you want until launch.
+5. Deploy and open the temporary address Hostinger shows. Later pushes to the connected branch rebuild automatically.
+
+Alternative without GitHub: upload the source zip in the same "Node.js Web App" flow.
+
+### A3. Connect the domain (registered at Namecheap) without touching e-mail
+
+1. In hPanel, attach `socialmediakomplett.de` to the Node.js app and note the **IP address / DNS
+   target Hostinger shows for this app**.
+2. **Do not change the nameservers at Namecheap to Hostinger.** That would move the whole DNS zone
+   and break the existing mailboxes unless every mail record is recreated first.
+3. At Namecheap → Domain List → Manage → **Advanced DNS**: screenshot all records, then change only
+   - `A` record, host `@` → the IP from Hostinger
+   - `CNAME` record, host `www` → `socialmediakomplett.de.` (or the target Hostinger names)
+   and remove only parking/redirect entries on `@` and `www`.
+4. Leave every `MX`, SPF `TXT`, `…_domainkey` and `_dmarc` record exactly as it is.
+5. In hPanel enable the free SSL certificate for the domain and force HTTPS; make `www` redirect to
+   the domain without `www` (the canonical address used by the site).
+6. Verify with the `dig` commands in section 3 and send/receive a test e-mail.
+
+### A4. After the first deployment
+
+- Send a test enquiry through the contact form (it reports an error until the three mail variables are set).
+- Open `/robots.txt` and `/sitemap.xml`.
+- The contact-form rate limit uses the visitor IP from the `x-forwarded-for` header set by the host's
+  proxy; if enquiries from different people are blocked as "too many", tell the developer.
+- When everything in `docs/LAUNCH_CHECKLIST.md` is done: set `NEXT_PUBLIC_ALLOW_INDEXING=true`, redeploy,
+  then continue with section 5.
+
+## Option B — Vercel
 
 ## 1. Create the Vercel project
 

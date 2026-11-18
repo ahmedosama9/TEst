@@ -3,7 +3,7 @@
 Multilingual agency website with blog for **Social Media Komplett** (Münster), built for
 `https://socialmediakomplett.de`.
 
-- **Stack:** Next.js 16 (App Router, Turbopack), React 19, TypeScript (strict), Tailwind CSS 4,
+- **Stack:** Next.js 16 (App Router), React 19, TypeScript (strict), Tailwind CSS 4,
   next-intl, React Hook Form + Zod, MDX, Lucide. (Motion was removed: reveals are CSS-only now.)
 - **Languages:** German (default), English, Arabic (RTL), Kurdish Kurmanji, Turkish — every page
   is a statically generated, individually indexable URL under `/de`, `/en`, `/ar`, `/ku`, `/tr`.
@@ -20,7 +20,8 @@ npm run dev                  # http://localhost:3000 → redirects to /de
 | Command | What it does |
 | --- | --- |
 | `npm run dev` | Development server (draft articles visible) |
-| `npm run build` / `npm start` | Production build / serve it |
+| `npm run build` / `npm start` | Production build (webpack, works on hosts without the native compiler) / serve it |
+| `npm run build:turbopack` | Faster Turbopack build for hosts with a current system (e.g. Vercel) |
 | `npm run typecheck` | TypeScript, strict |
 | `npm run lint` | ESLint (Next.js core-web-vitals + TypeScript) |
 | `npm test` | Unit tests: routes, hreflang, blog content, form validation, rate limiter |

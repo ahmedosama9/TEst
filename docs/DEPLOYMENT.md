@@ -21,6 +21,13 @@ plans without Node.js support cannot run it — a static upload via File Manager
    branch `ccr-24767bd8-okjxxv` (or merge that branch into `main` first and select `main`).
 3. Hostinger detects **Next.js**. Build settings: install `npm install`, build `npm run build`,
    start `npm start`, Node.js **22** (20 or newer is required).
+
+   Why `npm run build` runs `next build --webpack`: Hostinger's build servers have an older system
+   library (glibc) than Next.js's native compiler needs. The first upload failed with
+   "GLIBC_2.29 not found … Failed to load next.config.ts". The project therefore uses a plain
+   JavaScript config (`next.config.mjs`), Tailwind through PostCSS and the webpack build, which fall
+   back to the portable compiler. The two "Attempted to load @next/swc…" warnings in the build log
+   are expected and harmless. (`npm run build:turbopack` remains for hosts with a current system.)
 4. Add the **environment variables before the first build** (values starting with `NEXT_PUBLIC_`
    are compiled into the pages; change them later → redeploy):
 

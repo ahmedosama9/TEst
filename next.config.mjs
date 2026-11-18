@@ -1,9 +1,10 @@
-import type { NextConfig } from "next";
 import createNextIntlPlugin from "next-intl/plugin";
 
 const withNextIntl = createNextIntlPlugin("./src/i18n/request.ts");
 
-// Keep in sync with src/i18n/config.ts (next.config cannot import path aliases reliably).
+// Plain JavaScript on purpose: hosts whose build servers cannot load Next.js's native compiler
+// (older glibc, e.g. Hostinger) fail to transpile a TypeScript config file.
+// Keep in sync with src/i18n/config.ts.
 const NON_DEFAULT_LOCALES = ["en", "ar", "ku", "tr"];
 const LOCALE_COOKIE = "smk_locale";
 
@@ -15,23 +16,19 @@ const securityHeaders = [
   { key: "Strict-Transport-Security", value: "max-age=63072000; includeSubDomains; preload" },
 ];
 
-const nextConfig: NextConfig = {
+/** @type {import("next").NextConfig} */
+const nextConfig = {
   poweredByHeader: false,
   reactStrictMode: true,
   images: { formats: ["image/avif", "image/webp"], qualities: [75, 85] },
   // Blog content is read from disk; make sure it ships with on-demand (404/ISR) renders too.
   outputFileTracingIncludes: { "/[locale]/[[...path]]": ["./content/**/*"] },
-  turbopack: {
-    rules: {
-      "*.css": { loaders: ["@tailwindcss/turbopack"], as: "*.css" },
-    },
-  },
   async redirects() {
     return [
       // Root: honour an explicit language choice (cookie set only by the language switcher) …
       ...NON_DEFAULT_LOCALES.map((locale) => ({
         source: "/",
-        has: [{ type: "cookie" as const, key: LOCALE_COOKIE, value: locale }],
+        has: [{ type: "cookie", key: LOCALE_COOKIE, value: locale }],
         destination: `/${locale}`,
         permanent: false,
       })),

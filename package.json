@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build --webpack",
     "start": "next start",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
@@ -12,7 +12,8 @@
     "check:i18n": "node scripts/check-i18n.mjs",
     "audit:site": "node scripts/site-audit.mjs",
     "audit:browser": "node scripts/browser-audit.mjs",
-    "audit:hero": "node scripts/hero-audit.mjs"
+    "audit:hero": "node scripts/hero-audit.mjs",
+    "build:turbopack": "next build"
   },
   "dependencies": {
     "@hookform/resolvers": "^7.0.7",
@@ -33,7 +34,7 @@
     "zod": "^4.6.7"
   },
   "devDependencies": {
-    "@tailwindcss/turbopack": "^4.3.3",
+    "@tailwindcss/postcss": "^4.3.3",
     "@types/mdx": "^2.0.14",
     "@types/node": "^22.20.5",
     "@types/react": "^19.3.0",

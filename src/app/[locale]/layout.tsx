@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, Montserrat, Noto_Sans_Arabic } from "next/font/google";
+import { Inter, Montserrat } from "next/font/google";
 import { setRequestLocale } from "next-intl/server";
 import { defaultLocale, isLocale, localeConfig, locales } from "@/i18n/config";
 import { site } from "@/config/site";
@@ -12,15 +12,6 @@ const montserrat = Montserrat({
   variable: "--font-montserrat",
   display: "swap",
 });
-// Loaded for Arabic only (and for a future Sorani locale); never preloaded on Latin pages.
-const arabic = Noto_Sans_Arabic({
-  subsets: ["arabic"],
-  weight: ["400", "500", "700"],
-  variable: "--font-arabic",
-  display: "swap",
-  preload: false,
-});
-
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   applicationName: site.name,
@@ -40,11 +31,14 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
   const locale = isLocale(raw) ? raw : defaultLocale;
   setRequestLocale(locale);
   const cfg = localeConfig[locale];
-  const fonts = [inter.variable, montserrat.variable, cfg.script === "arabic" ? arabic.variable : ""].join(" ");
+  const fonts = `${inter.variable} ${montserrat.variable}`;
 
   return (
     <html lang={cfg.htmlLang} dir={cfg.dir} className={fonts}>
       <head>
+        {cfg.script === "arabic" ? (
+          <link rel="preload" href="/fonts/noto-sans-arabic.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+        ) : null}
         <noscript>
           <style>{`[data-reveal]{opacity:1!important;transform:none!important}`}</style>
         </noscript>

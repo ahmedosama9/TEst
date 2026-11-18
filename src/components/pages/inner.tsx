@@ -397,7 +397,7 @@ export function PackagesPage({ locale, messages }: P) {
       <JsonLd data={faqJsonLd(p.faq)} />
       <PageHero crumbs={[home({ locale, messages }), { name: c.nav.packages, path: href("packages", locale) }]} breadcrumbLabel={c.labels.breadcrumbs} eyebrow={p.eyebrow} title={p.title} intro={p.intro} />
       <Section tone="mist">
-        <PackageCards locale={locale} messages={messages} />
+        <PackageCards locale={locale} messages={messages} headingLevel="h2" />
         <p className="mx-auto mt-8 max-w-3xl text-center">{p.priceNote}</p>
       </Section>
       <Section>

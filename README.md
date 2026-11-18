@@ -93,3 +93,21 @@ and there is no browser-language sniffing.
 - Prices render as "Preis auf Anfrage" until set in `src/config/packages.ts`.
 - The contact form reports success only when the mail provider accepted the message.
 - All non-German text is a machine-assisted draft marked `needs-review` until a native speaker signs it off.
+
+## Measured results (local production build, 2026-11-18)
+
+| Check | Result |
+| --- | --- |
+| TypeScript strict, ESLint | no errors |
+| Unit tests | 12 / 12 passed |
+| Static pages generated | 216 (195 indexable URLs in the sitemap, 39 per language) |
+| Site audit | passed: canonicals, reciprocal hreflang, unique titles/descriptions, JSON-LD, 210 internal links, 404, redirects |
+| Browser audit | passed: 135 page renders (3 viewports × 5 languages) without overflow or console errors; RTL, switcher, blog, forms |
+| axe (WCAG 2.2 AA rules) | 0 violations on 18 pages × 2 viewports |
+| Lighthouse mobile — home (de / ar) | Performance 95 / 98, Accessibility 100, Best Practices 100, SEO 100 |
+| Lighthouse mobile — article | Performance 97–100, LCP 0.9 s, CLS 0 |
+| Lighthouse desktop | Performance 99–100 |
+
+Lighthouse numbers are lab values from a local server and vary between runs; measure again on the
+live domain. Automated accessibility tools find only part of all issues — a manual screen-reader
+pass (VoiceOver/NVDA, including Arabic) is still recommended.

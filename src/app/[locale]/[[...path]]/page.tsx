@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
 import { PageView } from "@/components/pages/page-view";
+import { site } from "@/config/site";
 import { isLocale, locales } from "@/i18n/config";
 import { loadMessages } from "@/i18n/messages";
 import { allPages, alternatesOf, metaOf, pathOf, resolve, segmentsOf } from "@/lib/pages";
@@ -17,10 +18,11 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: PageProps<"/[locale]/[[...path]]">): Promise<Metadata> {
   const { locale, path = [] } = await params;
-  if (!isLocale(locale)) return { robots: { index: false, follow: false } };
+  if (!isLocale(locale)) return { title: `404 | ${site.name}`, robots: { index: false, follow: false } };
   const page = resolve(locale, path);
-  if (!page) return { robots: { index: false, follow: false } };
-  const meta = metaOf(page, await loadMessages(locale));
+  const messages = await loadMessages(locale);
+  if (!page) return { title: `${messages.common.errors.notFoundTitle} | ${site.name}`, robots: { index: false, follow: false } };
+  const meta = metaOf(page, messages);
   return buildMetadata({
     locale,
     ...meta,

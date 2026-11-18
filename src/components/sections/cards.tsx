@@ -200,7 +200,7 @@ export function formatPrice(pkg: PackageConfig, locale: Locale, messages: Messag
   return `${amount} ${messages.common.labels.perMonth}`;
 }
 
-export function PackageCards({ locale, messages }: { locale: Locale; messages: Messages }) {
+export function PackageCards({ locale, messages, headingLevel: H = "h3" }: { locale: Locale; messages: Messages; headingLevel?: "h2" | "h3" }) {
   const p = messages.pages.packages;
   return (
     <ul className="grid gap-6 lg:grid-cols-3">
@@ -215,7 +215,7 @@ export function PackageCards({ locale, messages }: { locale: Locale; messages: M
                   pkg.highlighted ? "on-dark hero-backdrop border-turquoise/50 text-soft shadow-glow" : "border-line bg-white shadow-card",
                 )}
               >
-                <h3 className={cn("text-2xl", pkg.highlighted && "text-white")}>{t.name}</h3>
+                <H className={cn("text-2xl", pkg.highlighted && "text-white")}>{t.name}</H>
                 <p className={cn("mt-1 font-display text-sm font-bold", pkg.highlighted ? "text-aqua" : "text-teal-ink")}>{t.tagline}</p>
                 <p className={cn("mt-5 font-display text-2xl font-extrabold", pkg.highlighted ? "text-white" : "text-ink")}>{formatPrice(pkg, locale, messages)}</p>
                 <p className="mt-3 text-[0.95rem]">{t.audience}</p>

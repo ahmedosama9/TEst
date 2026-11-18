@@ -71,7 +71,7 @@ export async function ArticleBody({ source, locale, anchorLabel, externalLabel }
       return <Link href={resolved}>{children}</Link>;
     },
     table: (props: ComponentProps<"table">) => (
-      <div className="table-wrap" tabIndex={0} role="region">
+      <div className="table-wrap" tabIndex={0}>
         <table {...props} />
       </div>
     ),

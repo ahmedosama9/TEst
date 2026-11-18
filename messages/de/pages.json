@@ -94,7 +94,7 @@
     "facts": {
       "what": {
         "label": "Was wir tun",
-        "value": "Social Media Management, Content-Erstellung, Reels & Videoproduktion, Strategie und Community Management sowie Speisekarten-Design und Foto- und Profilpflege für das Google-Unternehmensprofil"
+        "value": "Social Media Management, Content-Erstellung, Reels & Videoproduktion, Strategie und Community Management sowie Speisekarten-Design und Unternehmensfotos für Google Maps"
       },
       "who": {
         "label": "Für wen",
@@ -324,7 +324,7 @@
       }
     ],
     "standalone": {
-      "title": "Einzelleistungen: Speisekarten-Design & Google-Unternehmensprofil",
+      "title": "Einzelleistungen: Speisekarten-Design & Google Maps Bilder",
       "intro": "Diese Leistungen kannst du unabhängig von einem Paket buchen oder mit der monatlichen Social-Media-Betreuung kombinieren. Preise nennen wir dir nach einem kurzen Gespräch."
     }
   },
@@ -418,15 +418,15 @@
         ]
       },
       {
-        "title": "Speisekarten & Google-Unternehmensprofil",
+        "title": "Speisekarten & Google Maps Bilder",
         "items": [
           {
             "q": "Gestaltet ihr auch Speisekarten?",
-            "a": "Ja. Wir gestalten neue Speisekarten und überarbeiten bestehende – als gedruckte Karte, PDF, QR-Code-Karte oder To-go-Flyer. Preise, Allergene und alle weiteren Angaben kommen von dir und werden von dir freigegeben."
+            "a": "Ja. Wir gestalten neue Speisekarten und überarbeiten bestehende – als gedruckte Karte, PDF, QR-Code-Karte oder To-go-Flyer – und liefern dir die fertigen Dateien. Preise, Allergene und alle weiteren Angaben kommen von dir und werden von dir freigegeben."
           },
           {
-            "q": "Was macht ihr beim Google-Unternehmensprofil?",
-            "a": "Wir prüfen dein Profil, fotografieren deinen Betrieb, wählen Bilder aus, bearbeiten sie und laden die von dir freigegebenen Fotos hoch. Auf Wunsch pflegen wir Fotos und Angaben regelmäßig. Das Profil selbst ist ein kostenloses Angebot von Google; bezahlt wird unsere Foto- und Pflegearbeit."
+            "q": "Wie erneuert ihr meine Bilder auf Google Maps?",
+            "a": "Wir kommen nach Absprache zu dir, fotografieren deinen Betrieb, bearbeiten die Bilder und laden die von dir freigegebenen Fotos in dein Google-Unternehmensprofil hoch. Du musst dich um nichts kümmern – wir erledigen das für dich."
           },
           {
             "q": "Braucht ihr dafür mein Google-Passwort?",
@@ -434,7 +434,7 @@
           },
           {
             "q": "Kann ich diese Leistungen ohne Social-Media-Paket buchen?",
-            "a": "Ja. Speisekarten-Design und Foto-Refresh sind einzeln buchbar und lassen sich mit der laufenden Betreuung kombinieren – zum Beispiel, indem ein Drehtermin gleich für Profilfotos genutzt wird."
+            "a": "Ja. Speisekarten-Design und neue Google Maps Bilder sind einzeln buchbar und lassen sich mit der laufenden Betreuung kombinieren – zum Beispiel, indem ein Drehtermin gleich für Unternehmensfotos genutzt wird."
           }
         ]
       }

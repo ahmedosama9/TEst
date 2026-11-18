@@ -40,7 +40,7 @@ content/blog/<article-id>/<locale>.mdx   Blog articles (one folder per article, 
 messages/<locale>/*.json                 All page and UI copy (German is the source of truth)
 src/config/site.ts                       Business facts, service area, contact, legal switches
 src/config/packages.ts                   Package prices, deliverables, terms, add-ons
-src/config/service-catalog.ts            All services, groups and booking options (shared with the future CRM)
+src/config/service-catalog.ts            All services, groups and booking options
 src/config/blog.ts                       Blog categories (+ slugs) and authors
 src/i18n/config.ts                       Languages, direction, hreflang, review/index status
 src/lib/routes.ts                        Route registry: page ids → localized URL slugs
@@ -94,7 +94,7 @@ and there is no browser-language sniffing.
 - `docs/LEGAL_CHECKLIST.md` — what must be completed before the legal pages are final
 - `docs/LAUNCH_CHECKLIST.md` — remaining steps to go live
 - `docs/ROADMAP.md` — what is done and what comes next
-- `docs/AGENCY_PLATFORM.md` — requirements for the future agency dashboard / CRM (planning only)
+- `docs/AGENCY_PLATFORM.md` — how the two done-for-you services are delivered and what to track internally (no platform is built or planned)
 
 ## Honesty rules built into the site
 

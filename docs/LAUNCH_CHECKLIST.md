@@ -24,7 +24,7 @@ and are **not** done.
       and the wording "Betreuung in ganz NRW"
 
 - [ ] **New services — owner approval**: confirm the descriptions of Speisekarten-Design and
-      Google-Unternehmensprofil (scope, print coordination, QR-menu hosting, working as profile manager)
+      Google Maps Bilder erneuern & Unternehmensfotos (scope, print coordination, QR-menu hosting, manual upload as profile manager)
 - [ ] **New services — real imagery**: the before/after visuals on both pages are schematic examples.
       Replace them with the agency's own, licensed photos and real menu designs when available
 - [ ] **Google facts**: open the six Google help links cited in the article "Google Maps Bilder

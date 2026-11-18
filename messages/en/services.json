@@ -517,116 +517,92 @@
     },
     "google-business-profile": {
       "meta": {
-        "title": "Google Business Profile: Photo Refresh & Profile Maintenance",
-        "description": "Google Business Profile optimisation: new business photos for Google Search and Maps, profile check and ongoing maintenance – for businesses in Münster & NRW."
+        "title": "Refresh Google Maps photos & business photography",
+        "description": "Refresh your Google Maps photos: we photograph your business on site, edit the photos and upload them to your Google Business Profile – in Münster & NRW."
       },
-      "name": "Google Business Profile",
-      "short": "Photo refresh & profile maintenance for your presence in Google Search and on Google Maps.",
-      "title": "Google Business Profile: photo refresh & profile maintenance",
-      "intro": "Anyone searching for your business often sees your Google Business Profile first – with photos, opening hours and contact details. We provide up-to-date, professional images and correct details, so that your business looks the way it really is in Google Search and on Google Maps.",
-      "definitionTitle": "What is the Google Business Profile?",
-      "definition": "The Google Business Profile (formerly “Google My Business”) is the free listing with which businesses appear in Google Search and on Google Maps. Owners can maintain photos, opening hours, categories, a description and contact details there. Our service is the photography and maintenance work around this profile – the profile itself remains a free Google product.",
+      "name": "Refresh Google Maps photos & business photography",
+      "short": "We photograph your business and bring fresh images to your Google Business Profile – all done for you.",
+      "title": "Refresh Google Maps photos & business photography",
+      "intro": "Old, dark or random photos on Google Maps? We come to you, photograph your business professionally and upload the new images to your Google Business Profile. You approve the photos – we take care of everything else.",
+      "definitionTitle": "Google Business Profile: photo refresh & profile maintenance",
+      "definition": "With this service, we refresh the images with which your business appears in Google Search and on Google Maps. We photograph on site, edit the shots and upload the approved photos to your Google Business Profile. This is an agency service from Social Media Komplett – not a Google product and not software you have to operate yourself.",
       "includes": [
         {
-          "title": "Profile check",
-          "text": "We look at your profile and note what is missing, out of date or inconsistent."
+          "title": "A visit by arrangement",
+          "text": "We come to your restaurant or business at a time that fits around your day-to-day operations."
         },
         {
-          "title": "New business photos",
-          "text": "Professional shots of your business at an on-site appointment."
+          "title": "On-site photos",
+          "text": "Rooms, exterior, products, services, dishes and drinks – we photograph what your business has to offer."
         },
         {
-          "title": "Food photography",
-          "text": "Dishes and drinks, photographed appetisingly and realistically."
+          "title": "Professional editing",
+          "text": "We select the best shots and edit them consistently: light, colours, cropping."
         },
         {
-          "title": "Interior and exterior shots",
-          "text": "Entrance, rooms and atmosphere – so that people recognise and find you."
+          "title": "Replacing or adding to old images",
+          "text": "We replace outdated business photos or add to them – as far as Google allows."
         },
         {
-          "title": "Product and service photos",
-          "text": "Images of what you offer: products, treatments, finished work."
+          "title": "Upload to your profile",
+          "text": "We upload the photos you have approved to your Google Business Profile in an orderly way – by hand, using the access you give us."
         },
         {
-          "title": "Selection and editing",
-          "text": "We select the best shots and edit them consistently."
-        },
-        {
-          "title": "Upload of approved photos",
-          "text": "We upload the images you have approved to your profile – using the access you grant us."
-        },
-        {
-          "title": "Logo and cover photo",
-          "text": "We update your logo and cover photo, as far as your profile supports it."
-        },
-        {
-          "title": "Checking your details",
-          "text": "We go through the description, categories, opening hours and contact details with you."
-        },
-        {
-          "title": "Finding what is out of date",
-          "text": "We point out outdated or incorrect information and suggest corrections."
-        },
-        {
-          "title": "Ongoing photo maintenance",
-          "text": "Optional: new images at regular intervals, for instance for the season or new offers."
-        },
-        {
-          "title": "Simple evaluation",
-          "text": "Where Google provides figures, we summarise views and interactions in an easy-to-understand way."
+          "title": "Regular refresh",
+          "text": "Optional: new photos when your menu, range, interior or the season changes."
         }
       ],
       "howItWorks": [
         {
-          "title": "Setting up access",
-          "text": "You add us as a manager in your profile. You remain the owner – we do not need a password."
+          "title": "Arrange an appointment",
+          "text": "We briefly discuss what should be shown and set a date for the photo shoot."
         },
         {
-          "title": "Profile check",
-          "text": "We check photos and details and discuss with you what should be updated."
+          "title": "Take photos on site",
+          "text": "We photograph at your premises – rooms, what you offer and, if you wish, your team."
         },
         {
-          "title": "On-site photo shoot",
-          "text": "We photograph your premises, what you offer and – if you wish – your team."
+          "title": "Edit the images professionally",
+          "text": "We select, edit and prepare the images for Google."
         },
         {
-          "title": "Selection and approval",
-          "text": "You see the edited images and proposed changes and approve them."
+          "title": "Your approval",
+          "text": "You see all the photos in advance. Only what you have approved is uploaded."
         },
         {
-          "title": "Upload and maintenance",
-          "text": "We upload the photos and, on request, take care of updates on a regular basis."
+          "title": "Update your Google Maps photos",
+          "text": "We upload the new photos to your profile. You don’t have to set up or operate anything yourself."
         }
       ],
       "forWhom": [
-        "Businesses whose profile mainly shows old or random photos",
-        "Restaurants, salons, studios and shops that want to be found locally",
-        "Businesses after a refurbishment, a move or a new opening, or with a new offering"
+        "Restaurants, cafés and bars: fresh photos of dishes, drinks, the dining area, the menu and the exterior",
+        "Salons, studios, shops and service providers: appealing images of products, rooms and services",
+        "Businesses after a refurbishment or a new opening, or with a new menu and a new range"
       ],
       "faq": [
         {
-          "q": "Isn’t the Google Business Profile free?",
-          "a": "Yes, it is. The profile is a free Google product, and you can maintain it yourself. What you pay us for is the work around it: photography, image editing, checking the details and ongoing maintenance."
+          "q": "Do I have to upload or set up anything myself?",
+          "a": "No. We take care of the photography, editing and upload for you. You arrange the appointment with us, approve the photos and – if necessary – add us once as a manager of your profile. You don’t need any software or a customer portal for this."
         },
         {
-          "q": "Can you remove old photos or photos from customers?",
-          "a": "The business’s own photos can be replaced. Photos uploaded by other people are not something we can simply delete; violations of the guidelines can be reported to Google, and Google decides whether to remove them."
+          "q": "Can you delete all the old photos?",
+          "a": "We cannot promise that. The business’s own photos can generally be replaced. Photos uploaded by guests or customers are not something we can simply remove; violations of the guidelines can be reported to Google, and Google decides whether to remove them."
         },
         {
           "q": "Do you decide which photo is shown first?",
-          "a": "No. We can set a cover photo, but Google itself decides which images appear where. Good, up-to-date photos from the business widen the selection Google can draw on – there is no guarantee."
-        },
-        {
-          "q": "Will this improve my ranking on Google?",
-          "a": "We do not promise that. We make sure your presentation is complete, up to date and appealing. How Google orders results is not in our hands."
+          "a": "No. Google itself decides which images appear where and in what order. With good, up-to-date photos, we make sure a strong selection is available – there is no guarantee of the order or of a better ranking."
         },
         {
           "q": "Do you need my Google password?",
           "a": "No, and we don’t want it either. You add us as a manager and can remove the access at any time. The profile remains yours."
         },
         {
-          "q": "Are you a Google partner?",
-          "a": "No. Social Media Komplett is an independent agency and has no partnership with Google. Google and Google Maps are trademarks of Google LLC."
+          "q": "Is this a Google service?",
+          "a": "No. The Google Business Profile itself is a free Google product. Our service – photography, image editing and updating your photos – is a paid agency service from Social Media Komplett. We are independent and not a Google partner; Google and Google Maps are trademarks of Google LLC."
+        },
+        {
+          "q": "How often should the photos be refreshed?",
+          "a": "Whenever something visibly changes at your business: a new menu, a new range, a refurbishment or the season. For this we offer a regular photo update – we agree the rhythm together."
         }
       ]
     }
@@ -638,7 +614,7 @@
     },
     "local": {
       "title": "Local marketing & design",
-      "intro": "For everything guests and customers see first, on site and on Google: your menu and your Google Business Profile."
+      "intro": "For everything guests and customers see first, on site and on Google: your menu and your photos on Google Maps. We take care of both for you from start to finish."
     }
   },
   "showcaseLabels": {
@@ -713,10 +689,10 @@
       ]
     },
     "google-business-profile": {
-      "title": "Example: a photo refresh for a profile",
+      "title": "Example: before and after",
       "intro": "This is how the first impression can change. The illustration is a schematic drawing – not a real profile, not real photos and not a client project.",
-      "beforeCaption": "Few, dark or outdated images; details partly incomplete.",
-      "afterCaption": "Up-to-date shots of the exterior, the interior, what’s on offer and the team; details checked.",
+      "beforeCaption": "Few, dark or outdated images.",
+      "afterCaption": "Up-to-date shots of the exterior, the interior, what’s on offer and the team.",
       "mock": {
         "name": "Example Café",
         "subtitle": "Café",
@@ -729,7 +705,7 @@
           "Cover photo"
         ]
       },
-      "formatsTitle": "Subjects we photograph",
+      "formatsTitle": "What we photograph",
       "formats": [
         {
           "title": "Outside",
@@ -737,11 +713,11 @@
         },
         {
           "title": "Inside",
-          "text": "Rooms, seating and atmosphere."
+          "text": "Dining area, sales floor, treatment rooms – atmosphere included."
         },
         {
           "title": "What you offer",
-          "text": "Food, products and services."
+          "text": "Dishes, drinks, menu, products and services."
         },
         {
           "title": "People",
@@ -750,25 +726,24 @@
       ],
       "options": [
         {
-          "title": "Photo refresh",
-          "text": "One-off update of the profile photos, including a profile check."
+          "title": "One-off photo refresh",
+          "text": "New images for your profile: one appointment, editing and upload."
         },
         {
-          "title": "On-site photography",
-          "text": "A professional photo shoot at your business."
+          "title": "Professional on-site business photography",
+          "text": "An extended photo shoot – you can also use the images for your website and social media."
         },
         {
-          "title": "Ongoing photo and profile maintenance",
-          "text": "New images on a regular basis and a check of your details."
+          "title": "Regular photo update",
+          "text": "New photos at fixed intervals, or when you have a new menu or a new range, and for the season."
         }
       ],
       "notes": [
-        "The Google Business Profile is a free Google product. What you pay for is our photography and maintenance work.",
-        "We are an independent agency and not a Google partner.",
-        "You remain the owner of the profile. We work only with the access you give us as a manager – without your password.",
-        "Google decides which photos are shown. We cannot guarantee that all old images will be replaced or that our cover photo will appear first, nor can we promise a better ranking.",
-        "We cannot remove photos uploaded by customers; violations can be reported.",
-        "We publish nothing in your profile without your express approval."
+        "We take care of everything for you: you don’t have to use any software or upload anything yourself.",
+        "The update is done by hand using the access you give us as a manager – without your password. You remain the owner of your profile.",
+        "Only what you have expressly approved is uploaded.",
+        "Google decides which photos are shown and in what order. We cannot promise that all old images will disappear, and we do not promise a better ranking.",
+        "Our service is an agency service for photography and profile updates – not a Google product. The Google Business Profile itself is free; we are not a Google partner."
       ]
     }
   }

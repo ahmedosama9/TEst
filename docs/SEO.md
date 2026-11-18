@@ -45,14 +45,16 @@ Copilot. What the site does is make its content easy to retrieve and quote corre
 
 ### Services added later
 
-`Speisekarten-Design & Redesign` and `Google-Unternehmensprofil: Foto-Refresh & Profilpflege` have
+`Speisekarten-Design & Redesign` and `Google Maps Bilder erneuern & Unternehmensfotos` (secondary
+heading "Google-Unternehmensprofil: Foto-Refresh & Profilpflege") have
 their own pages in all five languages with unique titles/descriptions, `Service` + `FAQPage` +
 `BreadcrumbList` structured data, reciprocal hreflang and sitemap entries (generated from the route
 registry — nothing to maintain by hand). They are linked from the services overview (group
 "Lokales Marketing & Design"), the home page teaser card, the mobile menu, the footer, the packages
 page, the gastronomy and other industry pages, the FAQ and two articles; `llms.txt` lists them.
-The Google page uses the official German product name, states that the profile is a free Google
-product, and makes no partnership, ranking or photo-order claims.
+The Google Maps page describes a done-for-you agency service, uses the official German product name
+"Google-Unternehmensprofil", states that the profile itself is a free Google product, and makes no
+partnership, ranking, photo-order or photo-deletion claims.
 
 ## Crawler control
 

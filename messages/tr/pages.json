@@ -94,7 +94,7 @@
     "facts": {
       "what": {
         "label": "Ne yapıyoruz",
-        "value": "Sosyal medya yönetimi, içerik üretimi, Reels ve video prodüksiyonu, strateji ve topluluk yönetimi; ayrıca menü tasarımı ve Google İşletme Profili için fotoğraf ve profil bakımı"
+        "value": "Sosyal medya yönetimi, içerik üretimi, Reels ve video prodüksiyonu, strateji ve topluluk yönetimi ile menü tasarımı ve Google Haritalar için işletme fotoğrafları"
       },
       "who": {
         "label": "Kimler için",
@@ -324,7 +324,7 @@
       }
     ],
     "standalone": {
-      "title": "Tek başına alınabilen hizmetler: Menü tasarımı & Google İşletme Profili",
+      "title": "Tek başına alınabilen hizmetler: Menü tasarımı ve Google Haritalar fotoğrafları",
       "intro": "Bu hizmetleri bir paketten bağımsız olarak alabilir veya aylık sosyal medya yönetimiyle birleştirebilirsiniz. Fiyatları kısa bir görüşmenin ardından size bildiriyoruz."
     }
   },
@@ -418,23 +418,23 @@
         ]
       },
       {
-        "title": "Menüler & Google İşletme Profili",
+        "title": "Menüler ve Google Haritalar fotoğrafları",
         "items": [
           {
             "q": "Menü tasarımı da yapıyor musunuz?",
-            "a": "Evet. Yeni menüler tasarlıyor, mevcut menüleri elden geçiriyoruz – basılı menü, PDF, QR kodlu menü veya paket servis broşürü olarak. Fiyatlar, alerjenler ve diğer tüm bilgiler sizden gelir ve sizin tarafınızdan onaylanır."
+            "a": "Evet. Yeni menüler tasarlıyor, mevcut menüleri yeniliyoruz – basılı menü, PDF, QR kodlu menü veya paket servis broşürü olarak – ve hazır dosyaları size teslim ediyoruz. Fiyatlar, alerjenler ve diğer tüm bilgiler sizden gelir ve sizin onayınızdan geçer."
           },
           {
-            "q": "Google İşletme Profili için ne yapıyorsunuz?",
-            "a": "Profilinizi inceliyor, işletmenizin fotoğraflarını çekiyor, görselleri seçip düzenliyor ve onayladığınız fotoğrafları yüklüyoruz. Dilerseniz fotoğrafların ve bilgilerin bakımını düzenli olarak üstleniyoruz. Profilin kendisi Google'ın ücretsiz bir hizmetidir; ücreti ödenen, bizim fotoğraf ve bakım çalışmamızdır."
+            "q": "Google Haritalar'daki fotoğraflarımı nasıl yeniliyorsunuz?",
+            "a": "Kararlaştırdığımız bir randevuda işletmenize geliyor, işletmenizi fotoğraflıyor, görselleri düzenliyor ve onayladığınız fotoğrafları Google İşletme Profilinize yüklüyoruz. Sizin hiçbir şeyle uğraşmanız gerekmez – bunu sizin için biz hallediyoruz."
           },
           {
             "q": "Bunun için Google şifreme ihtiyacınız var mı?",
-            "a": "Hayır. Bizi profilinize yönetici olarak eklersiniz ve bu erişimi istediğiniz zaman kaldırabilirsiniz. Profilin sahibi siz kalırsınız."
+            "a": "Hayır. Bizi profilinize yönetici olarak eklersiniz ve erişimi istediğiniz zaman kaldırabilirsiniz. Profilin sahibi siz kalırsınız."
           },
           {
             "q": "Bu hizmetleri sosyal medya paketi olmadan alabilir miyim?",
-            "a": "Evet. Menü tasarımı ve fotoğraf yenileme tek başına alınabilir ve düzenli yönetimle birleştirilebilir – örneğin bir çekim günü aynı zamanda profil fotoğrafları için de değerlendirilebilir."
+            "a": "Evet. Menü tasarımı ve yeni Google Haritalar fotoğrafları tek başına alınabilir ve düzenli yönetimle birleştirilebilir – örneğin bir çekim günü aynı zamanda işletme fotoğrafları için değerlendirilebilir."
           }
         ]
       }

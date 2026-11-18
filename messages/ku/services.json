@@ -517,116 +517,92 @@
     },
     "google-business-profile": {
       "meta": {
-        "title": "Google Business Profile: nûkirina wêneyan û lênêrîn",
-        "description": "Google Business Profile bidin baştirkirin: wêneyên nû yên karsaziyê ji bo lêgerîna Google û Maps, kontrola profîlê û lênêrîna berdewam – li Münster û NRW."
+        "title": "Nûkirina wêneyên Google Maps û wênekêşiya karsaziyê",
+        "description": "Wêneyên Google Maps bidin nûkirin: em li cih wêneyên karsaziya we dikişînin, sererast dikin û bar dikin Google Business Profile-a we – li Münster û NRW."
       },
-      "name": "Google Business Profile",
-      "short": "Nûkirina wêneyan û lênêrîna profîlê ji bo xuyanga we di lêgerîna Google û li ser Google Maps de.",
-      "title": "Google Business Profile: nûkirina wêneyan û lênêrîna profîlê",
-      "intro": "Kî li karsaziya we bigere, gelek caran pêşî Google Business Profile-a we dibîne – bi wêne, saetên vekirinê û agahiyên têkiliyê. Em wêneyên nû û profesyonel û agahiyên rast peyda dikin, da ku karsaziya we di lêgerîna Google û li ser Google Maps de wisa xuya bike ku bi rastî çawa ye.",
-      "definitionTitle": "Google Business Profile çi ye?",
-      "definition": "Google Business Profile (profîla karsaziyê ya li ser Google, berê “Google My Business”) ew tomara bêpere ye ku karsazî pê di lêgerîna Google û li ser Google Maps de xuya dibin. Xwediyên karsaziyan dikarin li wir li wêne, saetên vekirinê, kategorî, danasîn û agahiyên têkiliyê binêrin. Xizmeta me karê wênekêşî û lênêrînê ye li dora vê profîlê – profîl bi xwe xizmeteke bêpere ya Google dimîne.",
+      "name": "Nûkirina wêneyên Google Maps û wênekêşiya karsaziyê",
+      "short": "Em wêneyên karsaziya we dikişînin û wêneyên nû tînin Google Business Profile-a we – bi temamî ji bo we tê kirin.",
+      "title": "Nûkirina wêneyên Google Maps û wênekêşiya karsaziyê",
+      "intro": "Li ser Google Maps wêneyên kevn, tarî an tesadufî hene? Em tên cem we, bi awayekî profesyonel wêneyên karsaziya we dikişînin û wêneyên nû bar dikin Google Business Profile-a we. Hûn wêneyan dipejirînin – her tiştê din em digirin ser xwe.",
+      "definitionTitle": "Google Business Profile: nûkirina wêneyan û lênêrîna profîlê",
+      "definition": "Di vê xizmetê de em wan wêneyan nû dikin ku karsaziya we pê di lêgerîna Google û li ser Google Maps de xuya dibe. Em li cih wêneyan dikişînin, kişandinan sererast dikin û wêneyên pejirandî bar dikin Google Business Profile-a we. Ev xizmeteke ajansê ya Social Media Komplett e – ne berhemeke Google ye û ne jî nermalavek e ku divê hûn bi xwe bi kar bînin.",
       "includes": [
         {
-          "title": "Kontrola profîlê",
-          "text": "Em li profîla we dinêrin û tomar dikin ka çi kêm e, kevn bûye an ne yekgirtî ye."
+          "title": "Serdan li gorî lihevkirinê",
+          "text": "Em di randevûyeke ku li gorî herikîna karê we tê de tên restoran an karsaziya we."
         },
         {
-          "title": "Wêneyên nû yên karsaziyê",
-          "text": "Kişandinên profesyonel ên karsaziya we di randevûyeke li cih de."
+          "title": "Wêneyên li cih",
+          "text": "Ode, dîmena derve, berhem, xizmet, xwarin û vexwarin – em wêneyên tiştê ku karsaziya we pêşkêş dike dikişînin."
         },
         {
-          "title": "Wênekêşiya xwarinê",
-          "text": "Xwarin û vexwarin, bi awayekî ku mirov birçî dike û rasteqîn hatine kişandin."
+          "title": "Sererastkirina profesyonel",
+          "text": "Em kişandinên herî baş hildibijêrin û wan bi şêwazekî yekgirtî sererast dikin: ronahî, reng, birîn."
         },
         {
-          "title": "Wêneyên hundir û derve",
-          "text": "Derî, ode û atmosfer – da ku mirov we nas bikin û bibînin."
+          "title": "Guhertin an temamkirina wêneyên kevn",
+          "text": "Em wêneyên kevnbûyî yên karsaziyê diguherînin an temam dikin – bi qasî ku Google destûrê dide."
         },
         {
-          "title": "Wêneyên berhem û xizmetan",
-          "text": "Wêneyên tiştê ku hûn pêşkêş dikin: berhem, xizmetên lênêrînê, encamên kar."
+          "title": "Barkirin di profîla we de",
+          "text": "Em wêneyên ku we pejirandine bi rêkûpêk bar dikin Google Business Profile-a we – bi destan, bi wê gihîştinê ku hûn didin me."
         },
         {
-          "title": "Hilbijartin û sererastkirin",
-          "text": "Em dîmenên herî baş hildibijêrin û wan bi şêwazekî yekgirtî sererast dikin."
-        },
-        {
-          "title": "Barkirina wêneyên pejirandî",
-          "text": "Em wêneyên ku we pejirandine bar dikin profîla we – bi wê gihîştinê ku hûn didin me."
-        },
-        {
-          "title": "Logo û wêneyê bergê",
-          "text": "Em logo û wêneyê bergê nû dikin, bi qasî ku profîla we destûrê dide."
-        },
-        {
-          "title": "Kontrolkirina agahiyan",
-          "text": "Em danasîn, kategorî, saetên vekirinê û agahiyên têkiliyê bi we re derbas dikin."
-        },
-        {
-          "title": "Dîtina tiştên kevnbûyî",
-          "text": "Em bala we dikişînin ser agahiyên kevn an şaş û sererastkirinan pêşniyar dikin."
-        },
-        {
-          "title": "Lênêrîna berdewam a wêneyan",
-          "text": "Bijarte: wêneyên nû di navberên birêkûpêk de, mînak ji bo demsalê an pêşniyarên nû."
-        },
-        {
-          "title": "Nirxandina hêsan",
-          "text": "Bi qasî ku Google hejmaran dide, em dîtin û têkiliyan bi awayekî têgihîştî kurt dikin."
+          "title": "Nûkirina birêkûpêk",
+          "text": "Bijarte: wêneyên nû, dema ku menû, cureyên berheman, mobîlya û xemla hundir an demsal diguherin."
         }
       ],
       "howItWorks": [
         {
-          "title": "Sazkirina gihîştinê",
-          "text": "Hûn me di profîla xwe de wek rêvebir (Administrator) lê zêde dikin. Hûn xwedî dimînin – em hewcedarê şîfreyê nînin."
+          "title": "Diyarkirina randevûyê",
+          "text": "Em bi kurtî diaxivin ka divê çi bê nîşandan û randevûyeke wênekêşiyê diyar dikin."
         },
         {
-          "title": "Kontrola profîlê",
-          "text": "Em wêne û agahiyan kontrol dikin û bi we re diaxivin ka divê çi bê nûkirin."
+          "title": "Kişandina wêneyan li cih",
+          "text": "Em li cem we wêneyan dikişînin – ode, pêşniyar û, heke hûn bixwazin, tîma we."
         },
         {
-          "title": "Randevûya wênekêşiyê li cih",
-          "text": "Em wêneyên cih, pêşniyarên we û – heke hûn bixwazin – tîma we dikişînin."
+          "title": "Sererastkirina profesyonel a wêneyan",
+          "text": "Em hildibijêrin, sererast dikin û wêneyan ji bo Google amade dikin."
         },
         {
-          "title": "Hilbijartin û pejirandin",
-          "text": "Hûn wêneyên sererastkirî û guhertinên pêşniyarkirî dibînin û wan dipejirînin."
+          "title": "Pejirandina we",
+          "text": "Hûn hemû wêneyan ji berê ve dibînin. Tenê tiştê ku we pejirandiye tê barkirin."
         },
         {
-          "title": "Barkirin û lênêrîn",
-          "text": "Em wêneyan bar dikin û li ser daxwazê bi rêkûpêk bi nûkirinan re mijûl dibin."
+          "title": "Nûkirina wêneyên Google Maps",
+          "text": "Em wêneyên nû bar dikin profîla we. Ji bo vê ne hewce ye hûn bi xwe tiştekî saz bikin an bi kar bînin."
         }
       ],
       "forWhom": [
-        "Karsaziyên ku profîla wan bi piranî wêneyên kevn an tesadufî nîşan dide",
-        "Restoran, salon, studyo û dikanên ku dixwazin li cih bên dîtin",
-        "Karsaziyên piştî nûjenkirina avahiyê, barkirin, vebûna nû an bi pêşniyareke nû"
+        "Restoran, qehwexane û bar: wêneyên nû yên xwarin, vexwarin, salona mêvanan, menû û dîmena derve",
+        "Salon, studyo, dikan û xizmetkar: wêneyên balkêş ên berhem, ode û xizmetan",
+        "Karsaziyên piştî nûjenkirina avahiyê, vebûna nû an bi menû û cureyên berheman ên nû"
       ],
       "faq": [
         {
-          "q": "Ma Google Business Profile ne bêpere ye?",
-          "a": "Belê, bêpere ye. Profîl xizmeteke bêpere ya Google ye û hûn dikarin bi xwe lê binêrin. Li cem me pere ji bo karê li dora wê tê dayîn: wênekêşî, sererastkirina wêneyan, kontrola agahiyan û lênêrîna berdewam."
+          "q": "Divê ez bi xwe tiştekî bar bikim an saz bikim?",
+          "a": "Na. Em wênekêşî, sererastkirin û barkirinê ji bo we dikin. Hûn bi me re randevûyê diyar dikin, wêneyan dipejirînin û – heke hewce be – carekê me wek rêvebir (Administrator)ê profîla xwe lê zêde dikin. Ji bo vê hûn hewcedarê nermalavekê an portaleke mişteriyan nînin."
         },
         {
-          "q": "Hûn dikarin wêneyên kevn an wêneyên mişteriyan rakin?",
-          "a": "Wêneyên karsaziyê bi xwe dikarin bên guhertin. Wêneyên ku kesên din bar kirine em nikarin bi hêsanî jê bibin; binpêkirinên rêbazan dikarin ji Google re bên ragihandin, li ser rakirinê Google biryar dide."
+          "q": "Hûn dikarin hemû wêneyên kevn jê bibin?",
+          "a": "Em nikarin vê soz bidin. Wêneyên karsaziyê bi xwe bi gelemperî dikarin bên guhertin. Wêneyên ku mêvan an mişteriyan bar kirine em nikarin bi hêsanî rakin; binpêkirinên rêbazan dikarin ji Google re bên ragihandin, li ser rakirinê Google biryar dide."
         },
         {
           "q": "Hûn diyar dikin ka kîjan wêne pêşî tê nîşandan?",
-          "a": "Na. Em dikarin wêneyekî bergê diyar bikin, lê Google bi xwe biryar dide ka kîjan wêne li ku xuya dibin. Wêneyên baş û nû yên karsaziyê wê hilbijartinê fireh dikin ku Google dikare jê bigire – garantî tune."
-        },
-        {
-          "q": "Ev rêzbendiya min a li ser Google baştir dike?",
-          "a": "Em vê soz nadin. Em xuyangeke temam, rojane û balkêş peyda dikin. Ka Google encaman çawa rêz dike, ne di destê me de ye."
+          "a": "Na. Google bi xwe biryar dide ka kîjan wêne li ku û bi kîjan rêzê xuya dibin. Bi wêneyên baş û rojane em wisa dikin ku hilbijartineke xurt hebe – ji bo rêzê an ji bo rêzbendiyeke çêtir garantî tune."
         },
         {
           "q": "Hûn hewcedarê şîfreya min a Google ne?",
           "a": "Na, û em naxwazin ew li cem me be jî. Hûn me wek rêvebir (Administrator) lê zêde dikin û dikarin gihîştinê her dem rakin. Profîl milkê we dimîne."
         },
         {
-          "q": "Hûn hevkarekî Google ne?",
-          "a": "Na. Social Media Komplett ajanseke serbixwe ye û bi Google re di ti hevkariyê de nîne. Google û Google Maps marqeyên Google LLC ne."
+          "q": "Ev pêşniyareke Google ye?",
+          "a": "Na. Google Business Profile bi xwe xizmeteke bêpere ya Google ye. Xizmeta me – wênekêşî, sererastkirina wêneyan û nûkirina wêneyên we – xizmeteke ajansê ya bi pere ya Social Media Komplett e. Em serbixwe ne û ne hevkarê Google ne; Google û Google Maps marqeyên Google LLC ne."
+        },
+        {
+          "q": "Divê wêne çend caran bên nûkirin?",
+          "a": "Her gava ku li cem we tiştek bi awayekî xuya diguhere: menûya nû, cureyên berheman ên nû, nûjenkirina avahiyê an demsal. Ji bo vê em nûkirineke birêkûpêk a wêneyan pêşkêş dikin – em rîtmê bi hev re diyar dikin."
         }
       ]
     }
@@ -638,7 +614,7 @@
     },
     "local": {
       "title": "Marketînga herêmî û sêwiran",
-      "intro": "Ji bo her tiştê ku mêvan û mişterî li cih û li ser Google pêşî dibînin: menûya we û Google Business Profile-a we."
+      "intro": "Ji bo her tiştê ku mêvan û mişterî li cih û li ser Google pêşî dibînin: menûya we û wêneyên we yên li ser Google Maps. Em herduyan bi temamî ji bo we pêk tînin."
     }
   },
   "showcaseLabels": {
@@ -713,10 +689,10 @@
       ]
     },
     "google-business-profile": {
-      "title": "Mînak: nûkirina wêneyan ji bo profîlekê",
+      "title": "Mînak: berê û piştre",
       "intro": "Bandora yekem dikare wiha biguhere. Ev nîşandan îlustrasyoneke şematîk e – ne profîleke rasteqîn e, ne wêneyên rasteqîn in û ne projeyeke mişteriyekî ye.",
-      "beforeCaption": "Wêneyên kêm, tarî an kevnbûyî; agahî hinekî ne temam in.",
-      "afterCaption": "Kişandinên nû yên derve, hundir, pêşniyar û tîmê; agahiyên kontrolkirî.",
+      "beforeCaption": "Wêneyên kêm, tarî an kevnbûyî.",
+      "afterCaption": "Kişandinên rojane yên derve, hundir, pêşniyar û tîmê.",
       "mock": {
         "name": "Qehwexaneya Mînak",
         "subtitle": "Qehwexane",
@@ -729,7 +705,7 @@
           "Wêneyê bergê"
         ]
       },
-      "formatsTitle": "Dîmenên ku em dikişînin",
+      "formatsTitle": "Em wêneyên van dikişînin",
       "formats": [
         {
           "title": "Derve",
@@ -737,11 +713,11 @@
         },
         {
           "title": "Hundir",
-          "text": "Ode, cihên rûniştinê û atmosfer."
+          "text": "Salona mêvanan, qada firotinê, odeyên lênêrînê – tevî atmosferê."
         },
         {
           "title": "Pêşniyar",
-          "text": "Xwarin, berhem û xizmet."
+          "text": "Xwarin, vexwarin, menû, berhem û xizmet."
         },
         {
           "title": "Mirov",
@@ -750,25 +726,24 @@
       ],
       "options": [
         {
-          "title": "Nûkirina wêneyan",
-          "text": "Nûkirina yek carî ya wêneyên profîlê tevî kontrola profîlê."
+          "title": "Nûkirina yek carî ya wêneyan",
+          "text": "Wêneyên nû ji bo profîla we: randevûyek, sererastkirin û barkirin."
         },
         {
-          "title": "Wênekêşiya li cih",
-          "text": "Randevûyeke profesyonel a wênekêşiyê li karsaziya we."
+          "title": "Wênekêşiya profesyonel a karsaziyê li cih",
+          "text": "Randevûyeke berfireh a wênekêşiyê – hûn dikarin wêneyan ji bo malper û medyaya civakî jî bi kar bînin."
         },
         {
-          "title": "Lênêrîna berdewam a wêne û profîlê",
-          "text": "Bi rêkûpêk wêneyên nû û kontrola agahiyan."
+          "title": "Nûkirina birêkûpêk a wêneyan",
+          "text": "Wêneyên nû di navberên diyarkirî de an dema menû û cureyên berheman nû dibin û ji bo demsalê."
         }
       ],
       "notes": [
-        "Google Business Profile xizmeteke bêpere ya Google ye. Pere ji bo karê me yê wênekêşî û lênêrînê tê dayîn.",
-        "Em ajanseke serbixwe ne û ne hevkarê Google ne.",
-        "Hûn xwediyê profîlê dimînin. Em tenê bi wê gihîştinê dixebitin ku hûn wek rêvebir (Administrator) didin me – bêyî şîfreya we.",
-        "Google biryar dide ka kîjan wêne tên nîşandan. Em ne dikarin soz bidin ku hemû wêneyên kevn dê bên guhertin an wêneyê me yê bergê dê pêşî xuya bibe, ne jî dikarin rêzbendiyeke çêtir soz bidin.",
-        "Em nikarin wêneyên ku mişteriyan bar kirine rakin; binpêkirin dikarin bên ragihandin.",
-        "Em bêyî pejirandina we ya eşkere tiştekî di profîla we de naweşînin."
+        "Em her tiştî ji bo we dikin: ne hewce ye hûn nermalavekê bi kar bînin an bi xwe tiştekî bar bikin.",
+        "Nûkirin bi destan tê kirin, bi wê gihîştinê ku hûn wek rêvebir (Administrator) didin me – bêyî şîfreya we. Hûn xwediyê profîla xwe dimînin.",
+        "Tenê tiştê ku we bi eşkere pejirandiye tê barkirin.",
+        "Google biryar dide ka kîjan wêne bi kîjan rêzê tên nîşandan. Em nikarin soz bidin ku hemû wêneyên kevn dê winda bibin, û em rêzbendiyeke çêtir soz nadin.",
+        "Xizmeta me xizmeteke ajansê ye ji bo wênekêşî û nûkirina profîlê – ne berhemeke Google ye. Google Business Profile bi xwe bêpere ye; em ne hevkarê Google ne."
       ]
     }
   }

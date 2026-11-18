@@ -113,8 +113,8 @@ console.log("4. Mobile menu and keyboard");
   await page.locator("dialog summary").first().click();
   const groups = await page.locator("dialog details li.uppercase").allTextContents();
   groups.includes("Lokales Marketing & Design") ? ok(`services expand into groups (${groups.join(" / ")}); ${before} links when collapsed`) : fail(`service groups missing: ${groups}`);
-  await Promise.all([page.waitForURL("**/de/leistungen/google-unternehmensprofil"), page.locator("dialog").getByRole("link", { name: "Google-Unternehmensprofil" }).click()]);
-  (await page.locator("h1").textContent()).includes("Google-Unternehmensprofil") ? ok("new service page reachable from the mobile menu") : fail("new service page not reached");
+  await Promise.all([page.waitForURL("**/de/leistungen/google-unternehmensprofil"), page.locator("dialog").getByRole("link", { name: /Google Maps Bilder/ }).click()]);
+  (await page.locator("h1").textContent()).includes("Google Maps Bilder") ? ok("new service page reachable from the mobile menu") : fail("new service page not reached");
   await page.close();
 }
 

@@ -2,8 +2,9 @@ import type { ServiceId } from "@/lib/routes";
 
 /**
  * Service catalog — the single list of what the agency sells. The website uses it for grouping
- * and booking options; the future agency platform / CRM is meant to import the same file so that
- * website, quotes and project tracking never drift apart (see docs/AGENCY_PLATFORM.md).
+ * and booking options. Every service is delivered by the agency for the client ("done for you");
+ * nothing here is self-service software. An internal job-tracking tool could later import this
+ * file so that website and quotes never drift apart (see docs/AGENCY_PLATFORM.md).
  *
  * Texts live in messages/<locale>/services.json. Prices live here and stay `null`
  * ("Preis auf Anfrage") until the owner approves them.
@@ -28,7 +29,7 @@ export type CatalogEntry = {
   combinable: boolean;
   /** Needs an on-site visit (travel distance must be checked per client). */
   onSiteVisit: "always" | "optional" | "never";
-  /** Work happens in a third-party account the client must authorize first. */
+  /** Work happens in a third-party account; the client grants the agency manual (manager) access first. */
   requiresClientAuthorization: boolean;
   /** Booking options, in the same order as services.showcase.<id>.options in the messages. */
   options: ServiceOption[];
@@ -54,6 +55,8 @@ export const serviceCatalog: CatalogEntry[] = [
       { id: "menu-print-preparation", billing: "optional", price: null },
     ],
   },
+  // "Google Maps Bilder erneuern & Unternehmensfotos": on-site photography, editing and MANUAL upload
+  // by the agency through authorized manager access. No API, no automation, no client dashboard.
   {
     id: "google-business-profile",
     group: "local",
@@ -77,7 +80,7 @@ export const serviceGroups: Record<ServiceGroupId, ServiceId[]> = {
 export const catalogEntry = (id: ServiceId) => serviceCatalog.find((s) => s.id === id)!;
 
 /**
- * Status vocabularies for project tracking in the future platform. Not used by the website.
+ * Status vocabularies for internal job tracking. Not used by the website.
  */
 export const workflowStatuses = {
   content: ["briefing", "assets-requested", "in-design", "internal-review", "client-review", "revision", "approved", "delivered"],

@@ -517,116 +517,92 @@
     },
     "google-business-profile": {
       "meta": {
-        "title": "Google İşletme Profili: Fotoğraf Yenileme ve Profil Bakımı",
-        "description": "Google İşletme Profili desteği: Google Arama ve Haritalar için yeni işletme fotoğrafları, profil kontrolü ve düzenli bakım – Münster ve NRW'de işletmeler için."
+        "title": "Google Haritalar Fotoğraf Yenileme ve İşletme Fotoğrafları",
+        "description": "Google Haritalar fotoğraflarınızı yeniletin: İşletmenizi yerinde fotoğraflıyor, düzenliyor ve Google İşletme Profilinize yüklüyoruz – Münster ve NRW'de."
       },
-      "name": "Google İşletme Profili",
-      "short": "Google Arama'daki ve Google Haritalar'daki görünümünüz için fotoğraf yenileme ve profil bakımı.",
-      "title": "Google İşletme Profili: fotoğraf yenileme ve profil bakımı",
-      "intro": "İşletmenizi arayan biri çoğu zaman önce Google İşletme Profilinizi görür – fotoğraflar, çalışma saatleri ve iletişim bilgileriyle. Güncel, profesyonel görseller ve doğru bilgiler sağlıyoruz; böylece işletmeniz Google Arama'da ve Google Haritalar'da gerçekte olduğu gibi görünür.",
-      "definitionTitle": "Google İşletme Profili nedir?",
-      "definition": "Google İşletme Profili (eski adıyla “Google My Business”), işletmelerin Google Arama'da ve Google Haritalar'da görünmesini sağlayan ücretsiz kayıttır. İşletme sahipleri burada fotoğrafları, çalışma saatlerini, kategorileri, açıklamayı ve iletişim bilgilerini yönetebilir. Bizim hizmetimiz, bu profille ilgili fotoğraf ve bakım çalışmasıdır – profilin kendisi Google'ın ücretsiz bir hizmeti olmaya devam eder.",
+      "name": "Google Haritalar Fotoğraf Yenileme ve İşletme Fotoğrafları",
+      "short": "İşletmenizi fotoğraflıyor ve Google İşletme Profilinize yepyeni görseller kazandırıyoruz – her şeyi sizin için biz hallediyoruz.",
+      "title": "Google Haritalar Fotoğraf Yenileme ve İşletme Fotoğrafları",
+      "intro": "Google Haritalar'da eski, karanlık veya rastgele fotoğraflar mı var? İşletmenize geliyor, profesyonel çekim yapıyor ve yeni görselleri Google İşletme Profilinize yüklüyoruz. Siz fotoğrafları onaylarsınız – gerisini biz üstleniriz.",
+      "definitionTitle": "Google İşletme Profili: fotoğraf yenileme ve profil bakımı",
+      "definition": "Bu hizmette, işletmenizin Google Arama'da ve Google Haritalar'da göründüğü fotoğrafları yeniliyoruz. Yerinde çekim yapıyor, kareleri düzenliyor ve onayladığınız fotoğrafları Google İşletme Profilinize yüklüyoruz. Bu, Social Media Komplett'in bir ajans hizmetidir – Google'ın bir ürünü değildir ve kendiniz kullanmanız gereken bir yazılım da değildir.",
       "includes": [
         {
-          "title": "Profil kontrolü",
-          "text": "Profilinize bakıyor; nelerin eksik, eskimiş veya tutarsız olduğunu not ediyoruz."
+          "title": "Randevuyla ziyaret",
+          "text": "İşleyişinize uygun bir randevuda restoranınıza veya işletmenize geliyoruz."
         },
         {
-          "title": "Yeni işletme fotoğrafları",
-          "text": "Yerinde bir randevuda işletmenizin profesyonel çekimleri."
+          "title": "Yerinde fotoğraf çekimi",
+          "text": "Mekân, dış görünüm, ürünler, hizmetler, yemekler ve içecekler – işletmenizin sunduklarını fotoğraflıyoruz."
         },
         {
-          "title": "Yemek fotoğrafçılığı",
-          "text": "İştah açıcı ve gerçekçi biçimde fotoğraflanan yemekler ve içecekler."
+          "title": "Profesyonel düzenleme",
+          "text": "En iyi kareleri seçiyor ve bütünlüklü biçimde düzenliyoruz: ışık, renkler, kadraj."
         },
         {
-          "title": "İç ve dış mekân çekimleri",
-          "text": "Giriş, mekân ve atmosfer – sizi tanısınlar ve bulsunlar diye."
+          "title": "Eski fotoğrafları değiştirme veya tamamlama",
+          "text": "Eskimiş işletme fotoğraflarını değiştiriyor veya yenileriyle tamamlıyoruz – Google'ın izin verdiği ölçüde."
         },
         {
-          "title": "Ürün ve hizmet fotoğrafları",
-          "text": "Sunduklarınızın görselleri: ürünler, uygulamalar, ortaya çıkan işler."
+          "title": "Profilinize yükleme",
+          "text": "Onayladığınız fotoğrafları Google İşletme Profilinize düzenli bir şekilde yüklüyoruz – elle, bize tanıdığınız erişimle."
         },
         {
-          "title": "Seçim ve düzenleme",
-          "text": "En iyi kareleri seçiyor ve bütünlüklü biçimde düzenliyoruz."
-        },
-        {
-          "title": "Onaylanan fotoğrafların yüklenmesi",
-          "text": "Onayladığınız görselleri profilinize yüklüyoruz – bize tanıdığınız erişimle."
-        },
-        {
-          "title": "Logo ve kapak fotoğrafı",
-          "text": "Profiliniz desteklediği ölçüde logoyu ve kapak fotoğrafını güncelliyoruz."
-        },
-        {
-          "title": "Bilgilerin kontrolü",
-          "text": "Açıklamayı, kategorileri, çalışma saatlerini ve iletişim bilgilerini sizinle birlikte gözden geçiriyoruz."
-        },
-        {
-          "title": "Eskimiş bilgileri bulmak",
-          "text": "Güncelliğini yitirmiş veya yanlış bilgilere dikkatinizi çekiyor, düzeltme öneriyoruz."
-        },
-        {
-          "title": "Düzenli fotoğraf bakımı",
-          "text": "İsteğe bağlı: belirli aralıklarla yeni görseller, örneğin sezona veya yeni ürün ve hizmetlere göre."
-        },
-        {
-          "title": "Basit değerlendirme",
-          "text": "Google'ın rakam sunduğu ölçüde görüntülenmeleri ve etkileşimleri anlaşılır biçimde özetliyoruz."
+          "title": "Düzenli yenileme",
+          "text": "İsteğe bağlı: menü, ürün yelpazesi, dekorasyon veya sezon değiştiğinde yeni fotoğraflar."
         }
       ],
       "howItWorks": [
         {
-          "title": "Erişimin ayarlanması",
-          "text": "Bizi profilinize yönetici olarak eklersiniz. Profilin sahibi siz kalırsınız – şifreye ihtiyacımız yoktur."
-        },
-        {
-          "title": "Profil kontrolü",
-          "text": "Fotoğrafları ve bilgileri inceliyor, nelerin güncelleneceğini sizinle konuşuyoruz."
+          "title": "Randevu belirleme",
+          "text": "Nelerin gösterileceğini kısaca konuşuyor ve bir çekim randevusu belirliyoruz."
         },
         {
           "title": "Yerinde fotoğraf çekimi",
-          "text": "Mekânı, sunduklarınızı ve – isterseniz – ekibinizi fotoğraflıyoruz."
+          "text": "İşletmenizde çekim yapıyoruz – mekânı, sunduklarınızı ve isterseniz ekibinizi."
         },
         {
-          "title": "Seçim ve onay",
-          "text": "Düzenlenmiş görselleri ve önerilen değişiklikleri görür, onaylarsınız."
+          "title": "Profesyonel görsel düzenleme",
+          "text": "Fotoğrafları seçiyor, düzenliyor ve Google için hazırlıyoruz."
         },
         {
-          "title": "Yükleme ve bakım",
-          "text": "Fotoğrafları yüklüyor, dilerseniz güncellemelerle düzenli olarak ilgileniyoruz."
+          "title": "Sizin onayınız",
+          "text": "Tüm fotoğrafları önceden görürsünüz. Yalnızca onayladıklarınız yüklenir."
+        },
+        {
+          "title": "Google Haritalar fotoğraflarının güncellenmesi",
+          "text": "Yeni fotoğrafları profilinize yüklüyoruz. Bunun için sizin bir şey kurmanız veya kullanmanız gerekmez."
         }
       ],
       "forWhom": [
-        "Profilinde ağırlıklı olarak eski veya rastgele fotoğraflar görünen işletmeler",
-        "Bulundukları yerde bulunmak isteyen restoranlar, salonlar, stüdyolar ve mağazalar",
-        "Tadilat, taşınma veya yeni açılış sonrasındaki ya da yeni ürün ve hizmetler sunan işletmeler"
+        "Restoranlar, kafeler ve barlar: yemeklerin, içeceklerin, salonun, menünün ve dış görünümün yeni fotoğrafları",
+        "Salonlar, stüdyolar, mağazalar ve hizmet sağlayıcılar: ürünlerin, mekânların ve hizmetlerin çekici görselleri",
+        "Tadilat veya yeni açılış sonrasındaki ya da menüsü ve ürün yelpazesi yenilenen işletmeler"
       ],
       "faq": [
         {
-          "q": "Google İşletme Profili ücretsiz değil mi?",
-          "a": "Ücretsiz. Profil, Google'ın ücretsiz bir hizmetidir ve bakımını kendiniz de yapabilirsiniz. Bizde ücreti ödenen, bunun çevresindeki çalışmadır: fotoğraf çekimi, görsel düzenleme, bilgilerin kontrolü ve düzenli bakım."
+          "q": "Kendim bir şey yüklemem veya kurmam gerekiyor mu?",
+          "a": "Hayır. Fotoğraf çekimini, düzenlemeyi ve yüklemeyi sizin için biz hallediyoruz. Siz bizimle randevuyu kararlaştırır, fotoğrafları onaylar ve – gerekiyorsa – bizi bir defaya mahsus profilinize yönetici olarak eklersiniz. Bunun için bir yazılıma veya müşteri portalına ihtiyacınız yoktur."
         },
         {
-          "q": "Eski fotoğrafları veya müşterilerin fotoğraflarını kaldırabilir misiniz?",
-          "a": "İşletmenin kendi fotoğrafları değiştirilebilir. Başkalarının yüklediği fotoğrafları öylece silemeyiz; kurallara aykırılıklar Google'a bildirilebilir, kaldırılıp kaldırılmayacağına Google karar verir."
+          "q": "Tüm eski fotoğrafları silebilir misiniz?",
+          "a": "Bunun sözünü veremeyiz. İşletmenin kendi fotoğrafları genellikle değiştirilebilir. Misafirlerin veya müşterilerin yüklediği fotoğrafları öylece kaldıramayız; kurallara aykırılıklar Google'a bildirilebilir, kaldırılıp kaldırılmayacağına Google karar verir."
         },
         {
           "q": "Hangi fotoğrafın ilk sırada gösterileceğini siz mi belirliyorsunuz?",
-          "a": "Hayır. Bir kapak fotoğrafı belirleyebiliriz; ancak hangi görselin nerede görüneceğine Google kendisi karar verir. İşletmeye ait iyi ve güncel fotoğraflar, Google'ın yararlanabileceği seçenekleri artırır – garantisi yoktur."
-        },
-        {
-          "q": "Bu, Google'daki sıralamamı iyileştirir mi?",
-          "a": "Bunun sözünü vermiyoruz. Eksiksiz, güncel ve çekici bir görünüm sağlıyoruz. Google'ın sonuçları nasıl sıraladığı bizim elimizde değildir."
+          "a": "Hayır. Hangi görselin nerede ve hangi sırayla görüneceğine Google kendisi karar verir. İyi ve güncel fotoğraflarla güçlü bir seçki bulunmasını sağlıyoruz – sıralama veya daha iyi bir sıralama konumu için garanti yoktur."
         },
         {
           "q": "Google şifreme ihtiyacınız var mı?",
           "a": "Hayır, ona sahip olmak da istemiyoruz. Bizi yönetici olarak eklersiniz ve erişimi istediğiniz zaman kaldırabilirsiniz. Profil sizin mülkiyetinizde kalır."
         },
         {
-          "q": "Google iş ortağı mısınız?",
-          "a": "Hayır. Social Media Komplett bağımsız bir ajanstır ve Google ile herhangi bir iş ortaklığı yoktur. Google ve Google Maps, Google LLC'nin markalarıdır."
+          "q": "Bu, Google'ın bir hizmeti mi?",
+          "a": "Hayır. Google İşletme Profilinin kendisi Google'ın ücretsiz bir hizmetidir. Bizim hizmetimiz – fotoğraf çekimi, görsel düzenleme ve fotoğraflarınızın güncellenmesi – Social Media Komplett'in ücretli bir ajans hizmetidir. Bağımsızız ve Google'ın iş ortağı değiliz; Google ve Google Maps, Google LLC'nin markalarıdır."
+        },
+        {
+          "q": "Fotoğraflar ne sıklıkla yenilenmeli?",
+          "a": "İşletmenizde gözle görülür bir şey değiştiği her seferde: yeni menü, yeni ürün yelpazesi, tadilat veya sezon. Bunun için düzenli fotoğraf güncellemesi sunuyoruz – sıklığı birlikte belirliyoruz."
         }
       ]
     }
@@ -638,7 +614,7 @@
     },
     "local": {
       "title": "Yerel Pazarlama & Tasarım",
-      "intro": "Misafirlerinizin ve müşterilerinizin mekânda ve Google'da ilk gördüğü her şey için: menünüz ve Google İşletme Profiliniz."
+      "intro": "Misafirlerinizin ve müşterilerinizin işletmenizde ve Google'da ilk gördükleri için: menünüz ve Google Haritalar'daki fotoğraflarınız. İkisini de sizin için baştan sona biz hazırlıyoruz."
     }
   },
   "showcaseLabels": {
@@ -713,10 +689,10 @@
       ]
     },
     "google-business-profile": {
-      "title": "Örnek: bir profil için fotoğraf yenileme",
+      "title": "Örnek: öncesi ve sonrası",
       "intro": "İlk izlenim böyle değişebilir. Bu görsel şematik bir illüstrasyondur – gerçek bir profil, gerçek fotoğraflar veya bir müşteri projesi değildir.",
-      "beforeCaption": "Az sayıda, karanlık veya eskimiş görsel; bilgiler kısmen eksik.",
-      "afterCaption": "Dış mekân, iç mekân, sunulanlar ve ekibe ait güncel çekimler; kontrol edilmiş bilgiler.",
+      "beforeCaption": "Az sayıda, karanlık veya eskimiş görsel.",
+      "afterCaption": "Dış mekân, iç mekân, sunulanlar ve ekibe ait güncel çekimler.",
       "mock": {
         "name": "Örnek Kafe",
         "subtitle": "Kafe",
@@ -737,11 +713,11 @@
         },
         {
           "title": "İç mekân",
-          "text": "Salonlar, oturma yerleri ve atmosfer."
+          "text": "Salon, satış alanı, uygulama odaları – atmosferiyle birlikte."
         },
         {
           "title": "Sunduklarınız",
-          "text": "Yemekler, ürünler ve hizmetler."
+          "text": "Yemekler, içecekler, menü, ürünler ve hizmetler."
         },
         {
           "title": "İnsanlar",
@@ -750,25 +726,24 @@
       ],
       "options": [
         {
-          "title": "Fotoğraf yenileme",
-          "text": "Profil kontrolü dahil, profil fotoğraflarının tek seferlik güncellenmesi."
+          "title": "Tek seferlik fotoğraf yenileme",
+          "text": "Profiliniz için yeni görseller: tek randevu, düzenleme ve yükleme."
         },
         {
-          "title": "Yerinde fotoğraf çekimi",
-          "text": "İşletmenizde profesyonel fotoğraf çekimi randevusu."
+          "title": "Yerinde profesyonel işletme fotoğrafçılığı",
+          "text": "Kapsamlı çekim randevusu – görselleri web siteniz ve sosyal medya için de kullanabilirsiniz."
         },
         {
-          "title": "Düzenli fotoğraf ve profil bakımı",
-          "text": "Düzenli olarak yeni görseller ve bilgilerin kontrolü."
+          "title": "Düzenli fotoğraf güncellemesi",
+          "text": "Belirli aralıklarla veya yeni menü, yeni ürün yelpazesi ve sezon dönemlerinde yeni fotoğraflar."
         }
       ],
       "notes": [
-        "Google İşletme Profili, Google'ın ücretsiz bir hizmetidir. Ücreti ödenen, bizim fotoğraf ve bakım çalışmamızdır.",
-        "Bağımsız bir ajansız ve Google'ın iş ortağı değiliz.",
-        "Profilin sahibi siz kalırsınız. Yalnızca bize yönetici olarak verdiğiniz erişimle çalışırız – şifreniz olmadan.",
-        "Hangi fotoğrafların gösterileceğine Google karar verir. Ne tüm eski görsellerin değiştirileceğine veya kapak fotoğrafımızın ilk sırada görüneceğine dair söz verebilir ne de daha iyi bir sıralama vaat edebiliriz.",
-        "Müşterilerin yüklediği fotoğrafları kaldıramayız; ihlaller bildirilebilir.",
-        "Açık onayınız olmadan profilinizde hiçbir şey yayınlamayız."
+        "Her şeyi sizin için biz hallediyoruz: Bir yazılım kullanmanız veya kendiniz bir şey yüklemeniz gerekmez.",
+        "Güncelleme, bize yönetici olarak verdiğiniz erişim üzerinden elle yapılır – şifreniz olmadan. Profilinizin sahibi siz kalırsınız.",
+        "Yalnızca açıkça onayladıklarınız yüklenir.",
+        "Hangi fotoğrafların hangi sırayla gösterileceğine Google karar verir. Tüm eski görsellerin kaybolacağına dair söz veremeyiz ve daha iyi bir sıralama vaat etmiyoruz.",
+        "Hizmetimiz, fotoğraf çekimi ve profil güncellemesine yönelik bir ajans hizmetidir – Google'ın bir ürünü değildir. Google İşletme Profilinin kendisi ücretsizdir; Google'ın iş ortağı değiliz."
       ]
     }
   }

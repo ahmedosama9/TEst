@@ -177,3 +177,18 @@ and are approved by the client.
       print terms ("para birînê", "mesafeya ewlehiyê", "resolusyon"), menu formats ("textika bi kilîps",
       "stenda ser maseyê", "pelên zêde", "belavok"), food and venue terms, photo terms, and the added
       glosses for IHK and DEHOGA in the menu article
+
+### Google Maps photo service — clarified wording (all languages, `needs-review`)
+
+The Google page was rewritten as a done-for-you service ("Google Maps Bilder erneuern &
+Unternehmensfotos"). Service names per language: "Refresh Google Maps photos & business photography" (en),
+"تجديد صور Google Maps وتصوير الأنشطة التجارية" (ar), "Nûkirina wêneyên Google Maps û wênekêşiya karsaziyê" (ku),
+"Google Haritalar Fotoğraf Yenileme ve İşletme Fotoğrafları" (tr).
+
+- [ ] The five process steps and three booking options read naturally and stay short
+- [ ] "ranking" vs "photo order" are clearly distinct (Arabic and Turkish use one word for both; a clarifying phrase was added)
+- [ ] en: "manager" for Administrator; "Is this a Google service?"; "Regular photo update"
+- [ ] ar: "الحانات" for bars (or "البارات"); "بوابة عملاء"; "خدمة وكالة"
+- [ ] tr: "paket servis broşürü"; "uygulama odaları"; "sıralama konumu"
+- [ ] ku: "nermalav" (software), "cureyên berheman", "xizmetkar" (may read as "servant" — or "pêşkêşkerên xizmetê"),
+      "odeyên lênêrînê", "birîn" (crop), "Ev pêşniyareke Google ye?", the ezafe after "rêvebir (Administrator)"

@@ -94,7 +94,7 @@
     "facts": {
       "what": {
         "label": "What we do",
-        "value": "Social media management, content creation, Reels & video production, strategy and community management, as well as menu design and photo and profile maintenance for the Google Business Profile"
+        "value": "Social media management, content creation, Reels & video production, strategy and community management, as well as menu design and business photography for Google Maps"
       },
       "who": {
         "label": "Who for",
@@ -324,7 +324,7 @@
       }
     ],
     "standalone": {
-      "title": "Individual services: menu design & Google Business Profile",
+      "title": "Individual services: menu design & Google Maps photos",
       "intro": "You can book these services independently of a package or combine them with your monthly social media management. We’ll tell you the prices after a short conversation."
     }
   },
@@ -418,15 +418,15 @@
         ]
       },
       {
-        "title": "Menus & Google Business Profile",
+        "title": "Menus & Google Maps photos",
         "items": [
           {
             "q": "Do you design menus as well?",
-            "a": "Yes. We design new menus and rework existing ones – as a printed menu, PDF, QR code menu or takeaway flyer. Prices, allergens and all other details come from you and are approved by you."
+            "a": "Yes. We design new menus and rework existing ones – as a printed menu, PDF, QR code menu or takeaway flyer – and deliver the finished files to you. Prices, allergens and all other details come from you and are approved by you."
           },
           {
-            "q": "What do you do for the Google Business Profile?",
-            "a": "We review your profile, photograph your business, select images, edit them and upload the photos you have approved. On request, we maintain photos and details on a regular basis. The profile itself is a free Google product; what you pay for is our photography and maintenance work."
+            "q": "How do you refresh my photos on Google Maps?",
+            "a": "We come to you at an agreed time, photograph your business, edit the images and upload the photos you have approved to your Google Business Profile. You don’t have to worry about a thing – we do it for you."
           },
           {
             "q": "Do you need my Google password for this?",
@@ -434,7 +434,7 @@
           },
           {
             "q": "Can I book these services without a social media package?",
-            "a": "Yes. Menu design and the photo refresh can be booked individually and combined with ongoing management – for example by using a shoot date for profile photos at the same time."
+            "a": "Yes. Menu design and new Google Maps photos can be booked individually and combined with ongoing management – for example, by using a video shoot to take business photos at the same time."
           }
         ]
       }

@@ -517,116 +517,92 @@
     },
     "google-business-profile": {
       "meta": {
-        "title": "Google-Unternehmensprofil: Foto-Refresh & Profilpflege",
-        "description": "Google-Unternehmensprofil optimieren lassen: neue Unternehmensfotos für Google Suche und Maps, Profil-Check und laufende Pflege – für Betriebe in Münster & NRW."
+        "title": "Google Maps Bilder erneuern & Unternehmensfotos",
+        "description": "Google Maps Bilder erneuern lassen: Wir fotografieren deinen Betrieb vor Ort, bearbeiten die Fotos und laden sie in dein Google-Unternehmensprofil – in Münster & NRW."
       },
-      "name": "Google-Unternehmensprofil",
-      "short": "Foto-Refresh & Profilpflege für deinen Auftritt in der Google Suche und auf Google Maps.",
-      "title": "Google-Unternehmensprofil: Foto-Refresh & Profilpflege",
-      "intro": "Wer nach deinem Betrieb sucht, sieht oft zuerst dein Google-Unternehmensprofil – mit Fotos, Öffnungszeiten und Kontaktdaten. Wir sorgen für aktuelle, professionelle Bilder und richtige Angaben, damit dein Unternehmen in der Google Suche und auf Google Maps so aussieht, wie es wirklich ist.",
-      "definitionTitle": "Was ist das Google-Unternehmensprofil?",
-      "definition": "Das Google-Unternehmensprofil (früher „Google My Business“) ist der kostenlose Eintrag, mit dem Unternehmen in der Google Suche und auf Google Maps erscheinen. Inhaberinnen und Inhaber können dort Fotos, Öffnungszeiten, Kategorien, Beschreibung und Kontaktdaten pflegen. Unsere Leistung ist die Foto- und Pflegearbeit rund um dieses Profil – das Profil selbst bleibt ein kostenloses Angebot von Google.",
+      "name": "Google Maps Bilder erneuern & Unternehmensfotos",
+      "short": "Wir fotografieren deinen Betrieb und bringen frische Bilder in dein Google-Unternehmensprofil – komplett für dich erledigt.",
+      "title": "Google Maps Bilder erneuern & Unternehmensfotos",
+      "intro": "Alte, dunkle oder zufällige Fotos auf Google Maps? Wir kommen zu dir, fotografieren deinen Betrieb professionell und laden die neuen Bilder in dein Google-Unternehmensprofil hoch. Du gibst die Fotos frei – alles andere übernehmen wir.",
+      "definitionTitle": "Google-Unternehmensprofil: Foto-Refresh & Profilpflege",
+      "definition": "Bei diesem Service erneuern wir die Bilder, mit denen dein Unternehmen in der Google Suche und auf Google Maps erscheint. Wir fotografieren vor Ort, bearbeiten die Aufnahmen und laden die freigegebenen Fotos in dein Google-Unternehmensprofil. Das ist eine Agenturleistung von Social Media Komplett – kein Produkt von Google und keine Software, die du selbst bedienen musst.",
       "includes": [
         {
-          "title": "Profil-Check",
-          "text": "Wir sehen uns dein Profil an und halten fest, was fehlt, veraltet oder uneinheitlich ist."
+          "title": "Besuch nach Absprache",
+          "text": "Wir kommen zu einem Termin, der zu deinem Betriebsablauf passt, in dein Restaurant oder Unternehmen."
         },
         {
-          "title": "Neue Unternehmensfotos",
-          "text": "Professionelle Aufnahmen deines Betriebs bei einem Termin vor Ort."
+          "title": "Fotos vor Ort",
+          "text": "Räume, Außenansicht, Produkte, Leistungen, Gerichte und Getränke – wir fotografieren, was dein Betrieb zu bieten hat."
         },
         {
-          "title": "Food-Fotografie",
-          "text": "Gerichte und Getränke, appetitlich und realistisch fotografiert."
+          "title": "Professionelle Bearbeitung",
+          "text": "Wir wählen die besten Aufnahmen aus und bearbeiten sie einheitlich: Licht, Farben, Zuschnitt."
         },
         {
-          "title": "Innen- und Außenaufnahmen",
-          "text": "Eingang, Räume und Atmosphäre – damit man dich erkennt und findet."
+          "title": "Alte Bilder ersetzen oder ergänzen",
+          "text": "Veraltete Unternehmensfotos tauschen wir aus oder ergänzen sie – soweit Google das zulässt."
         },
         {
-          "title": "Produkt- und Leistungsfotos",
-          "text": "Bilder dessen, was du anbietest: Produkte, Behandlungen, Arbeitsergebnisse."
+          "title": "Upload in dein Profil",
+          "text": "Die von dir freigegebenen Fotos laden wir geordnet in dein Google-Unternehmensprofil – von Hand, mit dem Zugriff, den du uns gibst."
         },
         {
-          "title": "Auswahl und Bearbeitung",
-          "text": "Wir wählen die besten Motive aus und bearbeiten sie einheitlich."
-        },
-        {
-          "title": "Upload freigegebener Fotos",
-          "text": "Die von dir freigegebenen Bilder laden wir in dein Profil – mit dem Zugriff, den du uns einräumst."
-        },
-        {
-          "title": "Logo und Titelbild",
-          "text": "Wir aktualisieren Logo und Titelbild, soweit dein Profil das unterstützt."
-        },
-        {
-          "title": "Angaben prüfen",
-          "text": "Beschreibung, Kategorien, Öffnungszeiten und Kontaktdaten gehen wir mit dir durch."
-        },
-        {
-          "title": "Veraltetes finden",
-          "text": "Wir weisen dich auf überholte oder falsche Informationen hin und schlagen Korrekturen vor."
-        },
-        {
-          "title": "Laufende Fotopflege",
-          "text": "Optional: neue Bilder in regelmäßigen Abständen, etwa zu Saison oder neuen Angeboten."
-        },
-        {
-          "title": "Einfache Auswertung",
-          "text": "Soweit Google Zahlen bereitstellt, fassen wir Aufrufe und Interaktionen verständlich zusammen."
+          "title": "Regelmäßige Auffrischung",
+          "text": "Optional: neue Fotos, wenn sich Karte, Sortiment, Einrichtung oder Saison ändern."
         }
       ],
       "howItWorks": [
         {
-          "title": "Zugriff einrichten",
-          "text": "Du fügst uns in deinem Profil als Administrator hinzu. Du bleibst Inhaberin oder Inhaber – ein Passwort brauchen wir nicht."
+          "title": "Termin vereinbaren",
+          "text": "Wir besprechen kurz, was gezeigt werden soll, und legen einen Fototermin fest."
         },
         {
-          "title": "Profil-Check",
-          "text": "Wir prüfen Fotos und Angaben und besprechen mit dir, was aktualisiert werden soll."
+          "title": "Fotos vor Ort aufnehmen",
+          "text": "Wir fotografieren bei dir – Räume, Angebot und, wenn gewünscht, dein Team."
         },
         {
-          "title": "Fototermin vor Ort",
-          "text": "Wir fotografieren Räume, Angebot und – wenn gewünscht – dein Team."
+          "title": "Bilder professionell bearbeiten",
+          "text": "Wir wählen aus, bearbeiten und bereiten die Bilder für Google vor."
         },
         {
-          "title": "Auswahl und Freigabe",
-          "text": "Du siehst die bearbeiteten Bilder und vorgeschlagenen Änderungen und gibst sie frei."
+          "title": "Freigabe durch dich",
+          "text": "Du siehst alle Fotos vorab. Hochgeladen wird nur, was du freigegeben hast."
         },
         {
-          "title": "Upload und Pflege",
-          "text": "Wir laden die Fotos hoch und kümmern uns auf Wunsch regelmäßig um Aktualisierungen."
+          "title": "Google Maps Bilder aktualisieren",
+          "text": "Wir laden die neuen Fotos in dein Profil. Du musst dafür nichts selbst einrichten oder bedienen."
         }
       ],
       "forWhom": [
-        "Betriebe, deren Profil vor allem alte oder zufällige Fotos zeigt",
-        "Restaurants, Salons, Studios und Geschäfte, die vor Ort gefunden werden wollen",
-        "Unternehmen nach Umbau, Umzug, Neueröffnung oder mit neuem Angebot"
+        "Restaurants, Cafés und Bars: frische Fotos von Gerichten, Getränken, Gastraum, Speisekarte und Außenansicht",
+        "Salons, Studios, Geschäfte und Dienstleister: ansprechende Bilder von Produkten, Räumen und Leistungen",
+        "Betriebe nach Umbau, Neueröffnung oder mit neuer Karte und neuem Sortiment"
       ],
       "faq": [
         {
-          "q": "Ist das Google-Unternehmensprofil nicht kostenlos?",
-          "a": "Doch. Das Profil ist ein kostenloses Angebot von Google, und du kannst es selbst pflegen. Bezahlt wird bei uns die Arbeit darum herum: Fotografie, Bildbearbeitung, Prüfung der Angaben und laufende Pflege."
+          "q": "Muss ich selbst etwas hochladen oder einrichten?",
+          "a": "Nein. Wir erledigen Fotografie, Bearbeitung und Upload für dich. Du vereinbarst den Termin mit uns, gibst die Fotos frei und fügst uns – falls nötig – einmalig als Administrator deines Profils hinzu. Eine Software oder ein Kundenportal brauchst du dafür nicht."
         },
         {
-          "q": "Könnt ihr alte Fotos oder Fotos von Kundinnen und Kunden entfernen?",
-          "a": "Eigene Fotos des Unternehmens lassen sich austauschen. Fotos, die andere hochgeladen haben, können wir nicht einfach löschen; Verstöße gegen die Richtlinien lassen sich bei Google melden, über die Entfernung entscheidet Google."
+          "q": "Könnt ihr alle alten Fotos löschen?",
+          "a": "Das können wir nicht zusagen. Eigene Fotos des Unternehmens lassen sich in der Regel austauschen. Fotos, die Gäste oder Kundschaft hochgeladen haben, können wir nicht einfach entfernen; Verstöße gegen die Richtlinien lassen sich bei Google melden, über die Entfernung entscheidet Google."
         },
         {
           "q": "Bestimmt ihr, welches Foto zuerst angezeigt wird?",
-          "a": "Nein. Wir können ein Titelbild festlegen, aber Google entscheidet selbst, welche Bilder wo erscheinen. Gute, aktuelle Fotos des Unternehmens erhöhen die Auswahl, aus der Google schöpfen kann – eine Garantie gibt es nicht."
-        },
-        {
-          "q": "Verbessert das mein Ranking bei Google?",
-          "a": "Das versprechen wir nicht. Wir sorgen für eine vollständige, aktuelle und ansprechende Darstellung. Wie Google Ergebnisse sortiert, liegt nicht in unserer Hand."
+          "a": "Nein. Google entscheidet selbst, welche Bilder wo und in welcher Reihenfolge erscheinen. Mit guten, aktuellen Fotos sorgen wir dafür, dass eine starke Auswahl vorhanden ist – eine Garantie für die Reihenfolge oder für ein besseres Ranking gibt es nicht."
         },
         {
           "q": "Braucht ihr mein Google-Passwort?",
           "a": "Nein, und wir möchten es auch nicht haben. Du fügst uns als Administrator hinzu und kannst den Zugriff jederzeit entfernen. Das Profil bleibt in deinem Besitz."
         },
         {
-          "q": "Seid ihr ein Google-Partner?",
-          "a": "Nein. Social Media Komplett ist eine unabhängige Agentur und steht in keiner Partnerschaft mit Google. Google und Google Maps sind Marken von Google LLC."
+          "q": "Ist das ein Angebot von Google?",
+          "a": "Nein. Das Google-Unternehmensprofil selbst ist ein kostenloses Angebot von Google. Unsere Leistung – Fotografie, Bildbearbeitung und Aktualisierung deiner Bilder – ist eine bezahlte Agenturleistung von Social Media Komplett. Wir sind unabhängig und kein Partner von Google; Google und Google Maps sind Marken von Google LLC."
+        },
+        {
+          "q": "Wie oft sollten die Bilder erneuert werden?",
+          "a": "Immer dann, wenn sich bei dir etwas sichtbar ändert: neue Karte, neues Sortiment, Umbau oder Saison. Dafür bieten wir eine regelmäßige Foto-Aktualisierung an – den Rhythmus legen wir gemeinsam fest."
         }
       ]
     }
@@ -638,7 +614,7 @@
     },
     "local": {
       "title": "Lokales Marketing & Design",
-      "intro": "Für alles, was Gäste und Kundschaft vor Ort und bei Google zuerst sehen: deine Speisekarte und dein Google-Unternehmensprofil."
+      "intro": "Für alles, was Gäste und Kundschaft vor Ort und bei Google zuerst sehen: deine Speisekarte und deine Bilder auf Google Maps. Beides setzen wir komplett für dich um."
     }
   },
   "showcaseLabels": {
@@ -713,10 +689,10 @@
       ]
     },
     "google-business-profile": {
-      "title": "Beispiel: Foto-Refresh für ein Profil",
+      "title": "Beispiel: vorher und nachher",
       "intro": "So kann sich der erste Eindruck verändern. Die Darstellung ist eine schematische Illustration – kein echtes Profil, keine echten Fotos und kein Kundenprojekt.",
-      "beforeCaption": "Wenige, dunkle oder veraltete Bilder; Angaben teilweise unvollständig.",
-      "afterCaption": "Aktuelle Aufnahmen von außen, innen, Angebot und Team; geprüfte Angaben.",
+      "beforeCaption": "Wenige, dunkle oder veraltete Bilder.",
+      "afterCaption": "Aktuelle Aufnahmen von außen, innen, Angebot und Team.",
       "mock": {
         "name": "Beispiel-Café",
         "subtitle": "Café",
@@ -729,7 +705,7 @@
           "Titelbild"
         ]
       },
-      "formatsTitle": "Motive, die wir fotografieren",
+      "formatsTitle": "Das fotografieren wir",
       "formats": [
         {
           "title": "Außen",
@@ -737,11 +713,11 @@
         },
         {
           "title": "Innen",
-          "text": "Räume, Plätze und Atmosphäre."
+          "text": "Gastraum, Verkaufsfläche, Behandlungsräume – Atmosphäre inklusive."
         },
         {
           "title": "Angebot",
-          "text": "Speisen, Produkte und Leistungen."
+          "text": "Gerichte, Getränke, Speisekarte, Produkte und Leistungen."
         },
         {
           "title": "Menschen",
@@ -750,25 +726,24 @@
       ],
       "options": [
         {
-          "title": "Foto-Refresh",
-          "text": "Einmalige Aktualisierung der Profilfotos inklusive Profil-Check."
+          "title": "Einmaliger Foto-Refresh",
+          "text": "Neue Bilder für dein Profil: ein Termin, Bearbeitung und Upload."
         },
         {
-          "title": "Fotografie vor Ort",
-          "text": "Professioneller Fototermin in deinem Betrieb."
+          "title": "Professionelle Unternehmensfotografie vor Ort",
+          "text": "Ausführlicher Fototermin – die Bilder kannst du auch für Website und Social Media nutzen."
         },
         {
-          "title": "Laufende Foto- und Profilpflege",
-          "text": "Regelmäßig neue Bilder und Kontrolle der Angaben."
+          "title": "Regelmäßige Foto-Aktualisierung",
+          "text": "Neue Fotos in festen Abständen oder bei neuer Karte, neuem Sortiment und zur Saison."
         }
       ],
       "notes": [
-        "Das Google-Unternehmensprofil ist ein kostenloses Angebot von Google. Bezahlt wird unsere Foto- und Pflegearbeit.",
-        "Wir sind eine unabhängige Agentur und kein Partner von Google.",
-        "Du bleibst Inhaberin oder Inhaber des Profils. Wir arbeiten nur mit dem Zugriff, den du uns als Administrator gibst – ohne dein Passwort.",
-        "Google entscheidet, welche Fotos angezeigt werden. Wir können weder zusagen, dass alle alten Bilder ersetzt werden oder unser Titelbild zuerst erscheint, noch ein besseres Ranking versprechen.",
-        "Von Kundinnen und Kunden hochgeladene Fotos können wir nicht entfernen; Verstöße lassen sich melden.",
-        "Wir veröffentlichen nichts in deinem Profil ohne deine ausdrückliche Freigabe."
+        "Wir erledigen alles für dich: Du musst keine Software nutzen und nichts selbst hochladen.",
+        "Die Aktualisierung erfolgt von Hand über den Zugriff, den du uns als Administrator gibst – ohne dein Passwort. Du bleibst Inhaberin oder Inhaber deines Profils.",
+        "Hochgeladen wird nur, was du ausdrücklich freigegeben hast.",
+        "Google entscheidet, welche Fotos in welcher Reihenfolge angezeigt werden. Wir können nicht zusagen, dass alle alten Bilder verschwinden, und versprechen kein besseres Ranking.",
+        "Unsere Leistung ist eine Agenturleistung für Fotografie und Profil-Aktualisierung – kein Produkt von Google. Das Google-Unternehmensprofil selbst ist kostenlos; wir sind kein Partner von Google."
       ]
     }
   }

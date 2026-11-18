@@ -1,0 +1,424 @@
+{
+  "overview": {
+    "meta": {
+      "title": "Leistungen: Social Media Management, Content & Reels",
+      "description": "Alle Leistungen von Social Media Komplett: Social Media Management, Content-Erstellung, Reels & Videoproduktion, Strategie und Community Management für Unternehmen."
+    },
+    "eyebrow": "Leistungen",
+    "title": "Social-Media-Leistungen für Unternehmen",
+    "intro": "Von der Strategie über den Dreh bis zur täglichen Betreuung: Wir übernehmen die Aufgaben, für die im Betrieb meist die Zeit fehlt. Buche einzelne Bausteine oder gib deine Kanäle komplett ab.",
+    "agencyTitle": "Was macht eine Social-Media-Agentur?",
+    "agencyText": [
+      "Eine Social-Media-Agentur plant, produziert und veröffentlicht Inhalte für die Kanäle eines Unternehmens und kümmert sich um den Austausch mit der Community. Dazu gehören eine Strategie mit klaren Zielen, ein Redaktionsplan, Fotos und Videos, Texte, die Veröffentlichung, das Beantworten von Kommentaren und Nachrichten sowie eine regelmäßige Auswertung.",
+      "Bei Social Media Komplett kommt die Produktion vor Ort dazu: Wir drehen und fotografieren direkt in deinem Betrieb, statt auf austauschbares Stockmaterial zu setzen."
+    ],
+    "compareTitle": "Einzelleistung oder Komplettbetreuung?",
+    "compareIntro": "Beides ist möglich. Diese Übersicht hilft bei der Einordnung.",
+    "compare": {
+      "headers": [
+        "Kriterium",
+        "Einzelne Leistung",
+        "Komplettbetreuung"
+      ],
+      "rows": [
+        [
+          "Passt, wenn …",
+          "du intern jemanden hast, der die Kanäle pflegt, und gezielt Unterstützung brauchst – zum Beispiel beim Dreh.",
+          "im Betrieb niemand Zeit für Social Media hat und alles verlässlich laufen soll."
+        ],
+        [
+          "Dein Aufwand",
+          "Planung und Veröffentlichung bleiben bei dir.",
+          "Du gibst Inhalte frei und nimmst an Drehterminen teil."
+        ],
+        [
+          "Unser Anteil",
+          "Ein klar abgegrenzter Baustein, etwa Reels-Produktion oder Strategie.",
+          "Strategie, Content, Veröffentlichung, Community und Auswertung."
+        ],
+        [
+          "Abrechnung",
+          "Projektbezogen oder monatlich, je nach Leistung.",
+          "Monatliches Paket mit festem Umfang."
+        ]
+      ]
+    }
+  },
+  "labels": {
+    "includes": "Das ist enthalten",
+    "howItWorks": "So gehen wir vor",
+    "forWhom": "Für wen eignet sich das?",
+    "faq": "Häufige Fragen",
+    "otherServices": "Weitere Leistungen",
+    "partOfPackages": "Diese Leistung ist Bestandteil unserer Pakete oder einzeln buchbar. Der genaue Umfang und der Preis richten sich nach deinem Bedarf – wir erstellen dir ein Angebot nach dem Erstgespräch."
+  },
+  "items": {
+    "social-media-management": {
+      "meta": {
+        "title": "Social Media Management für Unternehmen in Münster",
+        "description": "Social Media Management von Social Media Komplett: Planung, Content, Veröffentlichung, Community und Auswertung für Instagram, Facebook und TikTok – aus einer Hand."
+      },
+      "name": "Social Media Management",
+      "short": "Planung, Veröffentlichung und laufende Betreuung deiner Kanäle – verlässlich Woche für Woche.",
+      "title": "Social Media Management: deine Kanäle, komplett betreut",
+      "intro": "Wir übernehmen die laufende Arbeit an deinen Social-Media-Kanälen – von der Monatsplanung bis zum veröffentlichten Beitrag. Du behältst die Kontrolle über die Inhalte, ohne dich um die Umsetzung kümmern zu müssen.",
+      "definitionTitle": "Was ist Social Media Management?",
+      "definition": "Social Media Management umfasst alle wiederkehrenden Aufgaben rund um die Social-Media-Kanäle eines Unternehmens: Themen planen, Inhalte erstellen, Beiträge veröffentlichen, auf Kommentare und Nachrichten reagieren und die Ergebnisse auswerten. Ziel ist ein regelmäßiger, einheitlicher Auftritt, der zu den Unternehmenszielen passt.",
+      "includes": [
+        {
+          "title": "Redaktionsplan",
+          "text": "Ein Monatsplan mit Themen, Formaten und Terminen, den du vorab siehst und freigibst."
+        },
+        {
+          "title": "Content-Erstellung",
+          "text": "Fotos, Grafiken, Reels und Texte, abgestimmt auf deine Marke und deine Zielgruppe."
+        },
+        {
+          "title": "Veröffentlichung",
+          "text": "Wir planen und veröffentlichen Beiträge, Reels und Stories zu sinnvollen Zeiten."
+        },
+        {
+          "title": "Profilpflege",
+          "text": "Bio, Highlights, Links und Kontaktmöglichkeiten bleiben aktuell und übersichtlich."
+        },
+        {
+          "title": "Community",
+          "text": "Auf Wunsch beantworten wir Kommentare und Nachrichten nach abgestimmten Leitlinien."
+        },
+        {
+          "title": "Auswertung",
+          "text": "Ein regelmäßiger, verständlicher Bericht mit den wichtigsten Kennzahlen und konkreten nächsten Schritten."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Kennenlernen und Ziele",
+          "text": "Wir klären, wen du erreichen möchtest und woran du Erfolg messen willst – etwa Reservierungen, Terminanfragen oder Bewerbungen."
+        },
+        {
+          "title": "Plan und Produktion",
+          "text": "Aus dem Redaktionsplan entstehen Inhalte, viele davon bei einem Drehtermin in deinem Betrieb."
+        },
+        {
+          "title": "Freigabe und Veröffentlichung",
+          "text": "Du prüfst die Beiträge vorab. Nach deiner Freigabe gehen sie planmäßig online."
+        },
+        {
+          "title": "Auswerten und anpassen",
+          "text": "Wir schauen regelmäßig auf die Zahlen und passen Themen und Formate an."
+        }
+      ],
+      "forWhom": [
+        "Inhaberinnen und Inhaber, die Social Media bisher nebenbei erledigen",
+        "Betriebe, deren Kanäle unregelmäßig bespielt werden",
+        "Unternehmen, die einen festen Ansprechpartner statt wechselnder Einzellösungen möchten"
+      ],
+      "faq": [
+        {
+          "q": "Lohnt es sich, Instagram-Betreuung auszulagern?",
+          "a": "Das lohnt sich vor allem dann, wenn im Betrieb die Zeit oder das Know-how für regelmäßige, gut gemachte Inhalte fehlt. Du gewinnst Zeit und einen verlässlichen Auftritt. Wenn du gern selbst postest und nur punktuell Hilfe brauchst, kann eine Einzelleistung wie ein Drehtermin oder eine Strategie die bessere Wahl sein."
+        },
+        {
+          "q": "Welche Plattformen betreut ihr?",
+          "a": "Unser Schwerpunkt liegt auf Instagram, Facebook und TikTok. Welche Kanäle für dich sinnvoll sind, klären wir gemeinsam in der Strategie – nicht jedes Unternehmen muss überall vertreten sein."
+        },
+        {
+          "q": "Behalte ich den Zugriff auf meine Konten?",
+          "a": "Ja. Die Konten gehören dir und bleiben in deinem Besitz. Wir arbeiten mit den Zugriffsrechten, die du uns einräumst, und du kannst sie jederzeit wieder entziehen."
+        },
+        {
+          "q": "Was kostet Social Media Management?",
+          "a": "Der Preis hängt vom Umfang ab: Anzahl der Kanäle, Beiträge und Reels pro Monat, Drehtermine vor Ort und Community Management. Nach dem Erstgespräch erhältst du ein konkretes Angebot."
+        }
+      ]
+    },
+    "content-creation": {
+      "meta": {
+        "title": "Content-Erstellung für Social Media – Fotos, Grafiken, Texte",
+        "description": "Professionelle Content-Erstellung für Unternehmen: Fotos, Grafiken, Karussells und Texte, produziert vor Ort in deinem Betrieb in Münster und Umgebung."
+      },
+      "name": "Content-Erstellung",
+      "short": "Fotos, Grafiken und Texte, die zu deiner Marke passen – produziert in deinem Betrieb.",
+      "title": "Content-Erstellung: Inhalte, die nach dir aussehen",
+      "intro": "Wir produzieren Fotos, Grafiken, Karussells und Texte für deine Kanäle. Die Motive entstehen bei dir vor Ort, damit dein Auftritt echt wirkt und sich von austauschbaren Stockbildern abhebt.",
+      "definitionTitle": "Was bedeutet Content-Erstellung?",
+      "definition": "Content-Erstellung ist die Planung und Produktion der Inhalte, die ein Unternehmen auf Social Media veröffentlicht – also Fotos, Videos, Grafiken und Texte. Guter Content beantwortet Fragen der Zielgruppe, zeigt das Angebot und macht das Unternehmen wiedererkennbar.",
+      "includes": [
+        {
+          "title": "Themen und Ideen",
+          "text": "Eine Themenliste, die sich an deinem Angebot, deinen Kundenfragen und der Saison orientiert."
+        },
+        {
+          "title": "Fotos vor Ort",
+          "text": "Produkte, Räume, Team und Abläufe – aufgenommen in deinem Betrieb."
+        },
+        {
+          "title": "Grafiken und Karussells",
+          "text": "Vorlagen in deinen Farben und Schriften für Angebote, Tipps und Ankündigungen."
+        },
+        {
+          "title": "Texte und Hashtags",
+          "text": "Bildunterschriften, die verständlich sind und zu einer Handlung einladen."
+        },
+        {
+          "title": "Formate für jede Plattform",
+          "text": "Zuschnitte für Feed, Story und Titelbilder, damit alles sauber dargestellt wird."
+        },
+        {
+          "title": "Geordnete Übergabe",
+          "text": "Du erhältst die Inhalte übersichtlich sortiert – zur Freigabe oder zur eigenen Veröffentlichung."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Briefing",
+          "text": "Wir sammeln, was gezeigt werden soll: Angebote, Besonderheiten, Menschen, Termine."
+        },
+        {
+          "title": "Produktion",
+          "text": "Fotos und Videos entstehen an einem Drehtermin, Grafiken und Texte im Anschluss."
+        },
+        {
+          "title": "Abstimmung",
+          "text": "Du siehst die Inhalte und kannst Änderungen anmerken, bevor etwas veröffentlicht wird."
+        }
+      ],
+      "forWhom": [
+        "Unternehmen, die selbst posten, aber bessere Inhalte brauchen",
+        "Betriebe mit einem Angebot, das man sehen muss – Essen, Schnitte, Räume, Produkte",
+        "Teams, denen Vorlagen und ein einheitlicher Look fehlen"
+      ],
+      "faq": [
+        {
+          "q": "Kann eine Social-Media-Agentur zu mir in den Betrieb kommen?",
+          "a": "Ja, genau das ist unser Ansatz. Wir kommen für Foto- und Videoaufnahmen in dein Unternehmen. Vor-Ort-Termine bieten wir aktuell in Münster und im Münsterland an; weitere Orte sind nach Absprache möglich."
+        },
+        {
+          "q": "Wem gehören die erstellten Inhalte?",
+          "a": "Die Nutzungsrechte regeln wir transparent im Angebot. Üblich ist, dass du die Inhalte für deine eigenen Kanäle und deine Website dauerhaft nutzen kannst."
+        },
+        {
+          "q": "Müssen meine Mitarbeitenden vor die Kamera?",
+          "a": "Nein. Menschen machen einen Auftritt persönlicher, aber niemand muss gefilmt werden. Wir zeigen nur Personen, die damit ausdrücklich einverstanden sind."
+        }
+      ]
+    },
+    "reels-video-production": {
+      "meta": {
+        "title": "Reels Produktion Münster – Videos für Instagram & TikTok",
+        "description": "Reels- und Videoproduktion vor Ort: Konzept, Dreh, Schnitt, Untertitel und Titelbild für Instagram Reels, TikTok und Facebook – in Münster und Umgebung."
+      },
+      "name": "Reels & Videoproduktion",
+      "short": "Konzept, Dreh und Schnitt für Reels und Kurzvideos – direkt bei dir vor Ort.",
+      "title": "Reels & Videoproduktion: Kurzvideos, die dein Unternehmen zeigen",
+      "intro": "Kurzvideos sind das Format, mit dem Unternehmen auf Instagram, TikTok und Facebook auch Menschen erreichen können, die ihnen noch nicht folgen. Wir übernehmen Idee, Dreh und Schnitt – du brauchst weder Ausrüstung noch Erfahrung vor der Kamera.",
+      "definitionTitle": "Wie funktioniert professionelle Reels-Produktion?",
+      "definition": "Professionelle Reels-Produktion besteht aus vier Schritten: einem Konzept mit Thema und Einstieg, dem Dreh vor Ort, dem Schnitt mit Untertiteln und Ton sowie der Veröffentlichung mit Titelbild und Beschreibung. Aus einem gut vorbereiteten Drehtermin entstehen in der Regel mehrere Videos, die über Wochen verteilt veröffentlicht werden.",
+      "includes": [
+        {
+          "title": "Konzept und Skript",
+          "text": "Für jedes Video legen wir Thema, Einstieg und Ablauf fest – kurz und verständlich."
+        },
+        {
+          "title": "Dreh vor Ort",
+          "text": "Wir filmen in deinem Betrieb mit passender Kamera-, Licht- und Tontechnik."
+        },
+        {
+          "title": "Schnitt",
+          "text": "Dynamischer Schnitt im Hochformat, abgestimmt auf die jeweilige Plattform."
+        },
+        {
+          "title": "Untertitel und Titelbild",
+          "text": "Untertitel für das Schauen ohne Ton und ein Titelbild, das in dein Profil passt."
+        },
+        {
+          "title": "Musik und Ton",
+          "text": "Wir achten darauf, dass verwendete Musik für geschäftliche Konten nutzbar ist."
+        },
+        {
+          "title": "Veröffentlichung",
+          "text": "Auf Wunsch stellen wir die Videos mit Beschreibung und Hashtags für dich online."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Ideen sammeln",
+          "text": "Gemeinsam legen wir fest, was gezeigt wird: Abläufe, Produkte, Menschen, Antworten auf häufige Fragen."
+        },
+        {
+          "title": "Drehtermin",
+          "text": "Wir drehen mehrere Videos an einem Termin, damit dein Betrieb möglichst wenig gestört wird."
+        },
+        {
+          "title": "Schnitt und Freigabe",
+          "text": "Du erhältst die fertigen Videos zur Ansicht und gibst sie frei oder nennst Änderungswünsche."
+        },
+        {
+          "title": "Veröffentlichen und lernen",
+          "text": "Nach der Veröffentlichung schauen wir, welche Videos gut ankommen, und planen die nächsten darauf aufbauend."
+        }
+      ],
+      "forWhom": [
+        "Restaurants, Cafés und Bars, die Atmosphäre und Gerichte zeigen wollen",
+        "Salons und Studios, bei denen das Ergebnis sichtbar ist",
+        "Lokale Unternehmen, die neue Kundschaft in ihrer Umgebung erreichen möchten"
+      ],
+      "faq": [
+        {
+          "q": "Wie lange dauert ein Drehtermin?",
+          "a": "Das hängt von der Anzahl der Videos ab. Für mehrere Reels planen wir in der Regel einige Stunden ein. Den Ablauf stimmen wir vorher so ab, dass er zu deinem Betrieb passt."
+        },
+        {
+          "q": "Muss ich selbst vor der Kamera stehen?",
+          "a": "Nein. Viele gute Reels zeigen Abläufe, Details und Ergebnisse. Wenn du oder dein Team gern zu sehen seid, begleiten wir euch dabei – das wirkt oft besonders nahbar."
+        },
+        {
+          "q": "Kann ich Reels auch ohne laufende Betreuung buchen?",
+          "a": "Ja. Reels-Produktion ist als einzelne Leistung buchbar, zum Beispiel als Paket aus einem Drehtermin und mehreren fertigen Videos."
+        }
+      ]
+    },
+    "social-media-strategy": {
+      "meta": {
+        "title": "Social-Media-Strategie für kleine und lokale Unternehmen",
+        "description": "Social-Media-Strategie von Social Media Komplett: Ziele, Zielgruppe, Kanäle, Themen und Kennzahlen – als klarer Plan, den du selbst umsetzen oder an uns abgeben kannst."
+      },
+      "name": "Social-Media-Strategie",
+      "short": "Ziele, Zielgruppe, Kanäle und Themen – ein klarer Plan statt Posten nach Gefühl.",
+      "title": "Social-Media-Strategie: ein Plan, der zu deinem Unternehmen passt",
+      "intro": "Ohne Plan wird Social Media schnell zur Dauerbaustelle. Wir entwickeln mit dir eine Strategie, die festlegt, wen du erreichen willst, auf welchen Kanälen und mit welchen Inhalten – und woran du erkennst, ob es funktioniert.",
+      "definitionTitle": "Was gehört in eine Social-Media-Strategie?",
+      "definition": "Eine Social-Media-Strategie für ein kleines Unternehmen beantwortet fünf Fragen: Was soll Social Media für das Unternehmen erreichen? Wer soll angesprochen werden? Welche Kanäle sind dafür sinnvoll? Welche Themen und Formate werden regelmäßig veröffentlicht? Und mit welchen Kennzahlen wird der Erfolg überprüft?",
+      "includes": [
+        {
+          "title": "Bestandsaufnahme",
+          "text": "Wir schauen uns deine bisherigen Kanäle, Inhalte und Ergebnisse an."
+        },
+        {
+          "title": "Ziele und Zielgruppe",
+          "text": "Konkrete, überprüfbare Ziele und ein klares Bild der Menschen, die du erreichen möchtest."
+        },
+        {
+          "title": "Kanalauswahl",
+          "text": "Eine begründete Empfehlung, welche Plattformen sich für dich lohnen – und welche nicht."
+        },
+        {
+          "title": "Themen und Formate",
+          "text": "Wiederkehrende Inhaltsreihen, die zu deinem Angebot passen und sich gut produzieren lassen."
+        },
+        {
+          "title": "Redaktionsrhythmus",
+          "text": "Ein realistischer Plan, wie oft und wann veröffentlicht wird."
+        },
+        {
+          "title": "Kennzahlen",
+          "text": "Wenige, aussagekräftige Messwerte und ein einfacher Ablauf für die monatliche Auswertung."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Gespräch",
+          "text": "In einem ausführlichen Termin lernen wir dein Unternehmen, deine Kundschaft und deine Ziele kennen."
+        },
+        {
+          "title": "Ausarbeitung",
+          "text": "Wir fassen die Strategie in einem übersichtlichen Dokument zusammen."
+        },
+        {
+          "title": "Übergabe",
+          "text": "Wir gehen den Plan gemeinsam durch. Du setzt ihn selbst um oder gibst die Umsetzung an uns ab."
+        }
+      ],
+      "forWhom": [
+        "Unternehmen, die neu auf Social Media starten",
+        "Betriebe, die viel posten, aber wenig Wirkung sehen",
+        "Teams, die Social Media intern umsetzen und einen roten Faden brauchen"
+      ],
+      "faq": [
+        {
+          "q": "Brauche ich als kleines Unternehmen wirklich eine Strategie?",
+          "a": "Ja, aber sie muss nicht umfangreich sein. Schon wenige klare Festlegungen zu Zielen, Zielgruppe, Themen und Rhythmus verhindern, dass du Zeit in Inhalte steckst, die nichts bewirken."
+        },
+        {
+          "q": "Auf welchen Plattformen sollte mein Unternehmen aktiv sein?",
+          "a": "Dort, wo deine Kundschaft tatsächlich unterwegs ist und wo du regelmäßig gute Inhalte liefern kannst. Ein gut gepflegter Kanal ist in der Regel wirkungsvoller als drei halbherzig bespielte."
+        },
+        {
+          "q": "Bekomme ich die Strategie schriftlich?",
+          "a": "Ja. Du erhältst ein Dokument, mit dem du oder dein Team auch ohne uns weiterarbeiten könnt."
+        }
+      ]
+    },
+    "community-management": {
+      "meta": {
+        "title": "Community Management – Kommentare & Nachrichten betreuen",
+        "description": "Community Management für Unternehmen: Wir beantworten Kommentare und Nachrichten nach abgestimmten Leitlinien und leiten Anfragen zuverlässig an dich weiter."
+      },
+      "name": "Community Management",
+      "short": "Kommentare und Nachrichten werden zeitnah und im Ton deiner Marke beantwortet.",
+      "title": "Community Management: niemand bleibt ohne Antwort",
+      "intro": "Auf Social Media stellen Menschen Fragen, reservieren, loben und kritisieren. Wer schnell und freundlich antwortet, gewinnt Vertrauen. Wir übernehmen diese Kommunikation nach Leitlinien, die wir vorher mit dir festlegen.",
+      "definitionTitle": "Was ist Community Management?",
+      "definition": "Community Management ist die Betreuung der Kommunikation auf den Social-Media-Kanälen eines Unternehmens. Dazu gehört, Kommentare und Direktnachrichten zu beantworten, Anfragen weiterzuleiten, auf Kritik sachlich zu reagieren und unerwünschte Inhalte wie Spam zu moderieren.",
+      "includes": [
+        {
+          "title": "Kommentare beantworten",
+          "text": "Wir reagieren auf Kommentare unter deinen Beiträgen – freundlich und in deiner Tonalität."
+        },
+        {
+          "title": "Nachrichten bearbeiten",
+          "text": "Häufige Fragen beantworten wir direkt, alles andere leiten wir an dich weiter."
+        },
+        {
+          "title": "Antwortleitfaden",
+          "text": "Gemeinsam legen wir fest, wie auf typische Fragen, Lob und Kritik reagiert wird."
+        },
+        {
+          "title": "Moderation",
+          "text": "Spam und beleidigende Inhalte werden nach klaren Regeln ausgeblendet oder gemeldet."
+        },
+        {
+          "title": "Übergabe wichtiger Anfragen",
+          "text": "Reservierungen, Terminwünsche und Beschwerden erreichen dich auf dem vereinbarten Weg."
+        },
+        {
+          "title": "Rückmeldungen aus der Community",
+          "text": "Wiederkehrende Fragen und Wünsche fließen in die Content-Planung ein."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Leitlinien festlegen",
+          "text": "Tonalität, Antwortzeiten, Zuständigkeiten und Grenzen werden vorab geklärt."
+        },
+        {
+          "title": "Laufende Betreuung",
+          "text": "Wir prüfen Kommentare und Nachrichten zu den vereinbarten Zeiten."
+        },
+        {
+          "title": "Regelmäßiger Austausch",
+          "text": "Auffälligkeiten und häufige Fragen besprechen wir mit dir und passen die Leitlinien an."
+        }
+      ],
+      "forWhom": [
+        "Betriebe, die viele Anfragen über Instagram oder Facebook erhalten",
+        "Unternehmen, bei denen Nachrichten im Alltag liegen bleiben",
+        "Marken, die auch bei Kritik professionell auftreten wollen"
+      ],
+      "faq": [
+        {
+          "q": "Antwortet ihr in meinem Namen?",
+          "a": "Wir antworten im Namen deines Unternehmens und nach dem abgestimmten Leitfaden. Fragen, die nur du beantworten kannst – zum Beispiel zu individuellen Preisen oder Reklamationen –, geben wir an dich weiter."
+        },
+        {
+          "q": "Wie schnell wird geantwortet?",
+          "a": "Die Antwortzeiten legen wir gemeinsam fest und halten sie im Angebot fest. Eine Rund-um-die-Uhr-Betreuung ist nicht Standard, kann aber besprochen werden."
+        },
+        {
+          "q": "Wie geht ihr mit negativer Kritik um?",
+          "a": "Sachlich und lösungsorientiert. Berechtigte Kritik beantworten wir offen und leiten sie an dich weiter; beleidigende Inhalte oder Spam werden moderiert. Heikle Fälle stimmen wir vor einer Antwort mit dir ab."
+        }
+      ]
+    }
+  }
+}

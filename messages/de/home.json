@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "title": "Social Media Agentur Münster – Content, Reels & Betreuung",
+    "description": "Social Media Komplett aus Münster erstellt Content, produziert Reels vor Ort und betreut deine Social-Media-Kanäle. Jetzt kostenloses Erstgespräch anfragen."
+  },
+  "hero": {
+    "eyebrow": "Social-Media-Agentur aus Münster",
+    "title": "Dein Partner für erfolgreiches Social Media.",
+    "subtitle": "Wir erstellen professionellen Content, produzieren Reels und übernehmen die Betreuung deiner Social-Media-Kanäle – damit du dich auf dein Unternehmen konzentrieren kannst.",
+    "points": [
+      "Content-Erstellung",
+      "Reels-Produktion vor Ort",
+      "Laufende Betreuung"
+    ],
+    "mockup": {
+      "alt": "Illustration: Smartphone mit Beispiel-Feed, Reel-Vorschau und Redaktionsplan",
+      "profile": "dein.unternehmen",
+      "reelLabel": "Reel",
+      "planTitle": "Redaktionsplan",
+      "planItems": [
+        "Mo · Reel",
+        "Mi · Karussell",
+        "Fr · Story"
+      ],
+      "statusPlanned": "Geplant",
+      "statusApproved": "Freigegeben"
+    }
+  },
+  "trust": {
+    "eyebrow": "Warum Social Media Komplett",
+    "title": "Social Media, das nicht nebenbei laufen muss.",
+    "intro": "Viele Unternehmen wissen, dass Social Media wichtig ist – im Alltag fehlt aber die Zeit für Ideen, Dreh, Schnitt und regelmäßige Beiträge. Genau diese Arbeit nehmen wir dir ab.",
+    "items": [
+      {
+        "title": "Alles aus einer Hand",
+        "text": "Strategie, Content, Reels, Veröffentlichung und Community – du brauchst keine drei verschiedenen Dienstleister zu koordinieren."
+      },
+      {
+        "title": "Wir kommen zu dir",
+        "text": "Fotos und Videos entstehen direkt in deinem Betrieb. So zeigt dein Auftritt, was dein Unternehmen wirklich ausmacht."
+      },
+      {
+        "title": "Klare Abstimmung",
+        "text": "Du siehst Inhalte, bevor sie online gehen, und weißt jederzeit, was als Nächstes geplant ist."
+      },
+      {
+        "title": "Ehrliche Auswertung",
+        "text": "Wir berichten verständlich, was funktioniert hat und was nicht – ohne geschönte Zahlen und ohne Versprechen, die niemand halten kann."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Leistungen",
+    "title": "Unsere Social-Media-Leistungen",
+    "intro": "Du kannst einzelne Bausteine buchen oder deine Kanäle komplett von uns betreuen lassen."
+  },
+  "process": {
+    "eyebrow": "Ablauf",
+    "title": "So läuft die Zusammenarbeit",
+    "intro": "Vom ersten Gespräch bis zum laufenden Betrieb: fünf klare Schritte, damit du immer weißt, woran du bist."
+  },
+  "onsite": {
+    "eyebrow": "Content-Erstellung vor Ort",
+    "title": "Wir drehen dort, wo dein Unternehmen lebt.",
+    "text": "Guter Content entsteht nicht am Schreibtisch. Wir kommen zu dir ins Restaurant, in den Salon, ins Studio oder ins Geschäft und produzieren Fotos und Videos direkt im laufenden Betrieb oder an einem festen Drehtermin.",
+    "points": [
+      "Drehtermine, die zu deinem Betriebsablauf passen",
+      "Mehrere Reels und Fotos aus einem Termin",
+      "Vorbereitung mit Ideenliste und Ablaufplan",
+      "Schnitt, Untertitel und Titelbilder inklusive"
+    ],
+    "areaTitle": "Einsatzgebiet",
+    "areaText": "Vor-Ort-Termine bieten wir aktuell in {areas} an. Termine außerhalb dieses Gebiets sind nach Absprache möglich. Strategie, Planung und Betreuung funktionieren ortsunabhängig in ganz {remote}.",
+    "visualAlt": "Illustration: Drehplan für einen Vor-Ort-Termin mit mehreren Aufnahmen",
+    "visual": {
+      "title": "Drehtag",
+      "items": [
+        "Ankommen & Aufbau",
+        "Reels & Kurzvideos",
+        "Fotos & Details",
+        "Team & Atmosphäre"
+      ]
+    }
+  },
+  "industries": {
+    "eyebrow": "Branchen",
+    "title": "Für Unternehmen, die vor Ort überzeugen",
+    "intro": "Wir arbeiten besonders gern mit lokalen Betrieben, bei denen Atmosphäre, Handwerk und Menschen den Unterschied machen."
+  },
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "title": "So kann dein Content aussehen",
+    "intro": "Eine Auswahl an Formaten, die wir für lokale Unternehmen umsetzen. Die gezeigten Motive sind Beispiele und stellen keine Kundenprojekte dar."
+  },
+  "packages": {
+    "eyebrow": "Pakete",
+    "title": "Drei Pakete, ein Ziel: verlässliche Präsenz",
+    "intro": "Vom Einstieg bis zur Komplettbetreuung. Den genauen Umfang stimmen wir im Erstgespräch auf dein Unternehmen ab."
+  },
+  "why": {
+    "eyebrow": "Deine Vorteile",
+    "title": "Warum Unternehmen ihre Kanäle abgeben",
+    "items": [
+      {
+        "title": "Mehr Zeit fürs Tagesgeschäft",
+        "text": "Ideen, Dreh, Schnitt, Texte und Veröffentlichung liegen bei uns. Du gibst frei – mehr nicht."
+      },
+      {
+        "title": "Regelmäßigkeit statt Funkstille",
+        "text": "Ein Redaktionsplan sorgt dafür, dass deine Kanäle auch in stressigen Wochen aktiv bleiben."
+      },
+      {
+        "title": "Ein einheitlicher Auftritt",
+        "text": "Bildsprache, Tonalität und Gestaltung passen zusammen und zu deiner Marke."
+      },
+      {
+        "title": "Formate, die zur Plattform passen",
+        "text": "Reels, Karussells und Stories werden so produziert, wie sie auf Instagram, Facebook oder TikTok tatsächlich genutzt werden."
+      },
+      {
+        "title": "Feste Abläufe",
+        "text": "Klare Termine für Planung, Dreh, Freigabe und Auswertung statt spontaner Einzelaktionen."
+      },
+      {
+        "title": "Nachvollziehbare Ergebnisse",
+        "text": "Ein regelmäßiger Bericht zeigt dir Reichweite, Interaktionen und Anfragen – und was wir daraus ableiten."
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Ratgeber",
+    "title": "Wissen für dein Social-Media-Marketing",
+    "intro": "Praktische Anleitungen und Einordnungen für lokale Unternehmen – ohne Fachchinesisch."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Häufig gestellte Fragen",
+    "intro": "Kurze Antworten auf die Fragen, die uns am häufigsten gestellt werden.",
+    "more": "Alle Fragen und Antworten"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Bereit für Social Media, das läuft?",
+    "text": "Schreib uns ein paar Zeilen zu deinem Unternehmen. Im kostenlosen Erstgespräch klären wir, welche Betreuung sinnvoll ist – unverbindlich.",
+    "points": [
+      "Kostenlos und unverbindlich",
+      "Persönliche Rückmeldung",
+      "Klarer Vorschlag statt Standardangebot"
+    ]
+  }
+}

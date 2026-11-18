@@ -1,0 +1,424 @@
+{
+  "overview": {
+    "meta": {
+      "title": "Hizmetler: Sosyal Medya Yönetimi, İçerik ve Reels",
+      "description": "Social Media Komplett'in tüm hizmetleri: işletmeler için sosyal medya yönetimi, içerik üretimi, Reels ve video prodüksiyonu, strateji ve topluluk yönetimi."
+    },
+    "eyebrow": "Hizmetler",
+    "title": "İşletmeler için sosyal medya hizmetleri",
+    "intro": "Stratejiden çekime, oradan günlük kanal yönetimine: işletmede çoğu zaman vakit bulunamayan işleri biz üstleniyoruz. Hizmetleri tek tek alın ya da kanallarınızı tümüyle bize bırakın.",
+    "agencyTitle": "Sosyal medya ajansı ne yapar?",
+    "agencyText": [
+      "Bir sosyal medya ajansı, bir işletmenin kanalları için içerik planlar, üretir ve yayınlar; toplulukla iletişimi de yürütür. Buna net hedefleri olan bir strateji, içerik takvimi, fotoğraf ve videolar, metinler, yayınlama, yorum ve mesajların yanıtlanması ve düzenli bir değerlendirme dahildir.",
+      "Social Media Komplett'te buna yerinde prodüksiyon eklenir: Birbirinin yerine geçebilen stok görsellere güvenmek yerine doğrudan işletmenizde video ve fotoğraf çekiyoruz."
+    ],
+    "compareTitle": "Tek hizmet mi, eksiksiz yönetim mi?",
+    "compareIntro": "İkisi de mümkün. Bu tablo karar vermenize yardımcı olur.",
+    "compare": {
+      "headers": [
+        "Kriter",
+        "Tek hizmet",
+        "Eksiksiz yönetim"
+      ],
+      "rows": [
+        [
+          "Şu durumda uygundur …",
+          "işletmenizde kanallarla ilgilenen biri varsa ve belirli bir konuda – örneğin çekimde – desteğe ihtiyacınız varsa.",
+          "işletmede kimsenin sosyal medyaya ayıracak vakti yoksa ve her şeyin güvenilir biçimde işlemesi gerekiyorsa."
+        ],
+        [
+          "Sizin payınıza düşen",
+          "Planlama ve yayınlama sizde kalır.",
+          "İçerikleri onaylar ve çekim randevularına katılırsınız."
+        ],
+        [
+          "Bizim payımıza düşen",
+          "Sınırları net çizilmiş tek bir hizmet, örneğin Reels çekimi veya strateji.",
+          "Strateji, içerik, yayınlama, topluluk ve değerlendirme."
+        ],
+        [
+          "Faturalandırma",
+          "Hizmete göre proje bazlı veya aylık.",
+          "Kapsamı sabit aylık paket."
+        ]
+      ]
+    }
+  },
+  "labels": {
+    "includes": "Neler dahil?",
+    "howItWorks": "Nasıl çalışıyoruz?",
+    "forWhom": "Kimler için uygun?",
+    "faq": "Sık sorulan sorular",
+    "otherServices": "Diğer hizmetler",
+    "partOfPackages": "Bu hizmet paketlerimizin bir parçasıdır veya tek başına alınabilir. Kapsamın ayrıntıları ve fiyat ihtiyacınıza göre belirlenir – ön görüşmenin ardından size bir teklif hazırlıyoruz."
+  },
+  "items": {
+    "social-media-management": {
+      "meta": {
+        "title": "Münster'deki İşletmeler için Sosyal Medya Yönetimi",
+        "description": "Social Media Komplett'ten sosyal medya yönetimi: Instagram, Facebook ve TikTok için planlama, içerik, yayınlama, topluluk ve değerlendirme – tek elden."
+      },
+      "name": "Sosyal Medya Yönetimi",
+      "short": "Kanallarınızın planlaması, yayınlanması ve düzenli yönetimi – her hafta güvenilir biçimde.",
+      "title": "Sosyal medya yönetimi: kanallarınız eksiksiz emin ellerde",
+      "intro": "Sosyal medya kanallarınızdaki süregelen işi üstleniyoruz – aylık planlamadan yayınlanan gönderiye kadar. Uygulamayla uğraşmak zorunda kalmadan içerikler üzerindeki kontrol sizde kalır.",
+      "definitionTitle": "Sosyal medya yönetimi nedir?",
+      "definition": "Sosyal medya yönetimi, bir işletmenin sosyal medya kanallarıyla ilgili tekrarlayan tüm işleri kapsar: konuları planlamak, içerik üretmek, gönderileri yayınlamak, yorum ve mesajlara yanıt vermek ve sonuçları değerlendirmek. Amaç, işletmenin hedefleriyle uyumlu, düzenli ve bütünlüklü bir görünümdür.",
+      "includes": [
+        {
+          "title": "İçerik takvimi",
+          "text": "Konuları, formatları ve tarihleri içeren, önceden görüp onayladığınız aylık plan."
+        },
+        {
+          "title": "İçerik üretimi",
+          "text": "Markanıza ve hedef kitlenize göre hazırlanan fotoğraflar, grafikler, Reels ve metinler."
+        },
+        {
+          "title": "Yayınlama",
+          "text": "Gönderileri, Reels ve Stories içeriklerini uygun saatlerde planlayıp yayınlıyoruz."
+        },
+        {
+          "title": "Profil bakımı",
+          "text": "Biyografi, öne çıkanlar, bağlantılar ve iletişim seçenekleri güncel ve düzenli kalır."
+        },
+        {
+          "title": "Topluluk",
+          "text": "Dilerseniz yorum ve mesajları birlikte belirlediğimiz ilkelere göre yanıtlıyoruz."
+        },
+        {
+          "title": "Değerlendirme",
+          "text": "En önemli göstergeleri ve somut sonraki adımları içeren düzenli, anlaşılır bir rapor."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Tanışma ve hedefler",
+          "text": "Kime ulaşmak istediğinizi ve başarıyı neyle ölçeceğinizi netleştiriyoruz – örneğin rezervasyonlar, randevu talepleri veya iş başvuruları."
+        },
+        {
+          "title": "Plan ve prodüksiyon",
+          "text": "İçerik takviminden içerikler doğar; bunların birçoğu işletmenizdeki bir çekim gününde üretilir."
+        },
+        {
+          "title": "Onay ve yayınlama",
+          "text": "Gönderileri önceden incelersiniz. Onayınızın ardından plana uygun olarak yayına girerler."
+        },
+        {
+          "title": "Değerlendirme ve uyarlama",
+          "text": "Rakamlara düzenli olarak bakıyor, konuları ve formatları buna göre uyarlıyoruz."
+        }
+      ],
+      "forWhom": [
+        "Sosyal medyayı bugüne kadar diğer işlerinin arasında yürüten işletme sahipleri",
+        "Kanallarında düzensiz paylaşım yapılan işletmeler",
+        "Sürekli değişen tekil çözümler yerine sabit bir muhatap isteyen şirketler"
+      ],
+      "faq": [
+        {
+          "q": "Instagram yönetimini dışarıya vermek mantıklı mı?",
+          "a": "Özellikle işletmede düzenli ve iyi hazırlanmış içerikler için zaman veya bilgi birikimi eksikse mantıklıdır. Zaman ve güvenilir bir görünüm kazanırsınız. Paylaşımları kendiniz yapmayı seviyor ve yalnızca belirli noktalarda desteğe ihtiyaç duyuyorsanız, çekim günü veya strateji gibi tek bir hizmet daha doğru seçim olabilir."
+        },
+        {
+          "q": "Hangi platformları yönetiyorsunuz?",
+          "a": "Ağırlık noktamız Instagram, Facebook ve TikTok. Sizin için hangi kanalların anlamlı olduğunu strateji aşamasında birlikte belirliyoruz – her işletmenin her yerde bulunması gerekmez."
+        },
+        {
+          "q": "Hesaplarıma erişimim devam eder mi?",
+          "a": "Evet. Hesaplar sizindir ve sizin mülkiyetinizde kalır. Bize tanıdığınız erişim yetkileriyle çalışırız; bu yetkileri istediğiniz zaman geri alabilirsiniz."
+        },
+        {
+          "q": "Sosyal medya yönetimi ne kadar tutar?",
+          "a": "Fiyat kapsama bağlıdır: kanal sayısı, aylık gönderi ve Reels sayısı, yerinde çekim günleri ve topluluk yönetimi. Ön görüşmenin ardından somut bir teklif alırsınız."
+        }
+      ]
+    },
+    "content-creation": {
+      "meta": {
+        "title": "Sosyal Medya için İçerik Üretimi – Fotoğraf, Grafik, Metin",
+        "description": "İşletmeler için profesyonel içerik üretimi: Münster ve çevresinde, doğrudan işletmenizde üretilen fotoğraflar, grafikler, kaydırmalı gönderiler ve metinler."
+      },
+      "name": "İçerik Üretimi",
+      "short": "Markanıza uyan fotoğraflar, grafikler ve metinler – işletmenizde üretilir.",
+      "title": "İçerik üretimi: size benzeyen içerikler",
+      "intro": "Kanallarınız için fotoğraf, grafik, kaydırmalı gönderi ve metin üretiyoruz. Görseller sizin mekânınızda çekilir; böylece sayfanız gerçek görünür ve birbirinin aynısı stok görsellerden ayrışır.",
+      "definitionTitle": "İçerik üretimi ne demektir?",
+      "definition": "İçerik üretimi, bir işletmenin sosyal medyada yayınladığı içeriklerin – yani fotoğraf, video, grafik ve metinlerin – planlanması ve üretilmesidir. İyi içerik hedef kitlenin sorularını yanıtlar, sunulan ürün ve hizmetleri gösterir ve işletmeyi akılda kalıcı kılar.",
+      "includes": [
+        {
+          "title": "Konular ve fikirler",
+          "text": "Ürün ve hizmetlerinize, müşterilerinizin sorularına ve sezona göre hazırlanan bir konu listesi."
+        },
+        {
+          "title": "Yerinde fotoğraf çekimi",
+          "text": "Ürünler, mekân, ekip ve iş akışları – işletmenizde çekilir."
+        },
+        {
+          "title": "Grafikler ve kaydırmalı gönderiler",
+          "text": "Teklifler, ipuçları ve duyurular için kendi renk ve yazı tiplerinizle hazırlanmış şablonlar."
+        },
+        {
+          "title": "Metinler ve hashtag'ler",
+          "text": "Anlaşılır olan ve harekete geçmeye davet eden gönderi açıklamaları."
+        },
+        {
+          "title": "Her platform için format",
+          "text": "Her şeyin düzgün görüntülenmesi için akış, Story ve kapak görsellerine uygun ölçüler."
+        },
+        {
+          "title": "Düzenli teslim",
+          "text": "İçerikleri derli toplu biçimde alırsınız – onay için ya da kendiniz yayınlamak üzere."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Brief",
+          "text": "Neyin gösterileceğini topluyoruz: teklifler, öne çıkan özellikler, insanlar, tarihler."
+        },
+        {
+          "title": "Prodüksiyon",
+          "text": "Fotoğraf ve videolar bir çekim gününde, grafik ve metinler ise ardından hazırlanır."
+        },
+        {
+          "title": "Onay süreci",
+          "text": "İçerikleri görür, herhangi bir şey yayınlanmadan önce değişiklik isteklerinizi iletebilirsiniz."
+        }
+      ],
+      "forWhom": [
+        "Paylaşımları kendisi yapan ama daha iyi içeriğe ihtiyaç duyan işletmeler",
+        "Sunduğu şeyin görülmesi gereken işletmeler – yemekler, saç kesimleri, mekânlar, ürünler",
+        "Şablonları ve bütünlüklü bir görünümü olmayan ekipler"
+      ],
+      "faq": [
+        {
+          "q": "Bir sosyal medya ajansı işletmeme gelebilir mi?",
+          "a": "Evet, yaklaşımımız tam olarak bu. Fotoğraf ve video çekimleri için işletmenize geliyoruz. Yerinde çekimleri şu anda Münster ve Münsterland'da sunuyoruz; başka yerler görüşmeye bağlı olarak mümkündür."
+        },
+        {
+          "q": "Üretilen içerikler kime ait?",
+          "a": "Kullanım haklarını teklifte şeffaf biçimde düzenliyoruz. Yaygın uygulama, içerikleri kendi kanallarınızda ve web sitenizde süresiz olarak kullanabilmenizdir."
+        },
+        {
+          "q": "Çalışanlarımın kamera karşısına geçmesi gerekiyor mu?",
+          "a": "Hayır. İnsanlar bir sayfayı daha kişisel kılar, ancak kimse çekilmek zorunda değildir. Yalnızca buna açıkça onay veren kişileri gösteririz."
+        }
+      ]
+    },
+    "reels-video-production": {
+      "meta": {
+        "title": "Münster Reels Çekimi – Instagram ve TikTok için Video",
+        "description": "Yerinde Reels ve video prodüksiyonu: Instagram Reels, TikTok ve Facebook için konsept, çekim, kurgu, altyazı ve kapak görseli – Münster ve çevresinde."
+      },
+      "name": "Reels & Video Prodüksiyonu",
+      "short": "Reels ve kısa videolar için konsept, çekim ve kurgu – doğrudan sizin mekânınızda.",
+      "title": "Reels & video prodüksiyonu: işletmenizi gösteren kısa videolar",
+      "intro": "Kısa videolar, işletmelerin Instagram, TikTok ve Facebook'ta kendilerini henüz takip etmeyen kişilere de ulaşabildiği formattır. Fikri, çekimi ve kurguyu biz üstleniyoruz – ne ekipmana ne de kamera önü deneyimine ihtiyacınız var.",
+      "definitionTitle": "Profesyonel Reels prodüksiyonu nasıl işler?",
+      "definition": "Profesyonel Reels prodüksiyonu dört adımdan oluşur: konusu ve açılışı belirlenmiş bir konsept, yerinde çekim, altyazı ve sesle birlikte kurgu ve kapak görseli ile açıklama eşliğinde yayınlama. İyi hazırlanmış bir çekim gününden genellikle haftalara yayılarak paylaşılan birden fazla video çıkar.",
+      "includes": [
+        {
+          "title": "Konsept ve senaryo",
+          "text": "Her video için konuyu, açılışı ve akışı belirliyoruz – kısa ve anlaşılır biçimde."
+        },
+        {
+          "title": "Yerinde çekim",
+          "text": "İşletmenizde uygun kamera, ışık ve ses ekipmanıyla çekim yapıyoruz."
+        },
+        {
+          "title": "Kurgu",
+          "text": "İlgili platforma göre uyarlanmış, dikey formatta dinamik kurgu."
+        },
+        {
+          "title": "Altyazı ve kapak görseli",
+          "text": "Sessiz izleme için altyazı ve profilinize uyan bir kapak görseli."
+        },
+        {
+          "title": "Müzik ve ses",
+          "text": "Kullanılan müziğin işletme hesaplarında kullanılabilir olmasına dikkat ediyoruz."
+        },
+        {
+          "title": "Yayınlama",
+          "text": "Dilerseniz videoları açıklama ve hashtag'lerle sizin için yayınlıyoruz."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Fikirleri toplama",
+          "text": "Neyin gösterileceğini birlikte belirliyoruz: iş akışları, ürünler, insanlar, sık sorulan soruların yanıtları."
+        },
+        {
+          "title": "Çekim günü",
+          "text": "İşletmenizin olabildiğince az aksaması için tek randevuda birden fazla video çekiyoruz."
+        },
+        {
+          "title": "Kurgu ve onay",
+          "text": "Hazır videoları incelemeniz için alırsınız; onaylar ya da değişiklik isteklerinizi iletirsiniz."
+        },
+        {
+          "title": "Yayınlama ve öğrenme",
+          "text": "Yayından sonra hangi videoların ilgi gördüğüne bakıyor, sonrakileri buna dayanarak planlıyoruz."
+        }
+      ],
+      "forWhom": [
+        "Atmosferini ve yemeklerini göstermek isteyen restoranlar, kafeler ve barlar",
+        "Sonucun gözle görüldüğü salonlar ve stüdyolar",
+        "Çevresinde yeni müşterilere ulaşmak isteyen yerel işletmeler"
+      ],
+      "faq": [
+        {
+          "q": "Bir çekim günü ne kadar sürer?",
+          "a": "Bu, video sayısına bağlıdır. Birden fazla Reel için genellikle birkaç saat planlıyoruz. Akışı önceden işletmenize uyacak biçimde belirliyoruz."
+        },
+        {
+          "q": "Kamera karşısına kendim geçmek zorunda mıyım?",
+          "a": "Hayır. Pek çok iyi Reel iş akışlarını, detayları ve sonuçları gösterir. Siz veya ekibiniz görünmek isterseniz bu süreçte size eşlik ederiz – bu çoğu zaman özellikle samimi bir etki bırakır."
+        },
+        {
+          "q": "Düzenli kanal yönetimi olmadan da Reels alabilir miyim?",
+          "a": "Evet. Reels prodüksiyonu tek başına alınabilen bir hizmettir; örneğin bir çekim günü ve birden fazla hazır videodan oluşan bir paket olarak."
+        }
+      ]
+    },
+    "social-media-strategy": {
+      "meta": {
+        "title": "Küçük ve Yerel İşletmeler için Sosyal Medya Stratejisi",
+        "description": "Sosyal medya stratejisi: hedefler, hedef kitle, kanallar, konular ve göstergeler – kendiniz uygulayabileceğiniz veya bize bırakabileceğiniz net bir plan."
+      },
+      "name": "Sosyal Medya Stratejisi",
+      "short": "Hedefler, hedef kitle, kanallar ve konular – içgüdüyle paylaşım yerine net bir plan.",
+      "title": "Sosyal medya stratejisi: işletmenize uyan bir plan",
+      "intro": "Plan olmadan sosyal medya kısa sürede bitmeyen bir şantiyeye dönüşür. Sizinle birlikte, kime, hangi kanallarda ve hangi içeriklerle ulaşmak istediğinizi – ve işe yarayıp yaramadığını nasıl anlayacağınızı – belirleyen bir strateji geliştiriyoruz.",
+      "definitionTitle": "Bir sosyal medya stratejisinde neler yer alır?",
+      "definition": "Küçük bir işletme için sosyal medya stratejisi beş soruyu yanıtlar: Sosyal medya işletmeye ne kazandırmalı? Kime hitap edilecek? Bunun için hangi kanallar anlamlı? Hangi konular ve formatlar düzenli olarak yayınlanacak? Ve başarı hangi göstergelerle kontrol edilecek?",
+      "includes": [
+        {
+          "title": "Mevcut durum analizi",
+          "text": "Bugüne kadarki kanallarınıza, içeriklerinize ve sonuçlarınıza bakıyoruz."
+        },
+        {
+          "title": "Hedefler ve hedef kitle",
+          "text": "Somut, ölçülebilir hedefler ve ulaşmak istediğiniz insanlara dair net bir tablo."
+        },
+        {
+          "title": "Kanal seçimi",
+          "text": "Hangi platformların sizin için değer taşıdığına – hangilerinin taşımadığına – dair gerekçeli bir öneri."
+        },
+        {
+          "title": "Konular ve formatlar",
+          "text": "Ürün ve hizmetlerinize uyan ve kolayca üretilebilen, tekrarlayan içerik serileri."
+        },
+        {
+          "title": "Yayın ritmi",
+          "text": "Ne sıklıkla ve ne zaman paylaşım yapılacağına dair gerçekçi bir plan."
+        },
+        {
+          "title": "Göstergeler",
+          "text": "Az sayıda, anlamlı ölçüt ve aylık değerlendirme için basit bir akış."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Görüşme",
+          "text": "Kapsamlı bir görüşmede işletmenizi, müşterilerinizi ve hedeflerinizi tanıyoruz."
+        },
+        {
+          "title": "Hazırlık",
+          "text": "Stratejiyi derli toplu bir belgede özetliyoruz."
+        },
+        {
+          "title": "Teslim",
+          "text": "Planın üzerinden birlikte geçiyoruz. Onu kendiniz uygular ya da uygulamayı bize bırakırsınız."
+        }
+      ],
+      "forWhom": [
+        "Sosyal medyaya yeni başlayan işletmeler",
+        "Çok paylaşım yapan ama az etki gören işletmeler",
+        "Sosyal medyayı kendi bünyesinde yürüten ve bir ana çizgiye ihtiyaç duyan ekipler"
+      ],
+      "faq": [
+        {
+          "q": "Küçük bir işletme olarak gerçekten bir stratejiye ihtiyacım var mı?",
+          "a": "Evet, ancak kapsamlı olması gerekmez. Hedefler, hedef kitle, konular ve ritim konusunda birkaç net karar bile, hiçbir etkisi olmayan içeriklere zaman harcamanızı önler."
+        },
+        {
+          "q": "İşletmem hangi platformlarda aktif olmalı?",
+          "a": "Müşterilerinizin gerçekten vakit geçirdiği ve düzenli olarak iyi içerik sunabildiğiniz yerlerde. İyi bakılan tek bir kanal, genellikle gönülsüzce yürütülen üç kanaldan daha etkilidir."
+        },
+        {
+          "q": "Stratejiyi yazılı olarak alıyor muyum?",
+          "a": "Evet. Sizin veya ekibinizin biz olmadan da çalışmaya devam edebileceği bir belge alırsınız."
+        }
+      ]
+    },
+    "community-management": {
+      "meta": {
+        "title": "Topluluk Yönetimi – Yorum ve Mesajların Yanıtlanması",
+        "description": "İşletmeler için topluluk yönetimi: Yorum ve mesajları birlikte belirlenen ilkelere göre yanıtlıyor, talepleri güvenilir biçimde size iletiyoruz."
+      },
+      "name": "Topluluk Yönetimi",
+      "short": "Yorumlar ve mesajlar kısa sürede ve markanızın üslubuyla yanıtlanır.",
+      "title": "Topluluk yönetimi: kimse yanıtsız kalmaz",
+      "intro": "Sosyal medyada insanlar soru sorar, rezervasyon yapar, över ve eleştirir. Hızlı ve güler yüzlü yanıt veren güven kazanır. Bu iletişimi, önceden sizinle belirlediğimiz ilkelere göre biz üstleniyoruz.",
+      "definitionTitle": "Topluluk yönetimi nedir?",
+      "definition": "Topluluk yönetimi, bir işletmenin sosyal medya kanallarındaki iletişimin yürütülmesidir. Buna yorumları ve özel mesajları yanıtlamak, talepleri iletmek, eleştiriye nesnel biçimde karşılık vermek ve spam gibi istenmeyen içerikleri denetlemek dahildir.",
+      "includes": [
+        {
+          "title": "Yorumları yanıtlama",
+          "text": "Gönderilerinizin altındaki yorumlara yanıt veriyoruz – güler yüzlü ve sizin üslubunuzla."
+        },
+        {
+          "title": "Mesajları yanıtlama",
+          "text": "Sık sorulan soruları doğrudan yanıtlıyor, geri kalan her şeyi size iletiyoruz."
+        },
+        {
+          "title": "Yanıt kılavuzu",
+          "text": "Tipik sorulara, övgüye ve eleştiriye nasıl karşılık verileceğini birlikte belirliyoruz."
+        },
+        {
+          "title": "Moderasyon",
+          "text": "Spam ve hakaret içeren içerikler net kurallara göre gizlenir veya şikâyet edilir."
+        },
+        {
+          "title": "Önemli taleplerin iletilmesi",
+          "text": "Rezervasyonlar, randevu istekleri ve şikâyetler kararlaştırılan yoldan size ulaşır."
+        },
+        {
+          "title": "Topluluktan gelen geri bildirimler",
+          "text": "Tekrarlayan sorular ve istekler içerik planlamasına yansır."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "İlkeleri belirleme",
+          "text": "Üslup, yanıt süreleri, sorumluluklar ve sınırlar önceden netleştirilir."
+        },
+        {
+          "title": "Düzenli takip",
+          "text": "Yorum ve mesajları kararlaştırılan saatlerde kontrol ediyoruz."
+        },
+        {
+          "title": "Düzenli görüşme",
+          "text": "Dikkat çeken durumları ve sık sorulan soruları sizinle konuşuyor, ilkeleri buna göre uyarlıyoruz."
+        }
+      ],
+      "forWhom": [
+        "Instagram veya Facebook üzerinden çok sayıda talep alan işletmeler",
+        "Günlük yoğunlukta mesajların yanıtsız kaldığı şirketler",
+        "Eleştiri karşısında da profesyonel durmak isteyen markalar"
+      ],
+      "faq": [
+        {
+          "q": "Benim adıma mı yanıt veriyorsunuz?",
+          "a": "İşletmeniz adına ve birlikte belirlenen kılavuza göre yanıt veriyoruz. Yalnızca sizin yanıtlayabileceğiniz soruları – örneğin kişiye özel fiyatlar veya şikâyetler hakkında – size aktarıyoruz."
+        },
+        {
+          "q": "Ne kadar hızlı yanıt veriliyor?",
+          "a": "Yanıt sürelerini birlikte belirliyor ve teklifte yazılı hâle getiriyoruz. 7/24 hizmet standart değildir, ancak görüşülebilir."
+        },
+        {
+          "q": "Olumsuz eleştiriyi nasıl ele alıyorsunuz?",
+          "a": "Nesnel ve çözüm odaklı biçimde. Haklı eleştiriyi açıkça yanıtlıyor ve size iletiyoruz; hakaret içeren içerikler veya spam ise moderasyona tabi tutulur. Hassas durumları yanıt vermeden önce sizinle görüşüyoruz."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "overview": {
+    "meta": {
+      "title": "Services: Social Media Management, Content & Reels",
+      "description": "All services from Social Media Komplett: social media management, content creation, Reels & video production, strategy and community management for businesses."
+    },
+    "eyebrow": "Services",
+    "title": "Social media services for businesses",
+    "intro": "From strategy and filming to day-to-day management: we take on the tasks there is rarely time for in a busy business. Book individual building blocks or hand over your channels completely.",
+    "agencyTitle": "What does a social media agency do?",
+    "agencyText": [
+      "A social media agency plans, produces and publishes content for a business’s channels and looks after the dialogue with its community. That includes a strategy with clear goals, a content calendar, photos and videos, copy, publishing, replying to comments and messages, and regular reporting.",
+      "At Social Media Komplett, on-site production comes on top: we film and photograph right in your business instead of relying on interchangeable stock material."
+    ],
+    "compareTitle": "Individual service or full-service management?",
+    "compareIntro": "Both are possible. This overview helps you decide.",
+    "compare": {
+      "headers": [
+        "Criterion",
+        "Individual service",
+        "Full-service management"
+      ],
+      "rows": [
+        [
+          "A good fit if …",
+          "you have someone in-house who looks after the channels and you need targeted support – with filming, for example.",
+          "nobody in the business has time for social media and everything needs to run reliably."
+        ],
+        [
+          "Your effort",
+          "Planning and publishing stay with you.",
+          "You approve content and take part in shoot dates."
+        ],
+        [
+          "Our part",
+          "One clearly defined building block, such as Reels production or strategy.",
+          "Strategy, content, publishing, community and reporting."
+        ],
+        [
+          "Billing",
+          "Per project or monthly, depending on the service.",
+          "Monthly package with a fixed scope."
+        ]
+      ]
+    }
+  },
+  "labels": {
+    "includes": "What’s included",
+    "howItWorks": "How we go about it",
+    "forWhom": "Who is this suitable for?",
+    "faq": "Frequently asked questions",
+    "otherServices": "Other services",
+    "partOfPackages": "This service is part of our packages or can be booked separately. The exact scope and the price depend on what you need – we’ll prepare a quote for you after the initial consultation."
+  },
+  "items": {
+    "social-media-management": {
+      "meta": {
+        "title": "Social Media Management for Businesses in Münster",
+        "description": "Social media management from Social Media Komplett: planning, content, publishing, community and reporting for Instagram, Facebook and TikTok – in one place."
+      },
+      "name": "Social Media Management",
+      "short": "Planning, publishing and ongoing management of your channels – reliably, week after week.",
+      "title": "Social media management: your channels, fully taken care of",
+      "intro": "We take on the ongoing work on your social media channels – from monthly planning to the published post. You stay in control of the content without having to worry about getting it done.",
+      "definitionTitle": "What is social media management?",
+      "definition": "Social media management covers all the recurring tasks around a business’s social media channels: planning topics, creating content, publishing posts, responding to comments and messages, and evaluating the results. The aim is a regular, consistent presence that fits the business’s goals.",
+      "includes": [
+        {
+          "title": "Content calendar",
+          "text": "A monthly plan with topics, formats and dates that you see and approve in advance."
+        },
+        {
+          "title": "Content creation",
+          "text": "Photos, graphics, Reels and copy, tailored to your brand and your target audience."
+        },
+        {
+          "title": "Publishing",
+          "text": "We schedule and publish posts, Reels and Stories at sensible times."
+        },
+        {
+          "title": "Profile maintenance",
+          "text": "Bio, highlights, links and contact options stay up to date and easy to navigate."
+        },
+        {
+          "title": "Community",
+          "text": "On request, we reply to comments and messages according to agreed guidelines."
+        },
+        {
+          "title": "Reporting",
+          "text": "A regular, easy-to-understand report with the key figures and specific next steps."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Getting to know you and your goals",
+          "text": "We clarify who you want to reach and how you want to measure success – for example table reservations, appointment enquiries or job applications."
+        },
+        {
+          "title": "Plan and production",
+          "text": "The content calendar is turned into content, much of it at a shoot in your business."
+        },
+        {
+          "title": "Approval and publishing",
+          "text": "You check the posts in advance. Once you have approved them, they go live as scheduled."
+        },
+        {
+          "title": "Evaluate and adjust",
+          "text": "We look at the figures regularly and adjust topics and formats."
+        }
+      ],
+      "forWhom": [
+        "Owners who have so far handled social media on the side",
+        "Businesses whose channels are only updated irregularly",
+        "Businesses that want one fixed point of contact instead of a patchwork of one-off solutions"
+      ],
+      "faq": [
+        {
+          "q": "Is it worth outsourcing Instagram management?",
+          "a": "It is worthwhile above all when your business lacks the time or the know-how for regular, well-made content. You gain time and a reliable presence. If you enjoy posting yourself and only need help now and then, an individual service such as a shoot or a strategy may be the better choice."
+        },
+        {
+          "q": "Which platforms do you manage?",
+          "a": "Our focus is on Instagram, Facebook and TikTok. Which channels make sense for you is something we work out together in the strategy – not every business has to be everywhere."
+        },
+        {
+          "q": "Do I keep access to my accounts?",
+          "a": "Yes. The accounts belong to you and remain yours. We work with the access rights you grant us, and you can withdraw them at any time."
+        },
+        {
+          "q": "How much does social media management cost?",
+          "a": "The price depends on the scope: the number of channels, posts and Reels per month, on-site shoots and community management. After the initial consultation you will receive a specific quote."
+        }
+      ]
+    },
+    "content-creation": {
+      "meta": {
+        "title": "Content Creation for Social Media – Photos, Graphics, Copy",
+        "description": "Professional content creation for businesses: photos, graphics, carousels and copy, produced on site in your business in Münster and the surrounding area."
+      },
+      "name": "Content Creation",
+      "short": "Photos, graphics and copy that fit your brand – produced in your business.",
+      "title": "Content creation: content that looks like you",
+      "intro": "We produce photos, graphics, carousels and copy for your channels. The shots are taken on site at your premises, so your presence feels genuine and stands out from interchangeable stock images.",
+      "definitionTitle": "What does content creation mean?",
+      "definition": "Content creation is the planning and production of the content a business publishes on social media – that is, photos, videos, graphics and copy. Good content answers the target audience’s questions, shows what the business offers and makes it recognisable.",
+      "includes": [
+        {
+          "title": "Topics and ideas",
+          "text": "A list of topics based on what you offer, the questions your customers ask and the season."
+        },
+        {
+          "title": "On-site photos",
+          "text": "Products, premises, team and processes – photographed in your business."
+        },
+        {
+          "title": "Graphics and carousels",
+          "text": "Templates in your colours and fonts for offers, tips and announcements."
+        },
+        {
+          "title": "Copy and hashtags",
+          "text": "Captions that are easy to understand and invite people to take action."
+        },
+        {
+          "title": "Formats for every platform",
+          "text": "Crops for feed, Story and cover images, so everything is displayed cleanly."
+        },
+        {
+          "title": "Organised handover",
+          "text": "You receive the content clearly sorted – for approval or to publish yourself."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Briefing",
+          "text": "We collect what should be shown: offers, special features, people, dates."
+        },
+        {
+          "title": "Production",
+          "text": "Photos and videos are created at a shoot, graphics and copy afterwards."
+        },
+        {
+          "title": "Review",
+          "text": "You see the content and can note any changes before anything is published."
+        }
+      ],
+      "forWhom": [
+        "Businesses that post themselves but need better content",
+        "Businesses with an offering that has to be seen – food, haircuts, premises, products",
+        "Teams that lack templates and a consistent look"
+      ],
+      "faq": [
+        {
+          "q": "Can a social media agency come to my business?",
+          "a": "Yes, that is exactly our approach. We come to your business for photo and video shoots. We currently offer on-site shoots in Münster and the Münsterland; other locations are possible by arrangement."
+        },
+        {
+          "q": "Who owns the content that is created?",
+          "a": "We set out the usage rights transparently in the quote. The usual arrangement is that you can use the content permanently for your own channels and your website."
+        },
+        {
+          "q": "Do my employees have to appear on camera?",
+          "a": "No. People make a presence more personal, but nobody has to be filmed. We only show people who have expressly agreed to it."
+        }
+      ]
+    },
+    "reels-video-production": {
+      "meta": {
+        "title": "Reels Production Münster – Videos for Instagram & TikTok",
+        "description": "On-site Reels and video production: concept, filming, editing, subtitles and cover image for Instagram Reels, TikTok and Facebook – in and around Münster."
+      },
+      "name": "Reels & Video Production",
+      "short": "Concept, filming and editing for Reels and short videos – right on your premises.",
+      "title": "Reels & video production: short videos that show your business",
+      "intro": "Short videos are the format that lets businesses on Instagram, TikTok and Facebook reach people who don’t follow them yet. We take care of the idea, filming and editing – you need neither equipment nor experience in front of the camera.",
+      "definitionTitle": "How does professional Reels production work?",
+      "definition": "Professional Reels production consists of four steps: a concept with a topic and an opening, the on-site shoot, editing with subtitles and sound, and publishing with a cover image and caption. A well-prepared shoot usually yields several videos, which are published over a number of weeks.",
+      "includes": [
+        {
+          "title": "Concept and script",
+          "text": "For each video we define the topic, opening and sequence – short and easy to follow."
+        },
+        {
+          "title": "On-site shoot",
+          "text": "We film in your business with suitable camera, lighting and sound equipment."
+        },
+        {
+          "title": "Editing",
+          "text": "Dynamic editing in portrait format, tailored to the platform in question."
+        },
+        {
+          "title": "Subtitles and cover image",
+          "text": "Subtitles for watching without sound and a cover image that fits your profile."
+        },
+        {
+          "title": "Music and sound",
+          "text": "We make sure that the music used is cleared for use by business accounts."
+        },
+        {
+          "title": "Publishing",
+          "text": "On request, we put the videos online for you with a caption and hashtags."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Collecting ideas",
+          "text": "Together we decide what will be shown: processes, products, people, answers to frequently asked questions."
+        },
+        {
+          "title": "Shoot date",
+          "text": "We film several videos in one session so that your business is disrupted as little as possible."
+        },
+        {
+          "title": "Editing and approval",
+          "text": "You receive the finished videos to view and either approve them or tell us what you would like changed."
+        },
+        {
+          "title": "Publish and learn",
+          "text": "After publishing, we look at which videos go down well and plan the next ones on that basis."
+        }
+      ],
+      "forWhom": [
+        "Restaurants, cafés and bars that want to show their atmosphere and dishes",
+        "Salons and studios where the result is visible",
+        "Local businesses that want to reach new customers in their area"
+      ],
+      "faq": [
+        {
+          "q": "How long does a shoot take?",
+          "a": "That depends on the number of videos. For several Reels we usually plan a few hours. We agree the schedule in advance so that it fits your business."
+        },
+        {
+          "q": "Do I have to be in front of the camera myself?",
+          "a": "No. Many good Reels show processes, details and results. If you or your team are happy to be seen, we guide you through it – that often comes across as particularly approachable."
+        },
+        {
+          "q": "Can I book Reels without ongoing management?",
+          "a": "Yes. Reels production can be booked as an individual service, for example as a package consisting of one shoot and several finished videos."
+        }
+      ]
+    },
+    "social-media-strategy": {
+      "meta": {
+        "title": "Social Media Strategy for Small and Local Businesses",
+        "description": "Social media strategy from Social Media Komplett: goals, audience, channels, topics and key figures – a clear plan to implement yourself or hand over to us."
+      },
+      "name": "Social Media Strategy",
+      "short": "Goals, target audience, channels and topics – a clear plan instead of posting by gut feeling.",
+      "title": "Social media strategy: a plan that fits your business",
+      "intro": "Without a plan, social media quickly turns into a never-ending building site. We develop a strategy with you that defines who you want to reach, on which channels and with what content – and how you can tell whether it is working.",
+      "definitionTitle": "What belongs in a social media strategy?",
+      "definition": "A social media strategy for a small business answers five questions: What should social media achieve for the business? Who should it speak to? Which channels make sense for that? Which topics and formats will be published regularly? And which key figures will be used to check success?",
+      "includes": [
+        {
+          "title": "Stocktake",
+          "text": "We look at your existing channels, content and results."
+        },
+        {
+          "title": "Goals and target audience",
+          "text": "Specific, verifiable goals and a clear picture of the people you want to reach."
+        },
+        {
+          "title": "Channel selection",
+          "text": "A reasoned recommendation as to which platforms are worth your while – and which are not."
+        },
+        {
+          "title": "Topics and formats",
+          "text": "Recurring content series that fit what you offer and are easy to produce."
+        },
+        {
+          "title": "Posting rhythm",
+          "text": "A realistic plan for how often and when to publish."
+        },
+        {
+          "title": "Key figures",
+          "text": "A few meaningful metrics and a simple routine for the monthly review."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Conversation",
+          "text": "In an in-depth meeting we get to know your business, your customers and your goals."
+        },
+        {
+          "title": "Development",
+          "text": "We summarise the strategy in a clearly structured document."
+        },
+        {
+          "title": "Handover",
+          "text": "We go through the plan together. You implement it yourself or hand the implementation over to us."
+        }
+      ],
+      "forWhom": [
+        "Businesses that are just starting out on social media",
+        "Businesses that post a lot but see little effect",
+        "Teams that handle social media in-house and need a common thread"
+      ],
+      "faq": [
+        {
+          "q": "Do I really need a strategy as a small business?",
+          "a": "Yes, but it doesn’t have to be extensive. Even a few clear decisions on goals, target audience, topics and rhythm stop you putting time into content that achieves nothing."
+        },
+        {
+          "q": "Which platforms should my business be active on?",
+          "a": "Wherever your customers actually spend their time and wherever you can deliver good content regularly. One well-maintained channel is generally more effective than three half-hearted ones."
+        },
+        {
+          "q": "Will I get the strategy in writing?",
+          "a": "Yes. You receive a document that you or your team can keep working with, even without us."
+        }
+      ]
+    },
+    "community-management": {
+      "meta": {
+        "title": "Community Management – Handling Comments & Messages",
+        "description": "Community management for businesses: we reply to comments and messages according to agreed guidelines and reliably pass enquiries on to you."
+      },
+      "name": "Community Management",
+      "short": "Comments and messages are answered promptly and in your brand’s tone of voice.",
+      "title": "Community management: nobody is left without a reply",
+      "intro": "On social media, people ask questions, make reservations, give praise and criticise. Those who reply quickly and in a friendly way earn trust. We take on this communication according to guidelines we agree with you beforehand.",
+      "definitionTitle": "What is community management?",
+      "definition": "Community management means looking after the communication on a business’s social media channels. It includes replying to comments and direct messages, passing on enquiries, responding to criticism in a factual way and moderating unwanted content such as spam.",
+      "includes": [
+        {
+          "title": "Replying to comments",
+          "text": "We respond to comments under your posts – friendly and in your tone of voice."
+        },
+        {
+          "title": "Handling messages",
+          "text": "We answer frequently asked questions directly and pass everything else on to you."
+        },
+        {
+          "title": "Response guide",
+          "text": "Together we define how to respond to typical questions, praise and criticism."
+        },
+        {
+          "title": "Moderation",
+          "text": "Spam and abusive content is hidden or reported according to clear rules."
+        },
+        {
+          "title": "Passing on important enquiries",
+          "text": "Reservations, appointment requests and complaints reach you via the agreed channel."
+        },
+        {
+          "title": "Feedback from the community",
+          "text": "Recurring questions and requests feed into content planning."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Defining guidelines",
+          "text": "Tone of voice, response times, responsibilities and limits are clarified in advance."
+        },
+        {
+          "title": "Ongoing management",
+          "text": "We check comments and messages at the agreed times."
+        },
+        {
+          "title": "Regular catch-ups",
+          "text": "We discuss anything unusual and any frequent questions with you and adjust the guidelines."
+        }
+      ],
+      "forWhom": [
+        "Businesses that receive many enquiries via Instagram or Facebook",
+        "Businesses where messages go unanswered in the daily rush",
+        "Brands that want to come across as professional even when criticised"
+      ],
+      "faq": [
+        {
+          "q": "Do you reply in my name?",
+          "a": "We reply on behalf of your business and in line with the agreed guide. Questions that only you can answer – for example about individual prices or complaints – are passed on to you."
+        },
+        {
+          "q": "How quickly are replies sent?",
+          "a": "We define the response times together and record them in the quote. Round-the-clock cover is not standard, but can be discussed."
+        },
+        {
+          "q": "How do you deal with negative criticism?",
+          "a": "Factually and with a focus on solutions. We answer justified criticism openly and pass it on to you; abusive content or spam is moderated. We agree sensitive cases with you before replying."
+        }
+      ]
+    }
+  }
+}

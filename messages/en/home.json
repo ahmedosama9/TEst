@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "title": "Social Media Agency Münster – Content, Reels & Management",
+    "description": "Social Media Komplett in Münster creates professional content, produces Reels on site and manages your social media channels. Book a free initial consultation."
+  },
+  "hero": {
+    "eyebrow": "Social media agency based in Münster",
+    "title": "Your partner for successful social media.",
+    "subtitle": "We create professional content, produce Reels and take care of managing your social media channels – so you can concentrate on your business.",
+    "points": [
+      "Content creation",
+      "On-site Reels production",
+      "Ongoing management"
+    ],
+    "mockup": {
+      "alt": "Illustration: smartphone showing a sample feed, a Reel preview and a content calendar",
+      "profile": "your.business",
+      "reelLabel": "Reel",
+      "planTitle": "Content calendar",
+      "planItems": [
+        "Mon · Reel",
+        "Wed · Carousel",
+        "Fri · Story"
+      ],
+      "statusPlanned": "Scheduled",
+      "statusApproved": "Approved"
+    }
+  },
+  "trust": {
+    "eyebrow": "Why Social Media Komplett",
+    "title": "Social media that doesn’t have to be squeezed in on the side.",
+    "intro": "Many businesses know that social media matters – but in day-to-day life there is no time for ideas, filming, editing and regular posts. That is exactly the work we take off your hands.",
+    "items": [
+      {
+        "title": "Everything from a single source",
+        "text": "Strategy, content, Reels, publishing and community – you don’t have to coordinate three different service providers."
+      },
+      {
+        "title": "We come to you",
+        "text": "Photos and videos are created right in your business. That way your presence shows what really makes your business special."
+      },
+      {
+        "title": "Clear coordination",
+        "text": "You see content before it goes live and always know what is planned next."
+      },
+      {
+        "title": "Honest reporting",
+        "text": "We report in plain language on what worked and what didn’t – without polished figures and without promises nobody can keep."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Our social media services",
+    "intro": "You can book individual building blocks or have us manage your channels completely."
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "How we work together",
+    "intro": "From the first conversation to day-to-day operation: five clear steps, so you always know where you stand."
+  },
+  "onsite": {
+    "eyebrow": "On-site content creation",
+    "title": "We film where your business comes to life.",
+    "text": "Good content isn’t made at a desk. We come to your restaurant, salon, studio or shop and produce photos and videos while you’re open for business or on a dedicated shoot date.",
+    "points": [
+      "Shoot dates that fit around your working day",
+      "Several Reels and photos from a single session",
+      "Preparation with a list of ideas and a schedule",
+      "Editing, subtitles and cover images included"
+    ],
+    "areaTitle": "Service area",
+    "areaText": "We currently offer on-site shoots in {areas}. Shoots outside this area are possible by arrangement. Strategy, planning and channel management work regardless of location, throughout {remote}.",
+    "visualAlt": "Illustration: shooting schedule for an on-site shoot with several takes",
+    "visual": {
+      "title": "Shoot day",
+      "items": [
+        "Arrival & set-up",
+        "Reels & short videos",
+        "Photos & details",
+        "Team & atmosphere"
+      ]
+    }
+  },
+  "industries": {
+    "eyebrow": "Industries",
+    "title": "For businesses that win customers over in person",
+    "intro": "We particularly enjoy working with local businesses where atmosphere, craftsmanship and people make the difference."
+  },
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "title": "What your content could look like",
+    "intro": "A selection of formats we produce for local businesses. The visuals shown are examples and do not represent client projects."
+  },
+  "packages": {
+    "eyebrow": "Packages",
+    "title": "Three packages, one goal: a reliable presence",
+    "intro": "From getting started to full-service management. We tailor the exact scope to your business in the initial consultation."
+  },
+  "why": {
+    "eyebrow": "Your benefits",
+    "title": "Why businesses hand over their channels",
+    "items": [
+      {
+        "title": "More time for your day-to-day business",
+        "text": "Ideas, filming, editing, copy and publishing are down to us. You give your approval – that’s all."
+      },
+      {
+        "title": "Consistency instead of radio silence",
+        "text": "A content calendar makes sure your channels stay active even in hectic weeks."
+      },
+      {
+        "title": "A consistent look and feel",
+        "text": "Visual style, tone of voice and design fit together – and fit your brand."
+      },
+      {
+        "title": "Formats that suit the platform",
+        "text": "Reels, carousels and Stories are produced the way they are actually used on Instagram, Facebook or TikTok."
+      },
+      {
+        "title": "Fixed routines",
+        "text": "Clear dates for planning, shooting, approval and reporting instead of spontaneous one-off efforts."
+      },
+      {
+        "title": "Results you can follow",
+        "text": "A regular report shows you reach, engagement and enquiries – and what we conclude from them."
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Know-how for your social media marketing",
+    "intro": "Practical guides and background for local businesses – no jargon."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently asked questions",
+    "intro": "Short answers to the questions we are asked most often.",
+    "more": "All questions and answers"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Ready for social media that simply works?",
+    "text": "Send us a few lines about your business. In a free initial consultation we work out which level of support makes sense – with no obligation.",
+    "points": [
+      "Free and without obligation",
+      "A personal reply",
+      "A clear proposal instead of an off-the-shelf offer"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+@import "tailwindcss";
+
+/* ---------- Design tokens (brand: Social Media Komplett) ---------- */
+@theme {
+  --color-navy: #0b1026;
+  --color-navy-800: #111838;
+  --color-navy-700: #1a2350;
+  --color-navy-600: #2a3566;
+  --color-turquoise: #00d4b3;
+  --color-aqua: #33f6e0;
+  --color-violet: #7b61ff;
+  --color-mist: #f4f7fa;
+  --color-line: #e1e7ef;
+  /* Accessible text colours derived from the brand palette */
+  --color-teal-ink: #00705f; /* turquoise for text on light backgrounds (AA) */
+  --color-violet-ink: #5a41e0;
+  --color-ink: #0b1026;
+  --color-body: #3d4763;
+  --color-soft: #b8c2de; /* body text on navy */
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-montserrat), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --shadow-card: 0 1px 2px rgb(11 16 38 / 0.04), 0 12px 32px -12px rgb(11 16 38 / 0.12);
+  --shadow-glow: 0 0 0 1px rgb(0 212 179 / 0.25), 0 24px 60px -20px rgb(0 212 179 / 0.45);
+
+  --animate-float: float 7s ease-in-out infinite;
+  --animate-rise: rise 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
+
+/* Arabic: script-appropriate font, slightly larger line height, no letter-spacing. */
+:lang(ar) {
+  --font-sans: var(--font-arabic), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-arabic), ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: 0 !important;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 6rem;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-white font-sans text-body antialiased;
+    line-height: 1.65;
+  }
+  :lang(ar) body { line-height: 1.9; }
+  h1, h2, h3, h4 {
+    @apply font-display font-extrabold text-ink;
+    line-height: 1.15;
+    text-wrap: balance;
+    /* Long compound words (German, Turkish, Kurdish) must never force horizontal scrolling. */
+    overflow-wrap: break-word;
+    hyphens: auto;
+  }
+  :lang(ar) :is(h1, h2, h3, h4) { line-height: 1.45; font-weight: 700; }
+  p { text-wrap: pretty; }
+  :focus-visible {
+    outline: 3px solid var(--color-violet);
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+  .on-dark :focus-visible, .on-dark:focus-visible { outline-color: var(--color-aqua); }
+  .on-dark .on-light :focus-visible { outline-color: var(--color-violet); }
+  ::selection { background: var(--color-aqua); color: var(--color-navy); }
+  /* Latin fragments (brand, e-mail, URLs) inside RTL text keep their own direction. */
+  [dir="rtl"] .ltr-isolate { direction: ltr; unicode-bidi: isolate; }
+}
+
+@utility container-page {
+  @apply mx-auto w-full max-w-7xl px-5 sm:px-8;
+}
+@utility text-gradient {
+  background-image: linear-gradient(100deg, var(--color-turquoise), var(--color-aqua));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+@utility bg-brand-gradient {
+  background-image: linear-gradient(120deg, var(--color-turquoise), var(--color-aqua));
+}
+@utility hero-backdrop {
+  background-color: var(--color-navy);
+  background-image:
+    radial-gradient(60rem 30rem at 85% -10%, rgb(0 212 179 / 0.22), transparent 60%),
+    radial-gradient(40rem 26rem at 0% 110%, rgb(123 97 255 / 0.2), transparent 60%);
+}
+/* Directional icons (arrows, chevrons) flip in RTL. */
+@utility rtl-flip {
+  [dir="rtl"] & { transform: scaleX(-1); }
+}
+
+/* Article typography */
+.prose-article { @apply text-[1.0625rem] text-body; }
+.prose-article > * + * { margin-block-start: 1.25rem; }
+.prose-article h2 { @apply mt-12 text-2xl sm:text-3xl; scroll-margin-top: 6rem; }
+.prose-article h3 { @apply mt-8 text-xl; scroll-margin-top: 6rem; }
+.prose-article a { @apply font-medium text-teal-ink underline decoration-turquoise/50 underline-offset-4 hover:decoration-turquoise; }
+.prose-article ul { @apply list-disc ps-6; }
+.prose-article ol { @apply list-decimal ps-6; }
+.prose-article li + li { margin-block-start: 0.4rem; }
+.prose-article li::marker { color: var(--color-teal-ink); font-weight: 600; }
+.prose-article strong { @apply font-semibold text-ink; }
+.prose-article .table-wrap { @apply overflow-x-auto rounded-xl border border-line; }
+.prose-article table { @apply w-full min-w-[32rem] border-collapse text-start text-[0.95rem]; }
+.prose-article th { @apply bg-mist px-4 py-3 text-start font-semibold text-ink; }
+.prose-article td { @apply border-t border-line px-4 py-3 align-top; }
+.prose-article .heading-anchor { @apply ms-2 text-teal-ink no-underline opacity-0 transition-opacity; }
+.prose-article :is(h2, h3):hover .heading-anchor, .prose-article .heading-anchor:focus-visible { opacity: 1; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

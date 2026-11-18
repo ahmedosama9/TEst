@@ -1,0 +1,128 @@
+{
+  "imprint": {
+    "meta": {
+      "title": "Legal Notice",
+      "description": "Legal Notice and provider identification for Social Media Komplett, the social media agency based in Münster, Germany: provider, contact and liability details."
+    },
+    "title": "Legal Notice",
+    "providerTitle": "Information pursuant to § 5 DDG (German Digital Services Act)",
+    "contactTitle": "Contact",
+    "representedTitle": "Represented by",
+    "vatTitle": "VAT identification number",
+    "vatText": "VAT identification number pursuant to § 27a UStG (German Value Added Tax Act):",
+    "registerTitle": "Register entry",
+    "registerCourt": "Register court",
+    "registerNumber": "Registration number",
+    "responsibleTitle": "Responsible for editorial content pursuant to § 18 Abs. 2 MStV (German Interstate Media Treaty)",
+    "disputeTitle": "Consumer dispute resolution",
+    "disputeText": "We are neither willing nor obliged to take part in dispute resolution proceedings before a consumer arbitration board.",
+    "liabilityTitle": "Liability for content and links",
+    "liabilityText": "The content of this website has been prepared with care. However, we cannot accept any liability for the accuracy, completeness or currency of the content. The operators of linked external sites are solely responsible for the content of those sites.",
+    "copyrightTitle": "Copyright",
+    "copyrightText": "The content and works created on this website are subject to German copyright law. Reproduction, adaptation and distribution beyond the limits of copyright law require written consent.",
+    "labels": {
+      "name": "Name / company",
+      "address": "Address",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy Policy",
+      "description": "Privacy Policy: information on how personal data is processed on the Social Media Komplett website, for what purposes, and which rights you have."
+    },
+    "title": "Privacy Policy",
+    "intro": "Here we explain which personal data is processed when you visit this website, for what purpose, and which rights you have.",
+    "controllerTitle": "1. Controller",
+    "controllerText": "The controller responsible for data processing on this website within the meaning of the General Data Protection Regulation (GDPR; in German: DSGVO) is:",
+    "sections": [
+      {
+        "title": "2. Hosting and server log files",
+        "paragraphs": [
+          "This website is operated with an external hosting provider. When the website is accessed, the host processes technically necessary data, in particular the IP address, date and time of access, the page accessed, the volume of data transferred, and browser and operating system information.",
+          "Processing is carried out on the basis of Art. 6 Abs. 1 lit. f DSGVO. Our legitimate interest lies in the secure and stable operation of the website. A data processing agreement is in place with the host.",
+          "[To be added before publication: name and address of the host, server location, retention period for the log files and the basis for any transfer to third countries.]"
+        ]
+      },
+      {
+        "title": "3. Contact form and getting in touch",
+        "paragraphs": [
+          "If you write to us via the contact form or by email, we process the details you provide (name, business, email address, optionally phone number, industry, the services you are interested in and your message) in order to handle your enquiry.",
+          "The legal basis is Art. 6 Abs. 1 lit. b DSGVO where your enquiry is aimed at concluding a contract, and otherwise Art. 6 Abs. 1 lit. f DSGVO (legitimate interest in responding to enquiries).",
+          "To protect against misuse, we briefly process your IP address when the form is submitted in order to limit the number of requests. The IP address is not stored permanently in the process.",
+          "To deliver the form messages we use an email delivery service provider as a processor. [To be added before publication: name and registered office of the service provider, basis for any transfer to third countries.]",
+          "We delete your enquiry as soon as it has been dealt with conclusively and no statutory retention obligations prevent this."
+        ]
+      },
+      {
+        "title": "4. Cookies and local storage",
+        "paragraphs": [
+          "This website does not use cookies for analytics or advertising purposes and does not integrate any tracking services.",
+          "If you expressly choose a language via the language selector, we store this choice in a cookie (“smk_locale”, duration one year) so that you are taken back to your language the next time you open the root address. Your selection in the cookie settings is stored locally in your browser. Both are technically necessary to provide a function you have expressly requested (§ 25 Abs. 2 Nr. 2 TDDDG).",
+          "Should we use analytics or marketing services in future, these will only be loaded once you have given your express consent. You can change your selection in the cookie settings at any time."
+        ]
+      },
+      {
+        "title": "5. Fonts and external content",
+        "paragraphs": [
+          "The fonts used on this website are served from our own server. No connection to font providers’ servers is established when a page is loaded. No external media such as videos or maps are loaded without action on your part."
+        ]
+      },
+      {
+        "title": "6. Your rights",
+        "paragraphs": [
+          "You have the right to access the data stored about you (Art. 15 DSGVO), to rectification (Art. 16 DSGVO), erasure (Art. 17 DSGVO), restriction of processing (Art. 18 DSGVO) and data portability (Art. 20 DSGVO), as well as the right to object to processing based on legitimate interests (Art. 21 DSGVO).",
+          "You can withdraw any consent you have given at any time with effect for the future.",
+          "You also have the right to lodge a complaint with a data protection supervisory authority. The authority responsible for North Rhine-Westphalia (Nordrhein-Westfalen) is the Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (State Commissioner for Data Protection and Freedom of Information)."
+        ]
+      },
+      {
+        "title": "7. Currency of this policy",
+        "paragraphs": [
+          "We update this Privacy Policy when the website or the legal requirements change. The version published here at any given time applies."
+        ]
+      }
+    ]
+  },
+  "cookies": {
+    "meta": {
+      "title": "Cookie Settings",
+      "description": "Overview of and settings for cookies and local storage on the Social Media Komplett website: what is stored, why, and how to change your selection."
+    },
+    "title": "Cookie settings",
+    "intro": "This website works without tracking. Here you can see what is stored and change your selection at any time.",
+    "essentialTitle": "Necessary",
+    "essentialText": "Required for functions that you expressly use. This storage cannot be deactivated.",
+    "essentialItems": [
+      {
+        "name": "smk_locale",
+        "purpose": "Remembers the language you have expressly chosen.",
+        "duration": "1 year",
+        "type": "Cookie"
+      },
+      {
+        "name": "smk_consent",
+        "purpose": "Stores your selection on this page.",
+        "duration": "until you delete it",
+        "type": "Local storage"
+      }
+    ],
+    "tableHeaders": {
+      "name": "Name",
+      "purpose": "Purpose",
+      "duration": "Duration",
+      "type": "Type"
+    },
+    "analyticsTitle": "Statistics",
+    "analyticsText": "We do not currently use any analytics services. Should that change, they will only be loaded if you agree here.",
+    "marketingTitle": "Marketing",
+    "marketingText": "We do not currently use any marketing services or advertising pixels. Should that change, they will only be loaded if you agree here.",
+    "alwaysOn": "Always active",
+    "allow": "Allow",
+    "save": "Save selection",
+    "saved": "Your selection has been saved.",
+    "rejectAll": "Necessary only",
+    "noneActive": "Not currently in use"
+  }
+}

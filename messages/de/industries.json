@@ -1,0 +1,251 @@
+{
+  "overview": {
+    "meta": {
+      "title": "Branchen: Social Media für lokale Unternehmen",
+      "description": "Social Media Komplett betreut lokale Unternehmen: Gastronomie, Beauty & Salons, Fitnessstudios und weitere Betriebe in Münster und Umgebung."
+    },
+    "eyebrow": "Branchen",
+    "title": "Social Media für lokale Unternehmen",
+    "intro": "Jede Branche hat eigene Themen, eigene Abläufe und eigene Fragen der Kundschaft. Wir richten Inhalte und Betreuung danach aus, wie dein Betrieb tatsächlich arbeitet.",
+    "noteTitle": "Deine Branche ist nicht dabei?",
+    "noteText": "Die Liste zeigt unsere Schwerpunkte, keine Grenze. Wenn dein Unternehmen Kundinnen und Kunden vor Ort überzeugt, passt unser Ansatz mit hoher Wahrscheinlichkeit – sprich uns einfach an."
+  },
+  "labels": {
+    "challenges": "Typische Herausforderungen",
+    "ideas": "Content-Ideen, die funktionieren können",
+    "approach": "So unterstützen wir dich",
+    "faq": "Häufige Fragen",
+    "otherIndustries": "Weitere Branchen",
+    "ideasNote": "Welche Formate bei deinem Publikum am besten ankommen, zeigt sich erst in der Praxis. Wir testen, werten aus und passen an."
+  },
+  "items": {
+    "gastronomy": {
+      "meta": {
+        "title": "Social Media für Gastronomie – Instagram für Restaurants & Cafés",
+        "description": "Social Media Betreuung für Restaurants, Cafés und Bars: Reels und Fotos direkt aus deiner Küche und deinem Gastraum, regelmäßig veröffentlicht und betreut."
+      },
+      "name": "Gastronomie",
+      "short": "Restaurants, Cafés, Bars und Imbisse: Gerichte, Atmosphäre und Menschen sichtbar machen.",
+      "title": "Social Media für Restaurants, Cafés und Bars",
+      "intro": "Gäste entscheiden oft mit dem Smartphone in der Hand, wo sie essen gehen. Ein gepflegtes Profil mit aktuellen Bildern, Reels aus der Küche und klaren Infos zu Öffnungszeiten und Reservierung hilft ihnen bei dieser Entscheidung.",
+      "challenges": [
+        {
+          "title": "Keine Zeit im Betrieb",
+          "text": "Zwischen Einkauf, Service und Personalplanung bleibt für regelmäßige Beiträge kaum Raum."
+        },
+        {
+          "title": "Essen sieht auf Fotos schnell flach aus",
+          "text": "Licht, Perspektive und Bewegung entscheiden darüber, ob ein Gericht Appetit macht."
+        },
+        {
+          "title": "Aktuelles geht unter",
+          "text": "Mittagskarte, Events und geänderte Öffnungszeiten erreichen die Gäste nicht rechtzeitig."
+        }
+      ],
+      "ideas": [
+        "Zubereitung eines Signature-Gerichts als kurzes Reel",
+        "Blick hinter die Kulissen: Küche, Lieferanten, Vorbereitung",
+        "Vorstellung des Teams und der Menschen hinter dem Konzept",
+        "Wochen- oder Saisonkarte als Karussell",
+        "Antworten auf typische Gästefragen – Reservierung, Allergene, Gruppen",
+        "Stimmung im Gastraum an einem vollen Abend"
+      ],
+      "approach": [
+        {
+          "title": "Drehtage im laufenden Betrieb",
+          "text": "Wir filmen und fotografieren so, dass Küche und Service weiterarbeiten können."
+        },
+        {
+          "title": "Planbare Aktualität",
+          "text": "Feste Formate für Wochenkarte, Events und Feiertage, damit nichts vergessen wird."
+        },
+        {
+          "title": "Kurze Wege für Gäste",
+          "text": "Profil, Links und Highlights führen direkt zu Reservierung, Karte und Anfahrt."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Wie können Restaurants Instagram sinnvoll nutzen?",
+          "a": "Mit regelmäßigen, appetitlichen Einblicken: kurze Videos aus der Küche, gut fotografierte Gerichte, aktuelle Angebote und ein Profil, das Reservierung, Karte und Öffnungszeiten sofort auffindbar macht. Wichtiger als tägliche Beiträge ist ein verlässlicher Rhythmus."
+        },
+        {
+          "q": "Stört ein Dreh den laufenden Betrieb?",
+          "a": "Wir stimmen Zeitpunkt und Ablauf vorher ab und drehen bevorzugt zu ruhigeren Zeiten. Gäste werden nur gefilmt, wenn sie damit einverstanden sind."
+        }
+      ],
+      "relatedPost": "instagram-marketing-restaurants"
+    },
+    "beauty-salons": {
+      "meta": {
+        "title": "Social Media für Friseure, Beauty- & Kosmetiksalons",
+        "description": "Social Media Betreuung für Friseure, Barbershops, Kosmetik- und Nagelstudios: Ergebnisse zeigen, Vertrauen aufbauen und Terminanfragen erleichtern."
+      },
+      "name": "Beauty & Salons",
+      "short": "Friseure, Barbershops, Kosmetik- und Nagelstudios: Ergebnisse zeigen und Termine füllen.",
+      "title": "Social Media für Friseure und Beauty-Salons",
+      "intro": "In der Beauty-Branche ist Social Media das Schaufenster. Neue Kundinnen und Kunden wollen sehen, wie du arbeitest, bevor sie einen Termin buchen. Wir sorgen dafür, dass deine Arbeit so gut aussieht, wie sie ist.",
+      "challenges": [
+        {
+          "title": "Volle Terminbücher, keine Zeit für Content",
+          "text": "Zwischen zwei Terminen bleibt selten Zeit für ein gutes Foto – geschweige denn für ein Reel."
+        },
+        {
+          "title": "Ergebnisse kommen nicht zur Geltung",
+          "text": "Schlechtes Licht und unruhige Hintergründe lassen selbst hervorragende Arbeit durchschnittlich wirken."
+        },
+        {
+          "title": "Uneinheitliches Profil",
+          "text": "Mal ein Foto, mal ein Angebot, mal wochenlang nichts – der Auftritt wirkt zufällig."
+        }
+      ],
+      "ideas": [
+        "Vorher-nachher-Ergebnisse (mit Einwilligung der Kundin oder des Kunden)",
+        "Kurze Reels vom Entstehen einer Frisur oder Behandlung",
+        "Pflegetipps für zu Hause",
+        "Vorstellung der Teammitglieder und ihrer Schwerpunkte",
+        "Trends der Saison, verständlich erklärt",
+        "Freie Termine und Aktionen in der Story"
+      ],
+      "approach": [
+        {
+          "title": "Feste Content-Ecke im Salon",
+          "text": "Wir richten mit dir einen Platz mit gutem Licht ein, an dem Ergebnisse schnell fotografiert werden können."
+        },
+        {
+          "title": "Drehtage mit Modellen oder Stammkundschaft",
+          "text": "An einem Termin entstehen Reels und Fotos für mehrere Wochen."
+        },
+        {
+          "title": "Der Weg zum Termin",
+          "text": "Buchungslink, Preisinfos und Leistungen sind im Profil sofort zu finden."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Dürfen Kundinnen und Kunden einfach gezeigt werden?",
+          "a": "Nur mit ihrer ausdrücklichen Einwilligung. Wir unterstützen dich mit einem einfachen Ablauf, um das Einverständnis vor der Aufnahme einzuholen, und veröffentlichen nichts ohne Zustimmung."
+        },
+        {
+          "q": "Welche Inhalte eignen sich für einen Salon besonders?",
+          "a": "Sichtbare Ergebnisse, kurze Einblicke in die Arbeit und Gesichter aus dem Team. Ergänzt um Pflegetipps und aktuelle Infos entsteht ein Profil, das Kompetenz zeigt und zum Buchen einlädt."
+        }
+      ],
+      "relatedPost": "content-ideas-salons"
+    },
+    "fitness-studios": {
+      "meta": {
+        "title": "Social Media für Fitnessstudios, Personal Trainer & Kursanbieter",
+        "description": "Social Media Betreuung für Fitnessstudios, Yoga- und Kursanbieter: Atmosphäre zeigen, Hemmschwellen abbauen und Probetrainings erleichtern."
+      },
+      "name": "Fitnessstudios",
+      "short": "Studios, Personal Trainer und Kursanbieter: Atmosphäre zeigen und Hemmschwellen abbauen.",
+      "title": "Social Media für Fitnessstudios und Kursanbieter",
+      "intro": "Wer ein Studio sucht, will wissen, wie es sich dort anfühlt: Wer trainiert hier? Wie sind die Trainerinnen und Trainer? Passe ich dazu? Social Media kann diese Fragen beantworten, bevor jemand zum Probetraining kommt.",
+      "challenges": [
+        {
+          "title": "Austauschbare Inhalte",
+          "text": "Motivationssprüche und Stockbilder zeigen nicht, was dein Studio besonders macht."
+        },
+        {
+          "title": "Hohe Hemmschwelle für Einsteiger",
+          "text": "Viele Interessierte trauen sich nicht, weil sie nur durchtrainierte Menschen sehen."
+        },
+        {
+          "title": "Aktionen ohne Vorlauf",
+          "text": "Kursstarts und Angebote werden zu spät oder nur einmal kommuniziert."
+        }
+      ],
+      "ideas": [
+        "Rundgang durch das Studio als Reel",
+        "Vorstellung der Trainerinnen und Trainer",
+        "Übungen richtig erklärt – kurz und alltagstauglich",
+        "Einblicke in Kurse, mit Einverständnis der Teilnehmenden",
+        "Antworten auf Einsteigerfragen: Ablauf des Probetrainings, Kleidung, Zeiten",
+        "Ankündigungen von Kursstarts und Aktionen mit Vorlauf"
+      ],
+      "approach": [
+        {
+          "title": "Echte Menschen statt Stockmaterial",
+          "text": "Wir drehen bei dir im Studio – mit deinem Team und Mitgliedern, die Lust darauf haben."
+        },
+        {
+          "title": "Wissen in Serie",
+          "text": "Wiederkehrende Formate wie Übung der Woche machen dein Profil nützlich und planbar."
+        },
+        {
+          "title": "Aktionen mit Plan",
+          "text": "Kursstarts und Angebote werden rechtzeitig und über mehrere Beiträge angekündigt."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Dürfen Mitglieder beim Training gefilmt werden?",
+          "a": "Nur mit ihrer Einwilligung. Wir drehen deshalb gezielt mit Personen, die zugestimmt haben, oder zu Zeiten, in denen das Studio dafür reserviert ist."
+        },
+        {
+          "q": "Welche Plattform passt zu einem Fitnessstudio?",
+          "a": "Für die meisten Studios ist Instagram der wichtigste Kanal, weil Reels und Stories Atmosphäre gut transportieren. Ob zusätzlich TikTok oder Facebook sinnvoll ist, hängt von deiner Zielgruppe ab – das klären wir in der Strategie."
+        }
+      ],
+      "relatedPost": "social-media-strategy-small-business"
+    },
+    "local-businesses": {
+      "meta": {
+        "title": "Social Media für lokale Unternehmen, Handel & Handwerk",
+        "description": "Social Media Betreuung für lokale Unternehmen in Münster und Umgebung: Einzelhandel, Handwerk, Praxen und Dienstleister sichtbar machen – mit Content vor Ort."
+      },
+      "name": "Lokale Unternehmen",
+      "short": "Einzelhandel, Handwerk, Praxen und Dienstleister: in der eigenen Region sichtbar werden.",
+      "title": "Social Media für lokale Unternehmen",
+      "intro": "Lokale Unternehmen müssen nicht ganz Deutschland erreichen, sondern die Menschen in ihrer Umgebung. Social Media hilft, dort im Gespräch zu bleiben: mit Gesichtern, Einblicken und Informationen, die für die Nachbarschaft relevant sind.",
+      "challenges": [
+        {
+          "title": "„Was sollen wir denn posten?“",
+          "text": "Viele Betriebe unterschätzen, wie interessant ihr Alltag für Außenstehende ist."
+        },
+        {
+          "title": "Reichweite an der falschen Stelle",
+          "text": "Aufmerksamkeit aus anderen Städten bringt wenig, wenn die Kundschaft vor Ort gewonnen werden soll."
+        },
+        {
+          "title": "Fachkräfte finden",
+          "text": "Auch Bewerberinnen und Bewerber schauen sich Social-Media-Profile an, bevor sie sich melden."
+        }
+      ],
+      "ideas": [
+        "Einblicke in Werkstatt, Laden oder Praxis",
+        "Vorstellung des Teams und neuer Kolleginnen und Kollegen",
+        "Neue Produkte, Projekte oder abgeschlossene Arbeiten",
+        "Antworten auf häufige Kundenfragen",
+        "Bezug zur Region: Veranstaltungen, Nachbarschaft, Kooperationen",
+        "Stellenangebote und Einblicke in den Arbeitsalltag"
+      ],
+      "approach": [
+        {
+          "title": "Themen finden",
+          "text": "In einem Workshop sammeln wir, was in deinem Betrieb erzählenswert ist – meist mehr als gedacht."
+        },
+        {
+          "title": "Lokal ausrichten",
+          "text": "Ortsangaben, regionale Bezüge und passende Hashtags sorgen dafür, dass Inhalte in der Region gefunden werden."
+        },
+        {
+          "title": "Regelmäßig präsent",
+          "text": "Ein realistischer Rhythmus, der auch in vollen Wochen eingehalten wird."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Lohnt sich Social Media für ein kleines lokales Unternehmen?",
+          "a": "Es lohnt sich, wenn deine Kundschaft dort unterwegs ist und du regelmäßig Einblicke geben kannst. Social Media ersetzt keine gute Arbeit, macht sie aber sichtbar – für neue Kundschaft ebenso wie für mögliche Mitarbeitende."
+        },
+        {
+          "q": "In welchen Orten seid ihr vor Ort tätig?",
+          "a": "Drehtermine bieten wir aktuell in Münster und im Münsterland an. Weitere Orte sind nach Absprache möglich; Strategie und Betreuung funktionieren deutschlandweit auch ohne Vor-Ort-Termin."
+        }
+      ],
+      "relatedPost": "social-media-marketing-small-business"
+    }
+  }
+}

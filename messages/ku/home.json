@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Ajansa medyaya civakî li Münsterê – naverok, Reels, lênêrîn",
+    "description": "Social Media Komplett ji Münsterê naveroka profesyonel çêdike, Reels li cihê karê we dikişîne û kanalên we bi rê ve dibe. Hevdîtina yekem bêpere ye."
+  },
+  "hero": {
+    "eyebrow": "Ajansa medyaya civakî ji Münsterê",
+    "title": "Hevkarê we ji bo medyaya civakî ya serkeftî.",
+    "subtitle": "Em naveroka profesyonel çêdikin, Reels dikişînin û lênêrîna kanalên we yên medyaya civakî digirin ser xwe – da ku hûn bikaribin bala xwe bidin karsaziya xwe.",
+    "points": ["Çêkirina naverokê", "Çêkirina Reels li cih", "Lênêrîna berdewam"],
+    "mockup": {
+      "alt": "Wênesazî: telefoneke biaqil bi feed-eke mînak, pêşdîtina Reel-ekê û plana weşanê",
+      "profile": "karsaziya.we",
+      "reelLabel": "Reel",
+      "planTitle": "Plana weşanê",
+      "planItems": ["Duş · Reel", "Çarş · Karûsel", "Înî · Story"],
+      "statusPlanned": "Plankirî",
+      "statusApproved": "Pejirandî"
+    }
+  },
+  "trust": {
+    "eyebrow": "Çima Social Media Komplett",
+    "title": "Medyaya civakî ya ku ne hewce ye di ber karê din re bê kirin.",
+    "intro": "Gelek karsazî dizanin ku medyaya civakî girîng e – lê di jiyana rojane de ji bo fikir, kişandin, montaj û şandiyên birêkûpêk dem namîne. Em tam vî karî ji ser milê we radikin.",
+    "items": [
+      { "title": "Hemû ji yek destî", "text": "Stratejî, naverok, Reels, weşandin û community – ne hewce ye hûn sê pêşkêşkarên cuda bi hev re koordîne bikin." },
+      { "title": "Em tên cem we", "text": "Wêne û vîdyo rasterast li cihê karê we tên kişandin. Bi vî awayî profîla we nîşan dide ka karsaziya we bi rastî çi ye." },
+      { "title": "Lihevkirina zelal", "text": "Hûn naverokê berî ku were weşandin dibînin û her dem dizanin ka gava din çi hatiye plankirin." },
+      { "title": "Nirxandina rastgo", "text": "Em bi zimanekî têgihîştî radigihînin ka çi bi kêr hat û çi nehat – bêyî hejmarên xemilandî û bêyî sozên ku kes nikare bi cih bîne." }
+    ]
+  },
+  "services": {
+    "eyebrow": "Xizmet",
+    "title": "Xizmetên me yên medyaya civakî",
+    "intro": "Hûn dikarin beşên cuda yek bi yek bixwazin an jî lênêrîna kanalên xwe bi temamî bispêrin me."
+  },
+  "process": {
+    "eyebrow": "Pêvajo",
+    "title": "Hevkarî bi vî awayî dimeşe",
+    "intro": "Ji hevdîtina yekem heta xebata berdewam: pênc gavên zelal, da ku hûn her dem bizanin rewş çi ye."
+  },
+  "onsite": {
+    "eyebrow": "Çêkirina naverokê li cih",
+    "title": "Em li wir dikişînin ku karsaziya we lê dijî.",
+    "text": "Naveroka baş li ser maseya nivîsînê çênabe. Em tên cem we – restoran, salon, studyo an dikan – û wêne û vîdyoyan rasterast di dema kar de an jî di rojeke kişandinê ya diyarkirî de çêdikin.",
+    "points": [
+      "Rojên kişandinê yên ku li gorî rêveçûna karê we ne",
+      "Ji yek randevûyê çend Reels û wêne",
+      "Amadekarî bi lîsteya fikiran û plana rêveçûnê",
+      "Montaj, binnivîs û wêneyên bergê tê de ne"
+    ],
+    "areaTitle": "Herêma xebatê",
+    "areaText": "Em niha randevûyên li cih li {areas} pêşkêş dikin. Randevûyên li derveyî vê herêmê li gorî lihevkirinê pêkan in. Stratejî, plankirin û lênêrîn bêyî girêdana bi cih li seranserê {remote} dimeşin.",
+    "visualAlt": "Wênesazî: plana kişandinê ji bo randevûyeke li cih bi çend dîmenan",
+    "visual": {
+      "title": "Roja kişandinê",
+      "items": ["Gihîştin û amadekarî", "Reels û vîdyoyên kurt", "Wêne û hûrgilî", "Tîm û atmosfer"]
+    }
+  },
+  "industries": {
+    "eyebrow": "Sektor",
+    "title": "Ji bo karsaziyên ku li cihê xwe bawerî didin",
+    "intro": "Em bi taybetî hez dikin bi karsaziyên herêmî re bixebitin, ku li cem wan atmosfer, hostatî û mirov cudahiyê çêdikin."
+  },
+  "portfolio": {
+    "eyebrow": "Portfolyo",
+    "title": "Naveroka we dikare wiha xuya bike",
+    "intro": "Hilbijartinek ji formatên ku em ji bo karsaziyên herêmî çêdikin. Dîmenên ku tên nîşandan mînak in û ne projeyên mişteriyan in."
+  },
+  "packages": {
+    "eyebrow": "Pakêt",
+    "title": "Sê pakêt, yek armanc: hebûneke pêbawer",
+    "intro": "Ji destpêkê heta lênêrîna temam. Em çarçoveya rastîn di hevdîtina yekem de li gorî karsaziya we diyar dikin."
+  },
+  "why": {
+    "eyebrow": "Feydeyên we",
+    "title": "Çima karsazî kanalên xwe dispêrin kesên din",
+    "items": [
+      { "title": "Ji bo karê rojane bêtir dem", "text": "Fikir, kişandin, montaj, nivîs û weşandin li ser me ne. Hûn tenê dipejirînin – ne zêdetir." },
+      { "title": "Li şûna bêdengiyê, birêkûpêkî", "text": "Planeke weşanê piştrast dike ku kanalên we di hefteyên bi stres de jî çalak bimînin." },
+      { "title": "Xuyangeke yekgirtî", "text": "Zimanê dîtbarî, ton û sêwiran li hev û li marqeya we tên." },
+      { "title": "Formatên li gorî platformê", "text": "Reels, karûsel û Stories bi wî awayî tên çêkirin ku li ser Instagram, Facebook an TikTok bi rastî tên bikaranîn." },
+      { "title": "Rêveçûnên diyar", "text": "Li şûna çalakiyên yekcarî yên ji nişka ve, demên zelal ji bo plankirin, kişandin, pejirandin û nirxandinê." },
+      { "title": "Encamên ku tên şopandin", "text": "Raporeke birêkûpêk gihîştin, înteraksiyon û daxwazan nîşanî we dide – û ka em ji wan çi encam derdixin." }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Rêber",
+    "title": "Zanyarî ji bo marketînga we ya medyaya civakî",
+    "intro": "Rênîşan û nirxandinên pratîk ji bo karsaziyên herêmî – bêyî zimanê teknîkî yê tevlihev."
+  },
+  "faq": {
+    "eyebrow": "Pirs û bersiv",
+    "title": "Pirsên ku pir tên pirsîn",
+    "intro": "Bersivên kurt ji bo pirsên ku herî zêde ji me tên pirsîn.",
+    "more": "Hemû pirs û bersiv"
+  },
+  "contact": {
+    "eyebrow": "Têkilî",
+    "title": "Hûn ji bo medyaya civakî ya ku dimeşe amade ne?",
+    "text": "Çend rêzan li ser karsaziya xwe ji me re binivîsin. Di hevdîtina yekem a bêpere de em zelal dikin ka kîjan lênêrîn watedar e – bêyî ti mecbûriyetê.",
+    "points": ["Bêpere û bêyî mecbûriyet", "Bersiveke şexsî", "Li şûna pêşniyareke standard, pêşniyareke zelal"]
+  }
+}

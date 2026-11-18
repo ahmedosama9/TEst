@@ -1,0 +1,99 @@
+{
+  "imprint": {
+    "meta": { "title": "Künye", "description": "Social Media Komplett'in künyesi (Impressum) ve hizmet sağlayıcı bilgileri." },
+    "title": "Künye",
+    "providerTitle": "§ 5 DDG uyarınca bilgiler",
+    "contactTitle": "İletişim",
+    "representedTitle": "Temsil eden",
+    "vatTitle": "Katma değer vergisi kimlik numarası",
+    "vatText": "§ 27a UStG (Alman Katma Değer Vergisi Kanunu) uyarınca katma değer vergisi kimlik numarası:",
+    "registerTitle": "Sicil kaydı",
+    "registerCourt": "Sicil mahkemesi",
+    "registerNumber": "Sicil numarası",
+    "responsibleTitle": "§ 18 Abs. 2 MStV uyarınca içerikten sorumlu kişi",
+    "disputeTitle": "Tüketici uyuşmazlıklarının çözümü",
+    "disputeText": "Bir tüketici hakem kurulu önündeki uyuşmazlık çözüm usullerine katılmaya istekli veya yükümlü değiliz.",
+    "liabilityTitle": "İçerik ve bağlantılara ilişkin sorumluluk",
+    "liabilityText": "Bu web sitesinin içerikleri özenle hazırlanmıştır. Bununla birlikte içeriklerin doğruluğu, eksiksizliği ve güncelliği konusunda garanti veremeyiz. Bağlantı verilen harici sayfaların içeriklerinden yalnızca o sayfaların işletmecileri sorumludur.",
+    "copyrightTitle": "Telif hakkı",
+    "copyrightText": "Bu web sitesinde oluşturulan içerik ve eserler Alman telif hakkı hukukuna tabidir. Telif hakkının sınırları dışında kalan çoğaltma, işleme ve yayma için yazılı onay gerekir.",
+    "labels": { "name": "Ad / Unvan", "address": "Adres", "email": "E-posta", "phone": "Telefon" }
+  },
+  "privacy": {
+    "meta": { "title": "Gizlilik Politikası", "description": "Social Media Komplett web sitesinde kişisel verilerin işlenmesine ilişkin bilgiler." },
+    "title": "Gizlilik Politikası",
+    "intro": "Burada, bu web sitesini ziyaret ettiğinizde hangi kişisel verilerin hangi amaçla işlendiği ve hangi haklara sahip olduğunuz konusunda bilgi veriyoruz.",
+    "controllerTitle": "1. Veri sorumlusu",
+    "controllerText": "Genel Veri Koruma Tüzüğü (DSGVO, İngilizce kısaltmasıyla GDPR) anlamında bu web sitesindeki veri işleme faaliyetinin sorumlusu:",
+    "sections": [
+      {
+        "title": "2. Barındırma ve sunucu günlük dosyaları",
+        "paragraphs": [
+          "Bu web sitesi harici bir barındırma (hosting) hizmeti sağlayıcısında işletilmektedir. Web sitesi açıldığında barındırma sağlayıcısı teknik olarak gerekli verileri işler; bunlar özellikle IP adresi, erişimin tarihi ve saati, açılan sayfa, aktarılan veri miktarı ile tarayıcı ve işletim sistemi bilgileridir.",
+          "İşleme, Art. 6 Abs. 1 lit. f DSGVO temelinde gerçekleşir. Meşru menfaatimiz, web sitesinin güvenli ve istikrarlı biçimde işletilmesidir. Barındırma sağlayıcısıyla bir veri işleme sözleşmesi (Auftragsverarbeitung) bulunmaktadır.",
+          "[Yayınlanmadan önce tamamlanacak: barındırma sağlayıcısının adı ve adresi, sunucu konumu, günlük dosyalarının saklama süresi ve üçüncü ülkelere olası bir aktarımın dayanağı.]"
+        ]
+      },
+      {
+        "title": "3. İletişim formu ve iletişime geçme",
+        "paragraphs": [
+          "Bize iletişim formu veya e-posta yoluyla yazdığınızda, talebinizi işleme almak için verdiğiniz bilgileri (ad, işletme, e-posta adresi, isteğe bağlı olarak telefon numarası, sektör, istenen hizmetler ve mesajınız) işleriz.",
+          "Hukuki dayanak, talebiniz bir sözleşmenin kurulmasına yönelik olduğu ölçüde Art. 6 Abs. 1 lit. b DSGVO, diğer durumlarda Art. 6 Abs. 1 lit. f DSGVO'dur (taleplerin yanıtlanmasındaki meşru menfaat).",
+          "Kötüye kullanıma karşı koruma amacıyla, talep sayısını sınırlamak için gönderim sırasında IP adresinizi kısa süreliğine işleriz. IP adresi bu sırada kalıcı olarak saklanmaz.",
+          "Form mesajlarının iletilmesi için veri işleyen sıfatıyla bir e-posta gönderim hizmeti sağlayıcısı kullanıyoruz. [Yayınlanmadan önce tamamlanacak: hizmet sağlayıcının adı ve merkezi, üçüncü ülkeye olası bir aktarımın dayanağı.]",
+          "Talebinizi, işlemi kesin olarak tamamlandığında ve yasal saklama yükümlülükleri buna engel olmadığında sileriz."
+        ]
+      },
+      {
+        "title": "4. Çerezler ve yerel depolama",
+        "paragraphs": [
+          "Bu web sitesi analiz veya reklam amaçlı çerez kullanmaz ve herhangi bir izleme (tracking) hizmeti içermez.",
+          "Dil seçimi üzerinden açıkça bir dil seçtiğinizde, başlangıç adresini bir sonraki açışınızda yeniden kendi dilinize ulaşmanız için bu seçimi bir çerezde (“smk_locale”, geçerlilik süresi bir yıl) saklarız. Çerez ayarlarındaki seçiminiz tarayıcınızda yerel olarak saklanır. Her ikisi de açıkça talep ettiğiniz bir işlevi sunmak için teknik olarak gereklidir (§ 25 Abs. 2 Nr. 2 TDDDG).",
+          "İleride analiz veya pazarlama hizmetleri kullanırsak, bunlar ancak açık rızanızın ardından yüklenecektir. Seçiminizi çerez ayarlarından istediğiniz zaman değiştirebilirsiniz."
+        ]
+      },
+      {
+        "title": "5. Yazı tipleri ve harici içerikler",
+        "paragraphs": [
+          "Bu web sitesinde kullanılan yazı tipleri kendi sunucumuzdan sunulur. Sayfa açıldığında yazı tipi sağlayıcılarının sunucularıyla bağlantı kurulmaz. Video veya harita gibi harici medya içerikleri sizin işleminiz olmadan yüklenmez."
+        ]
+      },
+      {
+        "title": "6. Haklarınız",
+        "paragraphs": [
+          "Hakkınızda saklanan veriler konusunda bilgi alma (Art. 15 DSGVO), düzeltme (Art. 16 DSGVO), silme (Art. 17 DSGVO), işlemenin kısıtlanması (Art. 18 DSGVO), veri taşınabilirliği (Art. 20 DSGVO) haklarına ve meşru menfaatlere dayanan bir işlemeye itiraz etme hakkına (Art. 21 DSGVO) sahipsiniz.",
+          "Verdiğiniz rızayı geleceğe yönelik etkili olmak üzere istediğiniz zaman geri alabilirsiniz.",
+          "Ayrıca bir veri koruma denetim makamına şikâyette bulunma hakkınız vardır. Nordrhein-Westfalen için yetkili makam, Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen'dir (Kuzey Ren-Vestfalya Eyaleti Veri Koruma ve Bilgi Edinme Özgürlüğü Görevlisi)."
+        ]
+      },
+      {
+        "title": "7. Bu politikanın güncelliği",
+        "paragraphs": [
+          "Web sitesi veya hukuki gereklilikler değiştiğinde bu Gizlilik Politikası'nı uyarlarız. Burada yayınlanan güncel sürüm geçerlidir."
+        ]
+      }
+    ]
+  },
+  "cookies": {
+    "meta": { "title": "Çerez ayarları", "description": "Social Media Komplett web sitesindeki çerezlere ve yerel depolamaya ilişkin genel bakış ve ayarlar." },
+    "title": "Çerez ayarları",
+    "intro": "Bu web sitesi izleme (tracking) olmadan çalışır. Burada neyin saklandığını görür ve seçiminizi istediğiniz zaman değiştirebilirsiniz.",
+    "essentialTitle": "Gerekli",
+    "essentialText": "Açıkça kullandığınız işlevler için gereklidir. Bu depolama devre dışı bırakılamaz.",
+    "essentialItems": [
+      { "name": "smk_locale", "purpose": "Açıkça seçtiğiniz dili hatırlar.", "duration": "1 yıl", "type": "Çerez" },
+      { "name": "smk_consent", "purpose": "Bu sayfadaki seçiminizi saklar.", "duration": "siz silene kadar", "type": "Yerel depolama" }
+    ],
+    "tableHeaders": { "name": "Ad", "purpose": "Amaç", "duration": "Süre", "type": "Tür" },
+    "analyticsTitle": "İstatistik",
+    "analyticsText": "Şu anda herhangi bir analiz hizmeti kullanmıyoruz. Bu değişirse, söz konusu hizmetler yalnızca burada onay vermeniz hâlinde yüklenir.",
+    "marketingTitle": "Pazarlama",
+    "marketingText": "Şu anda herhangi bir pazarlama hizmeti veya reklam pikseli kullanmıyoruz. Bu değişirse, bunlar yalnızca burada onay vermeniz hâlinde yüklenir.",
+    "alwaysOn": "Her zaman etkin",
+    "allow": "İzin ver",
+    "save": "Seçimi kaydet",
+    "saved": "Seçiminiz kaydedildi.",
+    "rejectAll": "Yalnızca gerekli olanlar",
+    "noneActive": "Şu anda kullanılmıyor"
+  }
+}

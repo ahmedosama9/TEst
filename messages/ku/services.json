@@ -1,0 +1,424 @@
+{
+  "overview": {
+    "meta": {
+      "title": "Xizmet: rêveberiya medyaya civakî, naverok û Reels",
+      "description": "Hemû xizmetên Social Media Komplett: rêveberiya medyaya civakî, çêkirina naverokê, Reels û vîdyo, stratejî û Community Management ji bo karsaziyan."
+    },
+    "eyebrow": "Xizmet",
+    "title": "Xizmetên medyaya civakî ji bo karsaziyan",
+    "intro": "Ji stratejiyê û kişandinê heta lênêrîna rojane: em wan karan digirin ser xwe ku di karsaziyê de bi piranî dem ji wan re namîne. Beşên cuda yek bi yek bixwazin an jî kanalên xwe bi temamî bispêrin me.",
+    "agencyTitle": "Ajanseke medyaya civakî çi dike?",
+    "agencyText": [
+      "Ajanseke medyaya civakî ji bo kanalên karsaziyekê naverokê plan dike, çêdike û diweşîne û bi têkiliya bi community re mijûl dibe. Stratejiyeke bi armancên zelal, planeke weşanê, wêne û vîdyo, nivîs, weşandin, bersivdana şîrove û peyaman û nirxandineke birêkûpêk beşek ji vî karî ne.",
+      "Li cem Social Media Komplett kişandina li cih jî lê zêde dibe: li şûna ku em xwe bispêrin materyalên stock ên ku dikarin li her derê bên bikaranîn, em rasterast li cihê karê we vîdyo û wêneyan dikişînin."
+    ],
+    "compareTitle": "Xizmeteke yekane an lênêrîna temam?",
+    "compareIntro": "Her du jî pêkan in. Ev kurtenêrîn ji bo biryardanê alîkar e.",
+    "compare": {
+      "headers": [
+        "Pîvan",
+        "Xizmeteke yekane",
+        "Lênêrîna temam"
+      ],
+      "rows": [
+        [
+          "Guncav e, heke …",
+          "di nav karsaziya we de kesek hebe ku li kanalan dinêre û hûn piştgiriyeke diyarkirî bixwazin – mînak ji bo kişandinê.",
+          "di karsaziyê de wextê kesî ji bo medyaya civakî tune be û divê her tişt bi awayekî pêbawer bimeşe."
+        ],
+        [
+          "Keda we",
+          "Plankirin û weşandin li cem we dimînin.",
+          "Hûn naverokê dipejirînin û beşdarî rojên kişandinê dibin."
+        ],
+        [
+          "Para me",
+          "Beşeke bi sînorên zelal, mînak çêkirina Reels an stratejî.",
+          "Stratejî, naverok, weşandin, community û nirxandin."
+        ],
+        [
+          "Hesabkirin",
+          "Li gorî projeyê an mehane, li gorî xizmetê.",
+          "Pakêteke mehane bi çarçoveyeke diyarkirî."
+        ]
+      ]
+    }
+  },
+  "labels": {
+    "includes": "Ev tê de ye",
+    "howItWorks": "Em wiha dixebitin",
+    "forWhom": "Ev ji bo kê guncav e?",
+    "faq": "Pirsên pir tên pirsîn",
+    "otherServices": "Xizmetên din",
+    "partOfPackages": "Ev xizmet beşek ji pakêtên me ye an jî dikare bi serê xwe bê xwestin. Çarçoveya rastîn û biha li gorî pêdiviya we diyar dibin – piştî hevdîtina yekem em ji we re pêşniyarekê amade dikin."
+  },
+  "items": {
+    "social-media-management": {
+      "meta": {
+        "title": "Rêveberiya medyaya civakî ji bo karsaziyên li Münsterê",
+        "description": "Rêveberiya medyaya civakî ji Social Media Komplett: plankirin, naverok, weşandin, community û nirxandin ji bo Instagram, Facebook û TikTok – ji yek destî."
+      },
+      "name": "Rêveberiya medyaya civakî",
+      "short": "Plankirin, weşandin û lênêrîna berdewam a kanalên we – bi awayekî pêbawer, hefte bi hefte.",
+      "title": "Rêveberiya medyaya civakî: kanalên we, bi temamî di bin lênêrînê de",
+      "intro": "Em karê berdewam ê li ser kanalên we yên medyaya civakî digirin ser xwe – ji plana mehane heta şandiya weşandî. Kontrola naverokê di destê we de dimîne, bêyî ku hûn mecbûr bin bi pêkanînê re mijûl bibin.",
+      "definitionTitle": "Rêveberiya medyaya civakî çi ye?",
+      "definition": "Rêveberiya medyaya civakî (Social Media Management) hemû karên dubare yên li dora kanalên medyaya civakî yên karsaziyekê digire nav xwe: plankirina mijaran, çêkirina naverokê, weşandina şandiyan, bersivdana şîrove û peyaman û nirxandina encaman. Armanc xuyangeke birêkûpêk û yekgirtî ye ku li armancên karsaziyê tê.",
+      "includes": [
+        {
+          "title": "Plana weşanê",
+          "text": "Planeke mehane bi mijar, format û dîrokan, ku hûn pêşî dibînin û dipejirînin."
+        },
+        {
+          "title": "Çêkirina naverokê",
+          "text": "Wêne, grafîk, Reels û nivîs, li gorî marqe û koma armanc a we."
+        },
+        {
+          "title": "Weşandin",
+          "text": "Em şandî, Reels û Stories di demên guncav de plan dikin û diweşînin."
+        },
+        {
+          "title": "Lênêrîna profîlê",
+          "text": "Bio, Highlights, lînk û rêyên têkiliyê rojane û birêkûpêk dimînin."
+        },
+        {
+          "title": "Community",
+          "text": "Li ser daxwazê em li gorî rêbazên lihevkirî bersiva şîrove û peyaman didin."
+        },
+        {
+          "title": "Nirxandin",
+          "text": "Raporeke birêkûpêk û têgihîştî bi hejmarên sereke yên herî girîng û gavên din ên berbiçav."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Hevnasîn û armanc",
+          "text": "Em zelal dikin ka hûn dixwazin bigihîjin kê û hûn ê serkeftinê bi çi bipîvin – mînak rezervasyon, daxwazên randevûyê an serlêdanên kar."
+        },
+        {
+          "title": "Plan û çêkirin",
+          "text": "Ji plana weşanê naverok derdikeve, gelek ji wê di rojeke kişandinê de li cihê karê we."
+        },
+        {
+          "title": "Pejirandin û weşandin",
+          "text": "Hûn şandiyan pêşî kontrol dikin. Piştî pejirandina we ew li gorî planê tên weşandin."
+        },
+        {
+          "title": "Nirxandin û sererastkirin",
+          "text": "Em bi rêkûpêk li hejmaran dinêrin û mijar û formatan li gorî wan diguherînin."
+        }
+      ],
+      "forWhom": [
+        "Xwediyên karsaziyan ên ku heta niha medyaya civakî di ber karê din re dikin",
+        "Karsaziyên ku kanalên wan bi awayekî nebirêkûpêk tên bikaranîn",
+        "Karsaziyên ku li şûna çareseriyên cuda yên ku her tim diguherin, muxatabekî sabît dixwazin"
+      ],
+      "faq": [
+        {
+          "q": "Ma hêja ye ku lênêrîna Instagramê bê spartin kesên din?",
+          "a": "Ev bi taybetî wê demê hêja ye ku di karsaziyê de dem an zanîn ji bo naveroka birêkûpêk û baş çêkirî kêm be. Hûn dem û xuyangeke pêbawer bi dest dixin. Heke hûn hez dikin bi xwe parve bikin û tenê carinan hewcedarê alîkariyê bin, xizmeteke yekane wek rojeke kişandinê an stratejiyek dikare bijardeya çêtir be."
+        },
+        {
+          "q": "Hûn li kîjan platforman dinêrin?",
+          "a": "Giraniya me li ser Instagram, Facebook û TikTok e. Em di stratejiyê de bi hev re zelal dikin ka kîjan kanal ji bo we watedar in – ne hewce ye her karsazî li her derê hebe."
+        },
+        {
+          "q": "Gihîştina min a hesabên min dimîne?",
+          "a": "Belê. Hesab yên we ne û di destê we de dimînin. Em bi wan mafên gihîştinê dixebitin ku hûn didin me, û hûn dikarin her dem wan paş ve bistînin."
+        },
+        {
+          "q": "Bihayê rêveberiya medyaya civakî çi ye?",
+          "a": "Biha bi çarçoveyê ve girêdayî ye: hejmara kanalan, şandî û Reels di mehekê de, rojên kişandinê li cih û Community Management. Piştî hevdîtina yekem hûn pêşniyareke berbiçav distînin."
+        }
+      ]
+    },
+    "content-creation": {
+      "meta": {
+        "title": "Çêkirina naverokê ji bo medyaya civakî – wêne, grafîk, nivîs",
+        "description": "Çêkirina naveroka profesyonel ji bo karsaziyan: wêne, grafîk, karûsel û nivîs, ku li cihê karê we li Münsterê û derdora wê tên çêkirin."
+      },
+      "name": "Çêkirina naverokê",
+      "short": "Wêne, grafîk û nivîsên ku li marqeya we tên – li cihê karê we tên çêkirin.",
+      "title": "Çêkirina naverokê: naveroka ku dişibe we",
+      "intro": "Em ji bo kanalên we wêne, grafîk, karûsel û nivîsan çêdikin. Dîmen li cem we, li cih tên kişandin, da ku profîla we rasteqîn xuya bike û ji wêneyên stock ên ku li her derê hene cuda be.",
+      "definitionTitle": "Çêkirina naverokê tê çi wateyê?",
+      "definition": "Çêkirina naverokê (content creation) plankirin û çêkirina wê naverokê ye ku karsaziyek li ser medyaya civakî diweşîne – ango wêne, vîdyo, grafîk û nivîs. Naveroka baş bersiva pirsên koma armanc dide, berhem û xizmetan nîşan dide û dihêle ku karsazî bê naskirin.",
+      "includes": [
+        {
+          "title": "Mijar û fikir",
+          "text": "Lîsteyeke mijaran a ku li gorî berhem û xizmetên we, pirsên mişteriyên we û demsalê ye."
+        },
+        {
+          "title": "Wêne li cih",
+          "text": "Berhem, cih, tîm û rêveçûna kar – li cihê karê we tên kişandin."
+        },
+        {
+          "title": "Grafîk û karûsel",
+          "text": "Şablon bi reng û tîpên we ji bo pêşniyar, şîret û ragihandinan."
+        },
+        {
+          "title": "Nivîs û hashtag",
+          "text": "Binnivîsên wêneyan ên ku têgihîştî ne û mirovan vedixwînin tevgerekê."
+        },
+        {
+          "title": "Format ji bo her platformê",
+          "text": "Pîvanên guncav ji bo feed, Story û wêneyên bergê, da ku her tişt paqij xuya bike."
+        },
+        {
+          "title": "Radestkirina birêkûpêk",
+          "text": "Hûn naverokê bi awayekî rêzkirî distînin – ji bo pejirandinê an ji bo ku hûn bi xwe biweşînin."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Briefing",
+          "text": "Em berhev dikin ka divê çi bê nîşandan: pêşniyar, taybetmendî, mirov, dîrok."
+        },
+        {
+          "title": "Çêkirin",
+          "text": "Wêne û vîdyo di rojeke kişandinê de, grafîk û nivîs piştî wê çêdibin."
+        },
+        {
+          "title": "Lihevkirin",
+          "text": "Hûn naverokê dibînin û dikarin guhertinan bixwazin, berî ku tiştek bê weşandin."
+        }
+      ],
+      "forWhom": [
+        "Karsaziyên ku bi xwe parve dikin, lê hewcedarê naveroka çêtir in",
+        "Karsaziyên ku berhem û xizmetên wan divê bên dîtin – xwarin, birîna porê, cih, berhem",
+        "Tîmên ku şablon û xuyangeke yekgirtî li cem wan kêm e"
+      ],
+      "faq": [
+        {
+          "q": "Ajanseke medyaya civakî dikare were cihê karê min?",
+          "a": "Belê, nêzîkatiya me tam ev e. Em ji bo kişandina wêne û vîdyoyan tên karsaziya we. Em niha randevûyên li cih li Münsterê û li Münsterlandê pêşkêş dikin; cihên din li gorî lihevkirinê pêkan in."
+        },
+        {
+          "q": "Naveroka çêkirî ya kê ye?",
+          "a": "Em mafên bikaranînê di pêşniyarê de bi awayekî zelal diyar dikin. Bi gelemperî hûn dikarin naverokê ji bo kanalên xwe û malpera xwe bi awayekî herdemî bi kar bînin."
+        },
+        {
+          "q": "Ma divê xebatkarên min derkevin ber kamerayê?",
+          "a": "Na. Mirov profîlekê şexsîtir dikin, lê kes ne mecbûr e bê kişandin. Em tenê wan kesan nîşan didin ku bi eşkereyî razî ne."
+        }
+      ]
+    },
+    "reels-video-production": {
+      "meta": {
+        "title": "Çêkirina Reels li Münsterê – vîdyo ji bo Instagram û TikTok",
+        "description": "Çêkirina Reels û vîdyoyan li cih: konsept, kişandin, montaj, binnivîs û wêneyê bergê ji bo Instagram Reels, TikTok û Facebook – li Münsterê û derdora wê."
+      },
+      "name": "Reels û çêkirina vîdyoyan",
+      "short": "Konsept, kişandin û montaj ji bo Reels û vîdyoyên kurt – rasterast li cem we, li cih.",
+      "title": "Reels û çêkirina vîdyoyan: vîdyoyên kurt ên ku karsaziya we nîşan didin",
+      "intro": "Vîdyoyên kurt ew format in ku karsazî li ser Instagram, TikTok û Facebook dikarin pê bigihîjin wan mirovan jî ku hê wan naşopînin. Em fikir, kişandin û montajê digirin ser xwe – ne hewcedariya we bi amûran heye, ne jî bi ezmûna li ber kamerayê.",
+      "definitionTitle": "Çêkirina profesyonel a Reels çawa dimeşe?",
+      "definition": "Çêkirina profesyonel a Reels ji çar gavan pêk tê: konseptek bi mijar û destpêkê, kişandina li cih, montaj bi binnivîs û dengî û weşandin bi wêneyê bergê û danasînê. Ji rojeke kişandinê ya baş amadekirî bi gelemperî çend vîdyo derdikevin, ku di nav çend hefteyan de tên weşandin.",
+      "includes": [
+        {
+          "title": "Konsept û senaryo",
+          "text": "Ji bo her vîdyoyê em mijar, destpêk û rêveçûnê diyar dikin – kurt û têgihîştî."
+        },
+        {
+          "title": "Kişandina li cih",
+          "text": "Em li cihê karê we bi teknîka guncav a kamera, ronahî û dengî dikişînin."
+        },
+        {
+          "title": "Montaj",
+          "text": "Montajeke dînamîk di formata tîk de, li gorî platforma têkildar."
+        },
+        {
+          "title": "Binnivîs û wêneyê bergê",
+          "text": "Binnivîs ji bo temaşekirina bêdeng û wêneyekî bergê ku li profîla we tê."
+        },
+        {
+          "title": "Muzîk û deng",
+          "text": "Em bala xwe didinê ku muzîka tê bikaranîn ji bo hesabên karsaziyê destûrdar be."
+        },
+        {
+          "title": "Weşandin",
+          "text": "Li ser daxwazê em vîdyoyan bi danasîn û hashtagan ji bo we diweşînin."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Berhevkirina fikiran",
+          "text": "Em bi hev re diyar dikin ka çi tê nîşandan: rêveçûna kar, berhem, mirov, bersivên pirsên ku pir tên pirsîn."
+        },
+        {
+          "title": "Roja kişandinê",
+          "text": "Em di yek randevûyê de çend vîdyoyan dikişînin, da ku karê we bi qasî ku pêkan e kêm bê astengkirin."
+        },
+        {
+          "title": "Montaj û pejirandin",
+          "text": "Hûn vîdyoyên amade ji bo dîtinê distînin û wan dipejirînin an guhertinên ku hûn dixwazin dibêjin."
+        },
+        {
+          "title": "Weşandin û fêrbûn",
+          "text": "Piştî weşandinê em dinêrin ka kîjan vîdyo baş tên pêşwazîkirin û yên din li ser vê bingehê plan dikin."
+        }
+      ],
+      "forWhom": [
+        "Restoran, qehwexane û barên ku dixwazin atmosfer û xwarinên xwe nîşan bidin",
+        "Salon û studyoyên ku encam li cem wan tê dîtin",
+        "Karsaziyên herêmî yên ku dixwazin li derdora xwe bigihîjin mişteriyên nû"
+      ],
+      "faq": [
+        {
+          "q": "Rojeke kişandinê çiqas dirêj dike?",
+          "a": "Ev bi hejmara vîdyoyan ve girêdayî ye. Ji bo çend Reels em bi gelemperî çend saetan plan dikin. Em rêveçûnê ji berê ve wisa li hev dikin ku li karê we were."
+        },
+        {
+          "q": "Ma divê ez bi xwe li ber kamerayê bim?",
+          "a": "Na. Gelek Reels-ên baş rêveçûna kar, hûrgilî û encaman nîşan didin. Heke hûn an tîma we bixwazin xuya bibin, em di vê yekê de bi we re ne – ev gelek caran bi taybetî nêzîk û germ xuya dike."
+        },
+        {
+          "q": "Ez dikarim Reels bêyî lênêrîna berdewam jî bixwazim?",
+          "a": "Belê. Çêkirina Reels wek xizmeteke yekane dikare bê xwestin, mînak wek pakêtek ji rojeke kişandinê û çend vîdyoyên amade."
+        }
+      ]
+    },
+    "social-media-strategy": {
+      "meta": {
+        "title": "Stratejiya medyaya civakî ji bo karsaziyên biçûk û herêmî",
+        "description": "Stratejiya medyaya civakî ji Social Media Komplett: armanc, koma armanc, kanal, mijar û hejmarên sereke – planeke zelal ku hûn bi xwe pêk tînin an dispêrin me."
+      },
+      "name": "Stratejiya medyaya civakî",
+      "short": "Armanc, koma armanc, kanal û mijar – li şûna parvekirina li gorî hestan, planeke zelal.",
+      "title": "Stratejiya medyaya civakî: planek ku li karsaziya we tê",
+      "intro": "Bêyî plan medyaya civakî zû dibe karekî ku qet naqede. Em bi we re stratejiyekê amade dikin ku diyar dike hûn dixwazin bigihîjin kê, li ser kîjan kanalan û bi kîjan naverokê – û hûn ê bi çi fêm bikin ka ew bi kêr tê an na.",
+      "definitionTitle": "Di stratejiyeke medyaya civakî de çi heye?",
+      "definition": "Stratejiyeke medyaya civakî ji bo karsaziyeke biçûk bersiva pênc pirsan dide: Divê medyaya civakî ji bo karsaziyê bigihîje çi? Divê bang li kê bê kirin? Ji bo vê kîjan kanal watedar in? Kîjan mijar û format bi rêkûpêk tên weşandin? Û serkeftin bi kîjan hejmarên sereke tê kontrolkirin?",
+      "includes": [
+        {
+          "title": "Tespîta rewşa heyî",
+          "text": "Em li kanal, naverok û encamên we yên heta niha dinêrin."
+        },
+        {
+          "title": "Armanc û koma armanc",
+          "text": "Armancên berbiçav ên ku dikarin bên kontrolkirin û wêneyekî zelal ê wan mirovan ku hûn dixwazin bigihîjin wan."
+        },
+        {
+          "title": "Hilbijartina kanalan",
+          "text": "Pêşniyareke bi hincet ka kîjan platform ji bo we hêja ne – û kîjan ne."
+        },
+        {
+          "title": "Mijar û format",
+          "text": "Rêzenaverokên dubare yên ku li berhem û xizmetên we tên û bi hêsanî tên çêkirin."
+        },
+        {
+          "title": "Rîtma weşanê",
+          "text": "Planeke realîst ka çend caran û kengî tê weşandin."
+        },
+        {
+          "title": "Hejmarên sereke",
+          "text": "Çend pîvanên watedar û rêveçûneke hêsan ji bo nirxandina mehane."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Hevdîtin",
+          "text": "Di randevûyeke berfireh de em karsaziya we, mişteriyên we û armancên we nas dikin."
+        },
+        {
+          "title": "Amadekirin",
+          "text": "Em stratejiyê di belgeyeke zelal de kurt dikin."
+        },
+        {
+          "title": "Radestkirin",
+          "text": "Em bi hev re di ser planê re derbas dibin. Hûn wê bi xwe pêk tînin an pêkanînê dispêrin me."
+        }
+      ],
+      "forWhom": [
+        "Karsaziyên ku nû dest bi medyaya civakî dikin",
+        "Karsaziyên ku pir parve dikin, lê bandoreke kêm dibînin",
+        "Tîmên ku medyaya civakî di nav xwe de dimeşînin û hewcedarê xeteke sereke ne"
+      ],
+      "faq": [
+        {
+          "q": "Ma ez wek karsaziyeke biçûk bi rastî hewcedarê stratejiyekê me?",
+          "a": "Belê, lê ne hewce ye ew berfireh be. Çend biryarên zelal li ser armanc, koma armanc, mijar û rîtmê jî bes in ku hûn dema xwe nedin naveroka ku tiştekî naguherîne."
+        },
+        {
+          "q": "Divê karsaziya min li ser kîjan platforman çalak be?",
+          "a": "Li wir ku mişteriyên we bi rastî lê ne û hûn dikarin bi rêkûpêk naveroka baş pêşkêş bikin. Kanaleke baş lênêrandî bi gelemperî ji sê kanalên ku bi nîvdilî tên bikaranîn bibandortir e."
+        },
+        {
+          "q": "Ez stratejiyê bi nivîskî distînim?",
+          "a": "Belê. Hûn belgeyekê distînin ku hûn an tîma we bêyî me jî dikarin pê bidomînin."
+        }
+      ]
+    },
+    "community-management": {
+      "meta": {
+        "title": "Community Management – lênêrîna şîrove û peyaman",
+        "description": "Community Management ji bo karsaziyan: em li gorî rêbazên lihevkirî bersiva şîrove û peyaman didin û daxwazan bi awayekî pêbawer digihînin we."
+      },
+      "name": "Community Management",
+      "short": "Şîrove û peyam di demeke kurt de û bi tona marqeya we tên bersivandin.",
+      "title": "Community Management: kes bê bersiv namîne",
+      "intro": "Li ser medyaya civakî mirov pirsan dipirsin, rezervasyonan dikin, pesn didin û rexne dikin. Kî zû û bi rûgeşî bersivê bide, baweriyê bi dest dixe. Em vê ragihandinê li gorî rêbazên ku me berê bi we re diyar kirine digirin ser xwe.",
+      "definitionTitle": "Community Management çi ye?",
+      "definition": "Community Management lênêrîna ragihandinê ye li ser kanalên medyaya civakî yên karsaziyekê. Bersivdana şîrove û peyamên rasterast, gihandina daxwazan, bersivdana rexneyan bi awayekî objektîf û moderasyona naveroka nexwestî wek spam beşek ji wê ne.",
+      "includes": [
+        {
+          "title": "Bersivdana şîroveyan",
+          "text": "Em bersiva şîroveyên li bin şandiyên we didin – bi rûgeşî û bi tona we."
+        },
+        {
+          "title": "Lênêrîna peyaman",
+          "text": "Em rasterast bersiva pirsên ku pir tên pirsîn didin, her tiştê din digihînin we."
+        },
+        {
+          "title": "Rêbera bersivan",
+          "text": "Em bi hev re diyar dikin ka bersiva pirsên tîpîk, pesn û rexneyan çawa tê dayîn."
+        },
+        {
+          "title": "Moderasyon",
+          "text": "Spam û naveroka heqaretwarî li gorî qaîdeyên zelal tên veşartin an ragihandin."
+        },
+        {
+          "title": "Gihandina daxwazên girîng",
+          "text": "Rezervasyon, daxwazên randevûyê û gilî bi rêya lihevkirî digihîjin we."
+        },
+        {
+          "title": "Bertekên ji community",
+          "text": "Pirs û daxwazên ku dubare dibin dikevin nav plankirina naverokê."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Diyarkirina rêbazan",
+          "text": "Ton, demên bersivdanê, berpirsiyarî û sînor ji berê ve tên zelalkirin."
+        },
+        {
+          "title": "Lênêrîna berdewam",
+          "text": "Em di demên lihevkirî de şîrove û peyaman kontrol dikin."
+        },
+        {
+          "title": "Danûstandina birêkûpêk",
+          "text": "Em tiştên balkêş û pirsên pir tên pirsîn bi we re diaxivin û rêbazan li gorî wan nû dikin."
+        }
+      ],
+      "forWhom": [
+        "Karsaziyên ku bi rêya Instagram an Facebook gelek daxwazan distînin",
+        "Karsaziyên ku di jiyana rojane de peyam li cem wan bê bersiv dimînin",
+        "Marqeyên ku dixwazin li hemberî rexneyê jî profesyonel tevbigerin"
+      ],
+      "faq": [
+        {
+          "q": "Hûn bi navê min bersivê didin?",
+          "a": "Em bi navê karsaziya we û li gorî rêbera lihevkirî bersivê didin. Pirsên ku tenê hûn dikarin bersiva wan bidin – mînak li ser bihayên taybet an gilîyan – em digihînin we."
+        },
+        {
+          "q": "Bersiv çiqas zû tê dayîn?",
+          "a": "Em demên bersivdanê bi hev re diyar dikin û wan di pêşniyarê de dinivîsin. Lênêrîna 24 saetan ne standard e, lê dikare bê axaftin."
+        },
+        {
+          "q": "Hûn bi rexneya neyînî re çawa tevdigerin?",
+          "a": "Bi awayekî objektîf û bi armanca çareseriyê. Em bersiva rexneya mafdar bi eşkereyî didin û wê digihînin we; naveroka heqaretwarî an spam tê moderekirin. Rewşên nazik em berî bersivê bi we re li hev dikin."
+        }
+      ]
+    }
+  }
+}

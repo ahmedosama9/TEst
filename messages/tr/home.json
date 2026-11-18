@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Münster Sosyal Medya Ajansı – İçerik, Reels ve Yönetim",
+    "description": "Münster merkezli Social Media Komplett profesyonel içerik üretir, yerinde Reels çeker ve sosyal medya kanallarınızı yönetir. Ücretsiz ön görüşme talep edin."
+  },
+  "hero": {
+    "eyebrow": "Münster merkezli sosyal medya ajansı",
+    "title": "Başarılı sosyal medya için iş ortağınız.",
+    "subtitle": "Profesyonel içerik üretiyor, Reels çekiyor ve sosyal medya kanallarınızın yönetimini üstleniyoruz – siz de işletmenize odaklanabiliyorsunuz.",
+    "points": ["İçerik üretimi", "Yerinde Reels çekimi", "Düzenli kanal yönetimi"],
+    "mockup": {
+      "alt": "İllüstrasyon: örnek akış, Reel önizlemesi ve içerik takvimi gösteren akıllı telefon",
+      "profile": "isletmeniz",
+      "reelLabel": "Reel",
+      "planTitle": "İçerik takvimi",
+      "planItems": ["Pzt · Reel", "Çar · Kaydırmalı gönderi", "Cum · Story"],
+      "statusPlanned": "Planlandı",
+      "statusApproved": "Onaylandı"
+    }
+  },
+  "trust": {
+    "eyebrow": "Neden Social Media Komplett",
+    "title": "Arada bir ilgilenmek zorunda kalmayacağınız sosyal medya.",
+    "intro": "Pek çok işletme sosyal medyanın önemli olduğunu biliyor – ancak günlük yoğunlukta fikir bulmaya, çekime, kurguya ve düzenli paylaşıma zaman kalmıyor. Tam da bu işi sizin yerinize biz üstleniyoruz.",
+    "items": [
+      { "title": "Her şey tek elden", "text": "Strateji, içerik, Reels, yayınlama ve topluluk – üç ayrı hizmet sağlayıcıyı koordine etmeniz gerekmez." },
+      { "title": "Biz size geliyoruz", "text": "Fotoğraflar ve videolar doğrudan işletmenizde çekilir. Böylece sayfanız, işletmenizi gerçekten özel kılan şeyi gösterir." },
+      { "title": "Net iletişim ve onay", "text": "İçerikleri yayına girmeden önce görürsünüz ve sırada neyin planlandığını her zaman bilirsiniz." },
+      { "title": "Dürüst değerlendirme", "text": "Neyin işe yarayıp neyin yaramadığını anlaşılır biçimde raporluyoruz – süslenmiş rakamlar ve kimsenin tutamayacağı vaatler olmadan." }
+    ]
+  },
+  "services": {
+    "eyebrow": "Hizmetler",
+    "title": "Sosyal medya hizmetlerimiz",
+    "intro": "Hizmetleri tek tek alabilir ya da kanallarınızın yönetimini tümüyle bize bırakabilirsiniz."
+  },
+  "process": {
+    "eyebrow": "Süreç",
+    "title": "İş birliği nasıl ilerliyor?",
+    "intro": "İlk görüşmeden düzenli işleyişe: her zaman nerede olduğunuzu bilmeniz için beş net adım."
+  },
+  "onsite": {
+    "eyebrow": "Yerinde içerik üretimi",
+    "title": "İşletmenizin yaşadığı yerde çekim yapıyoruz.",
+    "text": "İyi içerik masa başında ortaya çıkmaz. Restoranınıza, salonunuza, stüdyonuza veya mağazanıza geliyor; fotoğraf ve videoları iş devam ederken ya da belirlenmiş bir çekim gününde yerinde üretiyoruz.",
+    "points": [
+      "İş akışınıza uyan çekim randevuları",
+      "Tek randevudan birden fazla Reel ve fotoğraf",
+      "Fikir listesi ve akış planıyla hazırlık",
+      "Kurgu, altyazı ve kapak görselleri dahil"
+    ],
+    "areaTitle": "Hizmet bölgesi",
+    "areaText": "Yerinde çekimleri şu anda {areas} bölgesinde sunuyoruz. Bu bölgenin dışındaki randevular görüşmeye bağlı olarak mümkündür. Strateji, planlama ve kanal yönetimi ise konumdan bağımsız olarak tüm {remote} genelinde yürütülür.",
+    "visualAlt": "İllüstrasyon: birden fazla çekim içeren bir yerinde çekim günü planı",
+    "visual": {
+      "title": "Çekim günü",
+      "items": ["Varış & kurulum", "Reels & kısa videolar", "Fotoğraflar & detaylar", "Ekip & atmosfer"]
+    }
+  },
+  "industries": {
+    "eyebrow": "Sektörler",
+    "title": "Müşterisini yerinde kazanan işletmeler için",
+    "intro": "Atmosferin, ustalığın ve insanların fark yarattığı yerel işletmelerle çalışmayı özellikle seviyoruz."
+  },
+  "portfolio": {
+    "eyebrow": "Portfolyo",
+    "title": "İçeriğiniz böyle görünebilir",
+    "intro": "Yerel işletmeler için hayata geçirdiğimiz formatlardan bir seçki. Gösterilen görseller örnektir ve müşteri projelerini temsil etmez."
+  },
+  "packages": {
+    "eyebrow": "Paketler",
+    "title": "Üç paket, tek hedef: güvenilir bir varlık",
+    "intro": "Başlangıçtan eksiksiz yönetime. Kapsamın ayrıntılarını ön görüşmede işletmenize göre belirliyoruz."
+  },
+  "why": {
+    "eyebrow": "Avantajlarınız",
+    "title": "İşletmeler kanallarını neden bize bırakıyor?",
+    "items": [
+      { "title": "Günlük işlere daha fazla zaman", "text": "Fikir, çekim, kurgu, metin ve yayınlama bizde. Siz yalnızca onay verirsiniz – hepsi bu." },
+      { "title": "Sessizlik yerine düzen", "text": "İçerik takvimi, kanallarınızın yoğun haftalarda da aktif kalmasını sağlar." },
+      { "title": "Bütünlüklü bir görünüm", "text": "Görsel dil, üslup ve tasarım hem birbiriyle hem de markanızla uyumludur." },
+      { "title": "Platforma uygun formatlar", "text": "Reels, kaydırmalı gönderiler ve Stories; Instagram, Facebook veya TikTok'ta gerçekten kullanıldıkları biçimde üretilir." },
+      { "title": "Belirli iş akışları", "text": "Anlık, tek seferlik işler yerine planlama, çekim, onay ve değerlendirme için net tarihler." },
+      { "title": "Takip edilebilir sonuçlar", "text": "Düzenli bir rapor size erişimi, etkileşimleri ve talepleri gösterir – ve bunlardan ne çıkardığımızı." }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Sosyal medya pazarlamanız için bilgi",
+    "intro": "Yerel işletmeler için pratik rehberler ve değerlendirmeler – teknik jargon olmadan."
+  },
+  "faq": {
+    "eyebrow": "SSS",
+    "title": "Sık sorulan sorular",
+    "intro": "Bize en sık yöneltilen sorulara kısa yanıtlar.",
+    "more": "Tüm sorular ve yanıtlar"
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "Kendiliğinden işleyen bir sosyal medyaya hazır mısınız?",
+    "text": "İşletmeniz hakkında bize birkaç satır yazın. Ücretsiz ön görüşmede hangi hizmet kapsamının anlamlı olduğunu netleştiririz – bağlayıcı değildir.",
+    "points": ["Ücretsiz ve bağlayıcı değil", "Kişisel geri dönüş", "Standart teklif yerine net bir öneri"]
+  }
+}

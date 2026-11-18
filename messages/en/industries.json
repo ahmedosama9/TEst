@@ -1,0 +1,251 @@
+{
+  "overview": {
+    "meta": {
+      "title": "Industries: Social Media for Restaurants, Salons & Gyms",
+      "description": "Social Media Komplett works with local businesses: restaurants and cafés, beauty businesses and salons, gyms and other businesses in and around Münster."
+    },
+    "eyebrow": "Industries",
+    "title": "Social media for local businesses",
+    "intro": "Every industry has its own topics, its own routines and its own customer questions. We gear content and channel management to how your business actually works.",
+    "noteTitle": "Your industry isn’t listed?",
+    "noteText": "The list shows our areas of focus, not a limit. If your business wins customers over in person, our approach is very likely to be a good fit – just get in touch."
+  },
+  "labels": {
+    "challenges": "Typical challenges",
+    "ideas": "Content ideas that can work",
+    "approach": "How we support you",
+    "faq": "Frequently asked questions",
+    "otherIndustries": "Other industries",
+    "ideasNote": "Which formats go down best with your audience only becomes clear in practice. We test, evaluate and adjust."
+  },
+  "items": {
+    "gastronomy": {
+      "meta": {
+        "title": "Social Media for Restaurants, Cafés & Bars in Germany",
+        "description": "Social media management for restaurants, cafés and bars: Reels and photos straight from your kitchen and dining room, published regularly and looked after."
+      },
+      "name": "Restaurants & hospitality",
+      "short": "Restaurants, cafés, bars and takeaways: putting dishes, atmosphere and people in the spotlight.",
+      "title": "Social media for restaurants, cafés and bars",
+      "intro": "Guests often decide where to eat with their smartphone in their hand. A well-kept profile with up-to-date pictures, Reels from the kitchen and clear information on opening hours and reservations helps them make that decision.",
+      "challenges": [
+        {
+          "title": "No time during service",
+          "text": "Between purchasing, service and staff rotas there is hardly any room left for regular posts."
+        },
+        {
+          "title": "Food quickly looks flat in photos",
+          "text": "Light, angle and movement decide whether a dish whets the appetite."
+        },
+        {
+          "title": "News gets lost",
+          "text": "The lunch menu, events and changed opening hours don’t reach guests in time."
+        }
+      ],
+      "ideas": [
+        "Preparing a signature dish as a short Reel",
+        "A look behind the scenes: kitchen, suppliers, prep",
+        "Introducing the team and the people behind the concept",
+        "Weekly or seasonal menu as a carousel",
+        "Answers to typical guest questions – reservations, allergens, groups",
+        "The mood in the dining room on a busy evening"
+      ],
+      "approach": [
+        {
+          "title": "Shoot days while you’re open",
+          "text": "We film and photograph in a way that lets kitchen and service carry on working."
+        },
+        {
+          "title": "Timely content you can plan",
+          "text": "Fixed formats for the weekly menu, events and public holidays, so nothing is forgotten."
+        },
+        {
+          "title": "Short routes for guests",
+          "text": "Profile, links and highlights lead straight to reservations, the menu and directions."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How can restaurants make good use of Instagram?",
+          "a": "With regular, appetising glimpses: short videos from the kitchen, well-photographed dishes, current offers and a profile where reservations, the menu and opening hours can be found straight away. A reliable rhythm matters more than daily posts."
+        },
+        {
+          "q": "Does a shoot disrupt day-to-day business?",
+          "a": "We agree the timing and schedule in advance and prefer to film at quieter times. Guests are only filmed if they agree to it."
+        }
+      ],
+      "relatedPost": "instagram-marketing-restaurants"
+    },
+    "beauty-salons": {
+      "meta": {
+        "title": "Social Media for Hairdressers, Beauty & Cosmetic Salons",
+        "description": "Social media management for hairdressers, barbershops, beauty and nail salons: show your results, build trust and make appointment enquiries easier."
+      },
+      "name": "Beauty & salons",
+      "short": "Hairdressers, barbershops, beauty and nail salons: showing results and filling appointments.",
+      "title": "Social media for hairdressers and beauty salons",
+      "intro": "In the beauty industry, social media is the shop window. New customers want to see how you work before they book an appointment. We make sure your work looks as good as it is.",
+      "challenges": [
+        {
+          "title": "Full appointment books, no time for content",
+          "text": "Between two appointments there is rarely time for a good photo – let alone a Reel."
+        },
+        {
+          "title": "Results don’t get the attention they deserve",
+          "text": "Poor lighting and cluttered backgrounds make even outstanding work look average."
+        },
+        {
+          "title": "Inconsistent profile",
+          "text": "A photo here, an offer there, then nothing for weeks – the presence looks random."
+        }
+      ],
+      "ideas": [
+        "Before-and-after results (with the customer’s consent)",
+        "Short Reels showing a hairstyle or treatment taking shape",
+        "Care tips for at home",
+        "Introducing the team members and their specialisms",
+        "The season’s trends, clearly explained",
+        "Free appointments and promotions in the Story"
+      ],
+      "approach": [
+        {
+          "title": "A fixed content corner in the salon",
+          "text": "Together with you we set up a spot with good light where results can be photographed quickly."
+        },
+        {
+          "title": "Shoot days with models or regular customers",
+          "text": "One session produces Reels and photos for several weeks."
+        },
+        {
+          "title": "The route to an appointment",
+          "text": "Booking link, price information and services can be found in the profile straight away."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can customers simply be shown?",
+          "a": "Only with their express consent. We support you with a simple routine for obtaining consent before shooting, and publish nothing without agreement."
+        },
+        {
+          "q": "Which content works particularly well for a salon?",
+          "a": "Visible results, short glimpses of the work and faces from the team. Add care tips and up-to-date information and you get a profile that shows expertise and invites people to book."
+        }
+      ],
+      "relatedPost": "content-ideas-salons"
+    },
+    "fitness-studios": {
+      "meta": {
+        "title": "Social Media for Gyms, Personal Trainers & Class Providers",
+        "description": "Social media management for gyms, yoga studios and class providers: show the atmosphere, lower the barriers to entry and make trial sessions easier."
+      },
+      "name": "Gyms & fitness studios",
+      "short": "Studios, personal trainers and class providers: showing atmosphere and lowering barriers.",
+      "title": "Social media for gyms and class providers",
+      "intro": "Anyone looking for a gym wants to know what it feels like there: Who trains here? What are the trainers like? Will I fit in? Social media can answer these questions before someone comes for a trial session.",
+      "challenges": [
+        {
+          "title": "Interchangeable content",
+          "text": "Motivational quotes and stock images don’t show what makes your studio special."
+        },
+        {
+          "title": "A high barrier for beginners",
+          "text": "Many interested people don’t dare to come because all they see is very fit people."
+        },
+        {
+          "title": "Promotions without lead time",
+          "text": "Course starts and offers are communicated too late or only once."
+        }
+      ],
+      "ideas": [
+        "A tour of the studio as a Reel",
+        "Introducing the trainers",
+        "Exercises explained properly – short and practical for everyday life",
+        "Glimpses of classes, with the participants’ consent",
+        "Answers to beginners’ questions: how the trial session works, what to wear, times",
+        "Announcing course starts and promotions with plenty of notice"
+      ],
+      "approach": [
+        {
+          "title": "Real people instead of stock material",
+          "text": "We film at your studio – with your team and members who are keen to take part."
+        },
+        {
+          "title": "Knowledge as a series",
+          "text": "Recurring formats such as an exercise of the week make your profile useful and easy to plan."
+        },
+        {
+          "title": "Promotions with a plan",
+          "text": "Course starts and offers are announced in good time and across several posts."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can members be filmed while training?",
+          "a": "Only with their consent. That is why we film specifically with people who have agreed, or at times when the studio is reserved for the shoot."
+        },
+        {
+          "q": "Which platform suits a gym?",
+          "a": "For most studios Instagram is the most important channel, because Reels and Stories convey atmosphere well. Whether TikTok or Facebook also makes sense depends on your target audience – we work that out in the strategy."
+        }
+      ],
+      "relatedPost": "social-media-strategy-small-business"
+    },
+    "local-businesses": {
+      "meta": {
+        "title": "Social Media for Local Businesses, Retail & Trades",
+        "description": "Social media management for local businesses in and around Münster: making retailers, trades, practices and service providers visible – with on-site content."
+      },
+      "name": "Local businesses",
+      "short": "Retail, trades, practices and service providers: becoming visible in your own region.",
+      "title": "Social media for local businesses",
+      "intro": "Local businesses don’t need to reach the whole of Germany – they need to reach the people in their area. Social media helps you stay part of the conversation there: with faces, glimpses behind the scenes and information that matters to the neighbourhood.",
+      "challenges": [
+        {
+          "title": "“But what are we supposed to post?”",
+          "text": "Many businesses underestimate how interesting their everyday work is to outsiders."
+        },
+        {
+          "title": "Reach in the wrong place",
+          "text": "Attention from other cities is of little use if you want to win customers locally."
+        },
+        {
+          "title": "Finding skilled staff",
+          "text": "Job applicants also look at social media profiles before they get in touch."
+        }
+      ],
+      "ideas": [
+        "Glimpses of the workshop, shop or practice",
+        "Introducing the team and new colleagues",
+        "New products, projects or completed work",
+        "Answers to frequently asked customer questions",
+        "Local ties: events, the neighbourhood, collaborations",
+        "Job vacancies and glimpses of everyday working life"
+      ],
+      "approach": [
+        {
+          "title": "Finding topics",
+          "text": "In a workshop we collect what is worth telling about your business – usually more than you’d think."
+        },
+        {
+          "title": "A local focus",
+          "text": "Location tags, regional references and suitable hashtags make sure content is found in the region."
+        },
+        {
+          "title": "A regular presence",
+          "text": "A realistic rhythm that can be kept up even in busy weeks."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is social media worth it for a small local business?",
+          "a": "It is worth it if your customers spend time there and you can offer regular glimpses of your work. Social media doesn’t replace good work, but it makes it visible – to new customers and potential employees alike."
+        },
+        {
+          "q": "Where do you work on site?",
+          "a": "We currently offer shoots in Münster and the Münsterland. Other locations are possible by arrangement; strategy and channel management work throughout Germany, even without an on-site shoot."
+        }
+      ],
+      "relatedPost": "social-media-marketing-small-business"
+    }
+  }
+}

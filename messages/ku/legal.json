@@ -1,0 +1,99 @@
+{
+  "imprint": {
+    "meta": { "title": "Impressum (agahiyên qanûnî)", "description": "Impressum û agahiyên qanûnî yên pêşkêşkar ên Social Media Komplett, ajansa medyaya civakî ji Münsterê: navnîşan, têkilî û berpirsiyarî." },
+    "title": "Impressum (agahiyên qanûnî)",
+    "providerTitle": "Agahî li gorî § 5 DDG",
+    "contactTitle": "Têkilî",
+    "representedTitle": "Tê temsîlkirin ji aliyê",
+    "vatTitle": "Hejmara nasnameya baca nirxa zêdekirî",
+    "vatText": "Hejmara nasnameya baca nirxa zêdekirî li gorî § 27a UStG (qanûna baca nirxa zêdekirî ya Almanyayê):",
+    "registerTitle": "Qeyda di sicîlê de",
+    "registerCourt": "Dadgeha sicîlê",
+    "registerNumber": "Hejmara sicîlê",
+    "responsibleTitle": "Berpirsiyarê redaksiyonê li gorî § 18 Abs. 2 MStV",
+    "disputeTitle": "Çareserkirina nakokiyên xerîdaran",
+    "disputeText": "Em ne amade ne û ne jî mecbûr in ku beşdarî pêvajoyên çareserkirina nakokiyan li ber saziyeke lihevanîna xerîdaran bibin.",
+    "liabilityTitle": "Berpirsiyarî ji bo naverok û lînkan",
+    "liabilityText": "Naveroka vê malperê bi baldarî hatiye amadekirin. Lê belê em nikarin ji bo rastî, temamî û rojanebûna naverokê garantiyê bidin. Ji bo naveroka rûpelên derve yên ku lînk ji wan re hatiye dayîn, tenê xwediyên wan rûpelan berpirsiyar in.",
+    "copyrightTitle": "Mafê telîfê",
+    "copyrightText": "Naverok û berhemên ku li ser vê malperê hatine çêkirin di bin mafê telîfê yê Almanyayê de ne. Zêdekirin, guhertin û belavkirina li derveyî sînorên mafê telîfê hewcedarê destûra nivîskî ne.",
+    "labels": { "name": "Nav / şîrket", "address": "Navnîşan", "email": "E-name", "phone": "Telefon" }
+  },
+  "privacy": {
+    "meta": { "title": "Daxuyaniya parastina daneyan", "description": "Agahî li ser bikaranîna daneyên kesane li ser malpera Social Media Komplett: kîjan dane, ji bo çi armancê û mafên we çi ne." },
+    "title": "Daxuyaniya parastina daneyan",
+    "intro": "Li vir em agahdar dikin ka dema serdana vê malperê kîjan daneyên kesane tên bikaranîn, ji bo çi armancê û mafên we çi ne.",
+    "controllerTitle": "1. Berpirsiyar",
+    "controllerText": "Berpirsiyarê bikaranîna daneyan li ser vê malperê li gorî Rêziknameya Giştî ya Parastina Daneyan (GDPR, bi almanî DSGVO) ev e:",
+    "sections": [
+      {
+        "title": "2. Hosting û pelên log ên serverê",
+        "paragraphs": [
+          "Ev malper li cem pêşkêşkarekî hostingê yê derve tê xebitandin. Dema vekirina malperê hoster daneyên ku ji aliyê teknîkî ve pêwîst in bi kar tîne, bi taybetî navnîşana IP, dîrok û saeta gihîştinê, rûpela vekirî, mîqdara daneyên veguhastî û agahiyên gerok û pergala xebatê.",
+          "Ev bikaranîn li ser bingeha Art. 6 Abs. 1 lit. f DSGVO pêk tê. Berjewendiya me ya rewa xebitandina ewle û stabîl a malperê ye. Bi hoster re peymaneke li ser bikaranîna daneyan bi navê me (Auftragsverarbeitung) heye.",
+          "[Berî weşandinê divê bê temamkirin: nav û navnîşana hoster, cihê serverê, dema hilanîna pelên log û bingeha veguhastineke muhtemel bo welatên sêyem.]"
+        ]
+      },
+      {
+        "title": "3. Forma têkiliyê û têkilîdanîn",
+        "paragraphs": [
+          "Dema hûn bi rêya forma têkiliyê an bi e-nameyê ji me re dinivîsin, em agahiyên ku we dane (nav, karsazî, navnîşana e-nameyê, bi bijarteyî hejmara telefonê, sektor, xizmetên xwestî û peyama we) bi kar tînin da ku bersiva daxwaza we bidin.",
+          "Bingeha hiqûqî Art. 6 Abs. 1 lit. b DSGVO ye, heke daxwaza we ji bo girêdana peymanekê be; wekî din Art. 6 Abs. 1 lit. f DSGVO (berjewendiya rewa ya bersivdana daxwazan).",
+          "Ji bo parastina li hemberî xirabkaranînê em dema şandinê ji bo demeke kurt navnîşana IP ya we bi kar tînin, da ku hejmara daxwazan bi sînor bikin. Di vê navberê de navnîşana IP bi awayekî herdemî nayê hilanîn.",
+          "Ji bo gihandina peyamên formê em pêşkêşkarekî şandina e-nameyan wek bikarhênerê daneyan bi navê me bi kar tînin. [Berî weşandinê divê bê temamkirin: nav û navenda pêşkêşkar, bingeha veguhastineke muhtemel bo welatên sêyem.]",
+          "Em daxwaza we jê dibin, gava ku ew bi temamî hatibe bersivandin û ti erkên qanûnî yên hilanînê li pêşiya vê nebin."
+        ]
+      },
+      {
+        "title": "4. Cookie û hilanîna herêmî",
+        "paragraphs": [
+          "Ev malper ji bo armancên analîz an reklamê ti cookie bi kar nayne û ti xizmetên şopandinê (tracking) tê de nînin.",
+          "Heke hûn bi rêya hilbijartina zimanî bi eşkereyî zimanekî hilbijêrin, em vê hilbijartinê di cookie-yekê de hiltînin (“smk_locale”, dem: salek), da ku hûn dema vekirina paşîn a navnîşana destpêkê dîsa bigihîjin zimanê xwe. Hilbijartina we ya di mîhengên cookie de bi awayekî herêmî di geroka we de tê hilanîn. Her du jî ji aliyê teknîkî ve pêwîst in da ku fonksiyoneke ku we bi eşkereyî xwestiye bê pêşkêşkirin (§ 25 Abs. 2 Nr. 2 TDDDG).",
+          "Heke em di pêşerojê de xizmetên analîz an marketîngê bi kar bînin, ew ê tenê piştî razîbûna we ya eşkere bên barkirin. Hûn dikarin hilbijartina xwe her dem di mîhengên cookie de biguherînin."
+        ]
+      },
+      {
+        "title": "5. Tîp (font) û naveroka derve",
+        "paragraphs": [
+          "Fontên ku li ser vê malperê tên bikaranîn ji serverê me bi xwe tên şandin. Dema vekirina rûpelê ti girêdan bi serverên pêşkêşkarên fontan re nayê danîn. Ti medyayên derve wek vîdyo an nexşe bêyî tevgera we nayên barkirin."
+        ]
+      },
+      {
+        "title": "6. Mafên we",
+        "paragraphs": [
+          "Mafê we heye ku hûn li ser daneyên ku derbarê we de hatine hilanîn agahiyê bistînin (Art. 15 DSGVO), mafê rastkirinê (Art. 16 DSGVO), jêbirinê (Art. 17 DSGVO), sînordarkirina bikaranînê (Art. 18 DSGVO), veguhastina daneyan (Art. 20 DSGVO) û her wiha mafê îtirazê li dijî bikaranîneke ku li ser berjewendiyên rewa ava bûye (Art. 21 DSGVO).",
+          "Hûn dikarin razîbûneke ku we daye her dem bi bandor ji bo pêşerojê paş ve bikişînin.",
+          "Ji bilî vê mafê we heye ku hûn li cem saziyeke çavdêriya parastina daneyan gilî bikin. Ji bo Nordrhein-Westfalen saziya berpirsiyar Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen e (Berpirsiyara Eyaletê ya Parastina Daneyan û Azadiya Agahiyê)."
+        ]
+      },
+      {
+        "title": "7. Rojanebûna vê daxuyaniyê",
+        "paragraphs": [
+          "Em vê daxuyaniya parastina daneyan nû dikin, heke malper an şertên hiqûqî biguherin. Her dem ew guhertoya ku li vir hatiye weşandin derbasdar e."
+        ]
+      }
+    ]
+  },
+  "cookies": {
+    "meta": { "title": "Mîhengên cookie", "description": "Kurtenêrîn û mîhengên cookie û hilanîna herêmî li ser malpera Social Media Komplett: çi tê hilanîn û hûn çawa dikarin hilbijartina xwe biguherînin." },
+    "title": "Mîhengên cookie",
+    "intro": "Ev malper bêyî şopandinê (tracking) dixebite. Li vir hûn dibînin ka çi tê hilanîn û hûn dikarin hilbijartina xwe her dem biguherînin.",
+    "essentialTitle": "Pêwîst",
+    "essentialText": "Ji bo fonksiyonên ku hûn bi eşkereyî bi kar tînin pêwîst e. Ev hilanîn nayê neçalakkirin.",
+    "essentialItems": [
+      { "name": "smk_locale", "purpose": "Zimanê ku we bi eşkereyî hilbijartiye di bîra xwe de digire.", "duration": "1 sal", "type": "Cookie" },
+      { "name": "smk_consent", "purpose": "Hilbijartina we ya li ser vê rûpelê hiltîne.", "duration": "heta ku hûn jê bibin", "type": "Hilanîna herêmî" }
+    ],
+    "tableHeaders": { "name": "Nav", "purpose": "Armanc", "duration": "Dem", "type": "Cure" },
+    "analyticsTitle": "Statîstîk",
+    "analyticsText": "Em niha ti xizmetên analîzê bi kar naynin. Heke ev biguhere, ew ê tenê wê demê bên barkirin ku hûn li vir erê bikin.",
+    "marketingTitle": "Marketîng",
+    "marketingText": "Em niha ti xizmetên marketîngê an pîkselên reklamê bi kar naynin. Heke ev biguhere, ew ê tenê wê demê bên barkirin ku hûn li vir erê bikin.",
+    "alwaysOn": "Her dem çalak",
+    "allow": "Destûrê bidin",
+    "save": "Hilbijartinê tomar bikin",
+    "saved": "Hilbijartina we hat tomarkirin.",
+    "rejectAll": "Tenê yên pêwîst",
+    "noneActive": "Niha nayê bikaranîn"
+  }
+}

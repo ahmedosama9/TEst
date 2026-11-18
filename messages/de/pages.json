@@ -1,0 +1,566 @@
+{
+  "portfolio": {
+    "meta": {
+      "title": "Portfolio: Beispiele für Social-Media-Content",
+      "description": "Beispiele für Reels, Karussells, Fotostrecken und Story-Formate für lokale Unternehmen. Demonstrationsbeispiele von Social Media Komplett, keine Kundenprojekte."
+    },
+    "eyebrow": "Portfolio",
+    "title": "Beispiele für Content-Formate",
+    "intro": "Hier siehst du, welche Formate wir für lokale Unternehmen umsetzen und wofür sie sich eignen.",
+    "disclaimerTitle": "Hinweis zu den Beispielen",
+    "disclaimer": "Alle gezeigten Motive sind Demonstrationsbeispiele. Sie stellen keine realen Kundenprojekte dar und enthalten keine Ergebnisse oder Kennzahlen. Echte Fallstudien veröffentlichen wir hier, sobald sie mit Zustimmung unserer Kundinnen und Kunden vorliegen.",
+    "formatLabel": "Format",
+    "industryLabel": "Branche",
+    "goalLabel": "Geeignet für",
+    "items": [
+      {
+        "title": "Küchen-Reel: ein Gericht entsteht",
+        "industry": "Gastronomie",
+        "format": "Reel",
+        "goal": "Appetit machen und neue Gäste in der Umgebung erreichen",
+        "description": "Vom ersten Handgriff bis zum fertigen Teller in wenigen Sekunden – mit Untertiteln und Titelbild im Stil des Restaurants."
+      },
+      {
+        "title": "Vorher-nachher-Karussell",
+        "industry": "Beauty & Salons",
+        "format": "Karussell",
+        "goal": "Ergebnisse zeigen und Vertrauen aufbauen",
+        "description": "Mehrere Bilder einer Verwandlung in einheitlichem Licht, ergänzt um eine kurze Erklärung der Behandlung."
+      },
+      {
+        "title": "Studio-Rundgang",
+        "industry": "Fitnessstudios",
+        "format": "Reel",
+        "goal": "Hemmschwellen abbauen und zum Probetraining einladen",
+        "description": "Ein kurzer Gang durch Trainingsfläche, Kursraum und Empfang – aus der Perspektive eines neuen Mitglieds."
+      },
+      {
+        "title": "Team-Vorstellung",
+        "industry": "Lokale Unternehmen",
+        "format": "Fotostrecke",
+        "goal": "Nahbar wirken und Fachkräfte ansprechen",
+        "description": "Porträts mit kurzen Zitaten: Wer arbeitet hier, und was macht die Arbeit aus?"
+      },
+      {
+        "title": "Wochenkarte als Story-Serie",
+        "industry": "Gastronomie",
+        "format": "Story",
+        "goal": "Stammgäste aktuell informieren",
+        "description": "Eine wiederverwendbare Vorlage, die jede Woche in wenigen Minuten aktualisiert ist."
+      },
+      {
+        "title": "Drei Fragen, drei Antworten",
+        "industry": "Lokale Unternehmen",
+        "format": "Reel",
+        "goal": "Kompetenz zeigen und Anfragen vorbereiten",
+        "description": "Kurze Antworten auf Fragen, die im Laden oder am Telefon immer wieder gestellt werden."
+      }
+    ]
+  },
+  "about": {
+    "meta": {
+      "title": "Über uns: Social-Media-Agentur aus Münster",
+      "description": "Social Media Komplett ist eine Social-Media-Agentur aus Münster für lokale Unternehmen. Erfahre, wofür wir stehen, wie wir arbeiten und wo wir tätig sind."
+    },
+    "eyebrow": "Über uns",
+    "title": "Social Media Komplett: die Agentur für Unternehmen vor Ort",
+    "intro": "Social Media Komplett ist eine Social-Media-Agentur aus Münster. Wir erstellen Content, produzieren Reels und betreuen die Kanäle von Unternehmen, die vor Ort überzeugen – in der Gastronomie, in Salons, in Studios und im lokalen Handel.",
+    "storyTitle": "Warum es uns gibt",
+    "story": [
+      "Viele gute Betriebe sind online kaum sichtbar. Nicht, weil sie nichts zu zeigen hätten, sondern weil im Alltag die Zeit fehlt: für Ideen, für den Dreh, für den Schnitt und für die regelmäßige Veröffentlichung.",
+      "Genau hier setzen wir an. Wir kommen in den Betrieb, produzieren Inhalte, die nach dem Unternehmen aussehen, und kümmern uns anschließend darum, dass sie regelmäßig erscheinen und Fragen aus der Community beantwortet werden.",
+      "Unser Anspruch steckt im Namen: komplett. Du bekommst nicht nur einzelne Beiträge, sondern einen verlässlichen Ablauf von der Planung bis zur Auswertung."
+    ],
+    "valuesTitle": "Wofür wir stehen",
+    "values": [
+      {
+        "title": "Ehrlichkeit",
+        "text": "Wir versprechen keine Followerzahlen und keine Umsätze. Wir versprechen saubere Arbeit, klare Abläufe und eine offene Auswertung."
+      },
+      {
+        "title": "Nähe",
+        "text": "Wir lernen deinen Betrieb vor Ort kennen. Nur so entstehen Inhalte, die zu dir passen."
+      },
+      {
+        "title": "Verlässlichkeit",
+        "text": "Abgestimmte Termine, feste Freigaben, regelmäßige Berichte – du weißt, was wann passiert."
+      },
+      {
+        "title": "Verständlichkeit",
+        "text": "Wir erklären, was wir tun und warum. Ohne Fachbegriffe, die niemand braucht."
+      }
+    ],
+    "factsTitle": "Auf einen Blick",
+    "facts": {
+      "what": {
+        "label": "Was wir tun",
+        "value": "Social Media Management, Content-Erstellung, Reels & Videoproduktion, Strategie und Community Management"
+      },
+      "who": {
+        "label": "Für wen",
+        "value": "Lokale Unternehmen, insbesondere Gastronomie, Beauty & Salons, Fitnessstudios, Handel und Dienstleister"
+      },
+      "base": {
+        "label": "Standort",
+        "value": "Münster, Nordrhein-Westfalen"
+      },
+      "area": {
+        "label": "Einsatzgebiet",
+        "value": "Vor-Ort-Produktion in {areas}; Betreuung in ganz {remote}"
+      },
+      "platforms": {
+        "label": "Plattformen",
+        "value": "Instagram, Facebook und TikTok"
+      }
+    },
+    "teamTitle": "Wer hinter Social Media Komplett steht",
+    "languagesTitle": "Sprachen",
+    "languagesText": "Diese Website ist auf Deutsch, Englisch, Arabisch, Kurdisch und Türkisch verfügbar. Beratung und Betreuung bieten wir aktuell auf Deutsch an. Wenn du dir ein Gespräch in einer anderen Sprache wünschst, schreib es gern in deine Anfrage – wir sagen dir offen, was möglich ist."
+  },
+  "process": {
+    "meta": {
+      "title": "Ablauf: So funktioniert die Zusammenarbeit",
+      "description": "In fünf Schritten vom Erstgespräch zur laufenden Betreuung: Kennenlernen, Strategie, Content-Produktion vor Ort, Veröffentlichung und Auswertung."
+    },
+    "eyebrow": "Ablauf",
+    "title": "Unser Ablauf: in fünf Schritten zu betreuten Kanälen",
+    "intro": "Ein klarer Ablauf spart dir Zeit und sorgt dafür, dass nichts liegen bleibt. So arbeiten wir – vom ersten Gespräch bis zur monatlichen Auswertung.",
+    "stepLabel": "Schritt {n}",
+    "steps": [
+      {
+        "title": "Kostenloses Erstgespräch",
+        "text": "Wir lernen dein Unternehmen kennen und klären, was du dir von Social Media erhoffst.",
+        "details": [
+          "Aktueller Stand deiner Kanäle",
+          "Ziele und Zielgruppe",
+          "Passender Umfang und nächste Schritte"
+        ]
+      },
+      {
+        "title": "Strategie und Plan",
+        "text": "Wir legen Kanäle, Themen, Formate und Rhythmus fest und fassen alles in einem Redaktionsplan zusammen.",
+        "details": [
+          "Kanalauswahl und Positionierung",
+          "Wiederkehrende Formate",
+          "Redaktionsplan zur Freigabe"
+        ]
+      },
+      {
+        "title": "Content-Produktion vor Ort",
+        "text": "Wir kommen in deinen Betrieb und produzieren Fotos und Videos – gebündelt an festen Drehterminen.",
+        "details": [
+          "Vorbereitung mit Ideenliste",
+          "Dreh von Reels und Fotos",
+          "Schnitt, Untertitel, Grafiken und Texte"
+        ]
+      },
+      {
+        "title": "Freigabe und Veröffentlichung",
+        "text": "Du siehst alle Inhalte vorab. Nach deiner Freigabe veröffentlichen wir sie planmäßig.",
+        "details": [
+          "Übersichtliche Freigabe",
+          "Geplante Veröffentlichung",
+          "Community Management je nach Paket"
+        ]
+      },
+      {
+        "title": "Auswertung und Optimierung",
+        "text": "Wir werten regelmäßig aus, was funktioniert, und passen Themen und Formate an.",
+        "details": [
+          "Verständlicher Bericht",
+          "Konkrete Empfehlungen",
+          "Planung des nächsten Monats"
+        ]
+      }
+    ],
+    "onsiteTitle": "Wie läuft ein Drehtermin vor Ort ab?",
+    "onsite": [
+      {
+        "title": "Vor dem Termin",
+        "text": "Du erhältst eine Ideenliste und einen Ablaufplan. Wir klären, wer und was gezeigt werden darf."
+      },
+      {
+        "title": "Am Drehtag",
+        "text": "Wir bringen die Technik mit und arbeiten die Liste ab – möglichst ohne deinen Betrieb aufzuhalten."
+      },
+      {
+        "title": "Nach dem Termin",
+        "text": "Wir schneiden, gestalten und texten. Du bekommst die fertigen Inhalte zur Freigabe."
+      }
+    ],
+    "yourPartTitle": "Was wir von dir brauchen",
+    "yourPart": [
+      "Einen festen Ansprechpartner für Rückfragen und Freigaben",
+      "Zugang zu deinen Kanälen im vereinbarten Umfang",
+      "Zeit für die Drehtermine und Informationen zu Aktionen, Terminen und Neuigkeiten"
+    ]
+  },
+  "packages": {
+    "meta": {
+      "title": "Pakete: Starter, Business & Komplett",
+      "description": "Die Social-Media-Pakete von Social Media Komplett im Vergleich: Starter, Business und Komplett. Umfang, Zusatzleistungen und Konditionen – Preise auf Anfrage."
+    },
+    "eyebrow": "Pakete",
+    "title": "Social-Media-Pakete für jede Ausgangslage",
+    "intro": "Drei Pakete als Orientierung. Den konkreten Umfang – Anzahl der Beiträge, Reels und Drehtermine – stimmen wir im Erstgespräch auf dein Unternehmen ab.",
+    "priceNote": "Preise nennen wir dir nach einem kurzen Gespräch, weil der Umfang je nach Betrieb stark variiert. Du erhältst ein schriftliches Angebot mit festem Monatspreis.",
+    "items": {
+      "starter": {
+        "name": "Starter",
+        "tagline": "Für den verlässlichen Einstieg",
+        "audience": "Für Unternehmen, die einen Kanal regelmäßig und professionell bespielen möchten.",
+        "features": [
+          "Betreuung eines Kanals",
+          "Redaktionsplan zur Freigabe",
+          "Beiträge mit Fotos, Grafiken und Texten",
+          "Planung und Veröffentlichung",
+          "Regelmäßiger Kurzbericht"
+        ]
+      },
+      "business": {
+        "name": "Business",
+        "tagline": "Für sichtbares Wachstum",
+        "audience": "Für Betriebe, die mit Reels neue Kundschaft erreichen und Anfragen zuverlässig beantworten wollen.",
+        "features": [
+          "Alles aus Starter",
+          "Regelmäßige Reels-Produktion",
+          "Drehtermine vor Ort",
+          "Strategie-Workshop zum Start",
+          "Community Management",
+          "Ausführlicher Monatsbericht"
+        ]
+      },
+      "komplett": {
+        "name": "Komplett",
+        "tagline": "Die Rundum-Betreuung",
+        "audience": "Für Unternehmen, die Social Media vollständig abgeben und auf mehreren Kanälen präsent sein möchten.",
+        "features": [
+          "Alles aus Business",
+          "Mehrere Kanäle",
+          "Erweiterter Umfang an Reels und Beiträgen",
+          "Stories und aktuelle Inhalte",
+          "Regelmäßige Abstimmungstermine",
+          "Priorisierte Umsetzung kurzfristiger Themen"
+        ]
+      }
+    },
+    "compareTitle": "Pakete im Vergleich",
+    "compareCaption": "Vergleich der Pakete Starter, Business und Komplett",
+    "compareFeature": "Leistung",
+    "rows": {
+      "price": "Monatspreis",
+      "channels": "Betreute Kanäle",
+      "posts": "Beiträge pro Monat",
+      "reels": "Reels pro Monat",
+      "shoots": "Drehtermine vor Ort pro Monat",
+      "community": "Community Management",
+      "strategy": "Strategie-Workshop",
+      "report": "Regelmäßiger Bericht"
+    },
+    "termsTitle": "Konditionen",
+    "terms": {
+      "term": {
+        "label": "Vertragslaufzeit",
+        "value": "Mindestlaufzeit von {months} Monaten",
+        "fallback": "Laufzeit und Kündigungsfrist nach Vereinbarung – beides steht transparent im Angebot."
+      },
+      "travel": {
+        "label": "Anfahrt",
+        "value": "Anfahrten bis {km} km ab {city} sind enthalten.",
+        "fallback": "Anfahrten innerhalb unseres Einsatzgebiets regeln wir im Angebot; weitere Strecken nach Absprache."
+      },
+      "billing": {
+        "label": "Abrechnung",
+        "value": "Monatlich zum vereinbarten Festpreis. Werbebudgets für bezahlte Anzeigen sind nicht enthalten und werden direkt an die Plattform gezahlt."
+      },
+      "rights": {
+        "label": "Nutzungsrechte",
+        "value": "Die Nutzung der erstellten Inhalte für deine eigenen Kanäle regeln wir im Angebot."
+      }
+    },
+    "addonsTitle": "Zusatzleistungen",
+    "addonsIntro": "Jedes Paket lässt sich erweitern. Preise auf Anfrage.",
+    "addons": {
+      "extraReels": {
+        "title": "Zusätzliche Reels",
+        "text": "Mehr Kurzvideos für Aktionen, Events oder saisonale Themen."
+      },
+      "extraShoot": {
+        "title": "Zusätzlicher Drehtermin",
+        "text": "Ein weiterer Termin vor Ort, zum Beispiel für eine Neueröffnung."
+      },
+      "adsManagement": {
+        "title": "Betreuung bezahlter Anzeigen",
+        "text": "Einrichtung und Pflege von Kampagnen auf Instagram und Facebook."
+      },
+      "photoShoot": {
+        "title": "Fotoshooting",
+        "text": "Ein eigenes Shooting für Website, Speisekarte oder Teamfotos."
+      }
+    },
+    "explainerTitle": "Was kostet Social Media Management in Deutschland?",
+    "explainer": [
+      "Eine pauschale Antwort gibt es nicht, weil der Preis vom Umfang abhängt. Die wichtigsten Faktoren sind die Anzahl der betreuten Kanäle, die Menge an Beiträgen und Reels pro Monat, die Zahl der Drehtermine vor Ort samt Anfahrt, ob Community Management enthalten ist und wie lange der Vertrag läuft.",
+      "Üblich sind monatliche Pauschalen für die laufende Betreuung sowie Projektpreise für einzelne Leistungen wie einen Drehtag oder eine Strategie. Achte beim Vergleich von Angeboten darauf, was konkret enthalten ist – insbesondere Produktion, Korrekturschleifen, Nutzungsrechte und Berichte.",
+      "Unsere Preise nennen wir dir nach einem kurzen, kostenlosen Erstgespräch in einem schriftlichen Angebot."
+    ],
+    "explainerLink": "Ausführlicher Ratgeber: Was kostet Social Media Betreuung?",
+    "faq": [
+      {
+        "q": "Warum stehen hier keine Preise?",
+        "a": "Weil der Aufwand von Betrieb zu Betrieb sehr unterschiedlich ist. Statt eines Preises, der am Ende nicht passt, bekommst du nach dem Erstgespräch ein konkretes Angebot mit festem Monatspreis."
+      },
+      {
+        "q": "Kann ich das Paket später wechseln?",
+        "a": "Ja. Wenn sich dein Bedarf ändert, passen wir den Umfang zum nächstmöglichen Zeitpunkt an. Die Details stehen im Angebot."
+      },
+      {
+        "q": "Sind Werbeanzeigen im Paket enthalten?",
+        "a": "Nein. Die Pakete umfassen organische Inhalte und Betreuung. Bezahlte Anzeigen können als Zusatzleistung gebucht werden; das Werbebudget zahlst du direkt an die Plattform."
+      },
+      {
+        "q": "Garantiert ihr Ergebnisse?",
+        "a": "Nein, und wir raten zur Vorsicht bei allen, die das tun. Reichweite und Anfragen hängen von vielen Faktoren ab, die niemand vollständig kontrolliert. Wir garantieren den vereinbarten Leistungsumfang, saubere Arbeit und eine ehrliche Auswertung."
+      }
+    ]
+  },
+  "faq": {
+    "meta": {
+      "title": "FAQ: Fragen und Antworten zur Social-Media-Betreuung",
+      "description": "Antworten auf häufige Fragen: Was ist Social Media Management, was kostet es, wie läuft die Zusammenarbeit ab und kommt die Agentur zu mir in den Betrieb?"
+    },
+    "eyebrow": "FAQ",
+    "title": "Häufig gestellte Fragen",
+    "intro": "Hier findest du kurze, ehrliche Antworten auf die Fragen, die uns Unternehmen am häufigsten stellen. Deine Frage fehlt? Schreib uns.",
+    "groups": [
+      {
+        "title": "Grundlagen",
+        "items": [
+          {
+            "q": "Was ist Social Media Management?",
+            "a": "Social Media Management umfasst alle wiederkehrenden Aufgaben rund um die Social-Media-Kanäle eines Unternehmens: Themen planen, Inhalte erstellen, Beiträge veröffentlichen, auf Kommentare und Nachrichten reagieren und die Ergebnisse auswerten."
+          },
+          {
+            "q": "Was macht eine Social-Media-Agentur?",
+            "a": "Sie übernimmt diese Aufgaben ganz oder teilweise für ein Unternehmen. Bei Social Media Komplett gehören dazu Strategie, Content-Erstellung, Reels-Produktion vor Ort, Veröffentlichung, Community Management und Auswertung."
+          },
+          {
+            "q": "Lohnt es sich, Social Media auszulagern?",
+            "a": "Es lohnt sich, wenn im Betrieb Zeit oder Know-how für regelmäßige, gut gemachte Inhalte fehlen. Wer gern selbst postet, kann stattdessen einzelne Bausteine wie einen Drehtermin oder eine Strategie buchen."
+          },
+          {
+            "q": "Für welche Unternehmen arbeitet ihr?",
+            "a": "Vor allem für lokale Unternehmen: Gastronomie, Friseur- und Beauty-Salons, Fitnessstudios, Einzelhandel, Handwerk und Dienstleister."
+          }
+        ]
+      },
+      {
+        "title": "Zusammenarbeit",
+        "items": [
+          {
+            "q": "Wie läuft die Zusammenarbeit ab?",
+            "a": "In fünf Schritten: kostenloses Erstgespräch, Strategie und Redaktionsplan, Content-Produktion vor Ort, Freigabe und Veröffentlichung, regelmäßige Auswertung."
+          },
+          {
+            "q": "Kommt ihr für Aufnahmen zu mir in den Betrieb?",
+            "a": "Ja. Fotos und Videos entstehen direkt bei dir. Vor-Ort-Termine bieten wir aktuell in Münster und im Münsterland an; weitere Orte sind nach Absprache möglich."
+          },
+          {
+            "q": "Wie viel Zeit muss ich selbst einplanen?",
+            "a": "Deutlich weniger als bisher: Zeit für die Drehtermine, für die Freigabe der Inhalte und für kurze Abstimmungen. Alles andere übernehmen wir."
+          },
+          {
+            "q": "Sehe ich Beiträge, bevor sie online gehen?",
+            "a": "Ja. Du erhältst die Inhalte vorab zur Freigabe. Ohne deine Zustimmung wird nichts veröffentlicht."
+          },
+          {
+            "q": "In welchen Sprachen arbeitet ihr?",
+            "a": "Beratung und Betreuung bieten wir aktuell auf Deutsch an. Wenn du Inhalte oder Gespräche in einer anderen Sprache benötigst, sprich uns an – wir sagen dir offen, was möglich ist."
+          }
+        ]
+      },
+      {
+        "title": "Kosten und Vertrag",
+        "items": [
+          {
+            "q": "Was kostet Social Media Management in Deutschland?",
+            "a": "Das hängt vom Umfang ab: Anzahl der Kanäle, Beiträge und Reels pro Monat, Drehtermine vor Ort, Community Management und Vertragslaufzeit. Üblich sind monatliche Pauschalen. Unsere Preise erhältst du nach einem kostenlosen Erstgespräch als schriftliches Angebot."
+          },
+          {
+            "q": "Gibt es eine Mindestlaufzeit?",
+            "a": "Laufzeit und Kündigungsfrist stehen transparent im Angebot. Social Media braucht Regelmäßigkeit über mehrere Monate, um Wirkung zu zeigen – das berücksichtigen wir bei der Empfehlung."
+          },
+          {
+            "q": "Wem gehören die Konten und Inhalte?",
+            "a": "Die Konten bleiben immer deine. Die Nutzungsrechte an den erstellten Inhalten regeln wir im Angebot."
+          }
+        ]
+      },
+      {
+        "title": "Ergebnisse",
+        "items": [
+          {
+            "q": "Wie schnell sehe ich Ergebnisse?",
+            "a": "Ein gepflegtes, einheitliches Profil ist schnell sichtbar. Reichweite, Community und Anfragen entwickeln sich in der Regel über mehrere Monate. Eine seriöse Vorhersage in Zahlen ist nicht möglich."
+          },
+          {
+            "q": "Garantiert ihr mehr Follower oder Umsatz?",
+            "a": "Nein. Niemand kann das seriös garantieren. Wir garantieren den vereinbarten Leistungsumfang und eine ehrliche Auswertung dessen, was erreicht wurde."
+          },
+          {
+            "q": "Wie wird der Erfolg gemessen?",
+            "a": "Anhand von Kennzahlen, die zu deinem Ziel passen – etwa Reichweite, gespeicherte und geteilte Beiträge, Profilaufrufe, Klicks auf Links und eingehende Anfragen. Du erhältst dazu einen regelmäßigen Bericht."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "meta": {
+      "title": "Kontakt: Kostenloses Erstgespräch anfragen",
+      "description": "Nimm Kontakt zu Social Media Komplett in Münster auf und frage dein kostenloses, unverbindliches Erstgespräch zur Social-Media-Betreuung an."
+    },
+    "eyebrow": "Kontakt",
+    "title": "Kostenloses Erstgespräch anfragen",
+    "intro": "Erzähl uns kurz von deinem Unternehmen. Wir melden uns persönlich bei dir und vereinbaren einen Termin für das Erstgespräch.",
+    "nextTitle": "So geht es weiter",
+    "next": [
+      {
+        "title": "Du schreibst uns",
+        "text": "Ein paar Zeilen zu deinem Betrieb und deinen Zielen genügen."
+      },
+      {
+        "title": "Wir melden uns",
+        "text": "Wir vereinbaren einen Termin – telefonisch, per Video oder bei dir vor Ort."
+      },
+      {
+        "title": "Du erhältst einen Vorschlag",
+        "text": "Nach dem Gespräch bekommst du ein konkretes, unverbindliches Angebot."
+      }
+    ],
+    "directTitle": "Direkter Kontakt",
+    "emailLabel": "E-Mail",
+    "phoneLabel": "Telefon",
+    "areaLabel": "Einsatzgebiet",
+    "areaText": "Vor-Ort-Termine in {areas}, Betreuung in ganz {remote}."
+  },
+  "blog": {
+    "meta": {
+      "title": "Ratgeber: Social-Media-Wissen für lokale Unternehmen",
+      "description": "Der Ratgeber von Social Media Komplett: praktische Anleitungen zu Instagram, TikTok, Reels, Content und Strategie für kleine und lokale Unternehmen."
+    },
+    "eyebrow": "Ratgeber",
+    "title": "Der Social-Media-Ratgeber für lokale Unternehmen",
+    "intro": "Praktische Anleitungen, ehrliche Einordnungen und konkrete Ideen – geschrieben für Inhaberinnen und Inhaber, nicht für Marketing-Profis.",
+    "featuredTitle": "Empfohlene Artikel",
+    "latestTitle": "Neueste Artikel",
+    "allTitle": "Alle Artikel",
+    "categoriesTitle": "Kategorien",
+    "allCategories": "Alle Kategorien",
+    "searchLabel": "Artikel durchsuchen",
+    "searchPlaceholder": "Suchbegriff eingeben …",
+    "tagsTitle": "Themen",
+    "clearFilters": "Filter zurücksetzen",
+    "resultsCount": "{count} Artikel gefunden",
+    "noResults": "Zu deiner Suche wurden keine Artikel gefunden.",
+    "emptyCategory": "In dieser Kategorie sind noch keine Artikel erschienen.",
+    "pageTitleSuffix": "Seite {n}",
+    "pagination": {
+      "label": "Seitennavigation",
+      "prev": "Vorherige Seite",
+      "next": "Nächste Seite",
+      "page": "Seite {n}",
+      "current": "Seite {n} von {total}"
+    },
+    "category": {
+      "eyebrow": "Kategorie",
+      "metaTitle": "{name}: Artikel und Anleitungen",
+      "back": "Zurück zum Ratgeber"
+    },
+    "article": {
+      "answerTitle": "Kurz gesagt",
+      "takeawaysTitle": "Das Wichtigste in Kürze",
+      "tocTitle": "Inhalt",
+      "faqTitle": "Häufige Fragen",
+      "relatedTitle": "Das könnte dich auch interessieren",
+      "shareTitle": "Artikel teilen",
+      "copyLink": "Link kopieren",
+      "copied": "Link kopiert",
+      "shareOn": "Auf {network} teilen",
+      "shareByEmail": "Per E-Mail teilen",
+      "published": "Veröffentlicht am",
+      "updated": "Zuletzt aktualisiert am",
+      "readingTime": "{minutes} Min. Lesezeit",
+      "by": "Von",
+      "sourcesTitle": "Quellen",
+      "ctaTitle": "Keine Zeit, das alles selbst umzusetzen?",
+      "ctaText": "Wir übernehmen Planung, Dreh und Betreuung für dich. Im kostenlosen Erstgespräch klären wir, was zu deinem Unternehmen passt.",
+      "relatedServiceLabel": "Passende Leistung",
+      "anchorLabel": "Direktlink zu diesem Abschnitt",
+      "draft": "Entwurf – nicht veröffentlicht",
+      "translationNote": "Dieser Artikel wurde aus dem Deutschen übersetzt und wird derzeit redaktionell geprüft."
+    },
+    "authors": {
+      "redaktion": {
+        "name": "Redaktion Social Media Komplett",
+        "role": "Redaktionsteam",
+        "bio": "Die Artikel im Ratgeber werden vom Team von Social Media Komplett geschrieben und regelmäßig überprüft. Sie beruhen auf unserer praktischen Arbeit mit Social-Media-Kanälen lokaler Unternehmen."
+      }
+    },
+    "authorPage": {
+      "eyebrow": "Autor",
+      "articlesBy": "Artikel von {name}",
+      "metaDescription": "Alle Ratgeber-Artikel von {name} zu Social Media Marketing, Content und Reels für lokale Unternehmen."
+    },
+    "categories": {
+      "social-media-marketing": {
+        "name": "Social Media Marketing",
+        "description": "Grundlagen, Kosten und Einordnung: was Social Media Marketing für kleine Unternehmen leisten kann."
+      },
+      "instagram-marketing": {
+        "name": "Instagram Marketing",
+        "description": "Formate, Rhythmus und Profilaufbau für Unternehmen auf Instagram."
+      },
+      "facebook-marketing": {
+        "name": "Facebook Marketing",
+        "description": "Wie Unternehmen Facebook sinnvoll für lokale Sichtbarkeit nutzen."
+      },
+      "tiktok-marketing": {
+        "name": "TikTok Marketing",
+        "description": "Chancen, Aufwand und Einordnung von TikTok für Unternehmen."
+      },
+      "reels-video-marketing": {
+        "name": "Reels & Video Marketing",
+        "description": "Kurzvideos planen, drehen und veröffentlichen."
+      },
+      "content-creation": {
+        "name": "Content-Erstellung",
+        "description": "Ideen, Fotos, Grafiken und Texte, die zu deiner Marke passen."
+      },
+      "restaurant-marketing": {
+        "name": "Marketing für Restaurants",
+        "description": "Social Media für Restaurants, Cafés und Bars."
+      },
+      "salon-marketing": {
+        "name": "Marketing für Salons",
+        "description": "Social Media für Friseure, Barbershops und Beauty-Salons."
+      },
+      "local-business-marketing": {
+        "name": "Lokales Marketing",
+        "description": "Sichtbarkeit für Unternehmen in ihrer eigenen Region."
+      },
+      "social-media-strategy": {
+        "name": "Social-Media-Strategie",
+        "description": "Ziele, Zielgruppen, Kanäle und Kennzahlen."
+      },
+      "ai-tools-marketing": {
+        "name": "KI-Tools im Marketing",
+        "description": "Wo KI-Werkzeuge im Social-Media-Alltag helfen – und wo nicht."
+      },
+      "tips-guides": {
+        "name": "Tipps & Anleitungen",
+        "description": "Kompakte Praxistipps und Schritt-für-Schritt-Anleitungen."
+      }
+    }
+  }
+}

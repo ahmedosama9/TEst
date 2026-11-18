@@ -1,0 +1,566 @@
+{
+  "portfolio": {
+    "meta": {
+      "title": "Portfolio: Examples of Social Media Content",
+      "description": "Examples of Reels, carousels, photo series and Story formats Social Media Komplett produces for local businesses. Demonstration examples, not client projects."
+    },
+    "eyebrow": "Portfolio",
+    "title": "Examples of content formats",
+    "intro": "Here you can see which formats we produce for local businesses and what they are suited to.",
+    "disclaimerTitle": "A note on the examples",
+    "disclaimer": "All visuals shown are demonstration examples. They do not represent real client projects and contain no results or key figures. We will publish real case studies here as soon as they are available with our clients’ consent.",
+    "formatLabel": "Format",
+    "industryLabel": "Industry",
+    "goalLabel": "Suitable for",
+    "items": [
+      {
+        "title": "Kitchen Reel: a dish takes shape",
+        "industry": "Restaurants & hospitality",
+        "format": "Reel",
+        "goal": "Whetting appetites and reaching new guests in the area",
+        "description": "From the first step to the finished plate in a few seconds – with subtitles and a cover image in the restaurant’s style."
+      },
+      {
+        "title": "Before-and-after carousel",
+        "industry": "Beauty & salons",
+        "format": "Carousel",
+        "goal": "Showing results and building trust",
+        "description": "Several images of a transformation in consistent lighting, with a short explanation of the treatment."
+      },
+      {
+        "title": "Studio tour",
+        "industry": "Gyms & fitness studios",
+        "format": "Reel",
+        "goal": "Lowering barriers and inviting people to a trial session",
+        "description": "A short walk through the training floor, class room and reception – from a new member’s point of view."
+      },
+      {
+        "title": "Meet the team",
+        "industry": "Local businesses",
+        "format": "Photo series",
+        "goal": "Coming across as approachable and appealing to skilled staff",
+        "description": "Portraits with short quotes: who works here, and what makes the work special?"
+      },
+      {
+        "title": "Weekly menu as a Story series",
+        "industry": "Restaurants & hospitality",
+        "format": "Story",
+        "goal": "Keeping regulars up to date",
+        "description": "A reusable template that can be updated in a few minutes every week."
+      },
+      {
+        "title": "Three questions, three answers",
+        "industry": "Local businesses",
+        "format": "Reel",
+        "goal": "Showing expertise and paving the way for enquiries",
+        "description": "Short answers to questions that come up again and again in the shop or on the phone."
+      }
+    ]
+  },
+  "about": {
+    "meta": {
+      "title": "About Us: Social Media Agency Based in Münster",
+      "description": "Social Media Komplett is a social media agency based in Münster for local businesses. Find out what we stand for, how we work and where we operate."
+    },
+    "eyebrow": "About us",
+    "title": "Social Media Komplett: the agency for local businesses",
+    "intro": "Social Media Komplett is a social media agency based in Münster. We create content, produce Reels and manage the channels of businesses that win customers over in person – in restaurants and cafés, salons, studios and local retail.",
+    "storyTitle": "Why we exist",
+    "story": [
+      "Many good businesses are barely visible online. Not because they have nothing to show, but because there is no time in day-to-day life: for ideas, for filming, for editing and for publishing regularly.",
+      "This is exactly where we come in. We come to your business, produce content that looks like your business, and then make sure it is published regularly and that questions from the community are answered.",
+      "Our aspiration is in our name: “komplett” – complete. You don’t just get individual posts, but a reliable process from planning through to reporting."
+    ],
+    "valuesTitle": "What we stand for",
+    "values": [
+      {
+        "title": "Honesty",
+        "text": "We don’t promise follower numbers or revenue. We promise sound work, clear processes and open reporting."
+      },
+      {
+        "title": "Closeness",
+        "text": "We get to know your business on site. That is the only way to create content that suits you."
+      },
+      {
+        "title": "Reliability",
+        "text": "Agreed dates, fixed approvals, regular reports – you know what happens when."
+      },
+      {
+        "title": "Clarity",
+        "text": "We explain what we do and why. Without technical terms nobody needs."
+      }
+    ],
+    "factsTitle": "At a glance",
+    "facts": {
+      "what": {
+        "label": "What we do",
+        "value": "Social media management, content creation, Reels & video production, strategy and community management"
+      },
+      "who": {
+        "label": "Who for",
+        "value": "Local businesses, in particular restaurants and cafés, beauty businesses and salons, gyms, retailers and service providers"
+      },
+      "base": {
+        "label": "Location",
+        "value": "Münster, North Rhine-Westphalia"
+      },
+      "area": {
+        "label": "Service area",
+        "value": "On-site production in {areas}; channel management throughout {remote}"
+      },
+      "platforms": {
+        "label": "Platforms",
+        "value": "Instagram, Facebook and TikTok"
+      }
+    },
+    "teamTitle": "Who is behind Social Media Komplett",
+    "languagesTitle": "Languages",
+    "languagesText": "This website is available in German, English, Arabic, Kurdish and Turkish. We currently offer consultation and ongoing support in German. If you would like a conversation in another language, feel free to mention it in your enquiry – we will tell you openly what is possible."
+  },
+  "process": {
+    "meta": {
+      "title": "How It Works: Working with Social Media Komplett",
+      "description": "Five steps from the initial consultation to ongoing management: getting to know you, strategy, on-site content production, publishing and reporting."
+    },
+    "eyebrow": "How it works",
+    "title": "Our process: five steps to professionally managed channels",
+    "intro": "A clear process saves you time and makes sure nothing is left undone. This is how we work – from the first conversation to the monthly review.",
+    "stepLabel": "Step {n}",
+    "steps": [
+      {
+        "title": "Free initial consultation",
+        "text": "We get to know your business and clarify what you hope to gain from social media.",
+        "details": [
+          "Current state of your channels",
+          "Goals and target audience",
+          "Suitable scope and next steps"
+        ]
+      },
+      {
+        "title": "Strategy and plan",
+        "text": "We define channels, topics, formats and rhythm and bring everything together in a content calendar.",
+        "details": [
+          "Channel selection and positioning",
+          "Recurring formats",
+          "Content calendar for approval"
+        ]
+      },
+      {
+        "title": "On-site content production",
+        "text": "We come to your business and produce photos and videos – bundled into fixed shoot dates.",
+        "details": [
+          "Preparation with a list of ideas",
+          "Shooting Reels and photos",
+          "Editing, subtitles, graphics and copy"
+        ]
+      },
+      {
+        "title": "Approval and publishing",
+        "text": "You see all content in advance. Once you have approved it, we publish it as scheduled.",
+        "details": [
+          "Straightforward approval",
+          "Scheduled publishing",
+          "Community management depending on the package"
+        ]
+      },
+      {
+        "title": "Reporting and optimisation",
+        "text": "We regularly evaluate what is working and adjust topics and formats.",
+        "details": [
+          "Easy-to-understand report",
+          "Specific recommendations",
+          "Planning the next month"
+        ]
+      }
+    ],
+    "onsiteTitle": "What happens at an on-site shoot?",
+    "onsite": [
+      {
+        "title": "Before the shoot",
+        "text": "You receive a list of ideas and a schedule. We clarify who and what may be shown."
+      },
+      {
+        "title": "On the shoot day",
+        "text": "We bring the equipment and work through the list – holding up your business as little as possible."
+      },
+      {
+        "title": "After the shoot",
+        "text": "We edit, design and write the copy. You receive the finished content for approval."
+      }
+    ],
+    "yourPartTitle": "What we need from you",
+    "yourPart": [
+      "One fixed point of contact for queries and approvals",
+      "Access to your channels to the agreed extent",
+      "Time for the shoot dates and information about promotions, dates and news"
+    ]
+  },
+  "packages": {
+    "meta": {
+      "title": "Packages: Starter, Business & Komplett",
+      "description": "The social media packages from Social Media Komplett compared: Starter, Business and Komplett. Scope, add-on services and terms – prices on request."
+    },
+    "eyebrow": "Packages",
+    "title": "Social media packages for every starting point",
+    "intro": "Three packages as a guide. We tailor the specific scope – number of posts, Reels and shoot dates – to your business in the initial consultation.",
+    "priceNote": "We will give you prices after a short conversation, because the scope varies greatly from business to business. You receive a written quote with a fixed monthly price.",
+    "items": {
+      "starter": {
+        "name": "Starter",
+        "tagline": "For a reliable start",
+        "audience": "For businesses that want to run one channel regularly and professionally.",
+        "features": [
+          "Management of one channel",
+          "Content calendar for approval",
+          "Posts with photos, graphics and copy",
+          "Scheduling and publishing",
+          "Regular short report"
+        ]
+      },
+      "business": {
+        "name": "Business",
+        "tagline": "For visible growth",
+        "audience": "For businesses that want to reach new customers with Reels and answer enquiries reliably.",
+        "features": [
+          "Everything in Starter",
+          "Regular Reels production",
+          "On-site shoots",
+          "Strategy workshop at the start",
+          "Community management",
+          "Detailed monthly report"
+        ]
+      },
+      "komplett": {
+        "name": "Komplett",
+        "tagline": "The all-round service",
+        "audience": "For businesses that want to hand over social media entirely and be present on several channels.",
+        "features": [
+          "Everything in Business",
+          "Several channels",
+          "Extended volume of Reels and posts",
+          "Stories and topical content",
+          "Regular catch-up meetings",
+          "Priority handling of short-notice topics"
+        ]
+      }
+    },
+    "compareTitle": "Packages compared",
+    "compareCaption": "Comparison of the Starter, Business and Komplett packages",
+    "compareFeature": "Service",
+    "rows": {
+      "price": "Monthly price",
+      "channels": "Channels managed",
+      "posts": "Posts per month",
+      "reels": "Reels per month",
+      "shoots": "On-site shoots per month",
+      "community": "Community management",
+      "strategy": "Strategy workshop",
+      "report": "Regular report"
+    },
+    "termsTitle": "Terms",
+    "terms": {
+      "term": {
+        "label": "Contract term",
+        "value": "Minimum term of {months} months",
+        "fallback": "Term and notice period by arrangement – both are set out transparently in the quote."
+      },
+      "travel": {
+        "label": "Travel",
+        "value": "Travel of up to {km} km from {city} is included.",
+        "fallback": "Travel within our service area is covered in the quote; longer distances by arrangement."
+      },
+      "billing": {
+        "label": "Billing",
+        "value": "Monthly at the agreed fixed price. Advertising budgets for paid ads are not included and are paid directly to the platform."
+      },
+      "rights": {
+        "label": "Usage rights",
+        "value": "The use of the content created for your own channels is set out in the quote."
+      }
+    },
+    "addonsTitle": "Add-on services",
+    "addonsIntro": "Every package can be extended. Prices on request.",
+    "addons": {
+      "extraReels": {
+        "title": "Additional Reels",
+        "text": "More short videos for promotions, events or seasonal topics."
+      },
+      "extraShoot": {
+        "title": "Additional shoot",
+        "text": "A further on-site shoot, for example for a new opening."
+      },
+      "adsManagement": {
+        "title": "Paid ads management",
+        "text": "Setting up and maintaining campaigns on Instagram and Facebook."
+      },
+      "photoShoot": {
+        "title": "Photo shoot",
+        "text": "A dedicated shoot for your website, menu or team photos."
+      }
+    },
+    "explainerTitle": "How much does social media management cost in Germany?",
+    "explainer": [
+      "There is no one-size-fits-all answer, because the price depends on the scope. The most important factors are the number of channels managed, the volume of posts and Reels per month, the number of on-site shoots including travel, whether community management is included and how long the contract runs.",
+      "Monthly flat fees for ongoing management are common, as are project prices for individual services such as a shoot day or a strategy. When comparing quotes, pay attention to what exactly is included – in particular production, rounds of revisions, usage rights and reports.",
+      "We will give you our prices in a written quote after a short, free initial consultation."
+    ],
+    "explainerLink": "In-depth guide: how much does social media management cost?",
+    "faq": [
+      {
+        "q": "Why are there no prices here?",
+        "a": "Because the amount of work differs greatly from business to business. Instead of a price that doesn’t fit in the end, you receive a specific quote with a fixed monthly price after the initial consultation."
+      },
+      {
+        "q": "Can I change package later?",
+        "a": "Yes. If your needs change, we adjust the scope at the next possible date. The details are in the quote."
+      },
+      {
+        "q": "Are paid ads included in the package?",
+        "a": "No. The packages cover organic content and channel management. Paid ads can be booked as an add-on service; you pay the advertising budget directly to the platform."
+      },
+      {
+        "q": "Do you guarantee results?",
+        "a": "No, and we advise caution with anyone who does. Reach and enquiries depend on many factors that nobody fully controls. We guarantee the agreed scope of services, sound work and honest reporting."
+      }
+    ]
+  },
+  "faq": {
+    "meta": {
+      "title": "FAQ: Questions and Answers on Social Media Management",
+      "description": "Answers to common questions: what is social media management, what does it cost, how does working together look, and will the agency come to my business?"
+    },
+    "eyebrow": "FAQ",
+    "title": "Frequently asked questions",
+    "intro": "Here you will find short, honest answers to the questions businesses ask us most often. Is your question missing? Write to us.",
+    "groups": [
+      {
+        "title": "The basics",
+        "items": [
+          {
+            "q": "What is social media management?",
+            "a": "Social media management covers all the recurring tasks around a business’s social media channels: planning topics, creating content, publishing posts, responding to comments and messages, and evaluating the results."
+          },
+          {
+            "q": "What does a social media agency do?",
+            "a": "It takes on some or all of these tasks for a business. At Social Media Komplett this includes strategy, content creation, on-site Reels production, publishing, community management and reporting."
+          },
+          {
+            "q": "Is it worth outsourcing social media?",
+            "a": "It is worth it if your business lacks the time or know-how for regular, well-made content. If you enjoy posting yourself, you can book individual building blocks such as a shoot or a strategy instead."
+          },
+          {
+            "q": "Which businesses do you work for?",
+            "a": "Mainly local businesses: restaurants and cafés, hairdressing and beauty salons, gyms, retailers, trades and service providers."
+          }
+        ]
+      },
+      {
+        "title": "Working together",
+        "items": [
+          {
+            "q": "How does working together look?",
+            "a": "In five steps: free initial consultation, strategy and content calendar, on-site content production, approval and publishing, regular reporting."
+          },
+          {
+            "q": "Do you come to my business to shoot?",
+            "a": "Yes. Photos and videos are created right on your premises. We currently offer on-site shoots in Münster and the Münsterland; other locations are possible by arrangement."
+          },
+          {
+            "q": "How much time do I need to set aside myself?",
+            "a": "Considerably less than before: time for the shoot dates, for approving the content and for short catch-ups. We take care of everything else."
+          },
+          {
+            "q": "Do I see posts before they go live?",
+            "a": "Yes. You receive the content in advance for approval. Nothing is published without your consent."
+          },
+          {
+            "q": "Which languages do you work in?",
+            "a": "We currently offer consultation and ongoing support in German. If you need content or conversations in another language, get in touch – we will tell you openly what is possible."
+          }
+        ]
+      },
+      {
+        "title": "Costs and contract",
+        "items": [
+          {
+            "q": "How much does social media management cost in Germany?",
+            "a": "That depends on the scope: the number of channels, posts and Reels per month, on-site shoots, community management and the contract term. Monthly flat fees are common. You receive our prices as a written quote after a free initial consultation."
+          },
+          {
+            "q": "Is there a minimum term?",
+            "a": "Term and notice period are set out transparently in the quote. Social media needs consistency over several months to have an effect – we take that into account in our recommendation."
+          },
+          {
+            "q": "Who owns the accounts and content?",
+            "a": "The accounts always remain yours. The usage rights to the content created are set out in the quote."
+          }
+        ]
+      },
+      {
+        "title": "Results",
+        "items": [
+          {
+            "q": "How quickly will I see results?",
+            "a": "A well-kept, consistent profile is visible quickly. Reach, community and enquiries usually develop over several months. A credible forecast in figures is not possible."
+          },
+          {
+            "q": "Do you guarantee more followers or revenue?",
+            "a": "No. Nobody can credibly guarantee that. We guarantee the agreed scope of services and an honest evaluation of what has been achieved."
+          },
+          {
+            "q": "How is success measured?",
+            "a": "Using key figures that match your goal – such as reach, saved and shared posts, profile visits, link clicks and incoming enquiries. You receive a regular report on these."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact: Request a Free Initial Consultation",
+      "description": "Get in touch with Social Media Komplett in Münster and request your free, no-obligation initial consultation on social media management."
+    },
+    "eyebrow": "Contact",
+    "title": "Request a free initial consultation",
+    "intro": "Tell us a little about your business. We’ll get back to you personally and arrange a date for the initial consultation.",
+    "nextTitle": "What happens next",
+    "next": [
+      {
+        "title": "You write to us",
+        "text": "A few lines about your business and your goals are enough."
+      },
+      {
+        "title": "We get back to you",
+        "text": "We arrange an appointment – by phone, by video call or at your premises."
+      },
+      {
+        "title": "You receive a proposal",
+        "text": "After the conversation you receive a specific, no-obligation quote."
+      }
+    ],
+    "directTitle": "Direct contact",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "areaLabel": "Service area",
+    "areaText": "On-site shoots in {areas}, channel management throughout {remote}."
+  },
+  "blog": {
+    "meta": {
+      "title": "Blog: Social Media Know-How for Local Businesses",
+      "description": "The Social Media Komplett blog: practical guides to Instagram, TikTok, Reels, content and strategy for small and local businesses."
+    },
+    "eyebrow": "Blog",
+    "title": "The social media guide for local businesses",
+    "intro": "Practical guides, honest assessments and specific ideas – written for business owners, not for marketing professionals.",
+    "featuredTitle": "Recommended articles",
+    "latestTitle": "Latest articles",
+    "allTitle": "All articles",
+    "categoriesTitle": "Categories",
+    "allCategories": "All categories",
+    "searchLabel": "Search articles",
+    "searchPlaceholder": "Enter a search term …",
+    "tagsTitle": "Topics",
+    "clearFilters": "Reset filters",
+    "resultsCount": "Articles found: {count}",
+    "noResults": "No articles were found for your search.",
+    "emptyCategory": "No articles have been published in this category yet.",
+    "pageTitleSuffix": "Page {n}",
+    "pagination": {
+      "label": "Pagination",
+      "prev": "Previous page",
+      "next": "Next page",
+      "page": "Page {n}",
+      "current": "Page {n} of {total}"
+    },
+    "category": {
+      "eyebrow": "Category",
+      "metaTitle": "{name}: Articles and Guides",
+      "back": "Back to the blog"
+    },
+    "article": {
+      "answerTitle": "In short",
+      "takeawaysTitle": "Key takeaways",
+      "tocTitle": "Contents",
+      "faqTitle": "Frequently asked questions",
+      "relatedTitle": "You might also be interested in",
+      "shareTitle": "Share this article",
+      "copyLink": "Copy link",
+      "copied": "Link copied",
+      "shareOn": "Share on {network}",
+      "shareByEmail": "Share by email",
+      "published": "Published on",
+      "updated": "Last updated on",
+      "readingTime": "{minutes} min read",
+      "by": "By",
+      "sourcesTitle": "Sources",
+      "ctaTitle": "No time to do all this yourself?",
+      "ctaText": "We take care of planning, filming and channel management for you. In a free initial consultation we work out what suits your business.",
+      "relatedServiceLabel": "Related service",
+      "anchorLabel": "Direct link to this section",
+      "draft": "Draft – not published",
+      "translationNote": "This article has been translated from German and is currently under editorial review."
+    },
+    "authors": {
+      "redaktion": {
+        "name": "Social Media Komplett Editorial Team",
+        "role": "Editorial team",
+        "bio": "The articles in the blog are written and regularly reviewed by the Social Media Komplett team. They are based on our practical work with the social media channels of local businesses."
+      }
+    },
+    "authorPage": {
+      "eyebrow": "Author",
+      "articlesBy": "Articles by {name}",
+      "metaDescription": "All blog articles by {name} on social media marketing, content and Reels for local businesses."
+    },
+    "categories": {
+      "social-media-marketing": {
+        "name": "Social Media Marketing",
+        "description": "Basics, costs and context: what social media marketing can do for small businesses."
+      },
+      "instagram-marketing": {
+        "name": "Instagram Marketing",
+        "description": "Formats, rhythm and profile set-up for businesses on Instagram."
+      },
+      "facebook-marketing": {
+        "name": "Facebook Marketing",
+        "description": "How businesses can make good use of Facebook for local visibility."
+      },
+      "tiktok-marketing": {
+        "name": "TikTok Marketing",
+        "description": "The opportunities, effort and role of TikTok for businesses."
+      },
+      "reels-video-marketing": {
+        "name": "Reels & Video Marketing",
+        "description": "Planning, filming and publishing short videos."
+      },
+      "content-creation": {
+        "name": "Content Creation",
+        "description": "Ideas, photos, graphics and copy that fit your brand."
+      },
+      "restaurant-marketing": {
+        "name": "Marketing for Restaurants",
+        "description": "Social media for restaurants, cafés and bars."
+      },
+      "salon-marketing": {
+        "name": "Marketing for Salons",
+        "description": "Social media for hairdressers, barbershops and beauty salons."
+      },
+      "local-business-marketing": {
+        "name": "Local Marketing",
+        "description": "Visibility for businesses in their own region."
+      },
+      "social-media-strategy": {
+        "name": "Social Media Strategy",
+        "description": "Goals, target audiences, channels and key figures."
+      },
+      "ai-tools-marketing": {
+        "name": "AI Tools in Marketing",
+        "description": "Where AI tools help in day-to-day social media work – and where they don’t."
+      },
+      "tips-guides": {
+        "name": "Tips & Guides",
+        "description": "Compact practical tips and step-by-step guides."
+      }
+    }
+  }
+}

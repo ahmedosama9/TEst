@@ -1,36 +1,48 @@
 {
-  "name": "hashlips_nft_minting_dapp",
+  "name": "socialmediakomplett",
   "version": "1.0.0",
-  "description": "HashLips minting dapp is a quick and easy way to connect your smart contract and start minting NFTs.",
   "private": true,
-  "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-redux": "^7.2.4",
-    "react-scripts": "4.0.3",
-    "redux": "^4.1.1",
-    "redux-thunk": "^2.3.0",
-    "styled-components": "^5.3.0",
-    "web-vitals": "^1.0.1",
-    "web3": "^1.5.1",
-    "web3-eth-contract": "^1.5.2"
-  },
-  "author": "Daniel Eugene Botha (HashLips)",
-  "license": "MIT",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "check:i18n": "node scripts/check-i18n.mjs",
+    "audit:site": "node scripts/site-audit.mjs",
+    "audit:browser": "node scripts/browser-audit.mjs"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "dependencies": {
+    "@hookform/resolvers": "^7.0.7",
+    "@mdx-js/mdx": "^3.1.1",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "github-slugger": "^2.0.0",
+    "gray-matter": "^4.0.3",
+    "lucide-react": "^1.74.0",
+    "motion": "^14.14.0",
+    "next": "^16.4.6",
+    "next-intl": "^4.15.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-hook-form": "^7.92.0",
+    "rehype-slug": "^6.0.0",
+    "remark-gfm": "^4.0.1",
+    "tailwind-merge": "^3.7.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4.3.3",
+    "@types/mdx": "^2.0.14",
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.6",
+    "node-html-parser": "^9.0.7",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3",
+    "vitest": "^5.1.0"
   }
 }

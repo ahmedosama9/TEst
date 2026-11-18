@@ -1,0 +1,155 @@
+{
+  "overview": {
+    "meta": {
+      "title": "Sektor: medyaya civakî ji bo gastronomî, salon û fitness",
+      "description": "Social Media Komplett li karsaziyên herêmî dinêre: gastronomî, salonên bedewiyê, studyoyên fitnessê û karsaziyên din li Münsterê û derdora wê."
+    },
+    "eyebrow": "Sektor",
+    "title": "Medyaya civakî ji bo karsaziyên herêmî",
+    "intro": "Her sektorek xwedî mijarên xwe, rêveçûnên xwe û pirsên mişteriyên xwe ye. Em naverok û lênêrînê li gorî wê yekê saz dikin ka karsaziya we bi rastî çawa dixebite.",
+    "noteTitle": "Sektora we ne di lîsteyê de ye?",
+    "noteText": "Ev lîste giraniyên me nîşan dide, ne sînorekî. Heke karsaziya we mişteriyan li cih qanih dike, nêzîkatiya me bi îhtîmaleke mezin li we tê – bi hêsanî bi me re têkilî daynin."
+  },
+  "labels": {
+    "challenges": "Zehmetiyên tîpîk",
+    "ideas": "Fikirên naverokê yên ku dikarin bi kêr bên",
+    "approach": "Em wiha piştgiriya we dikin",
+    "faq": "Pirsên pir tên pirsîn",
+    "otherIndustries": "Sektorên din",
+    "ideasNote": "Kîjan format li cem temaşevanên we herî baş tên pêşwazîkirin, tenê di pratîkê de derdikeve holê. Em diceribînin, dinirxînin û sererast dikin."
+  },
+  "items": {
+    "gastronomy": {
+      "meta": {
+        "title": "Medyaya civakî ji bo gastronomiyê – Instagram û restoran",
+        "description": "Lênêrîna medyaya civakî ji bo restoran, qehwexane û baran: Reels û wêne rasterast ji metbex û salona we, bi rêkûpêk tên weşandin û lênêrîn."
+      },
+      "name": "Gastronomî",
+      "short": "Restoran, qehwexane, bar û xwaringehên biçûk: xwarin, atmosfer û mirovan bidin xuyakirin.",
+      "title": "Medyaya civakî ji bo restoran, qehwexane û baran",
+      "intro": "Mêvan gelek caran bi telefona di destê xwe de biryar didin ka dê li ku xwarinê bixwin. Profîleke lênêrandî bi wêneyên nû, Reels ji metbexê û agahiyên zelal li ser saetên vekirinê û rezervasyonê di vê biryarê de alîkariya wan dike.",
+      "challenges": [
+        { "title": "Di nav kar de dem tune", "text": "Di navbera kirîn, servîs û plankirina xebatkaran de ji bo şandiyên birêkûpêk hema cih namîne." },
+        { "title": "Xwarin di wêneyan de zû bêcan xuya dike", "text": "Ronahî, goşe û tevger diyar dikin ka xwarinek mirov birçî dike an na." },
+        { "title": "Tiştên nû winda dibin", "text": "Menûya nîvro, çalakî û saetên vekirinê yên guherî di wextê xwe de nagihîjin mêvanan." }
+      ],
+      "ideas": [
+        "Amadekirina xwarineke taybet a restoranê wek Reel-eke kurt",
+        "Nêrînek li pişt perdeyê: metbex, dabînker, amadekarî",
+        "Danasîna tîmê û mirovên li pişt konseptê",
+        "Menûya hefteyê an demsalê wek karûsel",
+        "Bersivên pirsên tîpîk ên mêvanan – rezervasyon, alerjen, kom",
+        "Atmosfera salonê di êvareke qerebalix de"
+      ],
+      "approach": [
+        { "title": "Rojên kişandinê di dema kar de", "text": "Em bi wî awayî vîdyo û wêneyan dikişînin ku metbex û servîs bikaribin karê xwe bidomînin." },
+        { "title": "Rojanebûna ku tê plankirin", "text": "Formatên sabît ji bo menûya hefteyê, çalakî û rojên cejnê, da ku tiştek neyê jibîrkirin." },
+        { "title": "Rêyên kurt ji bo mêvanan", "text": "Profîl, lînk û Highlights rasterast dibin rezervasyon, menû û rêya hatinê." }
+      ],
+      "faq": [
+        { "q": "Restoran çawa dikarin Instagramê bi awayekî watedar bi kar bînin?", "a": "Bi dîmenên birêkûpêk ên ku mirov birçî dikin: vîdyoyên kurt ji metbexê, xwarinên baş wênekirî, pêşniyarên nû û profîleke ku rezervasyon, menû û saetên vekirinê tavilê tê de tên dîtin. Ji şandiyên rojane girîngtir rîtmeke pêbawer e." },
+        { "q": "Ma kişandin karê rojane asteng dike?", "a": "Em dem û rêveçûnê ji berê ve li hev dikin û bi tercîhî di demên aramtir de dikişînin. Mêvan tenê wê demê tên kişandin ku razî bin." }
+      ],
+      "relatedPost": "instagram-marketing-restaurants"
+    },
+    "beauty-salons": {
+      "meta": {
+        "title": "Medyaya civakî ji bo kuafor û salonên bedewî û kozmetîkê",
+        "description": "Lênêrîna medyaya civakî ji bo kuafor, barbershop, studyoyên kozmetîk û neynûkan: encaman nîşan bidin, baweriyê ava bikin û daxwazên randevûyê hêsan bikin."
+      },
+      "name": "Bedewî û salon",
+      "short": "Kuafor, barbershop, studyoyên kozmetîk û neynûkan: encaman nîşan bidin û randevûyan tije bikin.",
+      "title": "Medyaya civakî ji bo kuafor û salonên bedewiyê",
+      "intro": "Di sektora bedewiyê de medyaya civakî camekan e. Mişteriyên nû dixwazin bibînin ka hûn çawa dixebitin, berî ku randevûyekê bistînin. Em piştrast dikin ku karê we bi qasî ku baş e, baş jî xuya bike.",
+      "challenges": [
+        { "title": "Deftera randevûyan tije, ji bo naverokê dem tune", "text": "Di navbera du randevûyan de kêm caran dem ji bo wêneyekî baş dimîne – nexasim ji bo Reel-ekê." },
+        { "title": "Encam bi têra xwe xuya nabin", "text": "Ronahiya xirab û paşxaneyên tevlihev dihêlin ku karê herî baş jî asayî xuya bike." },
+        { "title": "Profîla neyekgirtî", "text": "Carekê wêneyek, carekê pêşniyarek, carekê bi hefteyan tiştek tune – profîl wek tiştekî tesadufî xuya dike." }
+      ],
+      "ideas": [
+        "Encamên berî û piştî (bi razîbûna mişterî)",
+        "Reels-ên kurt ji çêbûna porçêkirinekê an lênêrînekê",
+        "Şîretên lênêrînê ji bo malê",
+        "Danasîna endamên tîmê û pisporiyên wan",
+        "Trendên demsalê, bi zimanekî têgihîştî",
+        "Randevûyên vala û kampanya di Story de"
+      ],
+      "approach": [
+        { "title": "Goşeyeke sabît a naverokê di salonê de", "text": "Em bi we re cihekî bi ronahiya baş amade dikin ku encam lê zû bên wênekirin." },
+        { "title": "Rojên kişandinê bi model an mişteriyên herdemî", "text": "Di yek randevûyê de Reels û wêne ji bo çend hefteyan çêdibin." },
+        { "title": "Rêya ber bi randevûyê", "text": "Lînka randevûyê, agahiyên bihayan û xizmet di profîlê de tavilê tên dîtin." }
+      ],
+      "faq": [
+        { "q": "Ma mişterî dikarin bêyî pirsînê bên nîşandan?", "a": "Tenê bi razîbûna wan a eşkere. Em bi rêveçûneke hêsan piştgiriya we dikin da ku hûn berî kişandinê razîbûnê bistînin, û bêyî erêkirinê tiştekî naweşînin." },
+        { "q": "Kîjan naverok bi taybetî ji bo salonekê guncav e?", "a": "Encamên ku tên dîtin, nêrînên kurt li ser kar û rûyên ji tîmê. Bi şîretên lênêrînê û agahiyên nû re profîlek çêdibe ku pisporiyê nîşan dide û mirovan vedixwîne randevûyê." }
+      ],
+      "relatedPost": "content-ideas-salons"
+    },
+    "fitness-studios": {
+      "meta": {
+        "title": "Medyaya civakî ji bo studyoyên fitnessê û personal trainer",
+        "description": "Lênêrîna medyaya civakî ji bo studyoyên fitnessê, yoga û qursan: atmosferê nîşan bidin, dudiliyê kêm bikin û rêya perwerdeya ceribandinê hêsan bikin."
+      },
+      "name": "Studyoyên fitnessê",
+      "short": "Studyo, personal trainer û pêşkêşkarên qursan: atmosferê nîşan bidin û dudiliyê kêm bikin.",
+      "title": "Medyaya civakî ji bo studyoyên fitnessê û pêşkêşkarên qursan",
+      "intro": "Kî li studyoyekê digere, dixwaze bizane ka hesta li wir çawa ye: Kî li vir werzişê dike? Rahêner çawa ne? Ez li vir têm? Medyaya civakî dikare bersiva van pirsan bide, berî ku kesek were perwerdeya ceribandinê.",
+      "challenges": [
+        { "title": "Naveroka ku li her derê heye", "text": "Gotinên motîvasyonê û wêneyên stock nîşan nadin ka çi studyoya we taybet dike." },
+        { "title": "Dudiliya mezin a kesên nû", "text": "Gelek kesên eleqedar newêrin, ji ber ku ew tenê mirovên bi laşên werzişkar dibînin." },
+        { "title": "Kampanyayên bêyî amadekarî", "text": "Destpêka qursan û pêşniyar pir dereng an tenê carekê tên ragihandin." }
+      ],
+      "ideas": [
+        "Gera di nav studyoyê de wek Reel",
+        "Danasîna rahêneran",
+        "Temrîn bi awayekî rast tên ravekirin – kurt û ji bo jiyana rojane guncav",
+        "Dîmen ji qursan, bi razîbûna beşdaran",
+        "Bersivên pirsên kesên nû: rêveçûna perwerdeya ceribandinê, cil, saet",
+        "Ragihandina destpêka qursan û kampanyayan ji berê ve"
+      ],
+      "approach": [
+        { "title": "Li şûna materyalên stock, mirovên rasteqîn", "text": "Em li cem we di studyoyê de dikişînin – bi tîma we û endamên ku bi dilxweşî beşdar dibin." },
+        { "title": "Zanîn wek rêzefîlm", "text": "Formatên dubare wek temrîna hefteyê profîla we bikêrhatî dikin û plankirinê hêsan dikin." },
+        { "title": "Kampanyayên bi plan", "text": "Destpêka qursan û pêşniyar di wextê xwe de û bi çend şandiyan tên ragihandin." }
+      ],
+      "faq": [
+        { "q": "Ma endam dikarin di dema werzişê de bên kişandin?", "a": "Tenê bi razîbûna wan. Ji ber vê yekê em bi zanebûn bi wan kesan re dikişînin ku erê kirine, an jî di wan deman de ku studyo ji bo vê hatiye veqetandin." },
+        { "q": "Kîjan platform li studyoyeke fitnessê tê?", "a": "Ji bo piraniya studyoyan Instagram kanala herî girîng e, ji ber ku Reels û Stories atmosferê baş radigihînin. Ka TikTok an Facebook jî watedar e an na, bi koma armanc a we ve girêdayî ye – em vê di stratejiyê de zelal dikin." }
+      ],
+      "relatedPost": "social-media-strategy-small-business"
+    },
+    "local-businesses": {
+      "meta": {
+        "title": "Medyaya civakî ji bo karsaziyên herêmî, dikan û pîşekaran",
+        "description": "Lênêrîna medyaya civakî ji bo karsaziyên herêmî li Münsterê û derdorê: dikan, pîşekar, muayenexane û xizmetkaran bi naveroka li cih bidin xuyakirin."
+      },
+      "name": "Karsaziyên herêmî",
+      "short": "Dikan, pîşekar, muayenexane û pêşkêşkarên xizmetan: li herêma xwe bên dîtin.",
+      "title": "Medyaya civakî ji bo karsaziyên herêmî",
+      "intro": "Karsaziyên herêmî ne mecbûr in bigihîjin tevahiya Almanyayê, lê belê bigihîjin mirovên li derdora xwe. Medyaya civakî alîkar e ku hûn li wir di rojevê de bimînin: bi rû, dîmen û agahiyên ku ji bo taxê girîng in.",
+      "challenges": [
+        { "title": "“Ma em ê çi parve bikin?”", "text": "Gelek karsazî kêm dinirxînin ka jiyana wan a rojane ji bo kesên ji derve çiqas balkêş e." },
+        { "title": "Gihîştin li cihê şaş", "text": "Baldariya ji bajarên din kêm feyde dike, heke divê mişterî li cih bên bidestxistin." },
+        { "title": "Dîtina xebatkarên pispor", "text": "Kesên ku serî li kar didin jî li profîlên medyaya civakî dinêrin, berî ku têkilî daynin." }
+      ],
+      "ideas": [
+        "Dîmen ji kargeh, dikan an muayenexaneyê",
+        "Danasîna tîmê û hevkarên nû",
+        "Berhemên nû, proje an karên qediyayî",
+        "Bersivên pirsên mişteriyan ên ku pir tên pirsîn",
+        "Girêdana bi herêmê re: çalakî, tax, hevkarî",
+        "Îlanên kar û dîmen ji jiyana rojane ya kar"
+      ],
+      "approach": [
+        { "title": "Dîtina mijaran", "text": "Di atolyeyekê de em berhev dikin ka di karsaziya we de çi hêjayî vegotinê ye – bi piranî ji ya ku tê texmînkirin zêdetir." },
+        { "title": "Arastekirina herêmî", "text": "Nîşandana cih, girêdanên herêmî û hashtagên guncav piştrast dikin ku naverok li herêmê bê dîtin." },
+        { "title": "Bi rêkûpêk amade", "text": "Rîtmeke realîst ku di hefteyên tije de jî tê parastin." }
+      ],
+      "faq": [
+        { "q": "Ma medyaya civakî ji bo karsaziyeke herêmî ya biçûk hêja ye?", "a": "Hêja ye, heke mişteriyên we li wir bin û hûn bikaribin bi rêkûpêk dîmenan ji karê xwe nîşan bidin. Medyaya civakî cihê karê baş nagire, lê wî dide xuyakirin – hem ji bo mişteriyên nû, hem jî ji bo xebatkarên muhtemel." },
+        { "q": "Hûn li kîjan cihan li cih dixebitin?", "a": "Em niha rojên kişandinê li Münsterê û li Münsterlandê pêşkêş dikin. Cihên din li gorî lihevkirinê pêkan in; stratejî û lênêrîn li seranserê Almanyayê bêyî randevûya li cih jî dimeşin." }
+      ],
+      "relatedPost": "social-media-marketing-small-business"
+    }
+  }
+}

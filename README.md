@@ -1,125 +1,95 @@
-# Welcome to HashLips 👄
+# Social Media Komplett — Website
 
-![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/logo.png)
+Multilingual agency website with blog for **Social Media Komplett** (Münster), built for
+`https://socialmediakomplett.de`.
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+- **Stack:** Next.js 16 (App Router, Turbopack), React 19, TypeScript (strict), Tailwind CSS 4,
+  next-intl, Motion, React Hook Form + Zod, MDX, Lucide.
+- **Languages:** German (default), English, Arabic (RTL), Kurdish Kurmanji, Turkish — every page
+  is a statically generated, individually indexable URL under `/de`, `/en`, `/ar`, `/ku`, `/tr`.
+- **No database, no CMS, no tracking.** Content lives in JSON and MDX files in this repository.
 
-To find out more please visit:
+## Quick start
 
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
-
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
-
-[💬 Telegram](https://t.me/hashlipsnft)
-
-[🐦 Twitter](https://twitter.com/hashlipsnft)
-
-[ℹ️ Website](https://hashlips.online/HashLips)
-
-# HashLips NFT minting dapp 🔥
-
-![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/banner.png)
-
-This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
-
-The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).
-
-The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through).
-
-## Installation 🛠️
-
-If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
-
-```sh
-git clone https://github.com/HashLips/hashlips_nft_minting_dapp.git
-```
-
-Make sure you have node.js installed so you can use npm, then run:
-
-```sh
+```bash
 npm install
+cp .env.example .env.local   # optional for local work
+npm run dev                  # http://localhost:3000 → redirects to /de
 ```
 
-## Usage ℹ️
+| Command | What it does |
+| --- | --- |
+| `npm run dev` | Development server (draft articles visible) |
+| `npm run build` / `npm start` | Production build / serve it |
+| `npm run typecheck` | TypeScript, strict |
+| `npm run lint` | ESLint (Next.js core-web-vitals + TypeScript) |
+| `npm test` | Unit tests: routes, hreflang, blog content, form validation, rate limiter |
+| `npm run check:i18n` | All languages have the same message structure as German; blog coverage table |
+| `npm run audit:site` | Crawls a running build: status, canonicals, reciprocal hreflang, JSON-LD, links, 404 |
+| `npm run audit:browser` | Real-browser checks: RTL, overflow at 3 viewports × 5 languages, switcher, blog, forms |
 
-In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.
+`audit:site` needs a build made with `NEXT_PUBLIC_ALLOW_INDEXING=true` that is running on port 3000.
+`audit:browser` and `scripts/generate-brand-assets.mjs` need Playwright
+(`npm i -D playwright && npx playwright install chromium`).
 
-For the most part all the changes will be in the `public` folder.
+## Where things live
 
-To link up your existing smart contract, go to the `public/config/config.json` file and update the following fields to fit your smart contract, network and marketplace details. The cost field should be in wei.
-
-Note: this dapp is designed to work with the intended NFT smart contract, that only takes one parameter in the mint function "mintAmount". But you can change that in the App.js file if you need to use a smart contract that takes 2 params.
-
-```json
-{
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
-  },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
-  "GAS_LIMIT": 285000,
-  "MARKETPLACE": "OpenSea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
-  "SHOW_BACKGROUND": true
-}
+```
+content/blog/<article-id>/<locale>.mdx   Blog articles (one folder per article, one file per language)
+messages/<locale>/*.json                 All page and UI copy (German is the source of truth)
+src/config/site.ts                       Business facts, service area, contact, legal switches
+src/config/packages.ts                   Package prices, deliverables, terms, add-ons
+src/config/blog.ts                       Blog categories (+ slugs) and authors
+src/i18n/config.ts                       Languages, direction, hreflang, review/index status
+src/lib/routes.ts                        Route registry: page ids → localized URL slugs
+src/lib/pages.ts                         URL resolver, alternates, metadata lookup
+src/lib/seo.ts                           Metadata + JSON-LD builders
+src/app/[locale]/[[...path]]/page.tsx    The one route that renders every page
+src/components/pages/*                   Page templates
+public/brand, public/og                  Logo files and social sharing images
+docs/                                    Deployment, content, translation, SEO and legal guides
 ```
 
-Make sure you copy the contract ABI from remix and paste it in the `public/config/abi.json` file.
-(follow the youtube video if you struggle with this part).
+### How routing works
 
-Now you will need to create and change 2 images and a gif in the `public/config/images` folder, `bg.png`, `example.gif` and `logo.png`.
+There is a single catch-all route. Each request is resolved against the route registry
+(`src/lib/routes.ts`) and the blog content, so page ids stay stable while slugs are localized
+(`/de/kontakt`, `/en/contact`, `/tr/iletisim`). `generateStaticParams` enumerates every page, so the
+whole site is static HTML. Each page passes the language versions that really exist to the header;
+the language switcher, `hreflang` tags and the sitemap all use that same list.
 
-Next change the theme colors to your liking in the `public/config/theme.css` file.
+The root URL `/` redirects to `/de`. If a visitor has explicitly chosen a language in the switcher
+(cookie `smk_locale`), `/` redirects there instead. Language URLs themselves are never redirected
+and there is no browser-language sniffing.
 
-```css
-:root {
-  --primary: #ebc908;
-  --primary-text: #1a1a1a;
-  --secondary: #ff1dec;
-  --secondary-text: #ffffff;
-  --accent: #ffffff;
-  --accent-text: #000000;
-}
-```
+### Changing common things
 
-Now you will need to create and change the `public/favicon.ico`, `public/logo192.png`, and
-`public/logo512.png` to your brand images.
+| I want to… | Edit |
+| --- | --- |
+| Set address, owner, VAT ID, e-mail, phone, social profiles | `src/config/site.ts` (+ env vars for e-mail/phone) |
+| Change the service area | `src/config/site.ts` → `serviceArea` |
+| Publish prices and package contents | `src/config/packages.ts` |
+| Change any text | `messages/<locale>/*.json` |
+| Add or edit an article | `content/blog/…` — see `docs/CONTENT_WORKFLOW.md` |
+| Mark a language as reviewed / hide it from search | `src/i18n/config.ts` → `reviewStatus`, `indexable` |
+| Add a language (e.g. Sorani `ckb`) | see the comment at the top of `src/i18n/config.ts` |
+| Add analytics later | wrap it in `<ConsentGate category="analytics">` (`src/components/forms/consent-settings.tsx`) |
 
-Remember to update the title and description the `public/index.html` file
+## Documentation
 
-```html
-<title>Nerdy Coder Clones</title>
-<meta name="description" content="Mint your Nerdy Coder Clone NFT" />
-```
+- `docs/DEPLOYMENT.md` — Vercel, Namecheap DNS without touching e-mail, Resend, environment variables
+- `docs/CONTENT_WORKFLOW.md` — writing, translating and publishing articles; content plan
+- `docs/TRANSLATION_REVIEW.md` — native-speaker review checklist and open questions per language
+- `docs/SEO.md` — what is implemented, crawler control, validation checklist
+- `docs/LEGAL_CHECKLIST.md` — what must be completed before the legal pages are final
+- `docs/LAUNCH_CHECKLIST.md` — remaining steps to go live
 
-Also remember to update the short_name and name fields in the `public/manifest.json` file
+## Honesty rules built into the site
 
-```json
-{
-  "short_name": "NCC",
-  "name": "Coder Clone NFT"
-}
-```
-
-After all the changes you can run.
-
-```sh
-npm run start
-```
-
-Or create the build if you are ready to deploy.
-
-```sh
-npm run build
-```
-
-Now you can host the contents of the build folder on a server.
-
-That's it! you're done.
+- Facts that have not been supplied are `null` in `src/config/site.ts`; the site then hides the
+  element or shows a visible "to be supplied" marker (legal pages) — nothing is invented.
+- `LocalBusiness`-type structured data is only emitted once a real address is configured.
+- Portfolio tiles are labelled as examples. There are no testimonials, ratings or client numbers.
+- Prices render as "Preis auf Anfrage" until set in `src/config/packages.ts`.
+- The contact form reports success only when the mail provider accepted the message.
+- All non-German text is a machine-assisted draft marked `needs-review` until a native speaker signs it off.

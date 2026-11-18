@@ -145,7 +145,7 @@ export function ServicePage({ locale, messages, id }: P & { id: ServiceId }) {
 
       <Section>
         <SectionHeading title={l.howItWorks} />
-        <ol className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        <ol className={s.howItWorks.length === 5 ? "grid gap-5 sm:grid-cols-2 lg:grid-cols-5" : "grid gap-5 sm:grid-cols-2 lg:grid-cols-4"}>
           {s.howItWorks.map((step, i) => (
             <li key={step.title} className="rounded-2xl border border-line p-6">
               <span className="bg-brand-gradient mb-4 grid size-10 place-items-center rounded-full font-display font-extrabold text-navy" aria-hidden="true">{i + 1}</span>

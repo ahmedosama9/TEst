@@ -48,7 +48,12 @@
   "services": {
     "eyebrow": "Xizmet",
     "title": "Xizmetên me yên medyaya civakî",
-    "intro": "Hûn dikarin beşên cuda yek bi yek bixwazin an jî lênêrîna kanalên xwe bi temamî bispêrin me."
+    "intro": "Hûn dikarin beşên cuda yek bi yek bixwazin an jî lênêrîna kanalên xwe bi temamî bispêrin me.",
+    "localCard": {
+      "title": "Marketînga herêmî û sêwiran",
+      "text": "Sêwirana menûyê û nûkirina wêneyan ji bo Google Business Profile-a we (profîla karsaziya we ya li ser Google) – yek bi yek tên xwestin an jî li gel lênêrîna medyaya civakî.",
+      "cta": "Her du xizmetan bibînin"
+    }
   },
   "process": {
     "eyebrow": "Pêvajo",

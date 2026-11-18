@@ -8,6 +8,7 @@ import { JsonLd } from "@/components/seo/json-ld";
 import { ButtonLink } from "@/components/ui/button";
 import { Reveal } from "@/components/ui/reveal";
 import { Eyebrow, Section, SectionHeading } from "@/components/ui/section";
+import { serviceGroups } from "@/config/service-catalog";
 import { site } from "@/config/site";
 import type { Locale } from "@/i18n/config";
 import type { Messages } from "@/i18n/messages";
@@ -142,7 +143,22 @@ export function HomePage({ locale, messages }: { locale: Locale; messages: Messa
       {/* 3. Services */}
       <Section tone="mist" labelledBy="services-title">
         <SectionHeading id="services-title" eyebrow={h.services.eyebrow} title={h.services.title} intro={h.services.intro} />
-        <ServiceCards locale={locale} messages={messages} />
+        <ServiceCards
+          locale={locale}
+          messages={messages}
+          ids={serviceGroups.core}
+          extra={
+            <article className="on-dark hero-backdrop relative flex h-full flex-col rounded-2xl p-6 text-soft sm:p-7">
+              <h3 className="text-xl text-white">{h.services.localCard.title}</h3>
+              <p className="mt-3">{h.services.localCard.text}</p>
+              <ul className="mt-4 flex-1 space-y-1">
+                {serviceGroups.local.map((id) => (
+                  <li key={id}><ArrowLink dark href={href(`service:${id}`, locale)}>{messages.services.items[id].name}</ArrowLink></li>
+                ))}
+              </ul>
+            </article>
+          }
+        />
         <div className="mt-8"><ArrowLink href={href("services", locale)}>{c.cta.allServices}</ArrowLink></div>
       </Section>
 

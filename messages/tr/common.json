@@ -22,7 +22,9 @@
     "skipToContent": "İçeriğe geç",
     "languageLabel": "Dil seçin",
     "currentLanguage": "Geçerli dil",
-    "homeLinkLabel": "Social Media Komplett – ana sayfaya git"
+    "homeLinkLabel": "Social Media Komplett – ana sayfaya git",
+    "localGroup": "Yerel Pazarlama & Tasarım",
+    "coreGroup": "Sosyal Medya & İçerik"
   },
   "cta": {
     "primary": "Ücretsiz ön görüşme",
@@ -108,6 +110,8 @@
       "reels": "Reels & video prodüksiyonu",
       "strategy": "Sosyal medya stratejisi",
       "community": "Topluluk yönetimi",
+      "menuDesign": "Menü tasarımı",
+      "googleProfile": "Google İşletme Profili",
       "unsure": "Henüz emin değilim"
     },
     "message": "Mesaj",

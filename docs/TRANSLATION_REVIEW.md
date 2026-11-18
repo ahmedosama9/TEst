@@ -146,3 +146,34 @@ Legal (`legal.json`) — needs a legally literate reviewer; German is binding:
 - [ ] "baca nirxa zêdekirî" (VAT), "Dadgeha sicîlê" / "Hejmara sicîlê", "saziyeke lihevanîna xerîdaran",
       "mafê telîfê", "berjewendiya rewa", "bikaranîna daneyan" (Verarbeitung — or "pêvajokirin"),
       "bikarhênerê daneyan bi navê me" (processor), "welatên sêyem", the GDPR gloss and the NRW authority name
+
+
+## Added later: menu design and Google Business Profile (all languages, `needs-review`)
+
+New texts: `services.items.menu-design`, `services.items.google-business-profile`, `services.showcase.*`,
+`services.groups`, `services.showcaseLabels`, the fifth FAQ group, `home.services.localCard`,
+`packages.standalone`, two form options, and the articles `menu-design-restaurants` and
+`google-maps-photos-business`.
+
+Check in every language that none of these caveats was softened: the profile is a free Google product
+and only the agency's work is paid; no partnership with Google; the business stays owner; no password;
+Google decides which photos are shown; no ranking promise; customer photos cannot be removed by the
+agency; nothing is published without approval; prices, allergens and mandatory information come from
+and are approved by the client.
+
+- [ ] **English:** "manager" is used for the German "Administrator" (Google's English role name);
+      "snack bars" for Imbisse; IHK/DEHOGA glossed in brackets; mock labels fit their boxes
+- [ ] **Arabic:** الملف التجاري على Google (with "Google Business Profile" in brackets once per page);
+      قائمة الطعام for menu; السفري for takeaway (or الطلبات الخارجية?); role names مالك / مدير /
+      المالك الأساسي against Google's Arabic interface; print terms (هامش القص); the home card text is longer
+- [ ] **Turkish:** "Google Haritalar" / "Google Arama" are used in running text (official Turkish names);
+      "yönetici" / "sahip" for roles; "klipsli altlık", "masa üstü stand", "büfe"; the profile-service meta
+      description renders "optimieren lassen" loosely; "Hizmet seçenekleri", "sürekli"
+- [ ] **Kurdish (highest review priority):** product name kept as "Google Business Profile", glossed as
+      "profîla karsaziyê ya li ser Google" in several places (one extra explanatory sentence in the FAQ group);
+      "Sêwirana menûyê", "nûsêwirandin" (redesign, coined), "nûkirina wêneyan", "lênêrîna profîlê",
+      "rêvebir (Administrator)" / "xwedî" / "xwediyê sereke" for roles, "bijarte" for optional (literally "selected"),
+      billing labels "yek carî" / "berdewam", "Berê" / "Piştî", "Bijardeyên xwestinê";
+      print terms ("para birînê", "mesafeya ewlehiyê", "resolusyon"), menu formats ("textika bi kilîps",
+      "stenda ser maseyê", "pelên zêde", "belavok"), food and venue terms, photo terms, and the added
+      glosses for IHK and DEHOGA in the menu article

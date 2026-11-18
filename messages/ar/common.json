@@ -22,7 +22,9 @@
     "skipToContent": "الانتقال إلى المحتوى",
     "languageLabel": "اختيار اللغة",
     "currentLanguage": "اللغة الحالية",
-    "homeLinkLabel": "Social Media Komplett – إلى الصفحة الرئيسية"
+    "homeLinkLabel": "Social Media Komplett – إلى الصفحة الرئيسية",
+    "localGroup": "التسويق المحلي والتصميم",
+    "coreGroup": "التواصل الاجتماعي والمحتوى"
   },
   "cta": {
     "primary": "استشارة أولية مجانية",
@@ -108,6 +110,8 @@
       "reels": "Reels وإنتاج الفيديو",
       "strategy": "استراتيجية التواصل الاجتماعي",
       "community": "إدارة المجتمع",
+      "menuDesign": "تصميم قوائم الطعام",
+      "googleProfile": "الملف التجاري على Google",
       "unsure": "لم أحدد بعد"
     },
     "message": "الرسالة",

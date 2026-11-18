@@ -3,7 +3,8 @@ import { ButtonLink } from "@/components/ui/button";
 import { Logo } from "@/components/ui/logo";
 import { localeConfig, locales, type Locale } from "@/i18n/config";
 import type { Messages } from "@/i18n/messages";
-import { href, serviceIds, type Alternates, type StaticPageId } from "@/lib/routes";
+import { serviceGroups } from "@/config/service-catalog";
+import { href, type Alternates, type StaticPageId } from "@/lib/routes";
 import { LanguageSwitcher, type LanguageOption } from "./language-switcher";
 import { MobileMenu, type MobileLink } from "./mobile-menu";
 
@@ -24,7 +25,13 @@ export function Header({ locale, messages, alternates, section }: { locale: Loca
       href: href("services", locale),
       label: t.services,
       current: section === "services",
-      children: serviceIds.map((id) => ({ href: href(`service:${id}`, locale), label: messages.services.items[id].name })),
+      children: [
+        { href: href("services", locale), label: t.allServices },
+        { label: t.coreGroup, heading: true },
+        ...serviceGroups.core.map((id) => ({ href: href(`service:${id}`, locale), label: messages.services.items[id].name })),
+        { label: t.localGroup, heading: true },
+        ...serviceGroups.local.map((id) => ({ href: href(`service:${id}`, locale), label: messages.services.items[id].name })),
+      ],
     },
     { href: href("industries", locale), label: t.industries, current: section === "industries" },
     { href: href("portfolio", locale), label: t.portfolio, current: section === "portfolio" },

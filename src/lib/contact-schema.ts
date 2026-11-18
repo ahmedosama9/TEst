@@ -1,7 +1,7 @@
 import { z } from "zod";
 
 export const industryOptions = ["gastronomy", "beauty", "fitness", "retail", "crafts", "other"] as const;
-export const serviceOptions = ["management", "content", "reels", "strategy", "community", "unsure"] as const;
+export const serviceOptions = ["management", "content", "reels", "strategy", "community", "menuDesign", "googleProfile", "unsure"] as const;
 
 /**
  * Shared by the client form and the server action. Error messages are message KEYS

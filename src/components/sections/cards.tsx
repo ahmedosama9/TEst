@@ -1,4 +1,5 @@
 import {
+  BookOpenText,
   Building2,
   CalendarCheck,
   Camera,
@@ -8,6 +9,7 @@ import {
   Dumbbell,
   Images,
   type LucideIcon,
+  MapPinned,
   MessagesSquare,
   Minus,
   PenLine,
@@ -32,6 +34,8 @@ export const serviceIcons: Record<ServiceId, LucideIcon> = {
   "reels-video-production": Clapperboard,
   "social-media-strategy": Compass,
   "community-management": MessagesSquare,
+  "menu-design": BookOpenText,
+  "google-business-profile": MapPinned,
 };
 
 export const industryIcons: Record<IndustryId, LucideIcon> = {
@@ -49,15 +53,29 @@ export function IconBadge({ icon: Icon, dark }: { icon: LucideIcon; dark?: boole
   );
 }
 
-export function ServiceCards({ locale, messages, exclude }: { locale: Locale; messages: Messages; exclude?: ServiceId }) {
-  const ids = serviceIds.filter((id) => id !== exclude);
+export function ServiceCards({
+  locale,
+  messages,
+  exclude,
+  ids: only,
+  extra,
+}: {
+  locale: Locale;
+  messages: Messages;
+  exclude?: ServiceId;
+  /** Restrict to these services (default: all). */
+  ids?: readonly ServiceId[];
+  /** Optional extra card appended to the grid (e.g. a group teaser on the home page). */
+  extra?: React.ReactNode;
+}) {
+  const ids = (only ?? serviceIds).filter((id) => id !== exclude);
   return (
     <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-      {ids.map((id, i) => {
+      {ids.map((id) => {
         const s = messages.services.items[id];
         return (
           <li key={id}>
-            <Reveal delay={i * 0.05} className="h-full">
+            <Reveal className="h-full">
               <article className="group relative flex h-full flex-col rounded-2xl border border-line bg-white p-6 shadow-card transition hover:-translate-y-1 hover:border-turquoise sm:p-7">
                 <IconBadge icon={serviceIcons[id]} />
                 <h3 className="text-xl">
@@ -74,6 +92,7 @@ export function ServiceCards({ locale, messages, exclude }: { locale: Locale; me
           </li>
         );
       })}
+      {extra ? <li>{extra}</li> : null}
     </ul>
   );
 }

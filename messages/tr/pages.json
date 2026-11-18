@@ -94,7 +94,7 @@
     "facts": {
       "what": {
         "label": "Ne yapıyoruz",
-        "value": "Sosyal medya yönetimi, içerik üretimi, Reels & video prodüksiyonu, strateji ve topluluk yönetimi"
+        "value": "Sosyal medya yönetimi, içerik üretimi, Reels ve video prodüksiyonu, strateji ve topluluk yönetimi; ayrıca menü tasarımı ve Google İşletme Profili için fotoğraf ve profil bakımı"
       },
       "who": {
         "label": "Kimler için",
@@ -322,7 +322,11 @@
         "q": "Sonuç garantisi veriyor musunuz?",
         "a": "Hayır; bunu yapan herkese karşı da temkinli olmanızı öneririz. Erişim ve talepler, kimsenin tümüyle kontrol edemediği pek çok etkene bağlıdır. Biz kararlaştırılan hizmet kapsamını, titiz işi ve dürüst bir değerlendirmeyi garanti ediyoruz."
       }
-    ]
+    ],
+    "standalone": {
+      "title": "Tek başına alınabilen hizmetler: Menü tasarımı & Google İşletme Profili",
+      "intro": "Bu hizmetleri bir paketten bağımsız olarak alabilir veya aylık sosyal medya yönetimiyle birleştirebilirsiniz. Fiyatları kısa bir görüşmenin ardından size bildiriyoruz."
+    }
   },
   "faq": {
     "meta": {
@@ -410,6 +414,27 @@
           {
             "q": "Başarı nasıl ölçülüyor?",
             "a": "Hedefinize uygun göstergelerle – örneğin erişim, kaydedilen ve paylaşılan gönderiler, profil ziyaretleri, bağlantı tıklamaları ve gelen talepler. Bununla ilgili düzenli bir rapor alırsınız."
+          }
+        ]
+      },
+      {
+        "title": "Menüler & Google İşletme Profili",
+        "items": [
+          {
+            "q": "Menü tasarımı da yapıyor musunuz?",
+            "a": "Evet. Yeni menüler tasarlıyor, mevcut menüleri elden geçiriyoruz – basılı menü, PDF, QR kodlu menü veya paket servis broşürü olarak. Fiyatlar, alerjenler ve diğer tüm bilgiler sizden gelir ve sizin tarafınızdan onaylanır."
+          },
+          {
+            "q": "Google İşletme Profili için ne yapıyorsunuz?",
+            "a": "Profilinizi inceliyor, işletmenizin fotoğraflarını çekiyor, görselleri seçip düzenliyor ve onayladığınız fotoğrafları yüklüyoruz. Dilerseniz fotoğrafların ve bilgilerin bakımını düzenli olarak üstleniyoruz. Profilin kendisi Google'ın ücretsiz bir hizmetidir; ücreti ödenen, bizim fotoğraf ve bakım çalışmamızdır."
+          },
+          {
+            "q": "Bunun için Google şifreme ihtiyacınız var mı?",
+            "a": "Hayır. Bizi profilinize yönetici olarak eklersiniz ve bu erişimi istediğiniz zaman kaldırabilirsiniz. Profilin sahibi siz kalırsınız."
+          },
+          {
+            "q": "Bu hizmetleri sosyal medya paketi olmadan alabilir miyim?",
+            "a": "Evet. Menü tasarımı ve fotoğraf yenileme tek başına alınabilir ve düzenli yönetimle birleştirilebilir – örneğin bir çekim günü aynı zamanda profil fotoğrafları için de değerlendirilebilir."
           }
         ]
       }

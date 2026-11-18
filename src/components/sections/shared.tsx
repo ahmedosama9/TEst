@@ -34,7 +34,7 @@ export function PageHero({
         <Breadcrumbs crumbs={crumbs} label={breadcrumbLabel} dark />
         <div className="max-w-3xl">
           {eyebrow ? <Eyebrow dark>{eyebrow}</Eyebrow> : null}
-          <h1 className="text-4xl text-white sm:text-5xl">{title}</h1>
+          <h1 className="text-[1.75rem] text-white min-[400px]:text-4xl sm:text-5xl">{title}</h1>
           {intro ? <p className="mt-5 text-lg sm:text-xl">{intro}</p> : null}
           {children ? <div className="mt-8 flex flex-wrap gap-3">{children}</div> : null}
         </div>

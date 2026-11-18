@@ -62,6 +62,8 @@ takeaways, table of contents, FAQ, author box, share links and the closing CTA a
 1. One article = one search intent. Check the content plan below before starting a new topic.
 2. Answer the question in the first paragraph (`answer`), then explain.
 3. No statistics, study claims or platform "facts" without a source you have opened yourself; list it in `sources`.
+   Article 12 cites six Google help pages. They could not be opened from the build environment and were
+   taken from search extracts — **open each link once and compare the figures before launch.**
 4. No invented clients, results or testimonials. Examples must read as examples.
 5. Update `updated` whenever the substance changes.
 
@@ -102,7 +104,7 @@ until the translation has been checked again.
 
 ## Content plan
 
-Status of all ten starter articles: German published; EN/AR/KU/TR translated, `needs-review`.
+Status of all twelve articles: German published; EN/AR/KU/TR translated, `needs-review`.
 Suggested CTA for all: "Kostenloses Erstgespräch" plus the related service.
 
 | # | Article id | Primary topic | Search intent | Audience | Title (DE) | Slug (DE) | Main sections | Related service | Internal links |
@@ -116,6 +118,8 @@ Suggested CTA for all: "Kostenloses Erstgespräch" plus the related service.
 | 7 | social-media-strategy-small-business | Social-Media-Strategie | How-to | Small businesses | Social Media Strategie für kleine Unternehmen | social-media-strategie-kleine-unternehmen | Seven steps from goal to review | Social-Media-Strategie | strategy service, measuring success |
 | 8 | common-social-media-mistakes | Social-Media-Fehler | Informational, checklist | Owners already posting | Die häufigsten Social Media Fehler | haeufigste-social-media-fehler | Mistakes and fixes | Social Media Management | strategy, posting frequency |
 | 9 | content-ideas-salons | Content-Ideen Salons | Idea list, industry | Hairdressers, salons | Content-Ideen für Friseure und Beauty-Salons | content-ideen-friseure-beauty-salons | Idea groups, consent, routine | Content-Erstellung | beauty page, Reels guide |
+| 11 | menu-design-restaurants | Speisekarten-Design | Informational, how-to | Restaurant/café owners | Speisekarten-Design: Was Restaurants beachten sollten | speisekarten-design-restaurants | Structure, legibility, formats, QR, print files, checklist | Speisekarten-Design | menu service, gastronomy page, Google article |
+| 12 | google-maps-photos-business | Google Maps Bilder aktualisieren | How-to | Owners of local businesses | Google Maps Bilder aktualisieren: So geht's für Unternehmen | google-maps-bilder-aktualisieren | Profile basics, adding photos, what Google decides, access without password, routine | Google-Unternehmensprofil | profile service, local-businesses page, menu article |
 | 10 | measuring-social-media-success | Erfolg messen | How-to | Owners wanting proof | Wie misst man den Erfolg von Social Media Marketing? | erfolg-social-media-marketing-messen | Goals → KPIs, tracking enquiries, monthly review | Social-Media-Strategie | strategy, cost article |
 
 ### Topic clusters and next articles
@@ -130,7 +134,8 @@ The four categories without articles are not shown on the site until they have o
 | Strategy | 6, 7 | "Redaktionsplan erstellen: Vorlage und Anleitung" | social-media-strategy |
 | Content creation | 9 | "Bessere Handyfotos für den Betrieb" | content-creation |
 | Gastronomy / Salons / Fitness | 3, 9 | "Social Media für Fitnessstudios: Content-Ideen" | restaurant-/salon-marketing |
-| Local business | – | "Facebook für lokale Unternehmen: lohnt es sich noch?", "Google-Unternehmensprofil und Social Media zusammen nutzen" | facebook-marketing, local-business-marketing |
+| Local marketing & design (menu design, Google-Unternehmensprofil) | 11, 12 | "QR-Code-Speisekarte: Vor- und Nachteile", "Öffnungszeiten und Feiertage im Google-Unternehmensprofil pflegen" | restaurant-marketing, local-business-marketing |
+| Local business | – | "Facebook für lokale Unternehmen: lohnt es sich noch?" | facebook-marketing |
 | AI tools | – | "KI-Tools für Social Media: was sie können und was nicht" | ai-tools-marketing |
 
 Avoid near-duplicates: e.g. no separate "Instagram für Cafés" next to article 3 — extend article 3 instead.

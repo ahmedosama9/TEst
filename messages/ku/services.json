@@ -419,6 +419,357 @@
           "a": "Bi awayekî objektîf û bi armanca çareseriyê. Em bersiva rexneya mafdar bi eşkereyî didin û wê digihînin we; naveroka heqaretwarî an spam tê moderekirin. Rewşên nazik em berî bersivê bi we re li hev dikin."
         }
       ]
+    },
+    "menu-design": {
+      "meta": {
+        "title": "Sêwirana menûyê û nûsêwirandin ji bo restoranan",
+        "description": "Sêwirandin an nûkirina menûyan: menûyên çapkirî, PDF û QR-kod, menûyên To-go û demsalî – amade ji bo çapê, ji bo gastronomiyê li Münster û NRW."
+      },
+      "name": "Sêwirana menûyê",
+      "short": "Menûyên nû û nûsêwirandin – çapkirî, wek PDF û wek menûya bi QR-kodê.",
+      "title": "Sêwirana menûyê û nûsêwirandin: menûyek ku li metbexa we tê",
+      "intro": "Menû ew belge ye ku her mêvan digire destê xwe. Em menûyên nû sêwiran dikin û yên heyî nûjen dikin – birêkûpêk, bi hêsanî tên xwendin û li karsaziya we tên. Ji bo restoran, qehwexane, food truck, xwaringehên biçûk û karsaziyên ku xwarinê digihînin malê.",
+      "definitionTitle": "Sêwirana profesyonel a menûyê çi digire nav xwe?",
+      "definition": "Sêwirana profesyonel a menûyê pêşniyarên we wisa rêz dike ku mêvan zû riya xwe bibînin: bi beşên zelal, nivîseke ku bi hêsanî tê xwendin, rengên lihevhatî û – li cihê ku guncav be – wêneyên xwarinan. Di dawiyê de dosyeyên amade ji bo çapê û guhertoyên dîjîtal wek PDF an menûya bi QR-kodê hene.",
+      "includes": [
+        {
+          "title": "Menûyên nû",
+          "text": "Sêwirana temam, ji beşkirinê heta layouta amade."
+        },
+        {
+          "title": "Nûsêwirandina menûyên heyî",
+          "text": "Em menûya we ya heyî nûjen dikin, bêyî ku pêşniyarên we biguherînin."
+        },
+        {
+          "title": "Tîpografî, reng û layout",
+          "text": "Tîp, reng û rêzbendiyeke rûpelê ku li karsaziya we tên û bi hêsanî tên xwendin."
+        },
+        {
+          "title": "Menûyên çapkirî",
+          "text": "Format ji bo menûya ser maseyê, textika bi kilîps, stenda ser maseyê an texteya nivîsê – li gorî bikaranîna we."
+        },
+        {
+          "title": "Menûyên PDF û dîjîtal",
+          "text": "Guhertoyek ji bo malper, medyaya civakî û ji bo şandinê."
+        },
+        {
+          "title": "Menûyên bi QR-kodê",
+          "text": "QR-kodên ku ber bi rûpeleke menûyê ya li ser înternetê an dosyeyekê ve diçin."
+        },
+        {
+          "title": "Menûyên To-go û gihandinê",
+          "text": "Belavok û menûyên kurt ji bo wergirtina ji cih û gihandina malê."
+        },
+        {
+          "title": "Menûyên kampanya û demsalê",
+          "text": "Pelên zêde ji bo xwarina nîvro, demsal, rojên cejnê û çalakiyan bi heman şêwazê."
+        },
+        {
+          "title": "Dosyeyên amade ji bo çapê",
+          "text": "Daneyên çapê li gorî şertên çapxaneya we – li ser daxwazê em rasterast bi wê re li hev dikin."
+        },
+        {
+          "title": "Menûyên pirzimanî",
+          "text": "Li ser daxwazê em menûya we bi zimanên din jî amade dikin. Wergeran hûn didin an em wan bi hev re zelal dikin."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Tespîta rewşa heyî",
+          "text": "Hûn menûya xwe ya niha, xwarin, biha û agahiyên mecbûrî ji me re dişînin. Em format, çarçove û şêwazê zelal dikin."
+        },
+        {
+          "title": "Pêşnûme",
+          "text": "Hûn pêşnûmeyeke sêwiranê bi beşkirin, tîp û rengan distînin – li ser daxwazê bi wêneyên ji rojeke kişandinê."
+        },
+        {
+          "title": "Sererastkirin û pejirandin",
+          "text": "Hûn naverok, biha û agahiyên alerjenan kontrol dikin û menûyê dipejirînin. Bêyî pejirandina we tiştek naçe çapê."
+        },
+        {
+          "title": "Radestkirin",
+          "text": "Hûn daneyên çapê, PDF û – heke bê xwestin – QR-kod û şablonên pelên zêde distînin."
+        }
+      ],
+      "forWhom": [
+        "Restoran, qehwexane û barên ku menûya wan bi salan perçe perçe mezin bûye",
+        "Food truck, xwaringehên biçûk û karsaziyên gihandinê yên ku hewcedarê menûyeke kurt in",
+        "Karsaziyên nû vebûyî yên ku ji destpêkê ve xuyangeke yekgirtî dixwazin"
+      ],
+      "faq": [
+        {
+          "q": "Nivîs, biha û agahiyên alerjenan ji ku tên?",
+          "a": "Ji we. Em sêwiran dikin, lê em bihayan diyar nakin û agahiyên li ser alerjenan an madeyên zêdekirî naguherînin. Hûn hemû naverokê berî çapê kontrol dikin û dipejirînin. Ka kîjan agahiyên mecbûrî ji bo karsaziya we derbasdar in, ya herî baş ew e ku hûn bi odeya xwe, yekîtiya xwe ya pîşeyî an şêwirmendê xwe re zelal bikin."
+        },
+        {
+          "q": "Hûn menûyan çap jî dikin?",
+          "a": "Em dosyeyên amade ji bo çapê radest dikin. Çapê hûn li çapxaneyeke ku hûn hildibijêrin didin kirin; li ser daxwazê em şertên teknîkî rasterast bi wê re li hev dikin."
+        },
+        {
+          "q": "Menûyeke bi QR-kodê çawa dixebite?",
+          "a": "QR-kod ber bi rûpeleke menûyê an dosyeyeke PDF ve diçe. Menû li ku tê danîn û dema biha diguherin kî wê nû dike, em ji berê ve bi hev re diyar dikin. Em pêşniyar dikin ku li gel wê menûyeke çapkirî jî amade be."
+        },
+        {
+          "q": "Hûn dikarin wêneyên xwarinan jî bikişînin?",
+          "a": "Belê. Wêneyên xwarinê dikarin bi rojeke kişandinê ya ji bo kanalên we yên medyaya civakî an ji bo Google Business Profile-a we re bên yekkirin – bi vî awayî di yek randevûyê de wêne ji bo çend armancan derdikevin."
+        }
+      ]
+    },
+    "google-business-profile": {
+      "meta": {
+        "title": "Google Business Profile: nûkirina wêneyan û lênêrîn",
+        "description": "Google Business Profile bidin baştirkirin: wêneyên nû yên karsaziyê ji bo lêgerîna Google û Maps, kontrola profîlê û lênêrîna berdewam – li Münster û NRW."
+      },
+      "name": "Google Business Profile",
+      "short": "Nûkirina wêneyan û lênêrîna profîlê ji bo xuyanga we di lêgerîna Google û li ser Google Maps de.",
+      "title": "Google Business Profile: nûkirina wêneyan û lênêrîna profîlê",
+      "intro": "Kî li karsaziya we bigere, gelek caran pêşî Google Business Profile-a we dibîne – bi wêne, saetên vekirinê û agahiyên têkiliyê. Em wêneyên nû û profesyonel û agahiyên rast peyda dikin, da ku karsaziya we di lêgerîna Google û li ser Google Maps de wisa xuya bike ku bi rastî çawa ye.",
+      "definitionTitle": "Google Business Profile çi ye?",
+      "definition": "Google Business Profile (profîla karsaziyê ya li ser Google, berê “Google My Business”) ew tomara bêpere ye ku karsazî pê di lêgerîna Google û li ser Google Maps de xuya dibin. Xwediyên karsaziyan dikarin li wir li wêne, saetên vekirinê, kategorî, danasîn û agahiyên têkiliyê binêrin. Xizmeta me karê wênekêşî û lênêrînê ye li dora vê profîlê – profîl bi xwe xizmeteke bêpere ya Google dimîne.",
+      "includes": [
+        {
+          "title": "Kontrola profîlê",
+          "text": "Em li profîla we dinêrin û tomar dikin ka çi kêm e, kevn bûye an ne yekgirtî ye."
+        },
+        {
+          "title": "Wêneyên nû yên karsaziyê",
+          "text": "Kişandinên profesyonel ên karsaziya we di randevûyeke li cih de."
+        },
+        {
+          "title": "Wênekêşiya xwarinê",
+          "text": "Xwarin û vexwarin, bi awayekî ku mirov birçî dike û rasteqîn hatine kişandin."
+        },
+        {
+          "title": "Wêneyên hundir û derve",
+          "text": "Derî, ode û atmosfer – da ku mirov we nas bikin û bibînin."
+        },
+        {
+          "title": "Wêneyên berhem û xizmetan",
+          "text": "Wêneyên tiştê ku hûn pêşkêş dikin: berhem, xizmetên lênêrînê, encamên kar."
+        },
+        {
+          "title": "Hilbijartin û sererastkirin",
+          "text": "Em dîmenên herî baş hildibijêrin û wan bi şêwazekî yekgirtî sererast dikin."
+        },
+        {
+          "title": "Barkirina wêneyên pejirandî",
+          "text": "Em wêneyên ku we pejirandine bar dikin profîla we – bi wê gihîştinê ku hûn didin me."
+        },
+        {
+          "title": "Logo û wêneyê bergê",
+          "text": "Em logo û wêneyê bergê nû dikin, bi qasî ku profîla we destûrê dide."
+        },
+        {
+          "title": "Kontrolkirina agahiyan",
+          "text": "Em danasîn, kategorî, saetên vekirinê û agahiyên têkiliyê bi we re derbas dikin."
+        },
+        {
+          "title": "Dîtina tiştên kevnbûyî",
+          "text": "Em bala we dikişînin ser agahiyên kevn an şaş û sererastkirinan pêşniyar dikin."
+        },
+        {
+          "title": "Lênêrîna berdewam a wêneyan",
+          "text": "Bijarte: wêneyên nû di navberên birêkûpêk de, mînak ji bo demsalê an pêşniyarên nû."
+        },
+        {
+          "title": "Nirxandina hêsan",
+          "text": "Bi qasî ku Google hejmaran dide, em dîtin û têkiliyan bi awayekî têgihîştî kurt dikin."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Sazkirina gihîştinê",
+          "text": "Hûn me di profîla xwe de wek rêvebir (Administrator) lê zêde dikin. Hûn xwedî dimînin – em hewcedarê şîfreyê nînin."
+        },
+        {
+          "title": "Kontrola profîlê",
+          "text": "Em wêne û agahiyan kontrol dikin û bi we re diaxivin ka divê çi bê nûkirin."
+        },
+        {
+          "title": "Randevûya wênekêşiyê li cih",
+          "text": "Em wêneyên cih, pêşniyarên we û – heke hûn bixwazin – tîma we dikişînin."
+        },
+        {
+          "title": "Hilbijartin û pejirandin",
+          "text": "Hûn wêneyên sererastkirî û guhertinên pêşniyarkirî dibînin û wan dipejirînin."
+        },
+        {
+          "title": "Barkirin û lênêrîn",
+          "text": "Em wêneyan bar dikin û li ser daxwazê bi rêkûpêk bi nûkirinan re mijûl dibin."
+        }
+      ],
+      "forWhom": [
+        "Karsaziyên ku profîla wan bi piranî wêneyên kevn an tesadufî nîşan dide",
+        "Restoran, salon, studyo û dikanên ku dixwazin li cih bên dîtin",
+        "Karsaziyên piştî nûjenkirina avahiyê, barkirin, vebûna nû an bi pêşniyareke nû"
+      ],
+      "faq": [
+        {
+          "q": "Ma Google Business Profile ne bêpere ye?",
+          "a": "Belê, bêpere ye. Profîl xizmeteke bêpere ya Google ye û hûn dikarin bi xwe lê binêrin. Li cem me pere ji bo karê li dora wê tê dayîn: wênekêşî, sererastkirina wêneyan, kontrola agahiyan û lênêrîna berdewam."
+        },
+        {
+          "q": "Hûn dikarin wêneyên kevn an wêneyên mişteriyan rakin?",
+          "a": "Wêneyên karsaziyê bi xwe dikarin bên guhertin. Wêneyên ku kesên din bar kirine em nikarin bi hêsanî jê bibin; binpêkirinên rêbazan dikarin ji Google re bên ragihandin, li ser rakirinê Google biryar dide."
+        },
+        {
+          "q": "Hûn diyar dikin ka kîjan wêne pêşî tê nîşandan?",
+          "a": "Na. Em dikarin wêneyekî bergê diyar bikin, lê Google bi xwe biryar dide ka kîjan wêne li ku xuya dibin. Wêneyên baş û nû yên karsaziyê wê hilbijartinê fireh dikin ku Google dikare jê bigire – garantî tune."
+        },
+        {
+          "q": "Ev rêzbendiya min a li ser Google baştir dike?",
+          "a": "Em vê soz nadin. Em xuyangeke temam, rojane û balkêş peyda dikin. Ka Google encaman çawa rêz dike, ne di destê me de ye."
+        },
+        {
+          "q": "Hûn hewcedarê şîfreya min a Google ne?",
+          "a": "Na, û em naxwazin ew li cem me be jî. Hûn me wek rêvebir (Administrator) lê zêde dikin û dikarin gihîştinê her dem rakin. Profîl milkê we dimîne."
+        },
+        {
+          "q": "Hûn hevkarekî Google ne?",
+          "a": "Na. Social Media Komplett ajanseke serbixwe ye û bi Google re di ti hevkariyê de nîne. Google û Google Maps marqeyên Google LLC ne."
+        }
+      ]
+    }
+  },
+  "groups": {
+    "core": {
+      "title": "Medyaya civakî û naverok",
+      "intro": "Plankirin, çêkirin û lênêrîna berdewam a kanalên we."
+    },
+    "local": {
+      "title": "Marketînga herêmî û sêwiran",
+      "intro": "Ji bo her tiştê ku mêvan û mişterî li cih û li ser Google pêşî dibînin: menûya we û Google Business Profile-a we."
+    }
+  },
+  "showcaseLabels": {
+    "before": "Berê",
+    "after": "Piştî",
+    "options": "Bijardeyên xwestinê",
+    "important": "Girîng e ku hûn bizanin",
+    "combine": "Bi serê xwe tê xwestin an jî bi lênêrîna mehane ya medyaya civakî re tê yekkirin.",
+    "billingOnce": "yek carî",
+    "billingRecurring": "berdewam",
+    "billingOptional": "bijarte"
+  },
+  "showcase": {
+    "menu-design": {
+      "title": "Mînak: ji menûya bi salan mezinbûyî ber bi layouteke zelal",
+      "intro": "Nûsêwirandinek dikare wiha xuya bike. Ev nîşandan mînakeke sêwiranê ye bi nivîsên cîgir – ne projeyeke mişteriyekî ye.",
+      "beforeCaption": "Blokên nivîsê yên tije, tîpên ku diguherin, rêzeke zelal tune.",
+      "afterCaption": "Beşkirina zelal, tîpografiya aram, cih ji bo têbînî û agahiyên mecbûrî.",
+      "mock": {
+        "name": "Bîstroya Mînak",
+        "subtitle": "Menû",
+        "lines": [
+          "Xwarinên destpêkê",
+          "Şorbeya rojê",
+          "Xwarinên sereke",
+          "Pastaya malê",
+          "Şîranî",
+          "Keka çîkolatayê"
+        ]
+      },
+      "formatsTitle": "Format ji bo çap û ekranê",
+      "formats": [
+        {
+          "title": "Menûya çapkirî",
+          "text": "Wek menûya qatkirî, pelê ji bo textika bi kilîps an stenda ser maseyê."
+        },
+        {
+          "title": "PDF",
+          "text": "Ji bo malper, e-name û medyaya civakî."
+        },
+        {
+          "title": "Menûya bi QR-kodê",
+          "text": "Li ser maseyê tê skenkirin, li ser telefonê tê xwendin."
+        },
+        {
+          "title": "To-go û pelên zêde",
+          "text": "Belavok, menûya gihandinê û menûyên demsalî bi heman şêwazê."
+        }
+      ],
+      "options": [
+        {
+          "title": "Sêwirana nû",
+          "text": "Sêwirana yek carî ya menûyeke nû."
+        },
+        {
+          "title": "Nûsêwirandin",
+          "text": "Ji nû ve amadekirina menûya we ya heyî."
+        },
+        {
+          "title": "Nûkirinên demsalî",
+          "text": "Nûkirin û pelên zêde di nav salê de."
+        },
+        {
+          "title": "Amadekirina çapê",
+          "text": "Dosyeyên amade ji bo çapê û lihevkirina bi çapxaneyê re."
+        }
+      ],
+      "notes": [
+        "Biha, xwarin, agahiyên alerjen û madeyên zêdekirî hûn didin – û tenê hûn wan dipejirînin.",
+        "Em bêyî razîbûna we ti naverokê naguherînin û bêyî pejirandinê tiştekî çap nakin.",
+        "Wergerên ji bo menûyên pirzimanî berî çapê ji aliyê we ve tên kontrolkirin."
+      ]
+    },
+    "google-business-profile": {
+      "title": "Mînak: nûkirina wêneyan ji bo profîlekê",
+      "intro": "Bandora yekem dikare wiha biguhere. Ev nîşandan îlustrasyoneke şematîk e – ne profîleke rasteqîn e, ne wêneyên rasteqîn in û ne projeyeke mişteriyekî ye.",
+      "beforeCaption": "Wêneyên kêm, tarî an kevnbûyî; agahî hinekî ne temam in.",
+      "afterCaption": "Kişandinên nû yên derve, hundir, pêşniyar û tîmê; agahiyên kontrolkirî.",
+      "mock": {
+        "name": "Qehwexaneya Mînak",
+        "subtitle": "Qehwexane",
+        "lines": [
+          "Dîmena derve",
+          "Hundir",
+          "Xwarin û vexwarin",
+          "Tîm",
+          "Hûrgilî",
+          "Wêneyê bergê"
+        ]
+      },
+      "formatsTitle": "Dîmenên ku em dikişînin",
+      "formats": [
+        {
+          "title": "Derve",
+          "text": "Derî û rûyê avahiyê, da ku mirov we li cih nas bikin."
+        },
+        {
+          "title": "Hundir",
+          "text": "Ode, cihên rûniştinê û atmosfer."
+        },
+        {
+          "title": "Pêşniyar",
+          "text": "Xwarin, berhem û xizmet."
+        },
+        {
+          "title": "Mirov",
+          "text": "Tîm di dema kar de – tenê bi razîbûnê."
+        }
+      ],
+      "options": [
+        {
+          "title": "Nûkirina wêneyan",
+          "text": "Nûkirina yek carî ya wêneyên profîlê tevî kontrola profîlê."
+        },
+        {
+          "title": "Wênekêşiya li cih",
+          "text": "Randevûyeke profesyonel a wênekêşiyê li karsaziya we."
+        },
+        {
+          "title": "Lênêrîna berdewam a wêne û profîlê",
+          "text": "Bi rêkûpêk wêneyên nû û kontrola agahiyan."
+        }
+      ],
+      "notes": [
+        "Google Business Profile xizmeteke bêpere ya Google ye. Pere ji bo karê me yê wênekêşî û lênêrînê tê dayîn.",
+        "Em ajanseke serbixwe ne û ne hevkarê Google ne.",
+        "Hûn xwediyê profîlê dimînin. Em tenê bi wê gihîştinê dixebitin ku hûn wek rêvebir (Administrator) didin me – bêyî şîfreya we.",
+        "Google biryar dide ka kîjan wêne tên nîşandan. Em ne dikarin soz bidin ku hemû wêneyên kevn dê bên guhertin an wêneyê me yê bergê dê pêşî xuya bibe, ne jî dikarin rêzbendiyeke çêtir soz bidin.",
+        "Em nikarin wêneyên ku mişteriyan bar kirine rakin; binpêkirin dikarin bên ragihandin.",
+        "Em bêyî pejirandina we ya eşkere tiştekî di profîla we de naweşînin."
+      ]
     }
   }
 }

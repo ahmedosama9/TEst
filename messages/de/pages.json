@@ -94,7 +94,7 @@
     "facts": {
       "what": {
         "label": "Was wir tun",
-        "value": "Social Media Management, Content-Erstellung, Reels & Videoproduktion, Strategie und Community Management"
+        "value": "Social Media Management, Content-Erstellung, Reels & Videoproduktion, Strategie und Community Management sowie Speisekarten-Design und Foto- und Profilpflege für das Google-Unternehmensprofil"
       },
       "who": {
         "label": "Für wen",
@@ -322,7 +322,11 @@
         "q": "Garantiert ihr Ergebnisse?",
         "a": "Nein, und wir raten zur Vorsicht bei allen, die das tun. Reichweite und Anfragen hängen von vielen Faktoren ab, die niemand vollständig kontrolliert. Wir garantieren den vereinbarten Leistungsumfang, saubere Arbeit und eine ehrliche Auswertung."
       }
-    ]
+    ],
+    "standalone": {
+      "title": "Einzelleistungen: Speisekarten-Design & Google-Unternehmensprofil",
+      "intro": "Diese Leistungen kannst du unabhängig von einem Paket buchen oder mit der monatlichen Social-Media-Betreuung kombinieren. Preise nennen wir dir nach einem kurzen Gespräch."
+    }
   },
   "faq": {
     "meta": {
@@ -410,6 +414,27 @@
           {
             "q": "Wie wird der Erfolg gemessen?",
             "a": "Anhand von Kennzahlen, die zu deinem Ziel passen – etwa Reichweite, gespeicherte und geteilte Beiträge, Profilaufrufe, Klicks auf Links und eingehende Anfragen. Du erhältst dazu einen regelmäßigen Bericht."
+          }
+        ]
+      },
+      {
+        "title": "Speisekarten & Google-Unternehmensprofil",
+        "items": [
+          {
+            "q": "Gestaltet ihr auch Speisekarten?",
+            "a": "Ja. Wir gestalten neue Speisekarten und überarbeiten bestehende – als gedruckte Karte, PDF, QR-Code-Karte oder To-go-Flyer. Preise, Allergene und alle weiteren Angaben kommen von dir und werden von dir freigegeben."
+          },
+          {
+            "q": "Was macht ihr beim Google-Unternehmensprofil?",
+            "a": "Wir prüfen dein Profil, fotografieren deinen Betrieb, wählen Bilder aus, bearbeiten sie und laden die von dir freigegebenen Fotos hoch. Auf Wunsch pflegen wir Fotos und Angaben regelmäßig. Das Profil selbst ist ein kostenloses Angebot von Google; bezahlt wird unsere Foto- und Pflegearbeit."
+          },
+          {
+            "q": "Braucht ihr dafür mein Google-Passwort?",
+            "a": "Nein. Du fügst uns in deinem Profil als Administrator hinzu und kannst den Zugriff jederzeit wieder entfernen. Du bleibst Inhaberin oder Inhaber des Profils."
+          },
+          {
+            "q": "Kann ich diese Leistungen ohne Social-Media-Paket buchen?",
+            "a": "Ja. Speisekarten-Design und Foto-Refresh sind einzeln buchbar und lassen sich mit der laufenden Betreuung kombinieren – zum Beispiel, indem ein Drehtermin gleich für Profilfotos genutzt wird."
           }
         ]
       }

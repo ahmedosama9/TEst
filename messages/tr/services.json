@@ -419,6 +419,357 @@
           "a": "Nesnel ve çözüm odaklı biçimde. Haklı eleştiriyi açıkça yanıtlıyor ve size iletiyoruz; hakaret içeren içerikler veya spam ise moderasyona tabi tutulur. Hassas durumları yanıt vermeden önce sizinle görüşüyoruz."
         }
       ]
+    },
+    "menu-design": {
+      "meta": {
+        "title": "Restoranlar için Menü Tasarımı ve Yeniden Tasarım",
+        "description": "Menü tasarımı ve yeniden tasarım: basılı menüler, PDF ve QR kodlu menüler, paket servis ve sezon menüleri – baskıya hazır, Münster ve NRW'deki işletmeler için."
+      },
+      "name": "Menü Tasarımı",
+      "short": "Yeni menüler ve yeniden tasarımlar – basılı, PDF ve QR kodlu menü olarak.",
+      "title": "Menü tasarımı ve yeniden tasarım: mutfağınıza yakışan bir menü",
+      "intro": "Menü, her misafirin eline aldığı belgedir. Yeni menüler tasarlıyor, mevcut menüleri modernleştiriyoruz – düzenli, kolay okunur ve işletmenize uygun biçimde. Restoranlar, kafeler, food truck'lar, büfeler ve paket servis işletmeleri için.",
+      "definitionTitle": "Profesyonel menü tasarımı neleri kapsar?",
+      "definition": "Profesyonel menü tasarımı, sunulan ürünleri misafirlerin hızla yolunu bulacağı şekilde düzenler: net bir bölümleme, kolay okunur yazı tipi, uyumlu renkler ve – uygun olduğu yerde – yemek fotoğraflarıyla. Sonuçta baskı için hazır dosyalar ile PDF veya QR kodlu menü olarak dijital sürümler ortaya çıkar.",
+      "includes": [
+        {
+          "title": "Yeni menüler",
+          "text": "Bölümlemeden bitmiş sayfa düzenine kadar eksiksiz tasarım."
+        },
+        {
+          "title": "Mevcut menülerin yeniden tasarımı",
+          "text": "Sunduklarınızı değiştirmeden mevcut menünüzü modernleştiriyoruz."
+        },
+        {
+          "title": "Tipografi, renkler ve sayfa düzeni",
+          "text": "İşletmenize uyan ve kolay okunan yazı tipleri, renkler ve ızgara düzeni."
+        },
+        {
+          "title": "Basılı menüler",
+          "text": "Masa menüsü, klipsli altlık, masa üstü stand veya tahta için formatlar – kullanım şeklinize göre."
+        },
+        {
+          "title": "PDF ve dijital menüler",
+          "text": "Web sitesi, sosyal medya ve gönderim için bir sürüm."
+        },
+        {
+          "title": "QR kodlu menüler",
+          "text": "Barındırılan bir menü sayfasına veya bir dosyaya yönlendiren QR kodları."
+        },
+        {
+          "title": "Paket servis ve teslimat menüleri",
+          "text": "Gel-al ve teslimat için kompakt broşürler ve menüler."
+        },
+        {
+          "title": "Kampanya ve sezon menüleri",
+          "text": "Öğle menüsü, sezon, bayramlar ve etkinlikler için aynı tarzda ek sayfalar."
+        },
+        {
+          "title": "Baskıya hazır dosyalar",
+          "text": "Matbaanızın şartlarına uygun baskı dosyaları – dilerseniz doğrudan matbaayla koordine oluyoruz."
+        },
+        {
+          "title": "Çok dilli menüler",
+          "text": "Talep üzerine menünüzü başka dillerde de dizeriz. Çevirileri siz sağlarsınız veya birlikte netleştiririz."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Mevcut durumun tespiti",
+          "text": "Bize güncel menünüzü, yemekleri, fiyatları ve zorunlu bilgileri gönderirsiniz. Format, kapsam ve tarzı netleştiririz."
+        },
+        {
+          "title": "Taslak",
+          "text": "Bölümleme, yazı tipleri ve renkleri içeren bir tasarım taslağı alırsınız – dilerseniz bir çekim gününden fotoğraflarla."
+        },
+        {
+          "title": "Düzeltme ve onay",
+          "text": "İçerikleri, fiyatları ve alerjen bilgilerini kontrol eder, menüyü onaylarsınız. Onayınız olmadan hiçbir şey baskıya gitmez."
+        },
+        {
+          "title": "Teslim",
+          "text": "Baskı dosyalarını, PDF'i ve – isterseniz – QR kodunu ve ek sayfa şablonlarını alırsınız."
+        }
+      ],
+      "forWhom": [
+        "Menüsü yıllar içinde kendiliğinden büyümüş restoranlar, kafeler ve barlar",
+        "Kompakt bir menüye ihtiyaç duyan food truck'lar, büfeler ve paket servis işletmeleri",
+        "En baştan bütünlüklü bir görünüm isteyen yeni açılan işletmeler"
+      ],
+      "faq": [
+        {
+          "q": "Metinler, fiyatlar ve alerjen bilgileri nereden geliyor?",
+          "a": "Sizden. Biz tasarlarız; ancak fiyat belirlemeyiz ve alerjenlere veya katkı maddelerine ilişkin bilgileri değiştirmeyiz. Tüm içerikleri baskıdan önce siz kontrol eder ve onaylarsınız. İşletmeniz için hangi zorunlu bilgilerin geçerli olduğunu en iyisi odanızla, meslek birliğinizle veya danışmanınızla netleştirmenizdir."
+        },
+        {
+          "q": "Menüleri siz mi basıyorsunuz?",
+          "a": "Biz baskıya hazır dosyalar teslim ederiz. Baskıyı kendi seçtiğiniz bir matbaaya siz verirsiniz; dilerseniz teknik şartları doğrudan matbaayla koordine ederiz."
+        },
+        {
+          "q": "QR kodlu menü nasıl çalışır?",
+          "a": "QR kodu bir menü sayfasına veya bir PDF dosyasına yönlendirir. Menünün nerede duracağını ve fiyat değişikliklerinde onu kimin güncelleyeceğini önceden birlikte belirleriz. Ek olarak basılı bir menü bulundurmanızı öneririz."
+        },
+        {
+          "q": "Yemeklerin fotoğraflarını da çekebilir misiniz?",
+          "a": "Evet. Yemek fotoğrafları, sosyal medya kanallarınız veya Google İşletme Profiliniz için yapılan bir çekim günüyle birleştirilebilir – böylece tek bir randevuda birden fazla amaç için görsel üretilir."
+        }
+      ]
+    },
+    "google-business-profile": {
+      "meta": {
+        "title": "Google İşletme Profili: Fotoğraf Yenileme ve Profil Bakımı",
+        "description": "Google İşletme Profili desteği: Google Arama ve Haritalar için yeni işletme fotoğrafları, profil kontrolü ve düzenli bakım – Münster ve NRW'de işletmeler için."
+      },
+      "name": "Google İşletme Profili",
+      "short": "Google Arama'daki ve Google Haritalar'daki görünümünüz için fotoğraf yenileme ve profil bakımı.",
+      "title": "Google İşletme Profili: fotoğraf yenileme ve profil bakımı",
+      "intro": "İşletmenizi arayan biri çoğu zaman önce Google İşletme Profilinizi görür – fotoğraflar, çalışma saatleri ve iletişim bilgileriyle. Güncel, profesyonel görseller ve doğru bilgiler sağlıyoruz; böylece işletmeniz Google Arama'da ve Google Haritalar'da gerçekte olduğu gibi görünür.",
+      "definitionTitle": "Google İşletme Profili nedir?",
+      "definition": "Google İşletme Profili (eski adıyla “Google My Business”), işletmelerin Google Arama'da ve Google Haritalar'da görünmesini sağlayan ücretsiz kayıttır. İşletme sahipleri burada fotoğrafları, çalışma saatlerini, kategorileri, açıklamayı ve iletişim bilgilerini yönetebilir. Bizim hizmetimiz, bu profille ilgili fotoğraf ve bakım çalışmasıdır – profilin kendisi Google'ın ücretsiz bir hizmeti olmaya devam eder.",
+      "includes": [
+        {
+          "title": "Profil kontrolü",
+          "text": "Profilinize bakıyor; nelerin eksik, eskimiş veya tutarsız olduğunu not ediyoruz."
+        },
+        {
+          "title": "Yeni işletme fotoğrafları",
+          "text": "Yerinde bir randevuda işletmenizin profesyonel çekimleri."
+        },
+        {
+          "title": "Yemek fotoğrafçılığı",
+          "text": "İştah açıcı ve gerçekçi biçimde fotoğraflanan yemekler ve içecekler."
+        },
+        {
+          "title": "İç ve dış mekân çekimleri",
+          "text": "Giriş, mekân ve atmosfer – sizi tanısınlar ve bulsunlar diye."
+        },
+        {
+          "title": "Ürün ve hizmet fotoğrafları",
+          "text": "Sunduklarınızın görselleri: ürünler, uygulamalar, ortaya çıkan işler."
+        },
+        {
+          "title": "Seçim ve düzenleme",
+          "text": "En iyi kareleri seçiyor ve bütünlüklü biçimde düzenliyoruz."
+        },
+        {
+          "title": "Onaylanan fotoğrafların yüklenmesi",
+          "text": "Onayladığınız görselleri profilinize yüklüyoruz – bize tanıdığınız erişimle."
+        },
+        {
+          "title": "Logo ve kapak fotoğrafı",
+          "text": "Profiliniz desteklediği ölçüde logoyu ve kapak fotoğrafını güncelliyoruz."
+        },
+        {
+          "title": "Bilgilerin kontrolü",
+          "text": "Açıklamayı, kategorileri, çalışma saatlerini ve iletişim bilgilerini sizinle birlikte gözden geçiriyoruz."
+        },
+        {
+          "title": "Eskimiş bilgileri bulmak",
+          "text": "Güncelliğini yitirmiş veya yanlış bilgilere dikkatinizi çekiyor, düzeltme öneriyoruz."
+        },
+        {
+          "title": "Düzenli fotoğraf bakımı",
+          "text": "İsteğe bağlı: belirli aralıklarla yeni görseller, örneğin sezona veya yeni ürün ve hizmetlere göre."
+        },
+        {
+          "title": "Basit değerlendirme",
+          "text": "Google'ın rakam sunduğu ölçüde görüntülenmeleri ve etkileşimleri anlaşılır biçimde özetliyoruz."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Erişimin ayarlanması",
+          "text": "Bizi profilinize yönetici olarak eklersiniz. Profilin sahibi siz kalırsınız – şifreye ihtiyacımız yoktur."
+        },
+        {
+          "title": "Profil kontrolü",
+          "text": "Fotoğrafları ve bilgileri inceliyor, nelerin güncelleneceğini sizinle konuşuyoruz."
+        },
+        {
+          "title": "Yerinde fotoğraf çekimi",
+          "text": "Mekânı, sunduklarınızı ve – isterseniz – ekibinizi fotoğraflıyoruz."
+        },
+        {
+          "title": "Seçim ve onay",
+          "text": "Düzenlenmiş görselleri ve önerilen değişiklikleri görür, onaylarsınız."
+        },
+        {
+          "title": "Yükleme ve bakım",
+          "text": "Fotoğrafları yüklüyor, dilerseniz güncellemelerle düzenli olarak ilgileniyoruz."
+        }
+      ],
+      "forWhom": [
+        "Profilinde ağırlıklı olarak eski veya rastgele fotoğraflar görünen işletmeler",
+        "Bulundukları yerde bulunmak isteyen restoranlar, salonlar, stüdyolar ve mağazalar",
+        "Tadilat, taşınma veya yeni açılış sonrasındaki ya da yeni ürün ve hizmetler sunan işletmeler"
+      ],
+      "faq": [
+        {
+          "q": "Google İşletme Profili ücretsiz değil mi?",
+          "a": "Ücretsiz. Profil, Google'ın ücretsiz bir hizmetidir ve bakımını kendiniz de yapabilirsiniz. Bizde ücreti ödenen, bunun çevresindeki çalışmadır: fotoğraf çekimi, görsel düzenleme, bilgilerin kontrolü ve düzenli bakım."
+        },
+        {
+          "q": "Eski fotoğrafları veya müşterilerin fotoğraflarını kaldırabilir misiniz?",
+          "a": "İşletmenin kendi fotoğrafları değiştirilebilir. Başkalarının yüklediği fotoğrafları öylece silemeyiz; kurallara aykırılıklar Google'a bildirilebilir, kaldırılıp kaldırılmayacağına Google karar verir."
+        },
+        {
+          "q": "Hangi fotoğrafın ilk sırada gösterileceğini siz mi belirliyorsunuz?",
+          "a": "Hayır. Bir kapak fotoğrafı belirleyebiliriz; ancak hangi görselin nerede görüneceğine Google kendisi karar verir. İşletmeye ait iyi ve güncel fotoğraflar, Google'ın yararlanabileceği seçenekleri artırır – garantisi yoktur."
+        },
+        {
+          "q": "Bu, Google'daki sıralamamı iyileştirir mi?",
+          "a": "Bunun sözünü vermiyoruz. Eksiksiz, güncel ve çekici bir görünüm sağlıyoruz. Google'ın sonuçları nasıl sıraladığı bizim elimizde değildir."
+        },
+        {
+          "q": "Google şifreme ihtiyacınız var mı?",
+          "a": "Hayır, ona sahip olmak da istemiyoruz. Bizi yönetici olarak eklersiniz ve erişimi istediğiniz zaman kaldırabilirsiniz. Profil sizin mülkiyetinizde kalır."
+        },
+        {
+          "q": "Google iş ortağı mısınız?",
+          "a": "Hayır. Social Media Komplett bağımsız bir ajanstır ve Google ile herhangi bir iş ortaklığı yoktur. Google ve Google Maps, Google LLC'nin markalarıdır."
+        }
+      ]
+    }
+  },
+  "groups": {
+    "core": {
+      "title": "Sosyal Medya & İçerik",
+      "intro": "Kanallarınızın planlaması, prodüksiyonu ve düzenli yönetimi."
+    },
+    "local": {
+      "title": "Yerel Pazarlama & Tasarım",
+      "intro": "Misafirlerinizin ve müşterilerinizin mekânda ve Google'da ilk gördüğü her şey için: menünüz ve Google İşletme Profiliniz."
+    }
+  },
+  "showcaseLabels": {
+    "before": "Önce",
+    "after": "Sonra",
+    "options": "Hizmet seçenekleri",
+    "important": "Bilmeniz gerekenler",
+    "combine": "Tek başına alınabilir veya aylık sosyal medya yönetimiyle birleştirilebilir.",
+    "billingOnce": "tek seferlik",
+    "billingRecurring": "sürekli",
+    "billingOptional": "isteğe bağlı"
+  },
+  "showcase": {
+    "menu-design": {
+      "title": "Örnek: kendiliğinden büyümüş menüden net bir sayfa düzenine",
+      "intro": "Bir yeniden tasarım böyle görünebilir. Bu görsel, yer tutucular içeren bir tasarım örneğidir – bir müşteri projesi değildir.",
+      "beforeCaption": "Sıkışık metin blokları, değişen yazı tipleri, net bir sıra yok.",
+      "afterCaption": "Net bölümleme, sakin tipografi, notlar ve zorunlu bilgiler için yer.",
+      "mock": {
+        "name": "Örnek Bistro",
+        "subtitle": "Menü",
+        "lines": [
+          "Başlangıçlar",
+          "Günün çorbası",
+          "Ana yemekler",
+          "Evin makarnası",
+          "Tatlılar",
+          "Çikolatalı kek"
+        ]
+      },
+      "formatsTitle": "Baskı ve ekran için formatlar",
+      "formats": [
+        {
+          "title": "Basılı menü",
+          "text": "Katlamalı menü, klipsli altlık sayfası veya masa üstü stand olarak."
+        },
+        {
+          "title": "PDF",
+          "text": "Web sitesi, e-posta ve sosyal medya için."
+        },
+        {
+          "title": "QR kodlu menü",
+          "text": "Masada taranır, akıllı telefonda okunur."
+        },
+        {
+          "title": "Paket servis & ek sayfalar",
+          "text": "Aynı tarzda broşür, teslimat menüsü ve sezon menüleri."
+        }
+      ],
+      "options": [
+        {
+          "title": "Yeni tasarım",
+          "text": "Yeni bir menünün tek seferlik tasarımı."
+        },
+        {
+          "title": "Yeniden tasarım",
+          "text": "Mevcut menünüzün elden geçirilmesi."
+        },
+        {
+          "title": "Sezon güncellemeleri",
+          "text": "Yıl içinde güncellemeler ve ek sayfalar."
+        },
+        {
+          "title": "Baskı hazırlığı",
+          "text": "Baskıya hazır dosyalar ve matbaayla koordinasyon."
+        }
+      ],
+      "notes": [
+        "Fiyatları, yemekleri, alerjen ve katkı maddesi bilgilerini siz sağlarsınız – ve yalnızca siz onaylarsınız.",
+        "Onayınız olmadan hiçbir içeriği değiştirmeyiz ve onay olmadan hiçbir şeyi baskıya göndermeyiz.",
+        "Çok dilli menülerin çevirileri baskıdan önce sizin tarafınızdan kontrol edilir."
+      ]
+    },
+    "google-business-profile": {
+      "title": "Örnek: bir profil için fotoğraf yenileme",
+      "intro": "İlk izlenim böyle değişebilir. Bu görsel şematik bir illüstrasyondur – gerçek bir profil, gerçek fotoğraflar veya bir müşteri projesi değildir.",
+      "beforeCaption": "Az sayıda, karanlık veya eskimiş görsel; bilgiler kısmen eksik.",
+      "afterCaption": "Dış mekân, iç mekân, sunulanlar ve ekibe ait güncel çekimler; kontrol edilmiş bilgiler.",
+      "mock": {
+        "name": "Örnek Kafe",
+        "subtitle": "Kafe",
+        "lines": [
+          "Dış görünüm",
+          "İç mekân",
+          "Yiyecek & içecek",
+          "Ekip",
+          "Detaylar",
+          "Kapak fotoğrafı"
+        ]
+      },
+      "formatsTitle": "Fotoğrafladığımız konular",
+      "formats": [
+        {
+          "title": "Dış mekân",
+          "text": "Giriş ve cephe – sizi yerinde tanısınlar diye."
+        },
+        {
+          "title": "İç mekân",
+          "text": "Salonlar, oturma yerleri ve atmosfer."
+        },
+        {
+          "title": "Sunduklarınız",
+          "text": "Yemekler, ürünler ve hizmetler."
+        },
+        {
+          "title": "İnsanlar",
+          "text": "İş başındaki ekip – yalnızca rızalarıyla."
+        }
+      ],
+      "options": [
+        {
+          "title": "Fotoğraf yenileme",
+          "text": "Profil kontrolü dahil, profil fotoğraflarının tek seferlik güncellenmesi."
+        },
+        {
+          "title": "Yerinde fotoğraf çekimi",
+          "text": "İşletmenizde profesyonel fotoğraf çekimi randevusu."
+        },
+        {
+          "title": "Düzenli fotoğraf ve profil bakımı",
+          "text": "Düzenli olarak yeni görseller ve bilgilerin kontrolü."
+        }
+      ],
+      "notes": [
+        "Google İşletme Profili, Google'ın ücretsiz bir hizmetidir. Ücreti ödenen, bizim fotoğraf ve bakım çalışmamızdır.",
+        "Bağımsız bir ajansız ve Google'ın iş ortağı değiliz.",
+        "Profilin sahibi siz kalırsınız. Yalnızca bize yönetici olarak verdiğiniz erişimle çalışırız – şifreniz olmadan.",
+        "Hangi fotoğrafların gösterileceğine Google karar verir. Ne tüm eski görsellerin değiştirileceğine veya kapak fotoğrafımızın ilk sırada görüneceğine dair söz verebilir ne de daha iyi bir sıralama vaat edebiliriz.",
+        "Müşterilerin yüklediği fotoğrafları kaldıramayız; ihlaller bildirilebilir.",
+        "Açık onayınız olmadan profilinizde hiçbir şey yayınlamayız."
+      ]
     }
   }
 }

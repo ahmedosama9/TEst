@@ -11,7 +11,7 @@ const base = (process.argv[2] ?? "http://localhost:3000").replace(/\/$/, "");
 const shots = process.env.SHOTS_DIR;
 if (shots) mkdirSync(shots, { recursive: true });
 const locales = ["de", "en", "ar", "ku", "tr"];
-const paths = { de: ["", "/leistungen/reels-videoproduktion", "/pakete", "/ratgeber", "/kontakt", "/branchen/gastronomie", "/faq", "/datenschutz"], en: ["", "/services/reels-video-production", "/packages", "/blog", "/contact", "/industries/gastronomy", "/faq", "/privacy-policy"], tr: ["", "/hizmetler/reels-video-produksiyonu", "/paketler", "/blog", "/iletisim", "/sektorler/gastronomi", "/sss", "/gizlilik-politikasi"] };
+const paths = { de: ["", "/leistungen/reels-videoproduktion", "/pakete", "/ratgeber", "/kontakt", "/branchen/gastronomie", "/faq", "/datenschutz", "/leistungen/speisekarten-design", "/leistungen/google-unternehmensprofil", "/leistungen"], en: ["", "/services/reels-video-production", "/packages", "/blog", "/contact", "/industries/gastronomy", "/faq", "/privacy-policy", "/services/menu-design", "/services/google-business-profile", "/services"], tr: ["", "/hizmetler/reels-video-produksiyonu", "/paketler", "/blog", "/iletisim", "/sektorler/gastronomi", "/sss", "/gizlilik-politikasi", "/hizmetler/menu-tasarimi", "/hizmetler/google-isletme-profili", "/hizmetler"] };
 paths.ar = paths.en; paths.ku = paths.en;
 const viewports = { mobile: { width: 360, height: 740 }, tablet: { width: 820, height: 1180 }, desktop: { width: 1440, height: 900 } };
 const failures = [];
@@ -107,6 +107,14 @@ console.log("4. Mobile menu and keyboard");
   await page.getByRole("button", { name: "Menü öffnen" }).click();
   await Promise.all([page.waitForURL("**/de/pakete"), page.locator("dialog").getByRole("link", { name: "Pakete", exact: true }).click()]);
   ok("menu link navigates");
+  // services are grouped in a collapsible block; the two local-marketing services must be reachable
+  await page.getByRole("button", { name: "Menü öffnen" }).click();
+  const before = await page.locator("dialog a:visible").count();
+  await page.locator("dialog summary").first().click();
+  const groups = await page.locator("dialog details li.uppercase").allTextContents();
+  groups.includes("Lokales Marketing & Design") ? ok(`services expand into groups (${groups.join(" / ")}); ${before} links when collapsed`) : fail(`service groups missing: ${groups}`);
+  await Promise.all([page.waitForURL("**/de/leistungen/google-unternehmensprofil"), page.locator("dialog").getByRole("link", { name: "Google-Unternehmensprofil" }).click()]);
+  (await page.locator("h1").textContent()).includes("Google-Unternehmensprofil") ? ok("new service page reachable from the mobile menu") : fail("new service page not reached");
   await page.close();
 }
 

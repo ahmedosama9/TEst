@@ -94,7 +94,7 @@
     "facts": {
       "what": {
         "label": "Em çi dikin",
-        "value": "Rêveberiya medyaya civakî, çêkirina naverokê, Reels û çêkirina vîdyoyan, stratejî û Community Management"
+        "value": "Rêveberiya medyaya civakî, çêkirina naverokê, Reels û çêkirina vîdyoyan, stratejî û Community Management û herwiha sêwirana menûyê û lênêrîna wêne û profîlê ji bo Google Business Profile"
       },
       "who": {
         "label": "Ji bo kê",
@@ -322,7 +322,11 @@
         "q": "Hûn garantiya encaman didin?",
         "a": "Na, û em pêşniyar dikin ku hûn li hemberî her kesê ku vê dike baldar bin. Gihîştin û daxwaz bi gelek faktoran ve girêdayî ne ku kes bi temamî nikare wan kontrol bike. Em garantiya çarçoveya xizmetê ya lihevkirî, karekî paqij û nirxandineke rastgo didin."
       }
-    ]
+    ],
+    "standalone": {
+      "title": "Xizmetên yekane: sêwirana menûyê û Google Business Profile",
+      "intro": "Hûn dikarin van xizmetan bêyî pakêtekê bixwazin an jî wan bi lênêrîna mehane ya medyaya civakî re bikin yek. Em bihayan piştî axaftineke kurt ji we re dibêjin."
+    }
   },
   "faq": {
     "meta": {
@@ -410,6 +414,27 @@
           {
             "q": "Serkeftin çawa tê pîvandin?",
             "a": "Bi hejmarên sereke yên ku li armanca we tên – mînak gihîştin, şandiyên tomarkirî û parvekirî, serdanên profîlê, klîkên li ser lînkan û daxwazên ku tên. Ji bo vê hûn raporeke birêkûpêk distînin."
+          }
+        ]
+      },
+      {
+        "title": "Menû û Google Business Profile",
+        "items": [
+          {
+            "q": "Hûn menûyan jî sêwiran dikin?",
+            "a": "Belê. Em menûyên nû sêwiran dikin û yên heyî ji nû ve amade dikin – wek menûya çapkirî, PDF, menûya bi QR-kodê an belavoka To-go. Biha, alerjen û hemû agahiyên din ji we tên û ji aliyê we ve tên pejirandin."
+          },
+          {
+            "q": "Hûn ji bo Google Business Profile çi dikin?",
+            "a": "Google Business Profile profîla karsaziya we ya li ser Google ye. Em profîla we kontrol dikin, wêneyên karsaziya we dikişînin, wêneyan hildibijêrin, wan sererast dikin û wêneyên ku we pejirandine bar dikin. Li ser daxwazê em bi rêkûpêk li wêne û agahiyan dinêrin. Profîl bi xwe xizmeteke bêpere ya Google ye; pere ji bo karê me yê wênekêşî û lênêrînê tê dayîn."
+          },
+          {
+            "q": "Ji bo vê hûn hewcedarê şîfreya min a Google ne?",
+            "a": "Na. Hûn me di profîla xwe de wek rêvebir (Administrator) lê zêde dikin û dikarin her dem vê gihîştinê dîsa rakin. Hûn xwediyê profîlê dimînin."
+          },
+          {
+            "q": "Ez dikarim van xizmetan bêyî pakêteke medyaya civakî bixwazim?",
+            "a": "Belê. Sêwirana menûyê û nûkirina wêneyan yek bi yek tên xwestin û dikarin bi lênêrîna berdewam re bên yekkirin – mînak bi vî awayî ku rojeke kişandinê di heman demê de ji bo wêneyên profîlê jî bê bikaranîn."
           }
         ]
       }

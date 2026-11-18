@@ -18,6 +18,10 @@ describe("route registry", () => {
     expect(href("contact", "tr")).toBe("/tr/iletisim");
     expect(href("service:reels-video-production", "de")).toBe("/de/leistungen/reels-videoproduktion");
     expect(href("home", "ar")).toBe("/ar");
+    expect(href("service:menu-design", "de")).toBe("/de/leistungen/speisekarten-design");
+    expect(href("service:google-business-profile", "de")).toBe("/de/leistungen/google-unternehmensprofil");
+    expect(href("service:google-business-profile", "tr")).toBe("/tr/hizmetler/google-isletme-profili");
+    expect(href("service:menu-design", "ar")).toBe("/ar/services/menu-design");
   });
 
   it("round-trips every page: path → resolve → same path", () => {

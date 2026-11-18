@@ -22,7 +22,9 @@
     "skipToContent": "Zum Inhalt springen",
     "languageLabel": "Sprache wählen",
     "currentLanguage": "Aktuelle Sprache",
-    "homeLinkLabel": "Social Media Komplett – zur Startseite"
+    "homeLinkLabel": "Social Media Komplett – zur Startseite",
+    "localGroup": "Lokales Marketing & Design",
+    "coreGroup": "Social Media & Content"
   },
   "cta": {
     "primary": "Kostenloses Erstgespräch",
@@ -108,6 +110,8 @@
       "reels": "Reels & Videoproduktion",
       "strategy": "Social-Media-Strategie",
       "community": "Community Management",
+      "menuDesign": "Speisekarten-Design",
+      "googleProfile": "Google-Unternehmensprofil",
       "unsure": "Ich bin mir noch nicht sicher"
     },
     "message": "Nachricht",

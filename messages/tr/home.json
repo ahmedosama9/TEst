@@ -48,7 +48,12 @@
   "services": {
     "eyebrow": "Hizmetler",
     "title": "Sosyal medya hizmetlerimiz",
-    "intro": "Hizmetleri tek tek alabilir ya da kanallarınızın yönetimini tümüyle bize bırakabilirsiniz."
+    "intro": "Hizmetleri tek tek alabilir ya da kanallarınızın yönetimini tümüyle bize bırakabilirsiniz.",
+    "localCard": {
+      "title": "Yerel Pazarlama & Tasarım",
+      "text": "Menü tasarımı ve Google İşletme Profiliniz için fotoğraf yenileme – tek başına alınabilir veya sosyal medya yönetimiyle birleştirilebilir.",
+      "cta": "İki hizmeti de görün"
+    }
   },
   "process": {
     "eyebrow": "Süreç",

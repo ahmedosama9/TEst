@@ -13,15 +13,17 @@ import {
   industryIcons,
   serviceIcons,
 } from "@/components/sections/cards";
+import { hasShowcase, ServiceOptions, ServiceShowcase, showcaseIds } from "@/components/sections/service-showcase";
 import { ArrowLink, CheckList, CtaBanner, FaqList, PageHero } from "@/components/sections/shared";
 import { JsonLd } from "@/components/seo/json-ld";
 import { ButtonLink } from "@/components/ui/button";
 import { Card, Section, SectionHeading } from "@/components/ui/section";
 import { commercialTerms } from "@/config/packages";
+import { serviceGroups } from "@/config/service-catalog";
 import { site } from "@/config/site";
 import type { Locale } from "@/i18n/config";
 import type { Messages } from "@/i18n/messages";
-import { getPostById } from "@/lib/blog";
+import { getPostById, getPosts } from "@/lib/blog";
 import { blogPaths, href, industryIds, type IndustryId, type ServiceId } from "@/lib/routes";
 import { faqJsonLd, organizationJsonLd, serviceJsonLd, type Crumb } from "@/lib/seo";
 import { fmt } from "@/lib/utils";
@@ -35,22 +37,28 @@ const area = { city: site.serviceArea.baseCity, km: site.serviceArea.onSiteRadiu
 
 export function ServicesPage({ locale, messages }: P) {
   const o = messages.services.overview;
+  const g = messages.services.groups;
   const c = messages.common;
   return (
     <>
       <PageHero crumbs={[home({ locale, messages }), { name: c.nav.services, path: href("services", locale) }]} breadcrumbLabel={c.labels.breadcrumbs} eyebrow={o.eyebrow} title={o.title} intro={o.intro}>
         <ButtonLink href={href("contact", locale)} size="lg">{c.cta.primary}</ButtonLink>
       </PageHero>
-      <Section tone="mist">
-        <ServiceCards locale={locale} messages={messages} />
+      <Section tone="mist" labelledBy="group-core">
+        <SectionHeading id="group-core" title={g.core.title} intro={g.core.intro} />
+        <ServiceCards locale={locale} messages={messages} ids={serviceGroups.core} />
       </Section>
-      <Section>
+      <Section id="lokales-marketing" labelledBy="group-local">
+        <SectionHeading id="group-local" title={g.local.title} intro={g.local.intro} />
+        <ServiceCards locale={locale} messages={messages} ids={serviceGroups.local} />
+      </Section>
+      <Section tone="mist">
         <div className="grid gap-12 lg:grid-cols-2">
-          <div>
+          <div className="min-w-0">
             <h2 className="text-3xl">{o.agencyTitle}</h2>
             {o.agencyText.map((t) => <p key={t} className="mt-4 text-lg">{t}</p>)}
           </div>
-          <div>
+          <div className="min-w-0">
             <h2 className="text-3xl">{o.compareTitle}</h2>
             <p className="mt-4">{o.compareIntro}</p>
             <div className="mt-6 overflow-x-auto rounded-2xl border border-line" tabIndex={0} role="region" aria-label={o.compareTitle}>
@@ -88,6 +96,7 @@ export function ServicePage({ locale, messages, id }: P & { id: ServiceId }) {
   const c = messages.common;
   const path = href(`service:${id}`, locale);
   const Icon = serviceIcons[id];
+  const relatedPosts = getPosts(locale).filter((p) => p.relatedService === id).slice(0, 3);
   return (
     <>
       <JsonLd data={[serviceJsonLd({ locale, name: s.name, description: s.meta.description, path, serviceType: s.name }), faqJsonLd(s.faq)]} />
@@ -116,6 +125,8 @@ export function ServicePage({ locale, messages, id }: P & { id: ServiceId }) {
           </Card>
         </div>
       </Section>
+
+      {hasShowcase(id) ? <ServiceShowcase id={id} locale={locale} messages={messages} /> : null}
 
       <Section tone="mist">
         <SectionHeading title={l.includes} />
@@ -147,9 +158,16 @@ export function ServicePage({ locale, messages, id }: P & { id: ServiceId }) {
       </Section>
 
       <Section tone="mist">
-        <div className="mx-auto max-w-3xl">
-          <SectionHeading title={l.faq} />
-          <FaqList items={s.faq} />
+        <div className={relatedPosts.length ? "grid gap-10 lg:grid-cols-[1.3fr_0.7fr]" : "mx-auto max-w-3xl"}>
+          <div>
+            <SectionHeading title={l.faq} />
+            <FaqList items={s.faq} />
+          </div>
+          {relatedPosts.length ? (
+            <div className="self-start">
+              <RelatedLinks title={c.labels.relatedArticles} links={relatedPosts.map((p) => ({ href: blogPaths.post(locale, p.slug), label: p.title }))} />
+            </div>
+          ) : null}
         </div>
       </Section>
 
@@ -163,6 +181,14 @@ export function ServicePage({ locale, messages, id }: P & { id: ServiceId }) {
 }
 
 /* ------------------------------ Industries ------------------------------ */
+
+/** Services that fit each industry best (internal linking). */
+const industryServices: Record<IndustryId, ServiceId[]> = {
+  gastronomy: ["reels-video-production", "content-creation", "menu-design", "google-business-profile"],
+  "beauty-salons": ["reels-video-production", "content-creation", "google-business-profile"],
+  "fitness-studios": ["reels-video-production", "social-media-management", "google-business-profile"],
+  "local-businesses": ["social-media-management", "content-creation", "google-business-profile"],
+};
 
 export function IndustriesPage({ locale, messages }: P) {
   const o = messages.industries.overview;
@@ -256,7 +282,7 @@ export function IndustryPage({ locale, messages, id }: P & { id: IndustryId }) {
           <div className="space-y-5 self-start">
             <RelatedLinks
               title={c.labels.relatedServices}
-              links={(["reels-video-production", "content-creation", "social-media-management"] as const).map((s) => ({ href: href(`service:${s}`, locale), label: messages.services.items[s].name }))}
+              links={industryServices[id].map((s) => ({ href: href(`service:${s}`, locale), label: messages.services.items[s].name }))}
             />
             {related ? <RelatedLinks title={c.labels.relatedArticles} links={[{ href: blogPaths.post(locale, related.slug), label: related.title }]} /> : null}
           </div>
@@ -425,7 +451,20 @@ export function PackagesPage({ locale, messages }: P) {
           </div>
         </div>
       </Section>
-      <Section>
+      <Section labelledBy="standalone-title">
+        <SectionHeading id="standalone-title" title={p.standalone.title} intro={p.standalone.intro} />
+        <div className="grid gap-10 lg:grid-cols-2">
+          {showcaseIds.map((sid) => (
+            <div key={sid}>
+              <h3 className="mb-4 text-xl">
+                <Link href={href(`service:${sid}`, locale)} className="underline decoration-turquoise underline-offset-4 hover:text-teal-ink">{messages.services.items[sid].name}</Link>
+              </h3>
+              <ServiceOptions id={sid} locale={locale} messages={messages} compact />
+            </div>
+          ))}
+        </div>
+      </Section>
+      <Section tone="mist">
         <div className="grid gap-12 lg:grid-cols-2">
           <div>
             <h2 className="text-3xl">{p.explainerTitle}</h2>

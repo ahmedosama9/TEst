@@ -48,7 +48,12 @@
   "services": {
     "eyebrow": "Services",
     "title": "Our social media services",
-    "intro": "You can book individual building blocks or have us manage your channels completely."
+    "intro": "You can book individual building blocks or have us manage your channels completely.",
+    "localCard": {
+      "title": "Local marketing & design",
+      "text": "Menu design and a photo refresh for your Google Business Profile – bookable individually or alongside your social media management.",
+      "cta": "View both services"
+    }
   },
   "process": {
     "eyebrow": "How it works",

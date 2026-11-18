@@ -40,6 +40,7 @@ content/blog/<article-id>/<locale>.mdx   Blog articles (one folder per article, 
 messages/<locale>/*.json                 All page and UI copy (German is the source of truth)
 src/config/site.ts                       Business facts, service area, contact, legal switches
 src/config/packages.ts                   Package prices, deliverables, terms, add-ons
+src/config/service-catalog.ts            All services, groups and booking options (shared with the future CRM)
 src/config/blog.ts                       Blog categories (+ slugs) and authors
 src/i18n/config.ts                       Languages, direction, hreflang, review/index status
 src/lib/routes.ts                        Route registry: page ids → localized URL slugs
@@ -76,7 +77,8 @@ and there is no browser-language sniffing.
 | --- | --- |
 | Set address, owner, VAT ID, e-mail, phone, social profiles | `src/config/site.ts` (+ env vars for e-mail/phone) |
 | Change the service area | `src/config/site.ts` → `serviceArea` (base city, on-site radius in km); wording in `messages/<locale>` |
-| Publish prices and package contents | `src/config/packages.ts` |
+| Publish prices and package contents | `src/config/packages.ts`; single services in `src/config/service-catalog.ts` |
+| Add a service | id + slugs in `src/lib/routes.ts`, entry in `src/config/service-catalog.ts`, texts in `messages/<locale>/services.json`, icon in `src/components/sections/cards.tsx` |
 | Change any text | `messages/<locale>/*.json` |
 | Add or edit an article | `content/blog/…` — see `docs/CONTENT_WORKFLOW.md` |
 | Mark a language as reviewed / hide it from search | `src/i18n/config.ts` → `reviewStatus`, `indexable` |
@@ -91,6 +93,8 @@ and there is no browser-language sniffing.
 - `docs/SEO.md` — what is implemented, crawler control, validation checklist
 - `docs/LEGAL_CHECKLIST.md` — what must be completed before the legal pages are final
 - `docs/LAUNCH_CHECKLIST.md` — remaining steps to go live
+- `docs/ROADMAP.md` — what is done and what comes next
+- `docs/AGENCY_PLATFORM.md` — requirements for the future agency dashboard / CRM (planning only)
 
 ## Honesty rules built into the site
 

@@ -22,7 +22,9 @@
     "skipToContent": "Biçe naverokê",
     "languageLabel": "Zimanî hilbijêre",
     "currentLanguage": "Zimanê niha",
-    "homeLinkLabel": "Social Media Komplett – biçe rûpela destpêkê"
+    "homeLinkLabel": "Social Media Komplett – biçe rûpela destpêkê",
+    "localGroup": "Marketînga herêmî û sêwiran",
+    "coreGroup": "Medyaya civakî û naverok"
   },
   "cta": {
     "primary": "Hevdîtina yekem a bêpere",
@@ -108,6 +110,8 @@
       "reels": "Reels û çêkirina vîdyoyan",
       "strategy": "Stratejiya medyaya civakî",
       "community": "Community Management",
+      "menuDesign": "Sêwirana menûyê",
+      "googleProfile": "Google Business Profile",
       "unsure": "Ez hê ne bawer im"
     },
     "message": "Peyam",

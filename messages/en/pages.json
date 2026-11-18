@@ -94,7 +94,7 @@
     "facts": {
       "what": {
         "label": "What we do",
-        "value": "Social media management, content creation, Reels & video production, strategy and community management"
+        "value": "Social media management, content creation, Reels & video production, strategy and community management, as well as menu design and photo and profile maintenance for the Google Business Profile"
       },
       "who": {
         "label": "Who for",
@@ -322,7 +322,11 @@
         "q": "Do you guarantee results?",
         "a": "No, and we advise caution with anyone who does. Reach and enquiries depend on many factors that nobody fully controls. We guarantee the agreed scope of services, sound work and honest reporting."
       }
-    ]
+    ],
+    "standalone": {
+      "title": "Individual services: menu design & Google Business Profile",
+      "intro": "You can book these services independently of a package or combine them with your monthly social media management. We’ll tell you the prices after a short conversation."
+    }
   },
   "faq": {
     "meta": {
@@ -410,6 +414,27 @@
           {
             "q": "How is success measured?",
             "a": "Using key figures that match your goal – such as reach, saved and shared posts, profile visits, link clicks and incoming enquiries. You receive a regular report on these."
+          }
+        ]
+      },
+      {
+        "title": "Menus & Google Business Profile",
+        "items": [
+          {
+            "q": "Do you design menus as well?",
+            "a": "Yes. We design new menus and rework existing ones – as a printed menu, PDF, QR code menu or takeaway flyer. Prices, allergens and all other details come from you and are approved by you."
+          },
+          {
+            "q": "What do you do for the Google Business Profile?",
+            "a": "We review your profile, photograph your business, select images, edit them and upload the photos you have approved. On request, we maintain photos and details on a regular basis. The profile itself is a free Google product; what you pay for is our photography and maintenance work."
+          },
+          {
+            "q": "Do you need my Google password for this?",
+            "a": "No. You add us as a manager in your profile and can remove the access again at any time. You remain the owner of the profile."
+          },
+          {
+            "q": "Can I book these services without a social media package?",
+            "a": "Yes. Menu design and the photo refresh can be booked individually and combined with ongoing management – for example by using a shoot date for profile photos at the same time."
           }
         ]
       }

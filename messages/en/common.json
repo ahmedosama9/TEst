@@ -22,7 +22,9 @@
     "skipToContent": "Skip to content",
     "languageLabel": "Choose language",
     "currentLanguage": "Current language",
-    "homeLinkLabel": "Social Media Komplett – go to the home page"
+    "homeLinkLabel": "Social Media Komplett – go to the home page",
+    "localGroup": "Local marketing & design",
+    "coreGroup": "Social media & content"
   },
   "cta": {
     "primary": "Free initial consultation",
@@ -108,6 +110,8 @@
       "reels": "Reels & video production",
       "strategy": "Social media strategy",
       "community": "Community management",
+      "menuDesign": "Menu design",
+      "googleProfile": "Google Business Profile",
       "unsure": "I’m not sure yet"
     },
     "message": "Message",

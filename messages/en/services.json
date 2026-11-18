@@ -419,6 +419,357 @@
           "a": "Factually and with a focus on solutions. We answer justified criticism openly and pass it on to you; abusive content or spam is moderated. We agree sensitive cases with you before replying."
         }
       ]
+    },
+    "menu-design": {
+      "meta": {
+        "title": "Menu Design & Redesign for Restaurants",
+        "description": "Have your menu designed or redesigned: printed menus, PDF and QR code menus, takeaway and seasonal menus – print-ready, for hospitality in Münster & NRW."
+      },
+      "name": "Menu design",
+      "short": "New menus and redesigns – printed, as a PDF and as a QR code menu.",
+      "title": "Menu design & redesign: a menu that suits your kitchen",
+      "intro": "The menu is the one document every guest picks up. We design new menus and modernise existing ones – clearly laid out, easy to read and in keeping with your business. For restaurants, cafés, food trucks, snack bars and delivery businesses.",
+      "definitionTitle": "What does professional menu design involve?",
+      "definition": "Professional menu design arranges what you offer so that guests find their way around quickly: with a clear structure, a legible typeface, colours that work together and – where it fits – photos of the dishes. The result is finished files for printing, plus digital versions as a PDF or QR code menu.",
+      "includes": [
+        {
+          "title": "New menus",
+          "text": "Complete design, from the structure to the finished layout."
+        },
+        {
+          "title": "Redesign of existing menus",
+          "text": "We modernise your existing menu without changing what you offer."
+        },
+        {
+          "title": "Typography, colours and layout",
+          "text": "Typefaces, colours and a grid that suit your business and are easy to read."
+        },
+        {
+          "title": "Printed menus",
+          "text": "Formats for table menus, clipboards, table stands or boards – matched to how you use them."
+        },
+        {
+          "title": "PDF and digital menus",
+          "text": "A version for your website, social media and for sending out."
+        },
+        {
+          "title": "QR code menus",
+          "text": "QR codes that lead to a hosted menu page or a file."
+        },
+        {
+          "title": "Takeaway and delivery menus",
+          "text": "Compact flyers and menus for collection and delivery."
+        },
+        {
+          "title": "Promotional and seasonal menus",
+          "text": "Inserts for lunch offers, the season, public holidays and events in the same style."
+        },
+        {
+          "title": "Print-ready files",
+          "text": "Print files to your printer’s specifications – on request, we coordinate with them directly."
+        },
+        {
+          "title": "Multilingual menus",
+          "text": "On request, we typeset your menu in further languages. You supply the translations, or we work them out together."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Taking stock",
+          "text": "You send us your current menu, dishes, prices and mandatory information. We clarify format, scope and style."
+        },
+        {
+          "title": "Draft",
+          "text": "You receive a design draft with structure, typefaces and colours – with photos from a shoot, if you like."
+        },
+        {
+          "title": "Corrections and approval",
+          "text": "You check the content, prices and allergen information and approve the menu. Nothing goes to print without your approval."
+        },
+        {
+          "title": "Handover",
+          "text": "You receive print files, a PDF and – if required – a QR code and templates for inserts."
+        }
+      ],
+      "forWhom": [
+        "Restaurants, cafés and bars with a menu that has grown over the years",
+        "Food trucks, snack bars and delivery businesses that need a compact menu",
+        "Newly opened businesses that want a consistent look from the start"
+      ],
+      "faq": [
+        {
+          "q": "Where do the copy, prices and allergen information come from?",
+          "a": "From you. We do the design, but we do not set prices and we do not change any information on allergens or additives. You check all content before printing and approve it. Which mandatory information applies to your business is best clarified with your chamber, your trade association or your adviser."
+        },
+        {
+          "q": "Do you print the menus as well?",
+          "a": "We supply print-ready files. You commission the printing from a printer of your choice; on request, we coordinate the technical specifications with them directly."
+        },
+        {
+          "q": "How does a QR code menu work?",
+          "a": "The QR code leads to a menu page or a PDF file. Where the menu is hosted and who updates it when prices change is something we agree on together beforehand. We recommend keeping a printed menu available as well."
+        },
+        {
+          "q": "Can you photograph the dishes too?",
+          "a": "Yes. Food photos can be combined with a shoot for your social media channels or your Google Business Profile – so one appointment produces images for several purposes."
+        }
+      ]
+    },
+    "google-business-profile": {
+      "meta": {
+        "title": "Google Business Profile: Photo Refresh & Profile Maintenance",
+        "description": "Google Business Profile optimisation: new business photos for Google Search and Maps, profile check and ongoing maintenance – for businesses in Münster & NRW."
+      },
+      "name": "Google Business Profile",
+      "short": "Photo refresh & profile maintenance for your presence in Google Search and on Google Maps.",
+      "title": "Google Business Profile: photo refresh & profile maintenance",
+      "intro": "Anyone searching for your business often sees your Google Business Profile first – with photos, opening hours and contact details. We provide up-to-date, professional images and correct details, so that your business looks the way it really is in Google Search and on Google Maps.",
+      "definitionTitle": "What is the Google Business Profile?",
+      "definition": "The Google Business Profile (formerly “Google My Business”) is the free listing with which businesses appear in Google Search and on Google Maps. Owners can maintain photos, opening hours, categories, a description and contact details there. Our service is the photography and maintenance work around this profile – the profile itself remains a free Google product.",
+      "includes": [
+        {
+          "title": "Profile check",
+          "text": "We look at your profile and note what is missing, out of date or inconsistent."
+        },
+        {
+          "title": "New business photos",
+          "text": "Professional shots of your business at an on-site appointment."
+        },
+        {
+          "title": "Food photography",
+          "text": "Dishes and drinks, photographed appetisingly and realistically."
+        },
+        {
+          "title": "Interior and exterior shots",
+          "text": "Entrance, rooms and atmosphere – so that people recognise and find you."
+        },
+        {
+          "title": "Product and service photos",
+          "text": "Images of what you offer: products, treatments, finished work."
+        },
+        {
+          "title": "Selection and editing",
+          "text": "We select the best shots and edit them consistently."
+        },
+        {
+          "title": "Upload of approved photos",
+          "text": "We upload the images you have approved to your profile – using the access you grant us."
+        },
+        {
+          "title": "Logo and cover photo",
+          "text": "We update your logo and cover photo, as far as your profile supports it."
+        },
+        {
+          "title": "Checking your details",
+          "text": "We go through the description, categories, opening hours and contact details with you."
+        },
+        {
+          "title": "Finding what is out of date",
+          "text": "We point out outdated or incorrect information and suggest corrections."
+        },
+        {
+          "title": "Ongoing photo maintenance",
+          "text": "Optional: new images at regular intervals, for instance for the season or new offers."
+        },
+        {
+          "title": "Simple evaluation",
+          "text": "Where Google provides figures, we summarise views and interactions in an easy-to-understand way."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Setting up access",
+          "text": "You add us as a manager in your profile. You remain the owner – we do not need a password."
+        },
+        {
+          "title": "Profile check",
+          "text": "We check photos and details and discuss with you what should be updated."
+        },
+        {
+          "title": "On-site photo shoot",
+          "text": "We photograph your premises, what you offer and – if you wish – your team."
+        },
+        {
+          "title": "Selection and approval",
+          "text": "You see the edited images and proposed changes and approve them."
+        },
+        {
+          "title": "Upload and maintenance",
+          "text": "We upload the photos and, on request, take care of updates on a regular basis."
+        }
+      ],
+      "forWhom": [
+        "Businesses whose profile mainly shows old or random photos",
+        "Restaurants, salons, studios and shops that want to be found locally",
+        "Businesses after a refurbishment, a move or a new opening, or with a new offering"
+      ],
+      "faq": [
+        {
+          "q": "Isn’t the Google Business Profile free?",
+          "a": "Yes, it is. The profile is a free Google product, and you can maintain it yourself. What you pay us for is the work around it: photography, image editing, checking the details and ongoing maintenance."
+        },
+        {
+          "q": "Can you remove old photos or photos from customers?",
+          "a": "The business’s own photos can be replaced. Photos uploaded by other people are not something we can simply delete; violations of the guidelines can be reported to Google, and Google decides whether to remove them."
+        },
+        {
+          "q": "Do you decide which photo is shown first?",
+          "a": "No. We can set a cover photo, but Google itself decides which images appear where. Good, up-to-date photos from the business widen the selection Google can draw on – there is no guarantee."
+        },
+        {
+          "q": "Will this improve my ranking on Google?",
+          "a": "We do not promise that. We make sure your presentation is complete, up to date and appealing. How Google orders results is not in our hands."
+        },
+        {
+          "q": "Do you need my Google password?",
+          "a": "No, and we don’t want it either. You add us as a manager and can remove the access at any time. The profile remains yours."
+        },
+        {
+          "q": "Are you a Google partner?",
+          "a": "No. Social Media Komplett is an independent agency and has no partnership with Google. Google and Google Maps are trademarks of Google LLC."
+        }
+      ]
+    }
+  },
+  "groups": {
+    "core": {
+      "title": "Social media & content",
+      "intro": "Planning, production and ongoing management of your channels."
+    },
+    "local": {
+      "title": "Local marketing & design",
+      "intro": "For everything guests and customers see first, on site and on Google: your menu and your Google Business Profile."
+    }
+  },
+  "showcaseLabels": {
+    "before": "Before",
+    "after": "After",
+    "options": "Booking options",
+    "important": "Important to know",
+    "combine": "Bookable individually or in combination with monthly social media management.",
+    "billingOnce": "one-off",
+    "billingRecurring": "ongoing",
+    "billingOptional": "optional"
+  },
+  "showcase": {
+    "menu-design": {
+      "title": "Example: from a menu that has grown over time to a clear layout",
+      "intro": "This is what a redesign can look like. The illustration is a design example with placeholders – not a client project.",
+      "beforeCaption": "Dense blocks of text, changing typefaces, no clear order.",
+      "afterCaption": "Clear structure, calm typography, room for notes and mandatory information.",
+      "mock": {
+        "name": "Example Bistro",
+        "subtitle": "Menu",
+        "lines": [
+          "Starters",
+          "Soup of the day",
+          "Main courses",
+          "House pasta",
+          "Desserts",
+          "Chocolate cake"
+        ]
+      },
+      "formatsTitle": "Formats for print and screen",
+      "formats": [
+        {
+          "title": "Printed menu",
+          "text": "As a folded menu, clipboard sheet or table stand."
+        },
+        {
+          "title": "PDF",
+          "text": "For your website, email and social media."
+        },
+        {
+          "title": "QR code menu",
+          "text": "Scan at the table, read on a smartphone."
+        },
+        {
+          "title": "Takeaway & inserts",
+          "text": "Flyers, delivery menus and seasonal menus in the same style."
+        }
+      ],
+      "options": [
+        {
+          "title": "New design",
+          "text": "One-off design of a new menu."
+        },
+        {
+          "title": "Redesign",
+          "text": "A rework of your existing menu."
+        },
+        {
+          "title": "Seasonal updates",
+          "text": "Updates and inserts over the course of the year."
+        },
+        {
+          "title": "Print preparation",
+          "text": "Print-ready files and coordination with the printer."
+        }
+      ],
+      "notes": [
+        "You supply the prices, dishes and the allergen and additive information – and only you approve them.",
+        "We do not change any content without your consent and print nothing without approval.",
+        "Translations for multilingual menus are checked by you before printing."
+      ]
+    },
+    "google-business-profile": {
+      "title": "Example: a photo refresh for a profile",
+      "intro": "This is how the first impression can change. The illustration is a schematic drawing – not a real profile, not real photos and not a client project.",
+      "beforeCaption": "Few, dark or outdated images; details partly incomplete.",
+      "afterCaption": "Up-to-date shots of the exterior, the interior, what’s on offer and the team; details checked.",
+      "mock": {
+        "name": "Example Café",
+        "subtitle": "Café",
+        "lines": [
+          "Exterior view",
+          "Interior",
+          "Food & drinks",
+          "Team",
+          "Details",
+          "Cover photo"
+        ]
+      },
+      "formatsTitle": "Subjects we photograph",
+      "formats": [
+        {
+          "title": "Outside",
+          "text": "Entrance and façade, so that people recognise you on site."
+        },
+        {
+          "title": "Inside",
+          "text": "Rooms, seating and atmosphere."
+        },
+        {
+          "title": "What you offer",
+          "text": "Food, products and services."
+        },
+        {
+          "title": "People",
+          "text": "The team at work – only with their consent."
+        }
+      ],
+      "options": [
+        {
+          "title": "Photo refresh",
+          "text": "One-off update of the profile photos, including a profile check."
+        },
+        {
+          "title": "On-site photography",
+          "text": "A professional photo shoot at your business."
+        },
+        {
+          "title": "Ongoing photo and profile maintenance",
+          "text": "New images on a regular basis and a check of your details."
+        }
+      ],
+      "notes": [
+        "The Google Business Profile is a free Google product. What you pay for is our photography and maintenance work.",
+        "We are an independent agency and not a Google partner.",
+        "You remain the owner of the profile. We work only with the access you give us as a manager – without your password.",
+        "Google decides which photos are shown. We cannot guarantee that all old images will be replaced or that our cover photo will appear first, nor can we promise a better ranking.",
+        "We cannot remove photos uploaded by customers; violations can be reported.",
+        "We publish nothing in your profile without your express approval."
+      ]
     }
   }
 }

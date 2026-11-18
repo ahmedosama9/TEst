@@ -13,6 +13,8 @@ export const serviceIds = [
   "reels-video-production",
   "social-media-strategy",
   "community-management",
+  "menu-design",
+  "google-business-profile",
 ] as const;
 export type ServiceId = (typeof serviceIds)[number];
 
@@ -60,6 +62,8 @@ const serviceSlugs: Record<ServiceId, Slugs> = {
   "reels-video-production": same("reels-video-production", "reels-videoproduktion", "reels-video-produksiyonu"),
   "social-media-strategy": same("social-media-strategy", "social-media-strategie", "sosyal-medya-stratejisi"),
   "community-management": same("community-management", "community-management", "topluluk-yonetimi"),
+  "menu-design": same("menu-design", "speisekarten-design", "menu-tasarimi"),
+  "google-business-profile": same("google-business-profile", "google-unternehmensprofil", "google-isletme-profili"),
 };
 
 const industrySlugs: Record<IndustryId, Slugs> = {

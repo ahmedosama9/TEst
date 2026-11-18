@@ -419,6 +419,357 @@
           "a": "Sachlich und lösungsorientiert. Berechtigte Kritik beantworten wir offen und leiten sie an dich weiter; beleidigende Inhalte oder Spam werden moderiert. Heikle Fälle stimmen wir vor einer Antwort mit dir ab."
         }
       ]
+    },
+    "menu-design": {
+      "meta": {
+        "title": "Speisekarten-Design & Redesign für Restaurants",
+        "description": "Speisekarten erstellen lassen oder redesignen: gedruckte Karten, PDF- und QR-Code-Speisekarten, To-go- und Saisonkarten – druckfertig, für Gastronomie in Münster & NRW."
+      },
+      "name": "Speisekarten-Design",
+      "short": "Neue Speisekarten und Redesigns – gedruckt, als PDF und als QR-Code-Karte.",
+      "title": "Speisekarten-Design & Redesign: eine Karte, die zu deiner Küche passt",
+      "intro": "Die Speisekarte ist das Dokument, das jeder Gast in die Hand nimmt. Wir gestalten neue Karten und modernisieren bestehende – übersichtlich, gut lesbar und passend zu deinem Betrieb. Für Restaurants, Cafés, Food-Trucks, Imbisse und Lieferbetriebe.",
+      "definitionTitle": "Was gehört zu professionellem Speisekarten-Design?",
+      "definition": "Professionelles Speisekarten-Design ordnet das Angebot so, dass Gäste sich schnell zurechtfinden: mit klarer Gliederung, gut lesbarer Schrift, stimmigen Farben und – wo es passt – Fotos der Gerichte. Am Ende stehen fertige Dateien für den Druck sowie digitale Fassungen als PDF oder QR-Code-Karte.",
+      "includes": [
+        {
+          "title": "Neue Speisekarten",
+          "text": "Komplette Gestaltung von der Gliederung bis zum fertigen Layout."
+        },
+        {
+          "title": "Redesign bestehender Karten",
+          "text": "Wir modernisieren deine vorhandene Karte, ohne dein Angebot zu verändern."
+        },
+        {
+          "title": "Typografie, Farben und Layout",
+          "text": "Schriften, Farben und Raster, die zu deinem Betrieb passen und gut lesbar sind."
+        },
+        {
+          "title": "Gedruckte Karten",
+          "text": "Formate für Tischkarte, Klemmbrett, Aufsteller oder Tafel – abgestimmt auf deine Nutzung."
+        },
+        {
+          "title": "PDF- und digitale Karten",
+          "text": "Eine Fassung für Website, Social Media und zum Verschicken."
+        },
+        {
+          "title": "QR-Code-Speisekarten",
+          "text": "QR-Codes, die auf eine gehostete Kartenseite oder eine Datei führen."
+        },
+        {
+          "title": "To-go- und Lieferkarten",
+          "text": "Kompakte Flyer und Karten für Abholung und Lieferung."
+        },
+        {
+          "title": "Aktions- und Saisonkarten",
+          "text": "Einleger für Mittagstisch, Saison, Feiertage und Events im gleichen Stil."
+        },
+        {
+          "title": "Druckfertige Dateien",
+          "text": "Druckdaten nach den Vorgaben deiner Druckerei – auf Wunsch stimmen wir uns direkt mit ihr ab."
+        },
+        {
+          "title": "Mehrsprachige Karten",
+          "text": "Auf Anfrage setzen wir deine Karte in weiteren Sprachen. Die Übersetzungen lieferst du oder wir klären sie gemeinsam."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Bestandsaufnahme",
+          "text": "Du schickst uns deine aktuelle Karte, Gerichte, Preise und Pflichtangaben. Wir klären Format, Umfang und Stil."
+        },
+        {
+          "title": "Entwurf",
+          "text": "Du erhältst einen Gestaltungsentwurf mit Gliederung, Schriften und Farben – auf Wunsch mit Fotos aus einem Drehtermin."
+        },
+        {
+          "title": "Korrektur und Freigabe",
+          "text": "Du prüfst Inhalte, Preise und Allergenangaben und gibst die Karte frei. Ohne deine Freigabe geht nichts in den Druck."
+        },
+        {
+          "title": "Übergabe",
+          "text": "Du bekommst Druckdaten, PDF und – falls gewünscht – QR-Code und Einleger-Vorlagen."
+        }
+      ],
+      "forWhom": [
+        "Restaurants, Cafés und Bars mit einer Karte, die über Jahre gewachsen ist",
+        "Food-Trucks, Imbisse und Lieferbetriebe, die eine kompakte Karte brauchen",
+        "Neueröffnungen, die von Anfang an einen einheitlichen Auftritt möchten"
+      ],
+      "faq": [
+        {
+          "q": "Woher kommen Texte, Preise und Allergenangaben?",
+          "a": "Von dir. Wir gestalten, aber wir legen keine Preise fest und ändern keine Angaben zu Allergenen oder Zusatzstoffen. Alle Inhalte prüfst du vor dem Druck und gibst sie frei. Welche Pflichtangaben für deinen Betrieb gelten, klärst du am besten mit deiner Kammer, deinem Verband oder deiner Beratung."
+        },
+        {
+          "q": "Druckt ihr die Karten auch?",
+          "a": "Wir liefern druckfertige Dateien. Den Druck beauftragst du bei einer Druckerei deiner Wahl; auf Wunsch stimmen wir die technischen Vorgaben direkt mit ihr ab."
+        },
+        {
+          "q": "Wie funktioniert eine QR-Code-Speisekarte?",
+          "a": "Der QR-Code führt auf eine Kartenseite oder eine PDF-Datei. Wo die Karte liegt und wer sie bei Preisänderungen aktualisiert, legen wir vorher gemeinsam fest. Wir empfehlen, zusätzlich eine gedruckte Karte bereitzuhalten."
+        },
+        {
+          "q": "Könnt ihr auch die Gerichte fotografieren?",
+          "a": "Ja. Food-Fotos lassen sich mit einem Drehtermin für deine Social-Media-Kanäle oder dein Google-Unternehmensprofil verbinden – so entstehen an einem Termin Bilder für mehrere Zwecke."
+        }
+      ]
+    },
+    "google-business-profile": {
+      "meta": {
+        "title": "Google-Unternehmensprofil: Foto-Refresh & Profilpflege",
+        "description": "Google-Unternehmensprofil optimieren lassen: neue Unternehmensfotos für Google Suche und Maps, Profil-Check und laufende Pflege – für Betriebe in Münster & NRW."
+      },
+      "name": "Google-Unternehmensprofil",
+      "short": "Foto-Refresh & Profilpflege für deinen Auftritt in der Google Suche und auf Google Maps.",
+      "title": "Google-Unternehmensprofil: Foto-Refresh & Profilpflege",
+      "intro": "Wer nach deinem Betrieb sucht, sieht oft zuerst dein Google-Unternehmensprofil – mit Fotos, Öffnungszeiten und Kontaktdaten. Wir sorgen für aktuelle, professionelle Bilder und richtige Angaben, damit dein Unternehmen in der Google Suche und auf Google Maps so aussieht, wie es wirklich ist.",
+      "definitionTitle": "Was ist das Google-Unternehmensprofil?",
+      "definition": "Das Google-Unternehmensprofil (früher „Google My Business“) ist der kostenlose Eintrag, mit dem Unternehmen in der Google Suche und auf Google Maps erscheinen. Inhaberinnen und Inhaber können dort Fotos, Öffnungszeiten, Kategorien, Beschreibung und Kontaktdaten pflegen. Unsere Leistung ist die Foto- und Pflegearbeit rund um dieses Profil – das Profil selbst bleibt ein kostenloses Angebot von Google.",
+      "includes": [
+        {
+          "title": "Profil-Check",
+          "text": "Wir sehen uns dein Profil an und halten fest, was fehlt, veraltet oder uneinheitlich ist."
+        },
+        {
+          "title": "Neue Unternehmensfotos",
+          "text": "Professionelle Aufnahmen deines Betriebs bei einem Termin vor Ort."
+        },
+        {
+          "title": "Food-Fotografie",
+          "text": "Gerichte und Getränke, appetitlich und realistisch fotografiert."
+        },
+        {
+          "title": "Innen- und Außenaufnahmen",
+          "text": "Eingang, Räume und Atmosphäre – damit man dich erkennt und findet."
+        },
+        {
+          "title": "Produkt- und Leistungsfotos",
+          "text": "Bilder dessen, was du anbietest: Produkte, Behandlungen, Arbeitsergebnisse."
+        },
+        {
+          "title": "Auswahl und Bearbeitung",
+          "text": "Wir wählen die besten Motive aus und bearbeiten sie einheitlich."
+        },
+        {
+          "title": "Upload freigegebener Fotos",
+          "text": "Die von dir freigegebenen Bilder laden wir in dein Profil – mit dem Zugriff, den du uns einräumst."
+        },
+        {
+          "title": "Logo und Titelbild",
+          "text": "Wir aktualisieren Logo und Titelbild, soweit dein Profil das unterstützt."
+        },
+        {
+          "title": "Angaben prüfen",
+          "text": "Beschreibung, Kategorien, Öffnungszeiten und Kontaktdaten gehen wir mit dir durch."
+        },
+        {
+          "title": "Veraltetes finden",
+          "text": "Wir weisen dich auf überholte oder falsche Informationen hin und schlagen Korrekturen vor."
+        },
+        {
+          "title": "Laufende Fotopflege",
+          "text": "Optional: neue Bilder in regelmäßigen Abständen, etwa zu Saison oder neuen Angeboten."
+        },
+        {
+          "title": "Einfache Auswertung",
+          "text": "Soweit Google Zahlen bereitstellt, fassen wir Aufrufe und Interaktionen verständlich zusammen."
+        }
+      ],
+      "howItWorks": [
+        {
+          "title": "Zugriff einrichten",
+          "text": "Du fügst uns in deinem Profil als Administrator hinzu. Du bleibst Inhaberin oder Inhaber – ein Passwort brauchen wir nicht."
+        },
+        {
+          "title": "Profil-Check",
+          "text": "Wir prüfen Fotos und Angaben und besprechen mit dir, was aktualisiert werden soll."
+        },
+        {
+          "title": "Fototermin vor Ort",
+          "text": "Wir fotografieren Räume, Angebot und – wenn gewünscht – dein Team."
+        },
+        {
+          "title": "Auswahl und Freigabe",
+          "text": "Du siehst die bearbeiteten Bilder und vorgeschlagenen Änderungen und gibst sie frei."
+        },
+        {
+          "title": "Upload und Pflege",
+          "text": "Wir laden die Fotos hoch und kümmern uns auf Wunsch regelmäßig um Aktualisierungen."
+        }
+      ],
+      "forWhom": [
+        "Betriebe, deren Profil vor allem alte oder zufällige Fotos zeigt",
+        "Restaurants, Salons, Studios und Geschäfte, die vor Ort gefunden werden wollen",
+        "Unternehmen nach Umbau, Umzug, Neueröffnung oder mit neuem Angebot"
+      ],
+      "faq": [
+        {
+          "q": "Ist das Google-Unternehmensprofil nicht kostenlos?",
+          "a": "Doch. Das Profil ist ein kostenloses Angebot von Google, und du kannst es selbst pflegen. Bezahlt wird bei uns die Arbeit darum herum: Fotografie, Bildbearbeitung, Prüfung der Angaben und laufende Pflege."
+        },
+        {
+          "q": "Könnt ihr alte Fotos oder Fotos von Kundinnen und Kunden entfernen?",
+          "a": "Eigene Fotos des Unternehmens lassen sich austauschen. Fotos, die andere hochgeladen haben, können wir nicht einfach löschen; Verstöße gegen die Richtlinien lassen sich bei Google melden, über die Entfernung entscheidet Google."
+        },
+        {
+          "q": "Bestimmt ihr, welches Foto zuerst angezeigt wird?",
+          "a": "Nein. Wir können ein Titelbild festlegen, aber Google entscheidet selbst, welche Bilder wo erscheinen. Gute, aktuelle Fotos des Unternehmens erhöhen die Auswahl, aus der Google schöpfen kann – eine Garantie gibt es nicht."
+        },
+        {
+          "q": "Verbessert das mein Ranking bei Google?",
+          "a": "Das versprechen wir nicht. Wir sorgen für eine vollständige, aktuelle und ansprechende Darstellung. Wie Google Ergebnisse sortiert, liegt nicht in unserer Hand."
+        },
+        {
+          "q": "Braucht ihr mein Google-Passwort?",
+          "a": "Nein, und wir möchten es auch nicht haben. Du fügst uns als Administrator hinzu und kannst den Zugriff jederzeit entfernen. Das Profil bleibt in deinem Besitz."
+        },
+        {
+          "q": "Seid ihr ein Google-Partner?",
+          "a": "Nein. Social Media Komplett ist eine unabhängige Agentur und steht in keiner Partnerschaft mit Google. Google und Google Maps sind Marken von Google LLC."
+        }
+      ]
+    }
+  },
+  "groups": {
+    "core": {
+      "title": "Social Media & Content",
+      "intro": "Planung, Produktion und laufende Betreuung deiner Kanäle."
+    },
+    "local": {
+      "title": "Lokales Marketing & Design",
+      "intro": "Für alles, was Gäste und Kundschaft vor Ort und bei Google zuerst sehen: deine Speisekarte und dein Google-Unternehmensprofil."
+    }
+  },
+  "showcaseLabels": {
+    "before": "Vorher",
+    "after": "Nachher",
+    "options": "Buchungsoptionen",
+    "important": "Wichtig zu wissen",
+    "combine": "Einzeln buchbar oder kombinierbar mit der monatlichen Social-Media-Betreuung.",
+    "billingOnce": "einmalig",
+    "billingRecurring": "laufend",
+    "billingOptional": "optional"
+  },
+  "showcase": {
+    "menu-design": {
+      "title": "Beispiel: von der gewachsenen Karte zum klaren Layout",
+      "intro": "So kann ein Redesign aussehen. Die Darstellung ist ein Gestaltungsbeispiel mit Platzhaltern – kein Kundenprojekt.",
+      "beforeCaption": "Dichte Textblöcke, wechselnde Schriften, keine klare Reihenfolge.",
+      "afterCaption": "Klare Gliederung, ruhige Typografie, Platz für Hinweise und Pflichtangaben.",
+      "mock": {
+        "name": "Beispiel-Bistro",
+        "subtitle": "Speisekarte",
+        "lines": [
+          "Vorspeisen",
+          "Tagessuppe",
+          "Hauptgerichte",
+          "Pasta des Hauses",
+          "Desserts",
+          "Schokoladenkuchen"
+        ]
+      },
+      "formatsTitle": "Formate für Druck und Bildschirm",
+      "formats": [
+        {
+          "title": "Gedruckte Karte",
+          "text": "Als Faltkarte, Klemmbrett-Blatt oder Aufsteller."
+        },
+        {
+          "title": "PDF",
+          "text": "Für Website, E-Mail und Social Media."
+        },
+        {
+          "title": "QR-Code-Karte",
+          "text": "Am Tisch scannen, auf dem Smartphone lesen."
+        },
+        {
+          "title": "To-go & Einleger",
+          "text": "Flyer, Lieferkarte und Saisonkarten im gleichen Stil."
+        }
+      ],
+      "options": [
+        {
+          "title": "Neues Design",
+          "text": "Einmalige Gestaltung einer neuen Speisekarte."
+        },
+        {
+          "title": "Redesign",
+          "text": "Überarbeitung deiner bestehenden Karte."
+        },
+        {
+          "title": "Saison-Updates",
+          "text": "Aktualisierungen und Einleger im Lauf des Jahres."
+        },
+        {
+          "title": "Druckvorbereitung",
+          "text": "Druckfertige Dateien und Abstimmung mit der Druckerei."
+        }
+      ],
+      "notes": [
+        "Preise, Gerichte, Allergen- und Zusatzstoffangaben lieferst du – und nur du gibst sie frei.",
+        "Wir ändern keine Inhalte ohne deine Zustimmung und drucken nichts ohne Freigabe.",
+        "Übersetzungen für mehrsprachige Karten werden vor dem Druck von dir geprüft."
+      ]
+    },
+    "google-business-profile": {
+      "title": "Beispiel: Foto-Refresh für ein Profil",
+      "intro": "So kann sich der erste Eindruck verändern. Die Darstellung ist eine schematische Illustration – kein echtes Profil, keine echten Fotos und kein Kundenprojekt.",
+      "beforeCaption": "Wenige, dunkle oder veraltete Bilder; Angaben teilweise unvollständig.",
+      "afterCaption": "Aktuelle Aufnahmen von außen, innen, Angebot und Team; geprüfte Angaben.",
+      "mock": {
+        "name": "Beispiel-Café",
+        "subtitle": "Café",
+        "lines": [
+          "Außenansicht",
+          "Innenraum",
+          "Speisen & Getränke",
+          "Team",
+          "Details",
+          "Titelbild"
+        ]
+      },
+      "formatsTitle": "Motive, die wir fotografieren",
+      "formats": [
+        {
+          "title": "Außen",
+          "text": "Eingang und Fassade, damit man dich vor Ort erkennt."
+        },
+        {
+          "title": "Innen",
+          "text": "Räume, Plätze und Atmosphäre."
+        },
+        {
+          "title": "Angebot",
+          "text": "Speisen, Produkte und Leistungen."
+        },
+        {
+          "title": "Menschen",
+          "text": "Team bei der Arbeit – nur mit Einverständnis."
+        }
+      ],
+      "options": [
+        {
+          "title": "Foto-Refresh",
+          "text": "Einmalige Aktualisierung der Profilfotos inklusive Profil-Check."
+        },
+        {
+          "title": "Fotografie vor Ort",
+          "text": "Professioneller Fototermin in deinem Betrieb."
+        },
+        {
+          "title": "Laufende Foto- und Profilpflege",
+          "text": "Regelmäßig neue Bilder und Kontrolle der Angaben."
+        }
+      ],
+      "notes": [
+        "Das Google-Unternehmensprofil ist ein kostenloses Angebot von Google. Bezahlt wird unsere Foto- und Pflegearbeit.",
+        "Wir sind eine unabhängige Agentur und kein Partner von Google.",
+        "Du bleibst Inhaberin oder Inhaber des Profils. Wir arbeiten nur mit dem Zugriff, den du uns als Administrator gibst – ohne dein Passwort.",
+        "Google entscheidet, welche Fotos angezeigt werden. Wir können weder zusagen, dass alle alten Bilder ersetzt werden oder unser Titelbild zuerst erscheint, noch ein besseres Ranking versprechen.",
+        "Von Kundinnen und Kunden hochgeladene Fotos können wir nicht entfernen; Verstöße lassen sich melden.",
+        "Wir veröffentlichen nichts in deinem Profil ohne deine ausdrückliche Freigabe."
+      ]
     }
   }
 }

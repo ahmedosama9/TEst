@@ -1,10 +1,16 @@
 "use client";
 
-import { Menu, X } from "lucide-react";
+import { ChevronDown, Menu, X } from "lucide-react";
 import Link from "next/link";
 import { useRef, type ReactNode } from "react";
 
-export type MobileLink = { href: string; label: string; current?: boolean; children?: { href: string; label: string }[] };
+export type MobileLink = {
+  href: string;
+  label: string;
+  current?: boolean;
+  /** Sub-links, shown in a collapsible block; `heading` rows label a group. */
+  children?: { href?: string; label: string; heading?: boolean }[];
+};
 
 /** Mobile navigation in a native <dialog>: focus trap, Esc and scroll lock come from the platform. */
 export function MobileMenu({
@@ -47,25 +53,36 @@ export function MobileMenu({
           <ul className="divide-y divide-white/10">
             {links.map((l) => (
               <li key={l.href} className="py-1">
-                <Link
-                  href={l.href}
-                  onClick={close}
-                  aria-current={l.current ? "page" : undefined}
-                  className="flex min-h-12 items-center font-display text-lg font-bold aria-[current=page]:text-aqua"
-                >
-                  {l.label}
-                </Link>
                 {l.children ? (
-                  <ul className="mb-3 space-y-1 border-s border-white/15 ps-4">
-                    {l.children.map((c) => (
-                      <li key={c.href}>
-                        <Link href={c.href} onClick={close} className="flex min-h-10 items-center text-sm text-soft hover:text-white">
-                          {c.label}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                ) : null}
+                  <details className="group" open={l.current}>
+                    <summary className="flex min-h-12 cursor-pointer list-none items-center justify-between font-display text-lg font-bold [&::-webkit-details-marker]:hidden">
+                      <span className={l.current ? "text-aqua" : undefined}>{l.label}</span>
+                      <ChevronDown className="size-5 transition-transform group-open:rotate-180" aria-hidden="true" />
+                    </summary>
+                    <ul className="mb-3 space-y-1 border-s border-white/15 ps-4">
+                      {l.children.map((c) =>
+                        c.heading || !c.href ? (
+                          <li key={c.label} className="pt-3 pb-1 text-xs font-bold tracking-wider text-aqua uppercase">{c.label}</li>
+                        ) : (
+                          <li key={c.href}>
+                            <Link href={c.href} onClick={close} className="flex min-h-10 items-center text-sm text-soft hover:text-white">
+                              {c.label}
+                            </Link>
+                          </li>
+                        ),
+                      )}
+                    </ul>
+                  </details>
+                ) : (
+                  <Link
+                    href={l.href}
+                    onClick={close}
+                    aria-current={l.current ? "page" : undefined}
+                    className="flex min-h-12 items-center font-display text-lg font-bold aria-[current=page]:text-aqua"
+                  >
+                    {l.label}
+                  </Link>
+                )}
               </li>
             ))}
           </ul>

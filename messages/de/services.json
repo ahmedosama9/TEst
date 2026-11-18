@@ -518,7 +518,7 @@
     "google-business-profile": {
       "meta": {
         "title": "Google Maps Bilder erneuern & Unternehmensfotos",
-        "description": "Google Maps Bilder erneuern lassen: Wir fotografieren deinen Betrieb vor Ort, bearbeiten die Fotos und laden sie in dein Google-Unternehmensprofil – in Münster & NRW."
+        "description": "Google Maps Bilder erneuern lassen: Fotos vor Ort, Bearbeitung, Upload ins Google-Unternehmensprofil und passende Suchbegriffe – für Betriebe in Münster & NRW."
       },
       "name": "Google Maps Bilder erneuern & Unternehmensfotos",
       "short": "Wir fotografieren deinen Betrieb und bringen frische Bilder in dein Google-Unternehmensprofil – komplett für dich erledigt.",
@@ -546,6 +546,10 @@
         {
           "title": "Upload in dein Profil",
           "text": "Die von dir freigegebenen Fotos laden wir geordnet in dein Google-Unternehmensprofil – von Hand, mit dem Zugriff, den du uns gibst."
+        },
+        {
+          "title": "Passende Suchbegriffe",
+          "text": "Wir recherchieren, wonach deine Kundschaft bei Google Maps sucht, und tragen die passenden Begriffe an den richtigen Stellen deines Profils ein – in Beschreibung, Kategorien und Leistungen."
         },
         {
           "title": "Regelmäßige Auffrischung",
@@ -591,6 +595,10 @@
         {
           "q": "Bestimmt ihr, welches Foto zuerst angezeigt wird?",
           "a": "Nein. Google entscheidet selbst, welche Bilder wo und in welcher Reihenfolge erscheinen. Mit guten, aktuellen Fotos sorgen wir dafür, dass eine starke Auswahl vorhanden ist – eine Garantie für die Reihenfolge oder für ein besseres Ranking gibt es nicht."
+        },
+        {
+          "q": "Tragt ihr auch die richtigen Suchbegriffe für Google Maps ein?",
+          "a": "Ja. Wir ermitteln, mit welchen Begriffen Menschen in deiner Umgebung nach Angeboten wie deinem suchen, und formulieren Beschreibung, Kategorien sowie Leistungen oder Produkte entsprechend – verständlich und ohne Aneinanderreihung von Schlagwörtern. Du gibst die Texte frei. Den Unternehmensnamen verändern wir nicht, weil Google dort keine zusätzlichen Suchbegriffe erlaubt. Eine bestimmte Platzierung können wir nicht garantieren."
         },
         {
           "q": "Braucht ihr mein Google-Passwort?",
@@ -736,12 +744,17 @@
         {
           "title": "Regelmäßige Foto-Aktualisierung",
           "text": "Neue Fotos in festen Abständen oder bei neuer Karte, neuem Sortiment und zur Saison."
+        },
+        {
+          "title": "Suchbegriffe & Profiltexte",
+          "text": "Recherche passender Google-Maps-Suchbegriffe und Überarbeitung von Beschreibung, Kategorien und Leistungen."
         }
       ],
       "notes": [
         "Wir erledigen alles für dich: Du musst keine Software nutzen und nichts selbst hochladen.",
         "Die Aktualisierung erfolgt von Hand über den Zugriff, den du uns als Administrator gibst – ohne dein Passwort. Du bleibst Inhaberin oder Inhaber deines Profils.",
         "Hochgeladen wird nur, was du ausdrücklich freigegeben hast.",
+        "Suchbegriffe setzen wir nur dort ein, wo Google es vorsieht – in Beschreibung, Kategorien und Leistungen, nicht im Unternehmensnamen. Texte gehen erst nach deiner Freigabe online.",
         "Google entscheidet, welche Fotos in welcher Reihenfolge angezeigt werden. Wir können nicht zusagen, dass alle alten Bilder verschwinden, und versprechen kein besseres Ranking.",
         "Unsere Leistung ist eine Agenturleistung für Fotografie und Profil-Aktualisierung – kein Produkt von Google. Das Google-Unternehmensprofil selbst ist kostenlos; wir sind kein Partner von Google."
       ]

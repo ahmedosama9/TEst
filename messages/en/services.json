@@ -548,6 +548,10 @@
           "text": "We upload the photos you have approved to your Google Business Profile in an orderly way – by hand, using the access you give us."
         },
         {
+          "title": "The right search terms",
+          "text": "We research what your customers search for on Google Maps and put the right terms in the right places on your profile – in the description, categories and services."
+        },
+        {
           "title": "Regular refresh",
           "text": "Optional: new photos when your menu, range, interior or the season changes."
         }
@@ -591,6 +595,10 @@
         {
           "q": "Do you decide which photo is shown first?",
           "a": "No. Google itself decides which images appear where and in what order. With good, up-to-date photos, we make sure a strong selection is available – there is no guarantee of the order or of a better ranking."
+        },
+        {
+          "q": "Do you also add the right search terms for Google Maps?",
+          "a": "Yes. We find out which terms people in your area use when they look for businesses like yours, and word your description, categories and services or products accordingly – clearly and without stringing keywords together. You approve the copy. We do not change your business name, because Google does not allow extra search terms there. We cannot guarantee a particular position."
         },
         {
           "q": "Do you need my Google password?",
@@ -736,12 +744,17 @@
         {
           "title": "Regular photo update",
           "text": "New photos at fixed intervals, or when you have a new menu or a new range, and for the season."
+        },
+        {
+          "title": "Search terms & profile copy",
+          "text": "Research into suitable Google Maps search terms and a revision of your description, categories and services."
         }
       ],
       "notes": [
         "We take care of everything for you: you don’t have to use any software or upload anything yourself.",
         "The update is done by hand using the access you give us as a manager – without your password. You remain the owner of your profile.",
         "Only what you have expressly approved is uploaded.",
+        "We only use search terms where Google intends them – in the description, categories and services, not in the business name. Copy only goes online once you have approved it.",
         "Google decides which photos are shown and in what order. We cannot promise that all old images will disappear, and we do not promise a better ranking.",
         "Our service is an agency service for photography and profile updates – not a Google product. The Google Business Profile itself is free; we are not a Google partner."
       ]

@@ -192,3 +192,5 @@ Unternehmensfotos"). Service names per language: "Refresh Google Maps photos & b
 - [ ] tr: "paket servis broşürü"; "uygulama odaları"; "sıralama konumu"
 - [ ] ku: "nermalav" (software), "cureyên berheman", "xizmetkar" (may read as "servant" — or "pêşkêşkerên xizmetê"),
       "odeyên lênêrînê", "birîn" (crop), "Ev pêşniyareke Google ye?", the ezafe after "rêvebir (Administrator)"
+- [ ] Search-terms addition (include item, fourth booking option, FAQ, note) in all four languages — written
+      without a translator pass; Kurdish wording ("peyvên lêgerînê", "danasîn") especially

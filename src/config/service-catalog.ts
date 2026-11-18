@@ -68,6 +68,8 @@ export const serviceCatalog: CatalogEntry[] = [
       { id: "gbp-photo-refresh", billing: "once", price: null },
       { id: "gbp-on-site-photography", billing: "once", price: null },
       { id: "gbp-photo-profile-maintenance", billing: "recurring", price: null },
+      // Research of Google Maps search terms + rewriting description, categories and services (never the business name).
+      { id: "gbp-search-terms-profile-texts", billing: "optional", price: null },
     ],
   },
 ];

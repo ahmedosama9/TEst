@@ -27,7 +27,8 @@ The notes below describe what such an internal list would need; a spreadsheet co
 
 - Menu design: `menu-new-design`, `menu-redesign`, `menu-seasonal-updates`, `menu-print-preparation`
 - Google Maps photos: `gbp-photo-refresh` (Einmaliger Foto-Refresh), `gbp-on-site-photography`
-  (Professionelle Unternehmensfotografie vor Ort), `gbp-photo-profile-maintenance` (Regelmäßige Foto-Aktualisierung)
+  (Professionelle Unternehmensfotografie vor Ort), `gbp-photo-profile-maintenance` (Regelmäßige Foto-Aktualisierung),
+  `gbp-search-terms-profile-texts` (Suchbegriffe & Profiltexte, optional)
 
 ## What the team should record per job
 
@@ -60,6 +61,8 @@ Rules:
   remains the owner. The agency never asks for or stores a Google password. Access is removed when
   the job or engagement ends.
 - Nothing is uploaded without the client's approval.
+- Search terms: researched per client and placed only in the description, categories and services/products —
+  never added to the business name (Google's guidelines require the real-world name). Texts need client approval.
 - The agency does not promise deletion of all old photos, control over Google's photo order, or rankings.
 - It is an agency photography and profile-update service, not a Google product; no partner claims.
 

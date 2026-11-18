@@ -548,6 +548,10 @@
           "text": "Em wêneyên ku we pejirandine bi rêkûpêk bar dikin Google Business Profile-a we – bi destan, bi wê gihîştinê ku hûn didin me."
         },
         {
+          "title": "Peyvên lêgerînê yên guncaw",
+          "text": "Em lêkolîn dikin ka mişteriyên we li Google Maps li çi digerin û peyvên guncaw li cihên rast ên profîla we bi cih dikin: di danasîn, kategorî û xizmetan de."
+        },
+        {
           "title": "Nûkirina birêkûpêk",
           "text": "Bijarte: wêneyên nû, dema ku menû, cureyên berheman, mobîlya û xemla hundir an demsal diguherin."
         }
@@ -591,6 +595,10 @@
         {
           "q": "Hûn diyar dikin ka kîjan wêne pêşî tê nîşandan?",
           "a": "Na. Google bi xwe biryar dide ka kîjan wêne li ku û bi kîjan rêzê xuya dibin. Bi wêneyên baş û rojane em wisa dikin ku hilbijartineke xurt hebe – ji bo rêzê an ji bo rêzbendiyeke çêtir garantî tune."
+        },
+        {
+          "q": "Hûn peyvên lêgerînê yên rast ji bo Google Maps jî lê zêde dikin?",
+          "a": "Belê. Em diyar dikin ka mirovên li derdora we bi kîjan peyvan li karsaziyên wek ya we digerin, û danasîn, kategorî û xizmet an berhemên we li gorî wan dinivîsin – bi awayekî zelal û bêyî rêzkirina peyvên sereke li pey hev. Hûn nivîsan dipejirînin. Em navê karsaziyê naguherînin, ji ber ku Google li wir destûrê nade peyvên lêgerînê yên zêde. Em nikarin cihekî diyar di encaman de garantî bikin."
         },
         {
           "q": "Hûn hewcedarê şîfreya min a Google ne?",
@@ -736,12 +744,17 @@
         {
           "title": "Nûkirina birêkûpêk a wêneyan",
           "text": "Wêneyên nû di navberên diyarkirî de an dema menû û cureyên berheman nû dibin û ji bo demsalê."
+        },
+        {
+          "title": "Peyvên lêgerînê û nivîsên profîlê",
+          "text": "Lêkolîna peyvên lêgerînê yên guncaw ji bo Google Maps û nûkirina danasîn, kategorî û xizmetan."
         }
       ],
       "notes": [
         "Em her tiştî ji bo we dikin: ne hewce ye hûn nermalavekê bi kar bînin an bi xwe tiştekî bar bikin.",
         "Nûkirin bi destan tê kirin, bi wê gihîştinê ku hûn wek rêvebir (Administrator) didin me – bêyî şîfreya we. Hûn xwediyê profîla xwe dimînin.",
         "Tenê tiştê ku we bi eşkere pejirandiye tê barkirin.",
+        "Em peyvên lêgerînê tenê li cihên ku Google destnîşan kiriye bi kar tînin: di danasîn, kategorî û xizmetan de, ne di navê karsaziyê de. Nivîs tenê piştî pejirandina we tên weşandin.",
         "Google biryar dide ka kîjan wêne bi kîjan rêzê tên nîşandan. Em nikarin soz bidin ku hemû wêneyên kevn dê winda bibin, û em rêzbendiyeke çêtir soz nadin.",
         "Xizmeta me xizmeteke ajansê ye ji bo wênekêşî û nûkirina profîlê – ne berhemeke Google ye. Google Business Profile bi xwe bêpere ye; em ne hevkarê Google ne."
       ]

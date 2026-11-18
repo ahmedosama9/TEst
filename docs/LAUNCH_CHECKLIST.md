@@ -27,6 +27,8 @@ and are **not** done.
       Google Maps Bilder erneuern & Unternehmensfotos (scope, print coordination, QR-menu hosting, manual upload as profile manager)
 - [ ] **New services — real imagery**: the before/after visuals on both pages are schematic examples.
       Replace them with the agency's own, licensed photos and real menu designs when available
+- [ ] **Search terms offer**: confirm the scope (research + description, categories, services; not the
+      business name) and that it should be an optional extra rather than part of every photo refresh
 - [ ] **Google facts**: open the six Google help links cited in the article "Google Maps Bilder
       aktualisieren" and confirm formats, sizes and role names (they could not be opened during the build)
 

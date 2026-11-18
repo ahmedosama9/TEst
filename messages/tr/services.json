@@ -548,6 +548,10 @@
           "text": "Onayladığınız fotoğrafları Google İşletme Profilinize düzenli bir şekilde yüklüyoruz – elle, bize tanıdığınız erişimle."
         },
         {
+          "title": "Doğru arama terimleri",
+          "text": "Müşterilerinizin Google Haritalar'da ne aradığını araştırıyor ve uygun terimleri profilinizde doğru yerlere ekliyoruz: açıklama, kategoriler ve hizmetler."
+        },
+        {
           "title": "Düzenli yenileme",
           "text": "İsteğe bağlı: menü, ürün yelpazesi, dekorasyon veya sezon değiştiğinde yeni fotoğraflar."
         }
@@ -591,6 +595,10 @@
         {
           "q": "Hangi fotoğrafın ilk sırada gösterileceğini siz mi belirliyorsunuz?",
           "a": "Hayır. Hangi görselin nerede ve hangi sırayla görüneceğine Google kendisi karar verir. İyi ve güncel fotoğraflarla güçlü bir seçki bulunmasını sağlıyoruz – sıralama veya daha iyi bir sıralama konumu için garanti yoktur."
+        },
+        {
+          "q": "Google Haritalar için doğru arama terimlerini de ekliyor musunuz?",
+          "a": "Evet. Çevrenizdeki kişilerin sizinki gibi işletmeleri hangi terimlerle aradığını belirliyor; açıklamanızı, kategorilerinizi ve hizmet ya da ürünlerinizi buna göre, anlaşılır biçimde ve anahtar kelimeleri art arda sıralamadan yazıyoruz. Metinleri siz onaylarsınız. İşletme adını değiştirmiyoruz, çünkü Google orada ek arama terimlerine izin vermez. Belirli bir sıralama konumunu garanti edemeyiz."
         },
         {
           "q": "Google şifreme ihtiyacınız var mı?",
@@ -736,12 +744,17 @@
         {
           "title": "Düzenli fotoğraf güncellemesi",
           "text": "Belirli aralıklarla veya yeni menü, yeni ürün yelpazesi ve sezon dönemlerinde yeni fotoğraflar."
+        },
+        {
+          "title": "Arama terimleri ve profil metinleri",
+          "text": "Uygun Google Haritalar arama terimlerinin araştırılması; açıklama, kategori ve hizmetlerin gözden geçirilmesi."
         }
       ],
       "notes": [
         "Her şeyi sizin için biz hallediyoruz: Bir yazılım kullanmanız veya kendiniz bir şey yüklemeniz gerekmez.",
         "Güncelleme, bize yönetici olarak verdiğiniz erişim üzerinden elle yapılır – şifreniz olmadan. Profilinizin sahibi siz kalırsınız.",
         "Yalnızca açıkça onayladıklarınız yüklenir.",
+        "Arama terimlerini yalnızca Google'ın öngördüğü yerlerde kullanırız: açıklama, kategoriler ve hizmetler; işletme adında değil. Metinler ancak sizin onayınızdan sonra yayına alınır.",
         "Hangi fotoğrafların hangi sırayla gösterileceğine Google karar verir. Tüm eski görsellerin kaybolacağına dair söz veremeyiz ve daha iyi bir sıralama vaat etmiyoruz.",
         "Hizmetimiz, fotoğraf çekimi ve profil güncellemesine yönelik bir ajans hizmetidir – Google'ın bir ürünü değildir. Google İşletme Profilinin kendisi ücretsizdir; Google'ın iş ortağı değiliz."
       ]

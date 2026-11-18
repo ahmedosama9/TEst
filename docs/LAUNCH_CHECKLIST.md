@@ -12,9 +12,9 @@ and are **not** done.
 - [ ] **Owner approval of the German copy** — in particular everything that describes how the agency
       works: approval before publishing, regular reports, on-site shoots, account access, package
       contents, answers in the FAQs, and first-person statements in the articles ("Fragen, die wir häufig hören")
-- [ ] **Brand check**: the logo and layout were built from the written brand description; the
-      reference image was not available. Compare with the reference and replace `public/brand/*` and
-      `src/components/ui/logo.tsx` if the official logo differs
+- [ ] **Logo files**: the logo in `src/components/ui/logo.tsx` and `public/brand/*` was redrawn as
+      SVG from the brand sheet (`docs/brand/brand-reference.jpg`). If you have the original vector
+      logo from your designer, replace these files with it so the mark is exact
 
 ## Before indexing other languages
 

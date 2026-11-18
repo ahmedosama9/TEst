@@ -74,7 +74,9 @@
     overflow-wrap: break-word;
     hyphens: auto;
   }
-  :lang(ar) :is(h1, h2, h3, h4) { line-height: 1.45; font-weight: 700; }
+  /* Brand style: forward-leaning italic headlines (Latin scripts only — Arabic has no italic). */
+  h1, h2 { font-style: italic; letter-spacing: -0.015em; }
+  :lang(ar) :is(h1, h2, h3, h4) { line-height: 1.45; font-weight: 700; font-style: normal; }
   p { text-wrap: pretty; }
   :focus-visible {
     outline: 3px solid var(--color-violet);

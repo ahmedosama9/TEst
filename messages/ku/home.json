@@ -6,14 +6,29 @@
   "hero": {
     "eyebrow": "Ajansa medyaya civakî ji Münsterê",
     "title": "Hevkarê we ji bo medyaya civakî ya serkeftî.",
+    "titleHighlight": "medyaya civakî",
     "subtitle": "Em naveroka profesyonel çêdikin, Reels dikişînin û lênêrîna kanalên we yên medyaya civakî digirin ser xwe – da ku hûn bikaribin bala xwe bidin karsaziya xwe.",
-    "points": ["Çêkirina naverokê", "Çêkirina Reels li cih", "Lênêrîna berdewam"],
+    "points": [
+      "Çêkirina naverokê",
+      "Çêkirina Reels li cih",
+      "Lênêrîna berdewam"
+    ],
+    "values": [
+      "Bilez",
+      "Temam",
+      "Bi armanca mezinbûnê",
+      "Tê pîvandin"
+    ],
     "mockup": {
       "alt": "Wênesazî: telefoneke biaqil bi feed-eke mînak, pêşdîtina Reel-ekê û plana weşanê",
       "profile": "karsaziya.we",
       "reelLabel": "Reel",
       "planTitle": "Plana weşanê",
-      "planItems": ["Duş · Reel", "Çarş · Karûsel", "Înî · Story"],
+      "planItems": [
+        "Duş · Reel",
+        "Çarş · Karûsel",
+        "Înî · Story"
+      ],
       "statusPlanned": "Plankirî",
       "statusApproved": "Pejirandî"
     }
@@ -23,10 +38,22 @@
     "title": "Medyaya civakî ya ku ne hewce ye di ber karê din re bê kirin.",
     "intro": "Gelek karsazî dizanin ku medyaya civakî girîng e – lê di jiyana rojane de ji bo fikir, kişandin, montaj û şandiyên birêkûpêk dem namîne. Em tam vî karî ji ser milê we radikin.",
     "items": [
-      { "title": "Hemû ji yek destî", "text": "Stratejî, naverok, Reels, weşandin û community – ne hewce ye hûn sê pêşkêşkarên cuda bi hev re koordîne bikin." },
-      { "title": "Em tên cem we", "text": "Wêne û vîdyo rasterast li cihê karê we tên kişandin. Bi vî awayî profîla we nîşan dide ka karsaziya we bi rastî çi ye." },
-      { "title": "Lihevkirina zelal", "text": "Hûn naverokê berî ku were weşandin dibînin û her dem dizanin ka gava din çi hatiye plankirin." },
-      { "title": "Nirxandina rastgo", "text": "Em bi zimanekî têgihîştî radigihînin ka çi bi kêr hat û çi nehat – bêyî hejmarên xemilandî û bêyî sozên ku kes nikare bi cih bîne." }
+      {
+        "title": "Hemû ji yek destî",
+        "text": "Stratejî, naverok, Reels, weşandin û community – ne hewce ye hûn sê pêşkêşkarên cuda bi hev re koordîne bikin."
+      },
+      {
+        "title": "Em tên cem we",
+        "text": "Wêne û vîdyo rasterast li cihê karê we tên kişandin. Bi vî awayî profîla we nîşan dide ka karsaziya we bi rastî çi ye."
+      },
+      {
+        "title": "Lihevkirina zelal",
+        "text": "Hûn naverokê berî ku were weşandin dibînin û her dem dizanin ka gava din çi hatiye plankirin."
+      },
+      {
+        "title": "Nirxandina rastgo",
+        "text": "Em bi zimanekî têgihîştî radigihînin ka çi bi kêr hat û çi nehat – bêyî hejmarên xemilandî û bêyî sozên ku kes nikare bi cih bîne."
+      }
     ]
   },
   "services": {
@@ -54,7 +81,12 @@
     "visualAlt": "Wênesazî: plana kişandinê ji bo randevûyeke li cih bi çend dîmenan",
     "visual": {
       "title": "Roja kişandinê",
-      "items": ["Gihîştin û amadekarî", "Reels û vîdyoyên kurt", "Wêne û hûrgilî", "Tîm û atmosfer"]
+      "items": [
+        "Gihîştin û amadekarî",
+        "Reels û vîdyoyên kurt",
+        "Wêne û hûrgilî",
+        "Tîm û atmosfer"
+      ]
     }
   },
   "industries": {
@@ -76,12 +108,30 @@
     "eyebrow": "Feydeyên we",
     "title": "Çima karsazî kanalên xwe dispêrin kesên din",
     "items": [
-      { "title": "Ji bo karê rojane bêtir dem", "text": "Fikir, kişandin, montaj, nivîs û weşandin li ser me ne. Hûn tenê dipejirînin – ne zêdetir." },
-      { "title": "Li şûna bêdengiyê, birêkûpêkî", "text": "Planeke weşanê piştrast dike ku kanalên we di hefteyên bi stres de jî çalak bimînin." },
-      { "title": "Xuyangeke yekgirtî", "text": "Zimanê dîtbarî, ton û sêwiran li hev û li marqeya we tên." },
-      { "title": "Formatên li gorî platformê", "text": "Reels, karûsel û Stories bi wî awayî tên çêkirin ku li ser Instagram, Facebook an TikTok bi rastî tên bikaranîn." },
-      { "title": "Rêveçûnên diyar", "text": "Li şûna çalakiyên yekcarî yên ji nişka ve, demên zelal ji bo plankirin, kişandin, pejirandin û nirxandinê." },
-      { "title": "Encamên ku tên şopandin", "text": "Raporeke birêkûpêk gihîştin, înteraksiyon û daxwazan nîşanî we dide – û ka em ji wan çi encam derdixin." }
+      {
+        "title": "Ji bo karê rojane bêtir dem",
+        "text": "Fikir, kişandin, montaj, nivîs û weşandin li ser me ne. Hûn tenê dipejirînin – ne zêdetir."
+      },
+      {
+        "title": "Li şûna bêdengiyê, birêkûpêkî",
+        "text": "Planeke weşanê piştrast dike ku kanalên we di hefteyên bi stres de jî çalak bimînin."
+      },
+      {
+        "title": "Xuyangeke yekgirtî",
+        "text": "Zimanê dîtbarî, ton û sêwiran li hev û li marqeya we tên."
+      },
+      {
+        "title": "Formatên li gorî platformê",
+        "text": "Reels, karûsel û Stories bi wî awayî tên çêkirin ku li ser Instagram, Facebook an TikTok bi rastî tên bikaranîn."
+      },
+      {
+        "title": "Rêveçûnên diyar",
+        "text": "Li şûna çalakiyên yekcarî yên ji nişka ve, demên zelal ji bo plankirin, kişandin, pejirandin û nirxandinê."
+      },
+      {
+        "title": "Encamên ku tên şopandin",
+        "text": "Raporeke birêkûpêk gihîştin, înteraksiyon û daxwazan nîşanî we dide – û ka em ji wan çi encam derdixin."
+      }
     ]
   },
   "blog": {
@@ -99,6 +149,10 @@
     "eyebrow": "Têkilî",
     "title": "Hûn ji bo medyaya civakî ya ku dimeşe amade ne?",
     "text": "Çend rêzan li ser karsaziya xwe ji me re binivîsin. Di hevdîtina yekem a bêpere de em zelal dikin ka kîjan lênêrîn watedar e – bêyî ti mecbûriyetê.",
-    "points": ["Bêpere û bêyî mecbûriyet", "Bersiveke şexsî", "Li şûna pêşniyareke standard, pêşniyareke zelal"]
+    "points": [
+      "Bêpere û bêyî mecbûriyet",
+      "Bersiveke şexsî",
+      "Li şûna pêşniyareke standard, pêşniyareke zelal"
+    ]
   }
 }

@@ -28,10 +28,10 @@ for (const [locale, t] of Object.entries(og)) {
       el.innerHTML = `
       <div style="position:fixed;inset:0;z-index:99999;display:flex;flex-direction:column;justify-content:space-between;padding:72px 80px;background:#0B1026;background-image:radial-gradient(900px 500px at 90% -10%,rgba(0,212,179,.3),transparent 60%),radial-gradient(700px 420px at 0% 110%,rgba(123,97,255,.28),transparent 60%);color:#fff" dir="${t.dir}">
         <div style="display:flex;align-items:center;gap:20px" dir="ltr"><div style="width:84px;height:84px">${mark}</div>
-          <div style="font:800 40px var(--font-montserrat),sans-serif">Social Media <span style="color:#33F6E0">Komplett</span></div></div>
-        <div><div style="font:800 62px/1.2 var(--font-display);max-width:1000px">${t.title}</div>
+          <div style="width:2px;height:74px;background:rgba(255,255,255,.4);transform:rotate(12deg)"></div><div style="font:italic 800 38px/1.05 var(--font-montserrat),sans-serif">Social Media<br><span style="color:#33F6E0">Komplett</span></div></div>
+        <div><div style="font:italic 800 62px/1.2 var(--font-display);max-width:1000px">${t.title}</div>
           <div style="margin-top:26px;font:500 28px var(--font-sans);color:#B8C2DE">${t.sub}</div></div>
-        <div style="display:flex;justify-content:space-between;align-items:center;font:700 26px var(--font-montserrat),sans-serif" dir="ltr"><span style="color:#33F6E0">Content. Betreuung. Ergebnisse.</span><span style="color:#B8C2DE;font-weight:500">socialmediakomplett.de</span></div>
+        <div style="display:flex;justify-content:space-between;align-items:center;font:italic 700 26px var(--font-montserrat),sans-serif" dir="ltr"><span style="color:#33F6E0">Content. Betreuung. Ergebnisse.</span><span style="color:#B8C2DE;font-weight:500">socialmediakomplett.de</span></div>
       </div>`;
     },
     { mark, t },

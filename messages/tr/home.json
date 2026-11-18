@@ -6,14 +6,29 @@
   "hero": {
     "eyebrow": "Münster merkezli sosyal medya ajansı",
     "title": "Başarılı sosyal medya için iş ortağınız.",
+    "titleHighlight": "sosyal medya",
     "subtitle": "Profesyonel içerik üretiyor, Reels çekiyor ve sosyal medya kanallarınızın yönetimini üstleniyoruz – siz de işletmenize odaklanabiliyorsunuz.",
-    "points": ["İçerik üretimi", "Yerinde Reels çekimi", "Düzenli kanal yönetimi"],
+    "points": [
+      "İçerik üretimi",
+      "Yerinde Reels çekimi",
+      "Düzenli kanal yönetimi"
+    ],
+    "values": [
+      "Hızlı",
+      "Eksiksiz",
+      "Büyüme odaklı",
+      "Ölçülebilir"
+    ],
     "mockup": {
       "alt": "İllüstrasyon: örnek akış, Reel önizlemesi ve içerik takvimi gösteren akıllı telefon",
       "profile": "isletmeniz",
       "reelLabel": "Reel",
       "planTitle": "İçerik takvimi",
-      "planItems": ["Pzt · Reel", "Çar · Kaydırmalı gönderi", "Cum · Story"],
+      "planItems": [
+        "Pzt · Reel",
+        "Çar · Kaydırmalı gönderi",
+        "Cum · Story"
+      ],
       "statusPlanned": "Planlandı",
       "statusApproved": "Onaylandı"
     }
@@ -23,10 +38,22 @@
     "title": "Arada bir ilgilenmek zorunda kalmayacağınız sosyal medya.",
     "intro": "Pek çok işletme sosyal medyanın önemli olduğunu biliyor – ancak günlük yoğunlukta fikir bulmaya, çekime, kurguya ve düzenli paylaşıma zaman kalmıyor. Tam da bu işi sizin yerinize biz üstleniyoruz.",
     "items": [
-      { "title": "Her şey tek elden", "text": "Strateji, içerik, Reels, yayınlama ve topluluk – üç ayrı hizmet sağlayıcıyı koordine etmeniz gerekmez." },
-      { "title": "Biz size geliyoruz", "text": "Fotoğraflar ve videolar doğrudan işletmenizde çekilir. Böylece sayfanız, işletmenizi gerçekten özel kılan şeyi gösterir." },
-      { "title": "Net iletişim ve onay", "text": "İçerikleri yayına girmeden önce görürsünüz ve sırada neyin planlandığını her zaman bilirsiniz." },
-      { "title": "Dürüst değerlendirme", "text": "Neyin işe yarayıp neyin yaramadığını anlaşılır biçimde raporluyoruz – süslenmiş rakamlar ve kimsenin tutamayacağı vaatler olmadan." }
+      {
+        "title": "Her şey tek elden",
+        "text": "Strateji, içerik, Reels, yayınlama ve topluluk – üç ayrı hizmet sağlayıcıyı koordine etmeniz gerekmez."
+      },
+      {
+        "title": "Biz size geliyoruz",
+        "text": "Fotoğraflar ve videolar doğrudan işletmenizde çekilir. Böylece sayfanız, işletmenizi gerçekten özel kılan şeyi gösterir."
+      },
+      {
+        "title": "Net iletişim ve onay",
+        "text": "İçerikleri yayına girmeden önce görürsünüz ve sırada neyin planlandığını her zaman bilirsiniz."
+      },
+      {
+        "title": "Dürüst değerlendirme",
+        "text": "Neyin işe yarayıp neyin yaramadığını anlaşılır biçimde raporluyoruz – süslenmiş rakamlar ve kimsenin tutamayacağı vaatler olmadan."
+      }
     ]
   },
   "services": {
@@ -54,7 +81,12 @@
     "visualAlt": "İllüstrasyon: birden fazla çekim içeren bir yerinde çekim günü planı",
     "visual": {
       "title": "Çekim günü",
-      "items": ["Varış & kurulum", "Reels & kısa videolar", "Fotoğraflar & detaylar", "Ekip & atmosfer"]
+      "items": [
+        "Varış & kurulum",
+        "Reels & kısa videolar",
+        "Fotoğraflar & detaylar",
+        "Ekip & atmosfer"
+      ]
     }
   },
   "industries": {
@@ -76,12 +108,30 @@
     "eyebrow": "Avantajlarınız",
     "title": "İşletmeler kanallarını neden bize bırakıyor?",
     "items": [
-      { "title": "Günlük işlere daha fazla zaman", "text": "Fikir, çekim, kurgu, metin ve yayınlama bizde. Siz yalnızca onay verirsiniz – hepsi bu." },
-      { "title": "Sessizlik yerine düzen", "text": "İçerik takvimi, kanallarınızın yoğun haftalarda da aktif kalmasını sağlar." },
-      { "title": "Bütünlüklü bir görünüm", "text": "Görsel dil, üslup ve tasarım hem birbiriyle hem de markanızla uyumludur." },
-      { "title": "Platforma uygun formatlar", "text": "Reels, kaydırmalı gönderiler ve Stories; Instagram, Facebook veya TikTok'ta gerçekten kullanıldıkları biçimde üretilir." },
-      { "title": "Belirli iş akışları", "text": "Anlık, tek seferlik işler yerine planlama, çekim, onay ve değerlendirme için net tarihler." },
-      { "title": "Takip edilebilir sonuçlar", "text": "Düzenli bir rapor size erişimi, etkileşimleri ve talepleri gösterir – ve bunlardan ne çıkardığımızı." }
+      {
+        "title": "Günlük işlere daha fazla zaman",
+        "text": "Fikir, çekim, kurgu, metin ve yayınlama bizde. Siz yalnızca onay verirsiniz – hepsi bu."
+      },
+      {
+        "title": "Sessizlik yerine düzen",
+        "text": "İçerik takvimi, kanallarınızın yoğun haftalarda da aktif kalmasını sağlar."
+      },
+      {
+        "title": "Bütünlüklü bir görünüm",
+        "text": "Görsel dil, üslup ve tasarım hem birbiriyle hem de markanızla uyumludur."
+      },
+      {
+        "title": "Platforma uygun formatlar",
+        "text": "Reels, kaydırmalı gönderiler ve Stories; Instagram, Facebook veya TikTok'ta gerçekten kullanıldıkları biçimde üretilir."
+      },
+      {
+        "title": "Belirli iş akışları",
+        "text": "Anlık, tek seferlik işler yerine planlama, çekim, onay ve değerlendirme için net tarihler."
+      },
+      {
+        "title": "Takip edilebilir sonuçlar",
+        "text": "Düzenli bir rapor size erişimi, etkileşimleri ve talepleri gösterir – ve bunlardan ne çıkardığımızı."
+      }
     ]
   },
   "blog": {
@@ -99,6 +149,10 @@
     "eyebrow": "İletişim",
     "title": "Kendiliğinden işleyen bir sosyal medyaya hazır mısınız?",
     "text": "İşletmeniz hakkında bize birkaç satır yazın. Ücretsiz ön görüşmede hangi hizmet kapsamının anlamlı olduğunu netleştiririz – bağlayıcı değildir.",
-    "points": ["Ücretsiz ve bağlayıcı değil", "Kişisel geri dönüş", "Standart teklif yerine net bir öneri"]
+    "points": [
+      "Ücretsiz ve bağlayıcı değil",
+      "Kişisel geri dönüş",
+      "Standart teklif yerine net bir öneri"
+    ]
   }
 }

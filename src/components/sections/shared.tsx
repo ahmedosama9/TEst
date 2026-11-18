@@ -1,6 +1,7 @@
 import { ArrowRight, Check, ChevronDown } from "lucide-react";
 import Link from "next/link";
 import type { ReactNode } from "react";
+import { BrandWaves } from "@/components/sections/brand-waves";
 import { Breadcrumbs } from "@/components/layout/breadcrumbs";
 import { ButtonLink } from "@/components/ui/button";
 import { Eyebrow } from "@/components/ui/section";
@@ -27,8 +28,9 @@ export function PageHero({
   children?: ReactNode;
 }) {
   return (
-    <section className="on-dark hero-backdrop text-soft">
-      <div className="container-page py-14 sm:py-20">
+    <section className="on-dark hero-backdrop relative overflow-hidden text-soft">
+      <BrandWaves idPrefix="ph" className="opacity-60" />
+      <div className="container-page relative py-14 sm:py-20">
         <Breadcrumbs crumbs={crumbs} label={breadcrumbLabel} dark />
         <div className="max-w-3xl">
           {eyebrow ? <Eyebrow dark>{eyebrow}</Eyebrow> : null}
@@ -85,8 +87,9 @@ export function ArrowLink({ href: to, children, dark }: { href: string; children
 export function CtaBanner({ locale, messages }: { locale: Locale; messages: Messages }) {
   const c = messages.common;
   return (
-    <section className="on-dark hero-backdrop">
-      <div className="container-page py-16 text-center sm:py-20">
+    <section className="on-dark hero-backdrop relative overflow-hidden">
+      <BrandWaves idPrefix="cta" className="opacity-50" />
+      <div className="container-page relative py-16 text-center sm:py-20">
         <h2 className="mx-auto max-w-2xl text-3xl text-white sm:text-4xl">{c.banner.title}</h2>
         <p className="mx-auto mt-4 max-w-2xl text-lg text-soft">{c.banner.text}</p>
         <div className="mt-8 flex flex-wrap justify-center gap-3">

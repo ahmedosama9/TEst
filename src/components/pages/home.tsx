@@ -1,7 +1,8 @@
-import { Camera, Check, Clapperboard, Images, MapPin, Users } from "lucide-react";
+import { Camera, Check, Clapperboard, Images, Layers, MapPin, Target, TrendingUp, Users, Zap } from "lucide-react";
 import { PostCard } from "@/components/blog/post-card";
 import { ContactForm } from "@/components/forms/contact-form";
 import { IndustryCards, PackageCards, PortfolioGrid, ProcessSteps, ServiceCards } from "@/components/sections/cards";
+import { BrandWaves } from "@/components/sections/brand-waves";
 import { PhoneMockup } from "@/components/sections/phone-mockup";
 import { ArrowLink, CheckList, FaqList } from "@/components/sections/shared";
 import { JsonLd } from "@/components/seo/json-ld";
@@ -17,6 +18,20 @@ import { organizationJsonLd, websiteJsonLd } from "@/lib/seo";
 import { fmt, joinList } from "@/lib/utils";
 
 const onsiteIcons = [MapPin, Clapperboard, Images, Users];
+const valueIcons = [Zap, Layers, TrendingUp, Target];
+
+/** Hero headline with the brand-coloured highlight ("… Social Media."). */
+function HeroTitle({ title, highlight }: { title: string; highlight: string }) {
+  const i = highlight ? title.indexOf(highlight) : -1;
+  if (i < 0) return <>{title}</>;
+  return (
+    <>
+      {title.slice(0, i)}
+      <span className="text-gradient box-decoration-clone pe-[0.08em]">{highlight}</span>
+      {title.slice(i + highlight.length)}
+    </>
+  );
+}
 
 export function HomePage({ locale, messages }: { locale: Locale; messages: Messages }) {
   const h = messages.home;
@@ -31,14 +46,20 @@ export function HomePage({ locale, messages }: { locale: Locale; messages: Messa
       <JsonLd data={[organizationJsonLd(locale, c.meta.siteDescription), websiteJsonLd(locale, c.meta.siteDescription)]} />
 
       {/* 1. Hero */}
-      <section className="on-dark hero-backdrop overflow-hidden text-soft">
-        <div className="container-page grid items-center gap-14 py-16 sm:py-24 lg:grid-cols-[1.1fr_0.9fr]">
+      <section className="on-dark hero-backdrop relative overflow-hidden text-soft">
+        <BrandWaves idPrefix="hero" />
+        <div className="container-page relative grid items-center gap-10 pt-16 pb-10 sm:pt-24 lg:grid-cols-[1.1fr_0.9fr]">
           <div className="animate-rise">
             <Eyebrow dark>{h.hero.eyebrow}</Eyebrow>
-            <h1 className="text-4xl text-white sm:text-5xl lg:text-6xl">{h.hero.title}</h1>
-            <p className="mt-6 max-w-xl text-lg sm:text-xl">{h.hero.subtitle}</p>
+            <h1 className="text-4xl text-white sm:text-5xl lg:text-6xl">
+              <HeroTitle title={h.hero.title} highlight={h.hero.titleHighlight} />
+            </h1>
+            <p className="mt-6 max-w-xl text-lg text-white/85 sm:text-xl">{h.hero.subtitle}</p>
             <div className="mt-8 flex flex-wrap gap-3">
-              <ButtonLink href={href("contact", locale)} size="lg">{c.cta.primary}</ButtonLink>
+              <ButtonLink href={href("contact", locale)} size="lg">
+                {c.cta.primary}
+                <span className="rtl-flip" aria-hidden="true">→</span>
+              </ButtonLink>
               <ButtonLink href={href("services", locale)} size="lg" variant="outlineDark">{c.cta.secondary}</ButtonLink>
             </div>
             <ul className="mt-9 flex flex-wrap gap-x-6 gap-y-2 text-sm font-medium text-white">
@@ -51,6 +72,20 @@ export function HomePage({ locale, messages }: { locale: Locale; messages: Messa
             </ul>
           </div>
           <PhoneMockup t={h.hero.mockup} />
+        </div>
+        {/* Brand attributes from the identity sheet */}
+        <div className="container-page relative pb-12 sm:pb-16">
+          <ul className="grid grid-cols-2 gap-y-6 rounded-2xl border border-white/10 bg-navy/60 px-4 py-6 backdrop-blur sm:grid-cols-4 sm:divide-x sm:divide-white/15 rtl:sm:divide-x-reverse">
+            {h.hero.values.map((v, i) => {
+              const Icon = valueIcons[i % valueIcons.length];
+              return (
+                <li key={v} className="flex flex-col items-center gap-2 px-3 text-center">
+                  <Icon className="size-8 text-aqua" strokeWidth={1.75} aria-hidden="true" />
+                  <span className="font-display text-base font-bold text-white sm:text-lg">{v}</span>
+                </li>
+              );
+            })}
+          </ul>
         </div>
       </section>
 

@@ -47,6 +47,7 @@ src/lib/seo.ts                           Metadata + JSON-LD builders
 src/app/[locale]/[[...path]]/page.tsx    The one route that renders every page
 src/components/pages/*                   Page templates
 public/brand, public/og                  Logo files and social sharing images
+docs/brand/brand-reference.jpg           The brand sheet the design follows
 docs/                                    Deployment, content, translation, SEO and legal guides
 ```
 
@@ -104,7 +105,7 @@ and there is no browser-language sniffing.
 | Site audit | passed: canonicals, reciprocal hreflang, unique titles/descriptions, JSON-LD, 210 internal links, 404, redirects |
 | Browser audit | passed: 135 page renders (3 viewports × 5 languages) without overflow or console errors; RTL, switcher, blog, forms |
 | axe (WCAG 2.2 AA rules) | 0 violations on 18 pages × 2 viewports |
-| Lighthouse mobile — home (de / ar) | Performance 95 / 98, Accessibility 100, Best Practices 100, SEO 100 |
+| Lighthouse mobile — home (de / ar) | Performance 100 / 95, Accessibility 100, Best Practices 100, SEO 100 |
 | Lighthouse mobile — article | Performance 97–100, LCP 0.9 s, CLS 0 |
 | Lighthouse desktop | Performance 99–100 |
 

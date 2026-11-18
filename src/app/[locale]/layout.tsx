@@ -8,7 +8,8 @@ import "../globals.css";
 const inter = Inter({ subsets: ["latin", "latin-ext"], variable: "--font-inter", display: "swap" });
 const montserrat = Montserrat({
   subsets: ["latin", "latin-ext"],
-  weight: ["700", "800"],
+  // Variable font; the italic cut is the brand style for the logo and headlines.
+  style: ["normal", "italic"],
   variable: "--font-montserrat",
   display: "swap",
 });

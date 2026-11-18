@@ -6,11 +6,18 @@
   "hero": {
     "eyebrow": "Social media agency based in Münster",
     "title": "Your partner for successful social media.",
+    "titleHighlight": "social media.",
     "subtitle": "We create professional content, produce Reels and take care of managing your social media channels – so you can concentrate on your business.",
     "points": [
       "Content creation",
       "On-site Reels production",
       "Ongoing management"
+    ],
+    "values": [
+      "Fast",
+      "Complete",
+      "Growth-focused",
+      "Measurable"
     ],
     "mockup": {
       "alt": "Illustration: smartphone showing a sample feed, a Reel preview and a content calendar",
